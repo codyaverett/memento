@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "crypto/Cardano.md",
+            "file": "daily/06-08-22.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -70,14 +70,14 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "crypto/Cardano.md",
+                "file": "daily/06-08-22.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               }
             }
           },
@@ -87,7 +87,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "crypto/Cardano.md"
+                "file": "daily/06-08-22.md"
               }
             }
           },
@@ -99,17 +99,18 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "active": "6f44703814f89dfa",
   "lastOpenFiles": [
-    "crypto/Cardano.md",
+    "daily/06-08-22.md",
     "daily/2022-06-08.md",
+    "crypto/Cardano.md",
     "First Note.md",
     "Pasted image 20220608002700.png.md",
     "Pasted image 20220608002700.png"
