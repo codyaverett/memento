@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "daily/06-08-22.md",
+            "file": "software/obsidian/First Impressions.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "daily/06-08-22.md",
+                "file": "software/obsidian/First Impressions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,7 +87,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "daily/06-08-22.md"
+                "file": "software/obsidian/First Impressions.md"
               }
             }
           },
@@ -108,10 +108,11 @@
   },
   "active": "6f44703814f89dfa",
   "lastOpenFiles": [
+    "software/obsidian/First Impressions.md",
+    "First Note.md",
     "daily/06-08-22.md",
     "daily/2022-06-08.md",
     "crypto/Cardano.md",
-    "First Note.md",
     "Pasted image 20220608002700.png.md",
     "Pasted image 20220608002700.png"
   ]
