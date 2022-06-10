@@ -2,15 +2,11 @@
   "obsidian-timelines",
   "obsidian-dynamic-toc",
   "calendar",
-  "quick-explorer",
-  "obsidian-charts",
   "obsidian-git",
   "obsidian-commits",
   "obsidian-qrcode-plugin",
-  "obsidian-static-file-server",
-  "obsidian-wikipedia",
-  "obsidian-tomorrows-daily-note",
-  "obsidian-overdue",
-  "obsidian-crypto-lookup",
-  "obsidian-functionplot"
+  "obsidian-code-block-enhancer",
+  "obsidian-file-cleaner",
+  "mdx-as-md-obsidian",
+  "obsidian-tomorrows-daily-note"
 ]
