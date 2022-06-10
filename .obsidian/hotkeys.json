@@ -6,5 +6,13 @@
       ],
       "key": "G"
     }
+  ],
+  "meld-calc:encrypt-calc": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "M"
+    }
   ]
 }
