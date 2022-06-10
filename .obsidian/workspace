@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Current Stuff.md",
+            "file": "daily/06-09-22.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Current Stuff.md",
+                "file": "daily/06-09-22.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,7 +87,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Current Stuff.md"
+                "file": "daily/06-09-22.md"
               }
             }
           },
@@ -119,15 +119,15 @@
   },
   "active": "f2b58f53c89db967",
   "lastOpenFiles": [
-    "Current Stuff.md",
     "daily/06-09-22.md",
+    "Current Stuff.md",
     "First Note.md",
-    "daily/06-08-22.md",
-    "software/blender/Interesting plugins.md",
-    "Pasted image 20220608023246.png.md",
-    "software/blender/Pasted image 20220608023246.png",
+    "crypto/Cardano 1.md",
+    "crypto/Songbird.md",
+    "crypto/Cardano/Cardano_marlowe_pioneer.md",
     "crypto/Cardano.md",
-    "software/obsidian/attachments/Pasted image 20220608020444.png",
-    "software/obsidian/First Impressions.md"
+    "crypto/CardanoAssetIds.md",
+    "crypto/AvalancheList.md",
+    "crypto/BinanceSmartChain.md"
   ]
 }
