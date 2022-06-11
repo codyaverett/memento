@@ -14,6 +14,6 @@
 - https://benlevinmusicschool.com/courses/1505045/lectures/34497166
 
 ## Obsidian note taking
-- [First Impressions](software/obsidian/First\ Impressions)
+- [First Impressions](software/obsidian/first-impressions)
 - https://obsidian.md/
 - [plugins](https://obsidian.md/plugins)
