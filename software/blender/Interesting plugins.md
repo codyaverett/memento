@@ -1,3 +1,8 @@
+---
+dg-home: true
+dg-publish: true
+---
+
 # Interesting plugins
 ## Snap!
 ![[Pasted image 20220608023338.png]]

@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Current Stuff.md",
+            "file": "software/blender/Interesting plugins.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Current Stuff.md",
+                "file": "software/blender/Interesting plugins.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,7 +87,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Current Stuff.md"
+                "file": "software/blender/Interesting plugins.md"
               }
             }
           },
@@ -119,15 +119,15 @@
   },
   "active": "2329db3b24cb2b46",
   "lastOpenFiles": [
+    "software/blender/Interesting plugins.md",
+    "software/obsidian/first-impressions.md",
     "Current Stuff.md",
+    "README.md",
+    "crypto/TronList.md",
     "software/obsidian/First.md",
     "\"software/obsidian/First.md",
-    "software/obsidian/first-impressions.md",
-    "README.md",
     "daily/06-10-22.md",
     "programming/react/useToggle hook.md",
-    "daily/06-09-22.md",
-    "daily/06-08-22.md",
-    "First Note.md"
+    "daily/06-09-22.md"
   ]
 }
