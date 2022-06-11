@@ -1,0 +1,14 @@
+{
+  "githubRepo": "codyaverett/codeegarden",
+  "githubToken": "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",
+  "githubUserName": "codyaverett",
+  "gardenBaseUrl": "codeegarden.com",
+  "prHistory": [],
+  "theme": "dark",
+  "baseTheme": "{\"name\": \"default\", \"modes\": [\"dark\"]}",
+  "faviconPath": "",
+  "defaultNoteSettings": {
+    "dgHomeLink": true,
+    "dgPassFrontmatter": false
+  }
+}
