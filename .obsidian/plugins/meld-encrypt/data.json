@@ -1,0 +1,7 @@
+{
+  "expandToWholeLines": true,
+  "confirmPassword": true,
+  "showButton": true,
+  "rememberPassword": true,
+  "rememberPasswordTimeout": 30
+}
