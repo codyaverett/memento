@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "software/blender/Interesting plugins.md",
+            "file": "personal/Cody_Averett.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "software/blender/Interesting plugins.md",
+                "file": "personal/Cody_Averett.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,7 +87,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "software/blender/Interesting plugins.md"
+                "file": "personal/Cody_Averett.md"
               }
             }
           },
@@ -119,6 +119,7 @@
   },
   "active": "2329db3b24cb2b46",
   "lastOpenFiles": [
+    "personal/Cody_Averett.md",
     "software/blender/Interesting plugins.md",
     "software/obsidian/first-impressions.md",
     "Current Stuff.md",
@@ -127,7 +128,6 @@
     "software/obsidian/First.md",
     "\"software/obsidian/First.md",
     "daily/06-10-22.md",
-    "programming/react/useToggle hook.md",
-    "daily/06-09-22.md"
+    "programming/react/useToggle hook.md"
   ]
 }
