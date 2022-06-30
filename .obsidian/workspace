@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "personal/Cody_Averett.md",
+            "file": "Current Stuff.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "personal/Cody_Averett.md",
+                "file": "Current Stuff.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,7 +87,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "personal/Cody_Averett.md"
+                "file": "Current Stuff.md"
               }
             }
           },
@@ -119,15 +119,15 @@
   },
   "active": "2329db3b24cb2b46",
   "lastOpenFiles": [
+    "Current Stuff.md",
+    "crypto/BitcoinList.md",
+    "crypto/BinanceSmartChain.md",
+    "crypto/NFTs/Anyone could use any of the assets for any of the NFT collections.md",
     "personal/Cody_Averett.md",
     "software/blender/Interesting plugins.md",
     "software/obsidian/first-impressions.md",
-    "Current Stuff.md",
     "README.md",
     "crypto/TronList.md",
-    "software/obsidian/First.md",
-    "\"software/obsidian/First.md",
-    "daily/06-10-22.md",
-    "programming/react/useToggle hook.md"
+    "software/obsidian/First.md"
   ]
 }
