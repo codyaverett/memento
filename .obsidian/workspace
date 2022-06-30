@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Current Stuff.md",
+            "file": "work/Site for Oasis Landscaping.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Current Stuff.md",
+                "file": "work/Site for Oasis Landscaping.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,7 +87,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Current Stuff.md"
+                "file": "work/Site for Oasis Landscaping.md"
               }
             }
           },
@@ -119,6 +119,7 @@
   },
   "active": "2329db3b24cb2b46",
   "lastOpenFiles": [
+    "work/Site for Oasis Landscaping.md",
     "Current Stuff.md",
     "crypto/BitcoinList.md",
     "crypto/BinanceSmartChain.md",
@@ -127,7 +128,6 @@
     "software/blender/Interesting plugins.md",
     "software/obsidian/first-impressions.md",
     "README.md",
-    "crypto/TronList.md",
-    "software/obsidian/First.md"
+    "crypto/TronList.md"
   ]
 }
