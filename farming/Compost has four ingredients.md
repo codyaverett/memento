@@ -29,3 +29,6 @@ Have three piles
 3. Pile that is almost done
 
 Have piles on the ground
+Start layering browns and greens and browns and greens
+Then mix it together very well
+Add some water 
