@@ -32,3 +32,6 @@ Have piles on the ground
 Start layering browns and greens and browns and greens
 Then mix it together very well
 Add some water 
+Mix it daily!
+
+[Good Video describing the process](https://www.youtube.com/watch?v=nxTzuasQLFo)
