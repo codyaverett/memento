@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "work/Site for Oasis Landscaping.md",
+            "file": "farming/Compost has four ingredients.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "work/Site for Oasis Landscaping.md",
+                "file": "farming/Compost has four ingredients.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,7 +87,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "work/Site for Oasis Landscaping.md"
+                "file": "farming/Compost has four ingredients.md"
               }
             }
           },
@@ -119,6 +119,7 @@
   },
   "active": "2329db3b24cb2b46",
   "lastOpenFiles": [
+    "farming/Compost has four ingredients.md",
     "work/Site for Oasis Landscaping.md",
     "Current Stuff.md",
     "crypto/BitcoinList.md",
@@ -127,7 +128,6 @@
     "personal/Cody_Averett.md",
     "software/blender/Interesting plugins.md",
     "software/obsidian/first-impressions.md",
-    "README.md",
-    "crypto/TronList.md"
+    "README.md"
   ]
 }
