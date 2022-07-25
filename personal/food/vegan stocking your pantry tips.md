@@ -9,7 +9,14 @@ Missing one item from a recipe can be horrible
 	- used in humus
 	- top sweet or savory dishes with it
 	- Hulled (soaked before ground, lighter in color) and unhulled (thicker ground whole) tahini
--  
+	- "Golden Tahini sauce recipe" sandwich spread
+-  [Worcestershire sauce](https://en.wikipedia.org/wiki/Worcestershire_sauce)
+	- tangy soy sauce with a zip
+	- flavored with onion, garlic, and cloves
+	- use for veggie burgers and roast, wellington
+- Refined Coconut oil
+	- Oil and egg substitute
+	- 
 
 ## Reference
 - [# How to Stock Your Vegan Pantry 🌱 7 Pantry Staples and How to Use Them!](https://www.youtube.com/watch?v=X8WRrUXIq_c)
