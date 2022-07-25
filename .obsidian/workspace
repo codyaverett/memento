@@ -7,8 +7,13 @@
         "id": "2329db3b24cb2b46",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "personal/biking/how to wrap handlebars for road bikes.md",
+            "mode": "source",
+            "backlinks": false,
+            "source": false
+          }
         }
       }
     ],
@@ -65,6 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "personal/biking/how to wrap handlebars for road bikes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -80,7 +86,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "personal/biking/how to wrap handlebars for road bikes.md"
+              }
             }
           },
           {
@@ -111,6 +119,8 @@
   },
   "active": "2329db3b24cb2b46",
   "lastOpenFiles": [
+    "personal/biking/how to wrap handlebars for road bikes.md",
+    "personal/lifehacks/transporting lumber with a roof rack.md",
     "personal/social/video social cues are less natural.md",
     "personal/social/two traits necessary to seem confident.md",
     "Current Stuff.md",
@@ -118,8 +128,6 @@
     "daily/06-08-22.md",
     "daily/06-09-22.md",
     "daily/06-10-22.md",
-    "farming/Compost has four ingredients.md",
-    "software/obsidian/first-impressions.md",
-    "personal/Cody_Averett.md"
+    "farming/Compost has four ingredients.md"
   ]
 }
