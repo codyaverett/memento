@@ -18,6 +18,9 @@ Missing one item from a recipe can be horrible
 	- Oil and egg substitute
 - Apple sauce
 	- substitute for oil and butter
+	- binding in combination with a leviner
+- Toasted Sesame oil (toasted before processed)
+	- low smoke point, so avoid high heat
 
 ## Reference
 - [# How to Stock Your Vegan Pantry 🌱 7 Pantry Staples and How to Use Them!](https://www.youtube.com/watch?v=X8WRrUXIq_c)
