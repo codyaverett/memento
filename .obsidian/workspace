@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "personal/biking/how to wrap handlebars for road bikes.md",
+            "file": "personal/clothing/make your own t-shirt.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "personal/biking/how to wrap handlebars for road bikes.md",
+                "file": "personal/clothing/make your own t-shirt.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,7 +87,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "personal/biking/how to wrap handlebars for road bikes.md"
+                "file": "personal/clothing/make your own t-shirt.md"
               }
             }
           },
@@ -119,6 +119,8 @@
   },
   "active": "2329db3b24cb2b46",
   "lastOpenFiles": [
+    "personal/clothing/make your own t-shirt.md",
+    "personal/bugs/brown recluse spider.md",
     "personal/biking/how to wrap handlebars for road bikes.md",
     "personal/lifehacks/transporting lumber with a roof rack.md",
     "personal/social/video social cues are less natural.md",
@@ -126,8 +128,6 @@
     "Current Stuff.md",
     "crypto/Cardano/Cardano_marlowe_pioneer.md",
     "daily/06-08-22.md",
-    "daily/06-09-22.md",
-    "daily/06-10-22.md",
-    "farming/Compost has four ingredients.md"
+    "daily/06-09-22.md"
   ]
 }
