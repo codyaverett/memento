@@ -7,13 +7,8 @@
         "id": "2329db3b24cb2b46",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "personal/social/two traits necessary to seem confident.md",
-            "mode": "source",
-            "backlinks": false,
-            "source": false
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -70,7 +65,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "personal/social/two traits necessary to seem confident.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,9 +80,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "personal/social/two traits necessary to seem confident.md"
-              }
+              "state": {}
             }
           },
           {
@@ -119,6 +111,7 @@
   },
   "active": "2329db3b24cb2b46",
   "lastOpenFiles": [
+    "personal/social/video social cues are less natural.md",
     "personal/social/two traits necessary to seem confident.md",
     "Current Stuff.md",
     "crypto/Cardano/Cardano_marlowe_pioneer.md",
@@ -127,7 +120,6 @@
     "daily/06-10-22.md",
     "farming/Compost has four ingredients.md",
     "software/obsidian/first-impressions.md",
-    "personal/Cody_Averett.md",
-    "crypto/NFTs/Anyone could use any of the assets for any of the NFT collections.md"
+    "personal/Cody_Averett.md"
   ]
 }

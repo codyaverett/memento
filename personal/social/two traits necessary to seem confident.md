@@ -6,3 +6,4 @@ A perfect combination of
 People problems may mostly come from an imbalance of warmth and competence.
 
 [Youtube Psychological tricks to be more charismatic & Confident | Vanessa Van Edwards](https://youtu.be/iApkwoskJkc?t=680)
+* people find it difficult to trust others if they can't see their hands
