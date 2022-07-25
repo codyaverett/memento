@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "personal/clothing/make your own t-shirt.md",
+            "file": "personal/games/stardew valley/stardew valley item codes.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "personal/clothing/make your own t-shirt.md",
+                "file": "personal/games/stardew valley/stardew valley item codes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,7 +87,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "personal/clothing/make your own t-shirt.md"
+                "file": "personal/games/stardew valley/stardew valley item codes.md"
               }
             }
           },
@@ -119,6 +119,7 @@
   },
   "active": "2329db3b24cb2b46",
   "lastOpenFiles": [
+    "personal/games/stardew valley/stardew valley item codes.md",
     "personal/clothing/make your own t-shirt.md",
     "personal/bugs/brown recluse spider.md",
     "personal/biking/how to wrap handlebars for road bikes.md",
@@ -127,7 +128,6 @@
     "personal/social/two traits necessary to seem confident.md",
     "Current Stuff.md",
     "crypto/Cardano/Cardano_marlowe_pioneer.md",
-    "daily/06-08-22.md",
-    "daily/06-09-22.md"
+    "daily/06-08-22.md"
   ]
 }
