@@ -16,7 +16,8 @@ Missing one item from a recipe can be horrible
 	- use for veggie burgers and roast, wellington
 - Refined Coconut oil
 	- Oil and egg substitute
-	- 
+- Apple sauce
+	- substitute for oil and butter
 
 ## Reference
 - [# How to Stock Your Vegan Pantry 🌱 7 Pantry Staples and How to Use Them!](https://www.youtube.com/watch?v=X8WRrUXIq_c)
