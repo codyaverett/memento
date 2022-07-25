@@ -21,6 +21,12 @@ Missing one item from a recipe can be horrible
 	- binding in combination with a leviner
 - Toasted Sesame oil (toasted before processed)
 	- low smoke point, so avoid high heat
-
+- Tamari
+	- Like soy sauce
+	- gluten free, but more mild in flavor
+- Chickpea miso
+	- soy-free
+	- background flavor to soups, burgers, etc.
+	- 1 tsp of miso add to sauces (mac n cheese etc)
 ## Reference
 - [# How to Stock Your Vegan Pantry 🌱 7 Pantry Staples and How to Use Them!](https://www.youtube.com/watch?v=X8WRrUXIq_c)
