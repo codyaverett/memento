@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "personal/math/Kepler.md",
+            "file": "personal/software/programming languages you must know.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "personal/math/Kepler.md",
+                "file": "personal/software/programming languages you must know.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,7 +87,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "personal/math/Kepler.md"
+                "file": "personal/software/programming languages you must know.md"
               }
             }
           },
@@ -119,6 +119,7 @@
   },
   "active": "2329db3b24cb2b46",
   "lastOpenFiles": [
+    "personal/software/programming languages you must know.md",
     "personal/math/Kepler.md",
     "personal/food/vegan stocking your pantry tips.md",
     "personal/social/two traits necessary to seem confident.md",
@@ -127,7 +128,6 @@
     "personal/clothing/make your own t-shirt.md",
     "personal/bugs/brown recluse spider.md",
     "personal/biking/how to wrap handlebars for road bikes.md",
-    "personal/lifehacks/transporting lumber with a roof rack.md",
-    "personal/social/video social cues are less natural.md"
+    "personal/lifehacks/transporting lumber with a roof rack.md"
   ]
 }
