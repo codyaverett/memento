@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "personal/people-management/transitioning from dev to manager.md",
+            "file": "daily/08-11-22.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "personal/people-management/transitioning from dev to manager.md",
+                "file": "daily/08-11-22.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,7 +87,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "personal/people-management/transitioning from dev to manager.md"
+                "file": "daily/08-11-22.md"
               }
             }
           },
