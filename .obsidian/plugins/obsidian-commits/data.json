@@ -1,0 +1,318 @@
+{
+  "initialized": true,
+  "trackedProjects": [
+    "/"
+  ],
+  "filesCheckpoint": {
+    "software/obsidian/first-impressions.md": {
+      "size": 415,
+      "tags": 0,
+      "links": 1
+    },
+    "software/blender/Interesting plugins.md": {
+      "size": 341,
+      "tags": 0,
+      "links": 1
+    },
+    "work/Site for Oasis Landscaping.md": {
+      "size": 104,
+      "tags": 0,
+      "links": 0
+    },
+    "personal/lifehacks/transporting lumber with a roof rack.md": {
+      "size": 301,
+      "tags": 0,
+      "links": 0
+    },
+    "personal/software/programming languages you must know.md": {
+      "size": 198,
+      "tags": 0,
+      "links": 0
+    },
+    "personal/people-management/transitioning from dev to manager.md": {
+      "size": 210,
+      "tags": 0,
+      "links": 0
+    },
+    "personal/math/Kepler.md": {
+      "size": 113,
+      "tags": 0,
+      "links": 0
+    },
+    "personal/social/two traits necessary to seem confident.md": {
+      "size": 324,
+      "tags": 0,
+      "links": 0
+    },
+    "personal/job-hunting/lead machine learning softwares.md": {
+      "size": 194,
+      "tags": 0,
+      "links": 0
+    },
+    "personal/food/vegan stocking your pantry tips.md": {
+      "size": 1149,
+      "tags": 0,
+      "links": 0
+    },
+    "personal/games/stardew valley/stardew valley item codes.md": {
+      "size": 63890,
+      "tags": 0,
+      "links": 0
+    },
+    "personal/bugs/brown recluse spider.md": {
+      "size": 328,
+      "tags": 0,
+      "links": 0
+    },
+    "personal/clothing/make your own t-shirt.md": {
+      "size": 541,
+      "tags": 0,
+      "links": 0
+    },
+    "personal/biking/how to wrap handlebars for road bikes.md": {
+      "size": 460,
+      "tags": 0,
+      "links": 0
+    },
+    "personal/Cody_Averett.md": {
+      "size": 86,
+      "tags": 0,
+      "links": 0
+    },
+    "farming/Compost has four ingredients.md": {
+      "size": 765,
+      "tags": 0,
+      "links": 0
+    },
+    "daily/06-09-22.md": {
+      "size": 1659,
+      "tags": 0,
+      "links": 2
+    },
+    "daily/06-10-22.md": {
+      "size": 905,
+      "tags": 0,
+      "links": 0
+    },
+    "daily/06-08-22.md": {
+      "size": 65,
+      "tags": 0,
+      "links": 0
+    },
+    "crypto/CardanoWhaleWatching.md": {
+      "size": 395,
+      "tags": 0,
+      "links": 0
+    },
+    "crypto/BinanceSmartChain.md": {
+      "size": 220,
+      "tags": 0,
+      "links": 0
+    },
+    "crypto/tradingTools.md": {
+      "size": 790,
+      "tags": 0,
+      "links": 0
+    },
+    "crypto/TronList.md": {
+      "size": 87,
+      "tags": 0,
+      "links": 0
+    },
+    "crypto/Songbird.md": {
+      "size": 59,
+      "tags": 0,
+      "links": 0
+    },
+    "crypto/SolanaList.md": {
+      "size": 142,
+      "tags": 0,
+      "links": 0
+    },
+    "crypto/OasisNetworkList.md": {
+      "size": 116,
+      "tags": 0,
+      "links": 0
+    },
+    "crypto/Nervos.md": {
+      "size": 746,
+      "tags": 0,
+      "links": 0
+    },
+    "crypto/NFTQuickLinks.md": {
+      "size": 227,
+      "tags": 0,
+      "links": 0
+    },
+    "crypto/NFTs/Anyone could use any of the assets for any of the NFT collections.md": {
+      "size": 548,
+      "tags": 0,
+      "links": 0
+    },
+    "crypto/MoonRiver.md": {
+      "size": 84,
+      "tags": 0,
+      "links": 0
+    },
+    "crypto/MetamaskNetworks.md": {
+      "size": 289,
+      "tags": 0,
+      "links": 0
+    },
+    "crypto/Handshake.md": {
+      "size": 50,
+      "tags": 0,
+      "links": 0
+    },
+    "crypto/GeneralLinks.md": {
+      "size": 143,
+      "tags": 0,
+      "links": 0
+    },
+    "crypto/FantomList.md": {
+      "size": 587,
+      "tags": 0,
+      "links": 0
+    },
+    "crypto/Ethereum.md": {
+      "size": 1154,
+      "tags": 0,
+      "links": 0
+    },
+    "crypto/Ergo.md": {
+      "size": 750,
+      "tags": 0,
+      "links": 1
+    },
+    "crypto/Elrond.md": {
+      "size": 64,
+      "tags": 0,
+      "links": 0
+    },
+    "crypto/DecentralizedTools.md": {
+      "size": 99,
+      "tags": 0,
+      "links": 0
+    },
+    "crypto/CryptoPlatforms.md": {
+      "size": 63,
+      "tags": 0,
+      "links": 0
+    },
+    "crypto/CommunityBuilding.md": {
+      "size": 886,
+      "tags": 0,
+      "links": 0
+    },
+    "crypto/Cardano_marlowe_pioneer.md": {
+      "size": 1233,
+      "tags": 0,
+      "links": 0
+    },
+    "crypto/CardanoAssetIds.md": {
+      "size": 128,
+      "tags": 0,
+      "links": 0
+    },
+    "crypto/Cardano 1.md": {
+      "size": 4498,
+      "tags": 0,
+      "links": 0
+    },
+    "crypto/Cardano/Cardano_marlowe_pioneer.md": {
+      "size": 1233,
+      "tags": 0,
+      "links": 0
+    },
+    "crypto/BitcoinList.md": {
+      "size": 217,
+      "tags": 0,
+      "links": 0
+    },
+    "crypto/AvalancheList.md": {
+      "size": 104,
+      "tags": 0,
+      "links": 0
+    },
+    "README.md": {
+      "size": 29,
+      "tags": 0,
+      "links": 0
+    },
+    "Current Stuff.md": {
+      "size": 787,
+      "tags": 0,
+      "links": 1
+    }
+  },
+  "commitTypes": {
+    "/": {
+      "Refactor": 0,
+      "Create": 0,
+      "Link": 0,
+      "Expand": 0
+    }
+  },
+  "dailyCommits": {
+    "/": {
+      "0": 0,
+      "1": 0,
+      "2": 0,
+      "3": 0,
+      "4": 0,
+      "5": 0,
+      "6": 0,
+      "7": 0,
+      "8": 0,
+      "9": 0,
+      "10": 0,
+      "11": 0,
+      "12": 0,
+      "13": 0,
+      "14": 0,
+      "15": 0,
+      "16": 0,
+      "17": 0,
+      "18": 0,
+      "19": 0,
+      "20": 0,
+      "21": 0,
+      "22": 0,
+      "23": 0
+    }
+  },
+  "weeklyCommits": {
+    "/": {
+      "Mon": 0,
+      "Tue": 0,
+      "Wed": 0,
+      "Thu": 0,
+      "Fri": 0,
+      "Sat": 0,
+      "Sun": 0
+    }
+  },
+  "recentCommits": {
+    "/": {
+      "Expanded": [],
+      "Created": [],
+      "Renamed": [],
+      "Tagged": [],
+      "Refactored": [],
+      "Deleted": [],
+      "Linked": [],
+      "Removed Tags from": [],
+      "Removed Links from": []
+    }
+  },
+  "ignoreList": [],
+  "divWidth": 50,
+  "divHeight": 400,
+  "divAlign": "left",
+  "topCommits": 2,
+  "commitThreshold": 2000,
+  "commitPerc": 15,
+  "fillColor": "rgba(51, 153, 204, 0.4)",
+  "borderColor": "rgba(51, 153, 204, 1)",
+  "gridColor": "grey"
+}
