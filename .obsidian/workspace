@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "daily/08-11-22.md",
+            "file": "personal/Tunings.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "daily/08-11-22.md",
+                "file": "personal/Tunings.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,7 +87,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "daily/08-11-22.md"
+                "file": "personal/Tunings.md"
               }
             }
           },
@@ -119,15 +119,15 @@
   },
   "active": "2329db3b24cb2b46",
   "lastOpenFiles": [
-    "personal/people-management/transitioning from dev to manager.md",
     "personal/job-hunting/lead machine learning softwares.md",
+    "personal/job-hunting/all failures are learning opportunities.md",
+    "daily/08-11-22.md",
+    "personal/people-management/transitioning from dev to manager.md",
     "personal/software/programming languages you must know.md",
     "personal/math/Kepler.md",
     "personal/food/vegan stocking your pantry tips.md",
     "personal/social/two traits necessary to seem confident.md",
     "personal/Cody_Averett.md",
-    "personal/games/stardew valley/stardew valley item codes.md",
-    "personal/clothing/make your own t-shirt.md",
-    "personal/bugs/brown recluse spider.md"
+    "personal/games/stardew valley/stardew valley item codes.md"
   ]
 }
