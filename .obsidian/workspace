@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "personal/Tunings.md",
+            "file": "programming/haskell/haskell list functions.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "personal/Tunings.md",
+                "file": "programming/haskell/haskell list functions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,7 +87,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "personal/Tunings.md"
+                "file": "programming/haskell/haskell list functions.md"
               }
             }
           },
@@ -117,17 +117,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "2329db3b24cb2b46",
+  "active": "33a2bab88d111215",
   "lastOpenFiles": [
-    "personal/job-hunting/lead machine learning softwares.md",
-    "personal/job-hunting/all failures are learning opportunities.md",
-    "daily/08-11-22.md",
-    "personal/people-management/transitioning from dev to manager.md",
+    "crypto/Ethereum.md",
+    "crypto/GeneralLinks.md",
+    "crypto/MoonRiver.md",
+    "crypto/Songbird.md",
+    "crypto/Cardano 1.md",
+    "crypto/Cardano/Cardano_marlowe_pioneer.md",
     "personal/software/programming languages you must know.md",
-    "personal/math/Kepler.md",
-    "personal/food/vegan stocking your pantry tips.md",
-    "personal/social/two traits necessary to seem confident.md",
-    "personal/Cody_Averett.md",
-    "personal/games/stardew valley/stardew valley item codes.md"
+    "personal/people-management/transitioning from dev to manager.md",
+    "personal/Tunings.md",
+    "personal/job-hunting/lead machine learning softwares.md"
   ]
 }

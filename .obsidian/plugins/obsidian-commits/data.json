@@ -258,19 +258,24 @@
       "size": 0,
       "tags": 0,
       "links": 0
+    },
+    "programming/haskell/haskell list functions.md": {
+      "size": 2507,
+      "tags": 0,
+      "links": 1
     }
   },
   "commitTypes": {
     "/": {
-      "Refactor": 0,
-      "Create": 3,
-      "Link": 0,
-      "Expand": 0
+      "Refactor": 2,
+      "Create": 4,
+      "Link": 1,
+      "Expand": 1
     }
   },
   "dailyCommits": {
     "/": {
-      "0": 0,
+      "0": 5,
       "1": 0,
       "2": 0,
       "3": 0,
@@ -298,7 +303,7 @@
   },
   "weeklyCommits": {
     "/": {
-      "Mon": 0,
+      "Mon": 5,
       "Tue": 0,
       "Wed": 0,
       "Thu": 1,
@@ -309,17 +314,25 @@
   },
   "recentCommits": {
     "/": {
-      "Expanded": [],
+      "Expanded": [
+        "<a class=\"internal-link\" href=\"programming/haskell/working with lists.md\"> working with lists </a>"
+      ],
       "Created": [
         "<a class=\"internal-link\" href=\"daily/08-11-22.md\"> 08-11-22 </a>",
         "<a class=\"internal-link\" href=\"personal/job-hunting/Untitled.md\"> Untitled </a>",
-        "<a class=\"internal-link\" href=\"personal/Untitled.md\"> Untitled </a>"
+        "<a class=\"internal-link\" href=\"personal/Untitled.md\"> Untitled </a>",
+        "<a class=\"internal-link\" href=\"programming/haskell/Untitled.md\"> Untitled </a>"
       ],
-      "Renamed": [],
+      "Renamed": [
+        "<a class=\"internal-link\" href=\"programming/haskell/haskell lists.md\"> haskell lists </a>",
+        "<a class=\"internal-link\" href=\"programming/haskell/haskell list functions.md\"> haskell list functions </a>"
+      ],
       "Tagged": [],
       "Refactored": [],
       "Deleted": [],
-      "Linked": [],
+      "Linked": [
+        "<a class=\"internal-link\" href=\"programming/haskell/working with lists.md\"> working with lists </a>"
+      ],
       "Removed Tags from": [],
       "Removed Links from": []
     }
