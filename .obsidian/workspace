@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "programming/haskell/haskell list functions.md",
+            "file": "daily/08-16-22.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "programming/haskell/haskell list functions.md",
+                "file": "daily/08-16-22.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,7 +87,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "programming/haskell/haskell list functions.md"
+                "file": "daily/08-16-22.md"
               }
             }
           },
@@ -117,8 +117,9 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "33a2bab88d111215",
+  "active": "2329db3b24cb2b46",
   "lastOpenFiles": [
+    "programming/haskell/haskell list functions.md",
     "crypto/Ethereum.md",
     "crypto/GeneralLinks.md",
     "crypto/MoonRiver.md",
@@ -127,7 +128,6 @@
     "crypto/Cardano/Cardano_marlowe_pioneer.md",
     "personal/software/programming languages you must know.md",
     "personal/people-management/transitioning from dev to manager.md",
-    "personal/Tunings.md",
-    "personal/job-hunting/lead machine learning softwares.md"
+    "personal/Tunings.md"
   ]
 }
