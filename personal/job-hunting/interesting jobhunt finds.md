@@ -6,7 +6,8 @@ https://docs.google.com/document/d/11WDjXs2fqq5ArUYPX0HpE_dki-T86oy0jr76z2opYaw/
 ### Ideas
 - Security cameras (record activity in certain locations of the virtual building, like an entrance and exit)
   Floor logging and replay
-- Support 
+- Support Mobile view
+- Idea board where anyone can put ideas and get feedback on the ideas.  Might promote what makes sense to invest more time in working on.
 
 ## DeepHaven.io
 
