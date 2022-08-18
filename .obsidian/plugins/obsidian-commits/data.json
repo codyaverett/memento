@@ -273,19 +273,29 @@
       "size": 0,
       "tags": 0,
       "links": 0
+    },
+    "daily/08-18-22.md": {
+      "size": 0,
+      "tags": 0,
+      "links": 0
+    },
+    "personal/job-hunting/interesting jobhunt finds.md": {
+      "size": 0,
+      "tags": 0,
+      "links": 0
     }
   },
   "commitTypes": {
     "/": {
-      "Refactor": 2,
-      "Create": 6,
+      "Refactor": 3,
+      "Create": 8,
       "Link": 1,
       "Expand": 1
     }
   },
   "dailyCommits": {
     "/": {
-      "0": 5,
+      "0": 8,
       "1": 0,
       "2": 0,
       "3": 0,
@@ -316,7 +326,7 @@
       "Mon": 5,
       "Tue": 2,
       "Wed": 0,
-      "Thu": 1,
+      "Thu": 4,
       "Fri": 0,
       "Sat": 0,
       "Sun": 2
@@ -333,11 +343,14 @@
         "<a class=\"internal-link\" href=\"personal/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"programming/haskell/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"daily/08-16-22.md\"> 08-16-22 </a>",
-        "<a class=\"internal-link\" href=\"programming/python/Untitled.md\"> Untitled </a>"
+        "<a class=\"internal-link\" href=\"programming/python/Untitled.md\"> Untitled </a>",
+        "<a class=\"internal-link\" href=\"daily/08-18-22.md\"> 08-18-22 </a>",
+        "<a class=\"internal-link\" href=\"personal/job-hunting/Untitled.md\"> Untitled </a>"
       ],
       "Renamed": [
         "<a class=\"internal-link\" href=\"programming/haskell/haskell lists.md\"> haskell lists </a>",
-        "<a class=\"internal-link\" href=\"programming/haskell/haskell list functions.md\"> haskell list functions </a>"
+        "<a class=\"internal-link\" href=\"programming/haskell/haskell list functions.md\"> haskell list functions </a>",
+        "<a class=\"internal-link\" href=\"personal/job-hunting/interesting jobhunt finds.md\"> interesting jobhunt finds </a>"
       ],
       "Tagged": [],
       "Refactored": [],
