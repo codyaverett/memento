@@ -263,12 +263,22 @@
       "size": 2507,
       "tags": 0,
       "links": 1
+    },
+    "daily/08-16-22.md": {
+      "size": 0,
+      "tags": 0,
+      "links": 0
+    },
+    "programming/python/convert an image to ASCII art.md": {
+      "size": 0,
+      "tags": 0,
+      "links": 0
     }
   },
   "commitTypes": {
     "/": {
       "Refactor": 2,
-      "Create": 4,
+      "Create": 6,
       "Link": 1,
       "Expand": 1
     }
@@ -291,7 +301,7 @@
       "13": 0,
       "14": 0,
       "15": 0,
-      "16": 0,
+      "16": 2,
       "17": 0,
       "18": 0,
       "19": 1,
@@ -304,7 +314,7 @@
   "weeklyCommits": {
     "/": {
       "Mon": 5,
-      "Tue": 0,
+      "Tue": 2,
       "Wed": 0,
       "Thu": 1,
       "Fri": 0,
@@ -321,7 +331,9 @@
         "<a class=\"internal-link\" href=\"daily/08-11-22.md\"> 08-11-22 </a>",
         "<a class=\"internal-link\" href=\"personal/job-hunting/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"personal/Untitled.md\"> Untitled </a>",
-        "<a class=\"internal-link\" href=\"programming/haskell/Untitled.md\"> Untitled </a>"
+        "<a class=\"internal-link\" href=\"programming/haskell/Untitled.md\"> Untitled </a>",
+        "<a class=\"internal-link\" href=\"daily/08-16-22.md\"> 08-16-22 </a>",
+        "<a class=\"internal-link\" href=\"programming/python/Untitled.md\"> Untitled </a>"
       ],
       "Renamed": [
         "<a class=\"internal-link\" href=\"programming/haskell/haskell lists.md\"> haskell lists </a>",
