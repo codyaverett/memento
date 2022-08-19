@@ -14,9 +14,17 @@ https://docs.google.com/document/d/11WDjXs2fqq5ArUYPX0HpE_dki-T86oy0jr76z2opYaw/
 https://deephaven.io/blog/2022/08/16/ib-improvements/
 https://deephaven.io/blog/2022/08/01/coinbase-websockets/
 
+- I have a take home test coming up this weekend
 - automated quant trading??
 - Integrations with Coinbase
 
 ## Federal Bank of Kansas
 
+- DevOps role ( FBI background check and drug testing )
 
+## Kitestring Consulting
+
+## JbHunt
+
+- Manager II (Not going to take this)
+- Senior Frontend software engineer ( Interview next week )

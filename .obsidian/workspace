@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "daily/08-19-22.md",
+            "file": "personal/job-hunting/interesting jobhunt finds.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "daily/08-19-22.md",
+                "file": "personal/job-hunting/interesting jobhunt finds.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,7 +87,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "daily/08-19-22.md"
+                "file": "personal/job-hunting/interesting jobhunt finds.md"
               }
             }
           },
@@ -119,6 +119,7 @@
   },
   "active": "2329db3b24cb2b46",
   "lastOpenFiles": [
+    "daily/08-19-22.md",
     "personal/job-hunting/interesting jobhunt finds.md",
     "daily/08-18-22.md",
     "programming/python/convert an image to ASCII art.md",
@@ -127,7 +128,6 @@
     "crypto/Ethereum.md",
     "crypto/GeneralLinks.md",
     "crypto/MoonRiver.md",
-    "crypto/Songbird.md",
-    "crypto/Cardano 1.md"
+    "crypto/Songbird.md"
   ]
 }
