@@ -17,6 +17,7 @@ https://deephaven.io/blog/2022/08/01/coinbase-websockets/
 - I have a take home test coming up this weekend
 - automated quant trading??
 - Integrations with Coinbase
+- They use codility to test their remote candidates
 
 ## Federal Bank of Kansas
 
