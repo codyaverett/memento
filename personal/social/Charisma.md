@@ -52,4 +52,5 @@ Give a handshake
 Say hi
 ask their name
 
+Comfort will grow between you and the people you touch introduce yourself to.
 
