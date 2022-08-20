@@ -288,12 +288,17 @@
       "size": 0,
       "tags": 0,
       "links": 0
+    },
+    "personal/social/Charisma.md": {
+      "size": 0,
+      "tags": 0,
+      "links": 0
     }
   },
   "commitTypes": {
     "/": {
       "Refactor": 3,
-      "Create": 9,
+      "Create": 10,
       "Link": 1,
       "Expand": 1
     }
@@ -301,7 +306,7 @@
   "dailyCommits": {
     "/": {
       "0": 8,
-      "1": 0,
+      "1": 1,
       "2": 0,
       "3": 0,
       "4": 1,
@@ -334,7 +339,7 @@
       "Thu": 4,
       "Fri": 1,
       "Sat": 0,
-      "Sun": 2
+      "Sun": 3
     }
   },
   "recentCommits": {
@@ -351,7 +356,8 @@
         "<a class=\"internal-link\" href=\"programming/python/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"daily/08-18-22.md\"> 08-18-22 </a>",
         "<a class=\"internal-link\" href=\"personal/job-hunting/Untitled.md\"> Untitled </a>",
-        "<a class=\"internal-link\" href=\"daily/08-19-22.md\"> 08-19-22 </a>"
+        "<a class=\"internal-link\" href=\"daily/08-19-22.md\"> 08-19-22 </a>",
+        "<a class=\"internal-link\" href=\"personal/social/Untitled.md\"> Untitled </a>"
       ],
       "Renamed": [
         "<a class=\"internal-link\" href=\"programming/haskell/haskell lists.md\"> haskell lists </a>",

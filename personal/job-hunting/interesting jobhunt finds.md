@@ -29,3 +29,6 @@ https://deephaven.io/blog/2022/08/01/coinbase-websockets/
 
 - Manager II (Not going to take this)
 - Senior Frontend software engineer ( Interview next week )
+
+## Movista
+- https://movista-inc.breezy.hr/
