@@ -45,3 +45,11 @@ Set the trigger, imagine where you are going to be and who you are going to meet
 
 Find a way to be exceptional
 
+## Day 2
+
+Make sure to introduce yourself with everyone with touch if there are less than 6 people.
+Give a handshake 
+Say hi
+ask their name
+
+
