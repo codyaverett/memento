@@ -35,3 +35,13 @@ Smile whenever you meet a new person.
 
 Tap into the part of yourself that is truly interested in where you are.
 
+### Action Guide: Fun
+Be better than good.
+
+How are you? "I'm Stellar!"
+Be better than good.
+
+Set the trigger, imagine where you are going to be and who you are going to meet
+
+Find a way to be exceptional
+
