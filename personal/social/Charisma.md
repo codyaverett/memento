@@ -56,5 +56,28 @@ Comfort will grow between you and the people you touch introduce yourself to.
 
 ## Day 3 - Generating Respect
 
-- It's natural to respect someone that is a higher level than you
+Who are the people you respect?
+- It's natural to respect someone that is a higher level than you (President, CEO, winners and achievers)
+- Knowlege/Experts
+- People that dress well
+
+You probably won't be set up to generate this type of respect everywhere you go
+
+But you could become a Leader and carry yourself in a manner that will help you earn that respect
+
+Perfect your elevator speech!  And become more unique
+
+1. Talk about the things you are passionate about 
+	1. "What do you do?"
+		   Do you mean what I do for a living, or what I do in my personal time?
+	Be clear on your values
+	I'm "Fun-employeed"
+1.  What is it that you value
+
+You are: The things that are important to you
+You are NOT your job
+
+Switch your actions and behaviors to match your values
+
+### Getting to know you questions
 - 

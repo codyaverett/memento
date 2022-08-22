@@ -290,6 +290,11 @@
       "links": 0
     },
     "personal/social/Charisma.md": {
+      "size": 2066,
+      "tags": 0,
+      "links": 0
+    },
+    "daily/08-22-22.md": {
       "size": 0,
       "tags": 0,
       "links": 0
@@ -298,15 +303,15 @@
   "commitTypes": {
     "/": {
       "Refactor": 3,
-      "Create": 10,
+      "Create": 11,
       "Link": 1,
-      "Expand": 1
+      "Expand": 2
     }
   },
   "dailyCommits": {
     "/": {
-      "0": 8,
-      "1": 1,
+      "0": 9,
+      "1": 2,
       "2": 0,
       "3": 0,
       "4": 1,
@@ -333,7 +338,7 @@
   },
   "weeklyCommits": {
     "/": {
-      "Mon": 5,
+      "Mon": 7,
       "Tue": 2,
       "Wed": 0,
       "Thu": 4,
@@ -345,7 +350,8 @@
   "recentCommits": {
     "/": {
       "Expanded": [
-        "<a class=\"internal-link\" href=\"programming/haskell/working with lists.md\"> working with lists </a>"
+        "<a class=\"internal-link\" href=\"programming/haskell/working with lists.md\"> working with lists </a>",
+        "<a class=\"internal-link\" href=\"personal/social/Charisma.md\"> Charisma </a>"
       ],
       "Created": [
         "<a class=\"internal-link\" href=\"daily/08-11-22.md\"> 08-11-22 </a>",
@@ -357,7 +363,8 @@
         "<a class=\"internal-link\" href=\"daily/08-18-22.md\"> 08-18-22 </a>",
         "<a class=\"internal-link\" href=\"personal/job-hunting/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"daily/08-19-22.md\"> 08-19-22 </a>",
-        "<a class=\"internal-link\" href=\"personal/social/Untitled.md\"> Untitled </a>"
+        "<a class=\"internal-link\" href=\"personal/social/Untitled.md\"> Untitled </a>",
+        "<a class=\"internal-link\" href=\"daily/08-22-22.md\"> 08-22-22 </a>"
       ],
       "Renamed": [
         "<a class=\"internal-link\" href=\"programming/haskell/haskell lists.md\"> haskell lists </a>",
