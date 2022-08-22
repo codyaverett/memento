@@ -84,4 +84,8 @@ Switch your actions and behaviors to match your values
 	- Doctor: "People pay me to cut them open"
 	- Mechanic
 - Trim the Logistics!
-	- 
+	- Focus on Values
+- Sharing your values
+- Add an element of mystery
+	- If you don't add some mystery, people won't ask you questions
+	- Talk about aspirations
