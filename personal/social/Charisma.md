@@ -80,4 +80,8 @@ You are NOT your job
 Switch your actions and behaviors to match your values
 
 ### Getting to know you questions
-- 
+- A playful first answer is very useful 
+	- Doctor: "People pay me to cut them open"
+	- Mechanic
+- Trim the Logistics!
+	- 

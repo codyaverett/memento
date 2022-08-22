@@ -290,7 +290,7 @@
       "links": 0
     },
     "personal/social/Charisma.md": {
-      "size": 2066,
+      "size": 2393,
       "tags": 0,
       "links": 0
     },
@@ -305,13 +305,13 @@
       "Refactor": 3,
       "Create": 11,
       "Link": 1,
-      "Expand": 2
+      "Expand": 3
     }
   },
   "dailyCommits": {
     "/": {
       "0": 9,
-      "1": 2,
+      "1": 3,
       "2": 0,
       "3": 0,
       "4": 1,
@@ -338,7 +338,7 @@
   },
   "weeklyCommits": {
     "/": {
-      "Mon": 7,
+      "Mon": 8,
       "Tue": 2,
       "Wed": 0,
       "Thu": 4,
@@ -351,6 +351,7 @@
     "/": {
       "Expanded": [
         "<a class=\"internal-link\" href=\"programming/haskell/working with lists.md\"> working with lists </a>",
+        "<a class=\"internal-link\" href=\"personal/social/Charisma.md\"> Charisma </a>",
         "<a class=\"internal-link\" href=\"personal/social/Charisma.md\"> Charisma </a>"
       ],
       "Created": [
