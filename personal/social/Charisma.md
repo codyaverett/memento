@@ -54,3 +54,7 @@ ask their name
 
 Comfort will grow between you and the people you touch introduce yourself to.
 
+## Day 3 - Generating Respect
+
+- It's natural to respect someone that is a higher level than you
+- 
