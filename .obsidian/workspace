@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "personal/social/Charisma.md",
+            "file": "daily/08-22-22.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "personal/social/Charisma.md",
+                "file": "daily/08-22-22.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,7 +87,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "personal/social/Charisma.md"
+                "file": "daily/08-22-22.md"
               }
             }
           },
@@ -119,6 +119,7 @@
   },
   "active": "2329db3b24cb2b46",
   "lastOpenFiles": [
+    "personal/social/Charisma.md",
     "personal/job-hunting/interesting jobhunt finds.md",
     "daily/08-19-22.md",
     "daily/08-18-22.md",
@@ -127,7 +128,6 @@
     "programming/haskell/haskell list functions.md",
     "crypto/Ethereum.md",
     "crypto/GeneralLinks.md",
-    "crypto/MoonRiver.md",
-    "crypto/Songbird.md"
+    "crypto/MoonRiver.md"
   ]
 }
