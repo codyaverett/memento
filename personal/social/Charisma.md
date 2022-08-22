@@ -89,3 +89,7 @@ Switch your actions and behaviors to match your values
 - Add an element of mystery
 	- If you don't add some mystery, people won't ask you questions
 	- Talk about aspirations
+
+### Using open loops
+- Lior Suchard - Mentalist
+
