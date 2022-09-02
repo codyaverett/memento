@@ -24,6 +24,7 @@ I've read about react native for web too which is a compatibility layer .
 
 # Component Design
 - I like small focused components that can either be reused or replaced easily
+- Smaller components are usually simpler to test
 - I also like breaking my code down into reusable modules (I like the module approach because the code can be self contained and inputs/outputs can be more easily reasoned about and replaced)
 - I'm a huge fan of MonoRepos for that reason too. (Lerna, Yarn Workspaces, and PNPM workspaces).  Monorepos also allow me to maintain a common toolset across all my packages.
 - I like to separate visual/presentation components from stateful components when possible since visual style is something that could change and be tested separately from the more logical components
@@ -31,7 +32,8 @@ I've read about react native for web too which is a compatibility layer .
 
 ## State Management
 - How do you track state changes between ... all user interactions
-- When someone clicks on a button what is supposed to happen, etc.
+- It's a very opinionated space sometimes :D
+- But yeah, like when someone clicks on a button what is supposed to happen, etc.
 - Redux / Sagas
 	- Actions > Reducers change state > View updates with new state
 	- aggregated reducers at a global level
@@ -69,7 +71,9 @@ I've read about react native for web too which is a compatibility layer .
 
 ## Native Considerations
 - Multiple types of client devices of various sizes and specifications
-- Cannot guarantee that the user will always have a persistent connection (Same with mobile web app)
+- Device orientations.. component layout changes
+- Cannot guarantee that the user will always have a persistent connection (Same with mobile web app) so is there some offline data store that provides the user with some limited functionality or does the app allow users to locally queue up 
+- I imagine with a logistics company there are some very spotty connection areas
 - Code reuse across different platforms (IOS, Android, Desktop)
 
 ## Upgrading RN
@@ -90,13 +94,14 @@ I've read about react native for web too which is a compatibility layer .
 
 ## differences between mobile vs non-mobile development
 - Web development and browser APIs
-- Native 
+- Different SDKs
 - mobile development offers SDKs
 - 
 ## Push Notifications
 - Web push notifications can be set up through the Browser APIs and need explicit permissions from the user to allow notifications
 - Progressive Web Apps (service worker for push notifications when the webpage isn't even open)
-- 
+- Native permissions are requested when user installs the application usually
+
 ## Analytics
 - I'd start with the question what are you trying to discover?
 - How people are using your application
@@ -118,7 +123,7 @@ I've read about react native for web too which is a compatibility layer .
 # Testing Experience
 
 ## Unit vs Integration
-- This is a question about what you are testing
+- This is a question about what you are testing? Why are you testing it?
 - Unit testing is more about testing the logic of local isolated functions
 - Integration tests are bigger in the grand scheme of things.. testing two or more units together
 
@@ -170,8 +175,6 @@ I've read about react native for web too which is a compatibility layer .
 - Figma/Sketch/Adobe XD for UX (I really like using visual collaboration tools)
 - MermaidJS for simpler flow diagrams written in markdown
 
-
 # My Questions
-- Is everyone working remote with the option to come into the office?
-- Is 
+- How many people usually work from the office now?
 - If you hire me today, how will you know in a year's time that I was the right fit?

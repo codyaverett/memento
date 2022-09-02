@@ -300,7 +300,7 @@
       "links": 0
     },
     "personal/job-hunting/jb-hunt-topics.md": {
-      "size": 8078,
+      "size": 9663,
       "tags": 0,
       "links": 0
     }
@@ -310,7 +310,7 @@
       "Refactor": 4,
       "Create": 13,
       "Link": 1,
-      "Expand": 10
+      "Expand": 11
     }
   },
   "dailyCommits": {
@@ -326,7 +326,7 @@
       "8": 0,
       "9": 0,
       "10": 8,
-      "11": 3,
+      "11": 4,
       "12": 0,
       "13": 0,
       "14": 0,
@@ -347,7 +347,7 @@
       "Tue": 2,
       "Wed": 0,
       "Thu": 4,
-      "Fri": 11,
+      "Fri": 12,
       "Sat": 0,
       "Sun": 3
     }
@@ -358,6 +358,7 @@
         "<a class=\"internal-link\" href=\"programming/haskell/working with lists.md\"> working with lists </a>",
         "<a class=\"internal-link\" href=\"personal/social/Charisma.md\"> Charisma </a>",
         "<a class=\"internal-link\" href=\"personal/social/Charisma.md\"> Charisma </a>",
+        "<a class=\"internal-link\" href=\"personal/job-hunting/jb-hunt-topics.md\"> jb-hunt-topics </a>",
         "<a class=\"internal-link\" href=\"personal/job-hunting/jb-hunt-topics.md\"> jb-hunt-topics </a>",
         "<a class=\"internal-link\" href=\"personal/job-hunting/jb-hunt-topics.md\"> jb-hunt-topics </a>",
         "<a class=\"internal-link\" href=\"personal/job-hunting/jb-hunt-topics.md\"> jb-hunt-topics </a>",
