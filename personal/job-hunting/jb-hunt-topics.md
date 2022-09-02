@@ -20,12 +20,14 @@ Should we start from the top and work our way down?
 # React Native questions
 I've only dabbled with react native, I've created simple test projects for IOS and Android before.
 I like to say that expert with react and I've been using it since 2017.
+I've read about react native for web too which is a compatibility layer .
 
 # Component Design
 - I like small focused components that can either be reused or replaced easily
 - I also like breaking my code down into reusable modules (I like the module approach because the code can be self contained and inputs/outputs can be more easily reasoned about and replaced)
-- I'm a huge fan of MonoRepos for that reason too. (Lerna, Yarn Workspaces, and PNPM workspaces)
+- I'm a huge fan of MonoRepos for that reason too. (Lerna, Yarn Workspaces, and PNPM workspaces).  Monorepos also allow me to maintain a common toolset across all my packages.
 - I like to separate visual/presentation components from stateful components when possible since visual style is something that could change and be tested separately from the more logical components
+- 
 
 ## State Management
 - How do you track state changes between ... all user interactions
