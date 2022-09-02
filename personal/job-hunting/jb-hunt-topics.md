@@ -7,9 +7,17 @@
 
 ## State Management
 - Redux / Sagas 
-	- Became unwieldy with Sagas 
+	- Reducers/aggregated reducers
+	- Side-effects managed with redux sagas
+	- Became unwieldy with Sagas because any action that was triggered could
+	- Redux DevTools and time traveling debugging are epic and very useful to visualize changes to state over time
 - MobX
-- StateMachines
+	- Behind the scenes uses Javascript proxies to update only the components that need state change updates
+- State Machines
+	- A state machine is _a way of modeling program state so that a program will always be in exactly one state at any one time_.
+	- Changes in state
+	- [XState](https://xstate.js.org/) 
+	- mobx state tree
 - Hooks and local state
 
 ## Navigation
@@ -21,6 +29,7 @@
 ## Native Considerations
 - Multiple types of client devices of various sizes and specifications
 - Cannot garuntee that the user will always have a persistent connection (Same with mobile web app)
+- Code reuse across different platforms (IOS, Android, Desktop)
 
 ## Upgrading RN
 - Haven't done this personally but read up on it
