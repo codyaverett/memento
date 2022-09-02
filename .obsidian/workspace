@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "personal/job-hunting/jb-hunt-topics.md",
+            "file": "personal/job-hunting/interesting jobhunt finds.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -54,8 +54,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 241,
-    "collapsed": true
+    "width": 241
   },
   "right": {
     "id": "27aa3db891e6815a",
@@ -71,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "personal/job-hunting/jb-hunt-topics.md",
+                "file": "personal/job-hunting/interesting jobhunt finds.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,7 +87,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "personal/job-hunting/jb-hunt-topics.md"
+                "file": "personal/job-hunting/interesting jobhunt finds.md"
               }
             }
           },
@@ -118,11 +117,11 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "2329db3b24cb2b46",
+  "active": "33a2bab88d111215",
   "lastOpenFiles": [
+    "personal/job-hunting/jb-hunt-topics.md",
     "personal/job-hunting/all failures are learning opportunities.md",
     "personal/job-hunting/interesting jobhunt finds.md",
-    "personal/job-hunting/jb-hunt-topics.md",
     "personal/job-hunting/jbHunt-topics/Untitled.md",
     "personal/social/Charisma.md",
     "daily/08-22-22.md",
