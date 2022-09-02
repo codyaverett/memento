@@ -1,3 +1,4 @@
 {
-  "translucency": false
+  "translucency": false,
+  "baseFontSize": 10
 }
