@@ -3,8 +3,18 @@
 
 # Component Design
 ## State Management
+- Redux / Sagas 
+	- Became unwieldy with Sagas 
+- MobX
+- StateMachines
+- Hooks and local state
+
 ## Navigation
+- 
 ## Native Considerations
+- Multiple types of client devices of various sizes and specifications
+- Cannot garuntee that 
+
 ## Upgrading RN
 ## Expo or bare
 
