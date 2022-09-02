@@ -302,8 +302,8 @@
   },
   "commitTypes": {
     "/": {
-      "Refactor": 3,
-      "Create": 11,
+      "Refactor": 4,
+      "Create": 12,
       "Link": 1,
       "Expand": 3
     }
@@ -320,7 +320,7 @@
       "7": 0,
       "8": 0,
       "9": 0,
-      "10": 1,
+      "10": 3,
       "11": 0,
       "12": 0,
       "13": 0,
@@ -342,7 +342,7 @@
       "Tue": 2,
       "Wed": 0,
       "Thu": 4,
-      "Fri": 1,
+      "Fri": 3,
       "Sat": 0,
       "Sun": 3
     }
@@ -365,7 +365,8 @@
         "<a class=\"internal-link\" href=\"personal/job-hunting/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"daily/08-19-22.md\"> 08-19-22 </a>",
         "<a class=\"internal-link\" href=\"personal/social/Untitled.md\"> Untitled </a>",
-        "<a class=\"internal-link\" href=\"daily/08-22-22.md\"> 08-22-22 </a>"
+        "<a class=\"internal-link\" href=\"daily/08-22-22.md\"> 08-22-22 </a>",
+        "<a class=\"internal-link\" href=\"personal/job-hunting/jbHunt-topics/Untitled.md\"> Untitled </a>"
       ],
       "Renamed": [
         "<a class=\"internal-link\" href=\"programming/haskell/haskell lists.md\"> haskell lists </a>",
@@ -374,7 +375,9 @@
       ],
       "Tagged": [],
       "Refactored": [],
-      "Deleted": [],
+      "Deleted": [
+        "<a class=\"internal-link\" href=\"personal/job-hunting/jbHunt-topics/Untitled.md\"> Untitled </a>"
+      ],
       "Linked": [
         "<a class=\"internal-link\" href=\"programming/haskell/working with lists.md\"> working with lists </a>"
       ],
