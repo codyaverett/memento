@@ -22,6 +22,10 @@
 - Cannot garuntee that the user will always have a persistent connection (Same with mobile web app)
 
 ## Upgrading RN
+Haven't done this personally but read up on it
+- Expo (upgrade react-native react and expo packages)
+- React Native CLI
+
 ## Expo or bare
 - Maged or unmanaged workflow
 - kinda similar to Create React app and ejecting or creating your own workflow from scratch
