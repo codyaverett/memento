@@ -1,34 +1,73 @@
 # General Javascript knowledge questions
+
+Hi, My name is Cody Ave-Rett
+I'm coder at heart and and love doing Cody things
+My mom always knew I would grow up to be a coder.
+
+I live in rogers with my wife, 2 doggos and 2 cats
+Pricilla, Peanut, Pascal, and Panko
+
+I like geeking out over code, music theory, space things (star power, spaceship earth), and I like anime (I'm in the middle of rewatching all 1000 episodes of Naruto)
+
+I have a lot of general programming experience at high and low levels of code, but I enjoy working on UI and UX the most.
+
+.. yeah
+Thanks for the opportunity to chat with you about this role.
+I've read through all the topics you all planned for us today and I'm ready to get started!
+
+Should we start from the top and work our way down?
+
 # React Native questions
+I've only dabbled with react native, I've created simple test projects for IOS and Android before.
+I like to say that expert with react and I've been using it since 2017.
 
 # Component Design
 - I like small focused components that can either be reused or replaced easily
-- I also like breaking 
+- I also like breaking my code down into reusable modules (I like the module approach because the code can be self contained and inputs/outputs can be more easily reasoned about and replaced)
+- I'm a huge fan of MonoRepos for that reason too. (Lerna, Yarn Workspaces, and PNPM workspaces)
+- I like to separate visual/presentation components from stateful components when possible since visual style is something that could change and be tested separately from the more logical components
 
 ## State Management
-- Redux / Sagas 
-	- Reducers/aggregated reducers
+- How do you track state changes between ... all user interactions
+- When someone clicks on a button what is supposed to happen, etc.
+- Redux / Sagas
+	- Actions > Reducers change state > View updates with new state
+	- aggregated reducers at a global level
 	- Side-effects managed with redux sagas
 	- Became unwieldy with Sagas because any action that was triggered could
 	- Redux DevTools and time traveling debugging are epic and very useful to visualize changes to state over time
+	- I used redux when before they reduced the amount of boilerplate code required to add new state objects
 - MobX
+	- A more direct way to store and interact with state
+	- It's a more imperative approach, which can make some functions 
+	- It's also extremely performant at managing state updates
 	- Behind the scenes uses Javascript proxies to update only the components that need state change updates
 - State Machines
 	- A state machine is _a way of modeling program state so that a program will always be in exactly one state at any one time_.
 	- Changes in state
-	- [XState](https://xstate.js.org/) 
-	- mobx state tree
+	- Libraries
+		- [XState](https://xstate.js.org/) 
+		- [MST or mobx state tree](https://github.com/mobxjs/mobx-state-tree)
 - Hooks and local state
+	- [Constate](https://github.com/diegohaz/constate) (Global/Relative provider for hook based state management)
 
 ## Navigation
 - Web navigation via routers (I've used several routing libraries, but have also made my own simple systems back in the JQuery days that would redirect based on the last URL hash state)
 - Encode state in the url parameters 
-- Web history API
+- [Web history API](https://developer.mozilla.org/en-US/docs/Web/API/History_API)
+	- window.history.back() or .go(-1)
+	- window.history.forward() or .go(1)
+	- window.history.go(0) to refresh the page
 - React Native 
+	- Navigation Container
+		- Navigation Stack (Stack Navigator)
+		- Stack Screens with `name` and `component` props
+		- e.g. on button press `this.props.navigation.navigate('name');`
+		- Documentation recommends to now use react context with a Provider wrapping around your screens to share state between screens
 
 ## Native Considerations
 - Multiple types of client devices of various sizes and specifications
-- Cannot garuntee that the user will always have a persistent connection (Same with mobile web app)
+- Cannot guarantee that the user will always have a persistent connection (Same with mobile web app)
 - Code reuse across different platforms (IOS, Android, Desktop)
 
 ## Upgrading RN
