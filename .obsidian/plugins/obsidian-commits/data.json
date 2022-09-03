@@ -301,7 +301,7 @@
     },
     "personal/job-hunting/jb-hunt-topics.md": {
       "size": 9663,
-      "tags": 0,
+      "tags": 1,
       "links": 0
     },
     "daily/09-02-22.md": {
@@ -314,7 +314,7 @@
     "/": {
       "Refactor": 4,
       "Create": 14,
-      "Link": 1,
+      "Link": 2,
       "Expand": 12
     }
   },
@@ -341,7 +341,7 @@
       "18": 0,
       "19": 2,
       "20": 2,
-      "21": 0,
+      "21": 1,
       "22": 0,
       "23": 0
     }
@@ -352,7 +352,7 @@
       "Tue": 2,
       "Wed": 0,
       "Thu": 4,
-      "Fri": 14,
+      "Fri": 15,
       "Sat": 0,
       "Sun": 3
     }
@@ -394,7 +394,9 @@
         "<a class=\"internal-link\" href=\"programming/haskell/haskell list functions.md\"> haskell list functions </a>",
         "<a class=\"internal-link\" href=\"personal/job-hunting/interesting jobhunt finds.md\"> interesting jobhunt finds </a>"
       ],
-      "Tagged": [],
+      "Tagged": [
+        "<a class=\"internal-link\" href=\"personal/job-hunting/jb-hunt-topics.md\"> jb-hunt-topics </a>"
+      ],
       "Refactored": [],
       "Deleted": [
         "<a class=\"internal-link\" href=\"personal/job-hunting/jbHunt-topics/Untitled.md\"> Untitled </a>"
