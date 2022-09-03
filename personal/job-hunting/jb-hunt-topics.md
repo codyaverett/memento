@@ -1,5 +1,6 @@
 ---
 tag: interview
+publish: true
 ---
 
 # General Javascript knowledge questions
