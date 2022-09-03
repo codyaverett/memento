@@ -7,8 +7,13 @@
         "id": "2329db3b24cb2b46",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "personal/job-hunting/jb-hunt-topics.md",
+            "mode": "source",
+            "backlinks": false,
+            "source": false
+          }
         }
       }
     ],
@@ -36,7 +41,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#interview",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -66,6 +71,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "personal/job-hunting/jb-hunt-topics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -81,7 +87,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "personal/job-hunting/jb-hunt-topics.md"
+              }
             }
           },
           {
@@ -112,8 +120,8 @@
   },
   "active": "2329db3b24cb2b46",
   "lastOpenFiles": [
-    "daily/09-02-22.md",
     "personal/job-hunting/interesting jobhunt finds.md",
+    "daily/09-02-22.md",
     "personal/job-hunting/jb-hunt-topics.md",
     "personal/job-hunting/all failures are learning opportunities.md",
     "personal/job-hunting/jbHunt-topics/Untitled.md",
