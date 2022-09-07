@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "personal/job-hunting/jb-hunt-topics.md",
+            "file": "programming/python/DJango quick reference.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -50,8 +50,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -71,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "personal/job-hunting/jb-hunt-topics.md",
+                "file": "programming/python/DJango quick reference.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,7 +87,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "personal/job-hunting/jb-hunt-topics.md"
+                "file": "programming/python/DJango quick reference.md"
               }
             }
           },
@@ -120,15 +119,15 @@
   },
   "active": "2329db3b24cb2b46",
   "lastOpenFiles": [
-    "personal/job-hunting/interesting jobhunt finds.md",
-    "daily/09-02-22.md",
-    "personal/job-hunting/jb-hunt-topics.md",
+    "personal/software/Untitled.md",
+    "personal/Tunings.md",
+    "personal/Cody_Averett.md",
+    "personal/software/programming languages you must know.md",
+    "personal/math/Kepler.md",
+    "personal/lifehacks/transporting lumber with a roof rack.md",
     "personal/job-hunting/all failures are learning opportunities.md",
-    "personal/job-hunting/jbHunt-topics/Untitled.md",
-    "personal/social/Charisma.md",
-    "daily/08-22-22.md",
-    "daily/08-19-22.md",
-    "daily/08-18-22.md",
-    "programming/python/convert an image to ASCII art.md"
+    "daily/06-08-22.md",
+    "daily/06-09-22.md",
+    "daily/06-10-22.md"
   ]
 }

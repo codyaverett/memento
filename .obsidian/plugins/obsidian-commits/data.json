@@ -308,12 +308,17 @@
       "size": 2057,
       "tags": 0,
       "links": 0
+    },
+    "programming/python/Untitled.md": {
+      "size": 0,
+      "tags": 0,
+      "links": 0
     }
   },
   "commitTypes": {
     "/": {
-      "Refactor": 4,
-      "Create": 14,
+      "Refactor": 5,
+      "Create": 16,
       "Link": 2,
       "Expand": 12
     }
@@ -337,7 +342,7 @@
       "14": 0,
       "15": 0,
       "16": 2,
-      "17": 0,
+      "17": 3,
       "18": 0,
       "19": 2,
       "20": 2,
@@ -350,7 +355,7 @@
     "/": {
       "Mon": 8,
       "Tue": 2,
-      "Wed": 0,
+      "Wed": 3,
       "Thu": 4,
       "Fri": 15,
       "Sat": 0,
@@ -387,7 +392,9 @@
         "<a class=\"internal-link\" href=\"daily/08-22-22.md\"> 08-22-22 </a>",
         "<a class=\"internal-link\" href=\"personal/job-hunting/jbHunt-topics/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"personal/job-hunting/Untitled.md\"> Untitled </a>",
-        "<a class=\"internal-link\" href=\"daily/09-02-22.md\"> 09-02-22 </a>"
+        "<a class=\"internal-link\" href=\"daily/09-02-22.md\"> 09-02-22 </a>",
+        "<a class=\"internal-link\" href=\"personal/software/Untitled.md\"> Untitled </a>",
+        "<a class=\"internal-link\" href=\"programming/python/Untitled.md\"> Untitled </a>"
       ],
       "Renamed": [
         "<a class=\"internal-link\" href=\"programming/haskell/haskell lists.md\"> haskell lists </a>",
@@ -399,7 +406,8 @@
       ],
       "Refactored": [],
       "Deleted": [
-        "<a class=\"internal-link\" href=\"personal/job-hunting/jbHunt-topics/Untitled.md\"> Untitled </a>"
+        "<a class=\"internal-link\" href=\"personal/job-hunting/jbHunt-topics/Untitled.md\"> Untitled </a>",
+        "<a class=\"internal-link\" href=\"personal/software/Untitled.md\"> Untitled </a>"
       ],
       "Linked": [
         "<a class=\"internal-link\" href=\"programming/haskell/working with lists.md\"> working with lists </a>"
