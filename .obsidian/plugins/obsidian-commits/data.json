@@ -309,7 +309,12 @@
       "tags": 0,
       "links": 0
     },
-    "programming/python/Untitled.md": {
+    "programming/python/DJango quick reference.md": {
+      "size": 0,
+      "tags": 0,
+      "links": 0
+    },
+    "programming/frontend/Untitled.md": {
       "size": 0,
       "tags": 0,
       "links": 0
@@ -318,7 +323,7 @@
   "commitTypes": {
     "/": {
       "Refactor": 5,
-      "Create": 16,
+      "Create": 17,
       "Link": 2,
       "Expand": 12
     }
@@ -348,14 +353,14 @@
       "20": 2,
       "21": 1,
       "22": 0,
-      "23": 0
+      "23": 1
     }
   },
   "weeklyCommits": {
     "/": {
       "Mon": 8,
       "Tue": 2,
-      "Wed": 3,
+      "Wed": 4,
       "Thu": 4,
       "Fri": 15,
       "Sat": 0,
@@ -394,7 +399,8 @@
         "<a class=\"internal-link\" href=\"personal/job-hunting/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"daily/09-02-22.md\"> 09-02-22 </a>",
         "<a class=\"internal-link\" href=\"personal/software/Untitled.md\"> Untitled </a>",
-        "<a class=\"internal-link\" href=\"programming/python/Untitled.md\"> Untitled </a>"
+        "<a class=\"internal-link\" href=\"programming/python/Untitled.md\"> Untitled </a>",
+        "<a class=\"internal-link\" href=\"programming/frontend/Untitled.md\"> Untitled </a>"
       ],
       "Renamed": [
         "<a class=\"internal-link\" href=\"programming/haskell/haskell lists.md\"> haskell lists </a>",
