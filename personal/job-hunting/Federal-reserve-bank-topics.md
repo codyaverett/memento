@@ -44,6 +44,7 @@ Aggregations
 ### 1-2 years developing applications using an Object/Relational Mapper, Django ORM (preferred), Hibernate, Entity Framework.
 - We made our own ORM in typescript to help us query data from our SQL Server instances
 - Familiar with Django ORM
+	- QuerySets - iterable object
 
 ## Additional Qualifications
 
