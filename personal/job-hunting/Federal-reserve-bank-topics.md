@@ -18,7 +18,9 @@
 	- version controlled database changes with [liquibase](https://www.liquibase.com/resources/guides/database-version-control)
 - Queried information from Oracle DB2 and Teradata systems
 
+[Advanced SQL need to know](https://medium.com/dp6-us-blog/7-advanced-sql-concepts-you-need-to-know-45fa149ba0b0)
 Built out tables and with normalized data and relationship tables
+Aggregations
 
 
 ### 1-2 years of experience with a web application framework in any of: Python, Java, .NET, Ruby, Node.js, or Go
