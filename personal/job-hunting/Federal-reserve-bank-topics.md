@@ -12,6 +12,11 @@
 - I have had some side projects and have some experience with DJango and Pygame
 
 ### 2+ years of experience with relational databases, like PostgreSQL(preferred), MySQL, SQL Server, Oracle
+- Most recently used Microsoft SQL Server for the past 3 years
+- SQLite for small demo projects (Lacks some advanced features and more complex table joins)
+- I've used PostgreSQL while working on WalmartLabs Concord 
+	- version controlled database changes with [liquibase](https://www.liquibase.com/resources/guides/database-version-control)
+- 
 
 ### 1-2 years of experience with a web application framework in any of: Python, Java, .NET, Ruby, Node.js, or Go
 - I've created webapps in Python, Java, .Net, and NodeJS
