@@ -14,14 +14,17 @@
 ### 2+ years of experience with relational databases, like PostgreSQL(preferred), MySQL, SQL Server, Oracle
 - Most recently used Microsoft SQL Server for the past 3 years
 - SQLite for small demo projects (Lacks some advanced features and more complex table joins)
-- I've used PostgreSQL while working on WalmartLabs Concord 
+- I've used PostgreSQL while working on WalmartLabs Concord
 	- version controlled database changes with [liquibase](https://www.liquibase.com/resources/guides/database-version-control)
-- 
+- Queried information from Oracle DB2 and Teradata systems
+
+Built out tables and with normalized data and relationship tables
+
 
 ### 1-2 years of experience with a web application framework in any of: Python, Java, .NET, Ruby, Node.js, or Go
 - I've created webapps in Python, Java, .Net, and NodeJS
-- Most recently I used Fastify with NodeJS
-- Used 
+- I used Fastify and Express with NodeJS
+- Used SpringBoot with tomcat and jetty webservers
 
 ### 1-2 years of experience designing and integrating with web-based HTTP APIs (REST (preferred), GraphQL, SOAP)
 - I am very familiar with designing and integrating REST based apis
@@ -31,6 +34,8 @@
 	  One advantage of using XML based requests is that it's potentially easier to process partially retrieved data
 
 ### 1-2 years of experience with ETL or data processing/integration using tools such as Apache Spark, PySpark, Pandas, Parquet, Amazon EMR, Databricks, Informatica, Oracle Data Integrator, SQL Server Integration Services, or similar platforms or vendor tools
+- Past 3 years I've been using Microsoft SSIS (SQL Server Integration Services)
+- Used apache Spark to ingest various kafka topics
 
 ### 1-2 years developing applications using an Object/Relational Mapper, Django ORM (preferred), Hibernate, Entity Framework.
 - We made our own ORM in typescript to help us query data from our SQL Server instances
