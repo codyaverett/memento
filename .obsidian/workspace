@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "programming/frontend/list of dope websites.md",
+            "file": "programming/python/DJango quick reference.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "programming/frontend/list of dope websites.md",
+                "file": "programming/python/DJango quick reference.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,7 +87,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "programming/frontend/list of dope websites.md"
+                "file": "programming/python/DJango quick reference.md"
               }
             }
           },
@@ -119,15 +119,15 @@
   },
   "active": "2329db3b24cb2b46",
   "lastOpenFiles": [
+    "programming/python/convert an image to ASCII art.md",
     "programming/python/DJango quick reference.md",
+    "programming/frontend/list of dope websites.md",
     "personal/software/Untitled.md",
     "personal/Tunings.md",
     "personal/Cody_Averett.md",
     "personal/software/programming languages you must know.md",
     "personal/math/Kepler.md",
     "personal/lifehacks/transporting lumber with a roof rack.md",
-    "personal/job-hunting/all failures are learning opportunities.md",
-    "daily/06-08-22.md",
-    "daily/06-09-22.md"
+    "personal/job-hunting/all failures are learning opportunities.md"
   ]
 }
