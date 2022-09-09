@@ -7,12 +7,14 @@
 ### 3+ years professional experience with Python
 - I have around 8 years experience with the 
 - My latest experience was using python to create plugins for Redhat's IT automation framework Ansible
-- Prior to that I worked on a APIs to aggregate application resiliency metrics
+- Prior to that I worked on a APIs to aggregate application resiliency metrics across the walmart internal cloud systems (before we started using gcp and azure more regularly)
 - I used Python to expose IBM 4690 system information over an API for development purposes
 - I have had some side projects and have some experience with DJango and Pygame
 
 ### 2+ years of experience with relational databases, like PostgreSQL(preferred), MySQL, SQL Server, Oracle
 - Most recently used Microsoft SQL Server for the past 3 years
+	- Used Stored Procedures with TSQL to simplify some interactions with the database
+- Google BigQuery over the past year 
 - SQLite for small demo projects (Lacks some advanced features and more complex table joins)
 - I've used PostgreSQL while working on WalmartLabs Concord
 	- version controlled database changes with [liquibase](https://www.liquibase.com/resources/guides/database-version-control)
@@ -22,11 +24,11 @@
 Built out tables and with normalized data and relationship tables
 Aggregations
 
-
 ### 1-2 years of experience with a web application framework in any of: Python, Java, .NET, Ruby, Node.js, or Go
 - I've created webapps in Python, Java, .Net, and NodeJS
 - I used Fastify and Express with NodeJS
 - Used SpringBoot with tomcat and jetty webservers
+- DJango 
 
 ### 1-2 years of experience designing and integrating with web-based HTTP APIs (REST (preferred), GraphQL, SOAP)
 - I am very familiar with designing and integrating REST based apis
