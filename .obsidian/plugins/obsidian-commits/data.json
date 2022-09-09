@@ -325,7 +325,12 @@
       "links": 0
     },
     "personal/job-hunting/Federal-reserve-bank-topics.md": {
-      "size": 4450,
+      "size": 5216,
+      "tags": 0,
+      "links": 0
+    },
+    "programming/SQL/SQL order of execution.md": {
+      "size": 0,
       "tags": 0,
       "links": 0
     }
@@ -333,9 +338,9 @@
   "commitTypes": {
     "/": {
       "Refactor": 5,
-      "Create": 19,
+      "Create": 20,
       "Link": 2,
-      "Expand": 17
+      "Expand": 18
     }
   },
   "dailyCommits": {
@@ -356,7 +361,7 @@
       "13": 0,
       "14": 0,
       "15": 1,
-      "16": 7,
+      "16": 9,
       "17": 3,
       "18": 0,
       "19": 2,
@@ -372,7 +377,7 @@
       "Tue": 2,
       "Wed": 4,
       "Thu": 4,
-      "Fri": 22,
+      "Fri": 24,
       "Sat": 0,
       "Sun": 3
     }
@@ -392,6 +397,7 @@
         "<a class=\"internal-link\" href=\"personal/job-hunting/jb-hunt-topics.md\"> jb-hunt-topics </a>",
         "<a class=\"internal-link\" href=\"personal/job-hunting/jb-hunt-topics.md\"> jb-hunt-topics </a>",
         "<a class=\"internal-link\" href=\"daily/09-02-22.md\"> 09-02-22 </a>",
+        "<a class=\"internal-link\" href=\"personal/job-hunting/Federal-reserve-bank-topics.md\"> Federal-reserve-bank-topics </a>",
         "<a class=\"internal-link\" href=\"personal/job-hunting/Federal-reserve-bank-topics.md\"> Federal-reserve-bank-topics </a>",
         "<a class=\"internal-link\" href=\"personal/job-hunting/Federal-reserve-bank-topics.md\"> Federal-reserve-bank-topics </a>",
         "<a class=\"internal-link\" href=\"personal/job-hunting/Federal-reserve-bank-topics.md\"> Federal-reserve-bank-topics </a>",
@@ -417,7 +423,8 @@
         "<a class=\"internal-link\" href=\"programming/python/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"programming/frontend/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"programming/python/Untitled.md\"> Untitled </a>",
-        "<a class=\"internal-link\" href=\"personal/job-hunting/Untitled.md\"> Untitled </a>"
+        "<a class=\"internal-link\" href=\"personal/job-hunting/Untitled.md\"> Untitled </a>",
+        "<a class=\"internal-link\" href=\"programming/SQL/Untitled.md\"> Untitled </a>"
       ],
       "Renamed": [
         "<a class=\"internal-link\" href=\"programming/haskell/haskell lists.md\"> haskell lists </a>",
