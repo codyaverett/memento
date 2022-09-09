@@ -318,12 +318,17 @@
       "size": 0,
       "tags": 0,
       "links": 0
+    },
+    "programming/python/python basics.md": {
+      "size": 0,
+      "tags": 0,
+      "links": 0
     }
   },
   "commitTypes": {
     "/": {
       "Refactor": 5,
-      "Create": 17,
+      "Create": 18,
       "Link": 2,
       "Expand": 12
     }
@@ -341,7 +346,7 @@
       "8": 0,
       "9": 0,
       "10": 8,
-      "11": 4,
+      "11": 5,
       "12": 0,
       "13": 0,
       "14": 0,
@@ -362,7 +367,7 @@
       "Tue": 2,
       "Wed": 4,
       "Thu": 4,
-      "Fri": 15,
+      "Fri": 16,
       "Sat": 0,
       "Sun": 3
     }
@@ -400,7 +405,8 @@
         "<a class=\"internal-link\" href=\"daily/09-02-22.md\"> 09-02-22 </a>",
         "<a class=\"internal-link\" href=\"personal/software/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"programming/python/Untitled.md\"> Untitled </a>",
-        "<a class=\"internal-link\" href=\"programming/frontend/Untitled.md\"> Untitled </a>"
+        "<a class=\"internal-link\" href=\"programming/frontend/Untitled.md\"> Untitled </a>",
+        "<a class=\"internal-link\" href=\"programming/python/Untitled.md\"> Untitled </a>"
       ],
       "Renamed": [
         "<a class=\"internal-link\" href=\"programming/haskell/haskell lists.md\"> haskell lists </a>",
