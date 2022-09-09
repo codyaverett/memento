@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "programming/SQL/Untitled.md",
+            "file": "personal/job-hunting/Federal-reserve-bank-topics.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "programming/SQL/Untitled.md",
+                "file": "personal/job-hunting/Federal-reserve-bank-topics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,7 +87,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "programming/SQL/Untitled.md"
+                "file": "personal/job-hunting/Federal-reserve-bank-topics.md"
               }
             }
           },
@@ -119,6 +119,7 @@
   },
   "active": "2329db3b24cb2b46",
   "lastOpenFiles": [
+    "programming/SQL/SQL order of execution.md",
     "personal/job-hunting/Federal-reserve-bank-topics.md",
     "programming/python/python basics.md",
     "programming/python/DJango quick reference.md",
@@ -127,7 +128,6 @@
     "personal/software/Untitled.md",
     "personal/Tunings.md",
     "personal/Cody_Averett.md",
-    "personal/software/programming languages you must know.md",
-    "personal/math/Kepler.md"
+    "personal/software/programming languages you must know.md"
   ]
 }
