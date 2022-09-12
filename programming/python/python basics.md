@@ -41,6 +41,9 @@ print("Total is " + str(sum))
 
 ```
 
+## Dynamic Typing
+
+
 ## Operators
 ```python
 # / divide

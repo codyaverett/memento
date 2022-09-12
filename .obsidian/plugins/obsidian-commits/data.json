@@ -337,14 +337,14 @@
     "programming/python/python extensions.md": {
       "size": 0,
       "tags": 0,
-      "links": 0
+      "links": 1
     }
   },
   "commitTypes": {
     "/": {
       "Refactor": 6,
       "Create": 21,
-      "Link": 2,
+      "Link": 3,
       "Expand": 21
     }
   },
@@ -364,7 +364,7 @@
       "11": 5,
       "12": 0,
       "13": 0,
-      "14": 5,
+      "14": 6,
       "15": 1,
       "16": 9,
       "17": 3,
@@ -378,7 +378,7 @@
   },
   "weeklyCommits": {
     "/": {
-      "Mon": 13,
+      "Mon": 14,
       "Tue": 2,
       "Wed": 4,
       "Thu": 4,
@@ -450,7 +450,8 @@
         "<a class=\"internal-link\" href=\"personal/software/Untitled.md\"> Untitled </a>"
       ],
       "Linked": [
-        "<a class=\"internal-link\" href=\"programming/haskell/working with lists.md\"> working with lists </a>"
+        "<a class=\"internal-link\" href=\"programming/haskell/working with lists.md\"> working with lists </a>",
+        "<a class=\"internal-link\" href=\"programming/python/python extensions.md\"> python extensions </a>"
       ],
       "Removed Tags from": [],
       "Removed Links from": []
