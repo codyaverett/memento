@@ -11,6 +11,8 @@ Change your python environment to use python 3.x
 ### Degugging
 
 Install `code.runner` extension
+
+Also set `code.runner.runInTerminal` to true so you can interact with input prompts instead of all the output being isolated in the output pane
 ![[Pasted image 20220912144323.png]]
 
 There are other implementations of python (like how javascript has different runtimes)

@@ -226,6 +226,20 @@ while i < len(numbers):
 	i += 1
 ```
 
+### Breaking out of loops
+
+```python
+names = ["John", "Mary"]
+
+for name in names:
+	if name.startswith("J"):
+		print("Found")
+		break
+else:
+	# if all objects are iterated through execute this logic
+	print("Not Found")
+```
+
 ### Escape sequences
 ```python
 # \"
@@ -271,8 +285,8 @@ print(x) # (1+2j)
 ```
 
 
-## Range function
-Used to generate a sequence of numbers
+## Range Objects
+Used to generate a sequence of numbers.  Range objects are iterable objects
 
 ```python
 numbers = range(5) # object stores a sequence of numbers
