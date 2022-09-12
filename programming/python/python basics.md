@@ -36,6 +36,7 @@ print("Your age is " + str(age))
 
 first = input("First: ")
 second = input("Second: ")
-
+sum = float(first) + float(second)
+print("Total is " + str(sum))
 
 ```
