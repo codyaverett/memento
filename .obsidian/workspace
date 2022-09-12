@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "programming/python/python extensions.md",
+            "file": "programming/python/python cheatsheet.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "programming/python/python extensions.md",
+                "file": "programming/python/python cheatsheet.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,7 +87,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "programming/python/python extensions.md"
+                "file": "programming/python/python cheatsheet.md"
               }
             }
           },
@@ -119,8 +119,8 @@
   },
   "active": "2329db3b24cb2b46",
   "lastOpenFiles": [
-    "programming/python/python basics.md",
     "programming/python/python extensions.md",
+    "programming/python/python basics.md",
     "personal/job-hunting/Federal-reserve-bank-topics.md",
     "programming/SQL/SQL order of execution.md",
     "programming/python/DJango quick reference.md",
