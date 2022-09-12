@@ -48,6 +48,26 @@ students_count = 1000
 print(type(students_count)) # <class 'int'>
 ```
 
+## Mutable and Immutable types
+
+```python
+x = 1
+print(id(x)) # 4397628416 the memory location of where the x variable is stored
+
+```
+
+Python garbage collector will release the variables after some time
+
+Lists are mutable, so the same memory location is used
+
+## String
+
+```python
+course = "Python programming"
+print(len(course)) # 18
+print(course[0:3]) # Pyt slice of the string
+```
+
 ## Operators
 ```python
 # / divide
@@ -194,4 +214,6 @@ numbers.count(3) # returns 2
 ```
 
 ## Magic methods 
+Also called "Special Variables"
 "__ function __()" They have underscores preceding the values
+
