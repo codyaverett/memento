@@ -34,5 +34,8 @@ print("Your age is " + str(age))
 # float(val) convert value to float
 # bool()
 
+first = input("First: ")
+second = input("Second: ")
+
 
 ```
