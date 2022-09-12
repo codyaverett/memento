@@ -315,3 +315,87 @@ numbers.count(3) # returns 2
 Also called "Special Variables"
 "__ function __()" They have underscores preceding the values
 
+## Functions
+- two null breaks after a function
+- type annotations
+```python
+
+def increment(number: int, by: int=1) -> tuple: # by has a default value of 1
+	return (number, number + by) # returning multiple values (2, 5)
+	# returns a tuple, it's like a list, but not modifyable
+
+
+print(increment(2, 3))
+```
+
+### Multiply example
+Passing multiple values to a function as a list
+```python
+# def multiply(a, b):
+def multiply(*list):
+	total = 1
+	for number in list:
+		total *= number
+	return total
+
+# print(multiply([2, 3, 4, 5]))
+print(multiply(2, 3, 4, 5))
+
+```
+
+### Keyword Arguments
+Make your code more readable
+
+```python
+print(increment(2, by=3))
+```
+
+Creates a Python Dictionary object.  Similar to Objects in javascript
+```python
+def save_user(**user):
+	print(user) # {'id': 1, 'name': "admin"}
+	print(user["id"]) # 1
+	print(user["name"]) # admin
+
+save_user(id=1, name="admin")
+
+```
+
+## Variable scope
+
+Local variable in function scope and global variables at file level scope
+
+Python functions do not have block level scope
+```python
+
+def greet():
+	if True:
+		message = "a" # after a variable is defined in a function, it can be accessed anywhere in the function
+	print(message) # a
+```
+
+Global file scope means the variables may be accessed anywhere in the file
+
+```python
+message = "a"
+
+def greet():
+	message = "b" # The message variable becomes a local variable when overwritten
+	print(message) # b
+
+greet()
+print(message) # a
+```
+
+Overriding global variable from a function using the `global` keyword
+```python
+message = "a"
+
+def greet():
+	global message
+	message = "b"
+
+greet()
+print(message) # b
+```
+
