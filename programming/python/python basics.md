@@ -8,3 +8,13 @@
 ## Setup
 python.org
 
+- venv - Virtual Environment
+
+Create a file `app.py`
+
+```python
+
+print("Hello World") # String
+
+
+```
