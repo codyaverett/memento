@@ -13,6 +13,7 @@ Change your python environment to use python 3.x
 ### Degugging
 
 Install `code.runner` extension
+![[Pasted image 20220912144323.png]]
 
 ### Autocompletion
 
