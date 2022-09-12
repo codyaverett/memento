@@ -14,7 +14,12 @@ Create a file `app.py`
 
 ```python
 
-print("Hello World") # String
+# Print String
+print("Hello World") 
 
+## Variables
+age = 20
+print(age)
+ 
 
 ```
