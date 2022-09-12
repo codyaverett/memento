@@ -25,5 +25,9 @@ is_employeed = True # False
 
 print(age)
 
+name = input("What is your name? ") # Prompts CLI user for input
+print("Hello " + name)
+
+
 
 ```
