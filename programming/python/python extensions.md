@@ -41,3 +41,4 @@ There is a document for python code formatting standards
 
 ### Code Snippets
 
+Python Extension comes with some python snippets out of box
