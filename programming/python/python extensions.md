@@ -21,6 +21,8 @@ There are other implementations of python (like how javascript has different run
 - IronPython is python implemented in C#
 - PyPy is a subset of Python
 
+F9 adds a breakpoint on your current line
+
 ### CPython
 If you have code written in C, you convert the C code into machine code
 
