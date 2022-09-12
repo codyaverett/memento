@@ -320,7 +320,7 @@
       "links": 0
     },
     "programming/python/python basics.md": {
-      "size": 3112,
+      "size": 3729,
       "tags": 0,
       "links": 0
     },
@@ -345,7 +345,7 @@
       "Refactor": 6,
       "Create": 21,
       "Link": 3,
-      "Expand": 21
+      "Expand": 22
     }
   },
   "dailyCommits": {
@@ -365,7 +365,7 @@
       "12": 0,
       "13": 0,
       "14": 6,
-      "15": 1,
+      "15": 2,
       "16": 9,
       "17": 3,
       "18": 0,
@@ -378,7 +378,7 @@
   },
   "weeklyCommits": {
     "/": {
-      "Mon": 14,
+      "Mon": 15,
       "Tue": 2,
       "Wed": 4,
       "Thu": 4,
@@ -408,6 +408,7 @@
         "<a class=\"internal-link\" href=\"personal/job-hunting/Federal-reserve-bank-topics.md\"> Federal-reserve-bank-topics </a>",
         "<a class=\"internal-link\" href=\"personal/job-hunting/Federal-reserve-bank-topics.md\"> Federal-reserve-bank-topics </a>",
         "<a class=\"internal-link\" href=\"personal/job-hunting/Federal-reserve-bank-topics.md\"> Federal-reserve-bank-topics </a>",
+        "<a class=\"internal-link\" href=\"programming/python/python basics.md\"> python basics </a>",
         "<a class=\"internal-link\" href=\"programming/python/python basics.md\"> python basics </a>",
         "<a class=\"internal-link\" href=\"programming/python/python basics.md\"> python basics </a>",
         "<a class=\"internal-link\" href=\"programming/python/python basics.md\"> python basics </a>"

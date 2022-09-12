@@ -158,7 +158,7 @@ names[0] = "Coddeeee"
 print(names[0:3]) # ["Coddeeee", "John", "Bob"]
 ```
 
-Strings in python are objects
+Strings in python are objects and are immutable
 
 ```python
 "a".upper()
@@ -186,6 +186,30 @@ while i < len(numbers):
 	i += 1
 ```
 
+### Escape sequences
+```python
+# \"
+# \'
+# \\\
+# \n
+```
+
+Triple Quotes!
+```python
+message = """Python
+is awesome
+"""
+```
+
+### Formatted Strings
+Similar to template strings in typescript
+the values in the {} can be any python expression
+```python
+first = "Cody"
+last = "Averett"
+full = f"{first} {last}"
+print(full)
+```
 
 ## Range function
 Used to generate a sequence of numbers
