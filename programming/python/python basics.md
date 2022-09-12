@@ -28,6 +28,11 @@ print(age)
 name = input("What is your name? ") # Prompts CLI user for input
 print("Hello " + name)
 
+value = input("What is your birth year? ")
+age = 2022 - int(value) # Coherse the value to an integer
+print("Your age is " + str(age))
+# float(val) convert value to float
+# bool()
 
 
 ```
