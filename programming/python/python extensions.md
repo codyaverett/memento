@@ -8,6 +8,9 @@ Finds potential issues in your code
 
 Change your python environment to use python 3.x
 
+[https://www.python.org/dev/peps/pep-0008/](https://www.python.org/dev/peps/pep-0008/)
+
+
 ### Degugging
 
 ### Autocompletion
