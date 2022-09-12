@@ -45,6 +45,18 @@ print("Total is " + str(sum))
 Python has a lot of built in functions see a complete list in the python docs
 [https://docs.python.org/3/library/functions.html](https://docs.python.org/3/library/functions.html)
 
+### Truthy and Falsy Values
+
+```python
+# Falsy
+# ""
+# 0
+# []
+# None (null)
+```
+
+
+
 ## Dynamic Typing
 
 ```python
