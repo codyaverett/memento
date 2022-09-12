@@ -211,6 +211,26 @@ full = f"{first} {last}"
 print(full)
 ```
 
+![[Pasted image 20220912150606.png]]
+
+### Numbers
+Binary numbers
+
+```python
+x = 10
+x = 0b10
+print(bin(x)) # 0b10
+
+x = 0x12c
+print(hex(x)) # 0x12c
+
+#complex numbers
+# j represents a complex number
+x = 1 + 2j
+print(x) # (1+2j)
+```
+
+
 ## Range function
 Used to generate a sequence of numbers
 

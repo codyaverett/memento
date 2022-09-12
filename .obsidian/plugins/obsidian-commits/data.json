@@ -322,7 +322,7 @@
     "programming/python/python basics.md": {
       "size": 3729,
       "tags": 0,
-      "links": 0
+      "links": 1
     },
     "personal/job-hunting/Federal-reserve-bank-topics.md": {
       "size": 5216,
@@ -344,7 +344,7 @@
     "/": {
       "Refactor": 6,
       "Create": 21,
-      "Link": 3,
+      "Link": 4,
       "Expand": 22
     }
   },
@@ -365,7 +365,7 @@
       "12": 0,
       "13": 0,
       "14": 6,
-      "15": 2,
+      "15": 3,
       "16": 9,
       "17": 3,
       "18": 0,
@@ -378,7 +378,7 @@
   },
   "weeklyCommits": {
     "/": {
-      "Mon": 15,
+      "Mon": 16,
       "Tue": 2,
       "Wed": 4,
       "Thu": 4,
@@ -452,7 +452,8 @@
       ],
       "Linked": [
         "<a class=\"internal-link\" href=\"programming/haskell/working with lists.md\"> working with lists </a>",
-        "<a class=\"internal-link\" href=\"programming/python/python extensions.md\"> python extensions </a>"
+        "<a class=\"internal-link\" href=\"programming/python/python extensions.md\"> python extensions </a>",
+        "<a class=\"internal-link\" href=\"programming/python/python basics.md\"> python basics </a>"
       ],
       "Removed Tags from": [],
       "Removed Links from": []
