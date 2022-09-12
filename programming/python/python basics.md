@@ -43,6 +43,10 @@ print("Total is " + str(sum))
 
 ## Dynamic Typing
 
+```python
+students_count = 1000
+print(type(students_count)) # <class 'int'>
+```
 
 ## Operators
 ```python
