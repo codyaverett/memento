@@ -154,6 +154,22 @@ else:
 print("Done")	
 ```
 
+### Ternary Operator
+It's simpler than in other traditional C based languages
+```python
+# Normal way without ternary ops
+age = 22
+if age >= 18:
+	message = "Eligible"
+else:
+	message = "Not Eligible"
+
+# With ternary
+message = "Eligible" if age >= 18 else "Not Eligible"
+
+print(message)
+```
+
 ## While loops
 ```python
 i = 1
