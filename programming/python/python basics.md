@@ -55,7 +55,15 @@ Python has a lot of built in functions see a complete list in the python docs
 # None (null)
 ```
 
-
+### Empty Code blocks
+empty code blocks can be implemented using the special `pass` keyword
+```python
+is_valid = true
+if is_valid:
+	pass
+else:
+	pass
+```
 
 ## Dynamic Typing
 
