@@ -320,7 +320,7 @@
       "links": 0
     },
     "programming/python/python basics.md": {
-      "size": 0,
+      "size": 3112,
       "tags": 0,
       "links": 0
     },
@@ -333,14 +333,19 @@
       "size": 0,
       "tags": 0,
       "links": 0
+    },
+    "programming/python/python extensions.md": {
+      "size": 0,
+      "tags": 0,
+      "links": 0
     }
   },
   "commitTypes": {
     "/": {
-      "Refactor": 5,
-      "Create": 20,
+      "Refactor": 6,
+      "Create": 21,
       "Link": 2,
-      "Expand": 18
+      "Expand": 21
     }
   },
   "dailyCommits": {
@@ -359,7 +364,7 @@
       "11": 5,
       "12": 0,
       "13": 0,
-      "14": 0,
+      "14": 5,
       "15": 1,
       "16": 9,
       "17": 3,
@@ -373,7 +378,7 @@
   },
   "weeklyCommits": {
     "/": {
-      "Mon": 8,
+      "Mon": 13,
       "Tue": 2,
       "Wed": 4,
       "Thu": 4,
@@ -402,7 +407,10 @@
         "<a class=\"internal-link\" href=\"personal/job-hunting/Federal-reserve-bank-topics.md\"> Federal-reserve-bank-topics </a>",
         "<a class=\"internal-link\" href=\"personal/job-hunting/Federal-reserve-bank-topics.md\"> Federal-reserve-bank-topics </a>",
         "<a class=\"internal-link\" href=\"personal/job-hunting/Federal-reserve-bank-topics.md\"> Federal-reserve-bank-topics </a>",
-        "<a class=\"internal-link\" href=\"personal/job-hunting/Federal-reserve-bank-topics.md\"> Federal-reserve-bank-topics </a>"
+        "<a class=\"internal-link\" href=\"personal/job-hunting/Federal-reserve-bank-topics.md\"> Federal-reserve-bank-topics </a>",
+        "<a class=\"internal-link\" href=\"programming/python/python basics.md\"> python basics </a>",
+        "<a class=\"internal-link\" href=\"programming/python/python basics.md\"> python basics </a>",
+        "<a class=\"internal-link\" href=\"programming/python/python basics.md\"> python basics </a>"
       ],
       "Created": [
         "<a class=\"internal-link\" href=\"daily/08-11-22.md\"> 08-11-22 </a>",
@@ -424,12 +432,14 @@
         "<a class=\"internal-link\" href=\"programming/frontend/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"programming/python/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"personal/job-hunting/Untitled.md\"> Untitled </a>",
-        "<a class=\"internal-link\" href=\"programming/SQL/Untitled.md\"> Untitled </a>"
+        "<a class=\"internal-link\" href=\"programming/SQL/Untitled.md\"> Untitled </a>",
+        "<a class=\"internal-link\" href=\"programming/python/Untitled.md\"> Untitled </a>"
       ],
       "Renamed": [
         "<a class=\"internal-link\" href=\"programming/haskell/haskell lists.md\"> haskell lists </a>",
         "<a class=\"internal-link\" href=\"programming/haskell/haskell list functions.md\"> haskell list functions </a>",
-        "<a class=\"internal-link\" href=\"personal/job-hunting/interesting jobhunt finds.md\"> interesting jobhunt finds </a>"
+        "<a class=\"internal-link\" href=\"personal/job-hunting/interesting jobhunt finds.md\"> interesting jobhunt finds </a>",
+        "<a class=\"internal-link\" href=\"programming/python/python extensions.md\"> python extensions </a>"
       ],
       "Tagged": [
         "<a class=\"internal-link\" href=\"personal/job-hunting/jb-hunt-topics.md\"> jb-hunt-topics </a>"
