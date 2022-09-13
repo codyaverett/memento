@@ -1,10 +1,10 @@
 # Functional python programming
 
 
-## Mapping over itterables
+## Mapping over iterables
 Applying functions to Items with `Map()``
 
-Map is a function that accepts a function and then an itterable
+Map is a function that accepts a function and then an iterable
 
 ```python
 >>> list(map(lambda x: x + "buzz", ["how ", "do ", "you ", "do "]))
