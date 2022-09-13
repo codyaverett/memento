@@ -1,3 +1,7 @@
+---
+tags: python
+---
+
 ## Variables
 ```python
 a = 1       # integer
@@ -9,62 +13,49 @@ e = True    # boolean (True / False)
 
 ## Strings
 ```python
+x = “Python”
+len(x)
 
+x[0]
+x[-1]
+x[0:3]
+
+# Formatted strings
+name = f”{first} {last}”
+
+# Escape sequences
+\” \’ \\ \n
+
+# String methods
+x.upper()
+x.lower()
+x.title()
+x.strip()
+x.find(“p”)
+x.replace(“a”, “b”)
+
+a in x
 ```
-`x` `=` `“Python”`
-
-`len``(x)`
-
-`x[``0``]`
-
-`x[``-``1``]`
-
-`x[``0``:``3``]`
-
-`# Formatted strings`
-
-`name` `=` `f”{first} {last}”`
-
-`# Escape sequences`
-
-`\” \’ \\ \n`
-
-`# String methods`
-
-`x.upper()`
-
-`x.lower()`
-
-`x.title()`
-
-`x.strip()`
-
-`x.find(“p”)`
-
-`x.replace(“a”, “b”)`
-
-`“a”` `in` `x`
 
 ## Type Conversion
 
-`int``(x)` 
-
-`float``(x)`
-
-`bool``(x)`
-
-`string(x)`
+```python
+int(x)
+float(x)
+bool(x)
+str(x)
+```
 
 ## Falsy Values
-
-`0`
-
-`“”`
-
-`[]`
+```python
+0
+""
+[]
+None
+```
 
 ## Conditional Statements
-
+```python
 `if` `x` `=``=` `1``:` 
 
     `print``(“a”)`
@@ -84,9 +75,11 @@ e = True    # boolean (True / False)
 `# Chaining comparison operators`
 
 `if` `18` `<``=` `age <` `65``:`
+```
+
 
 ## Loops
-
+```python
 `for` `n` `in` `range``(``1``,` `10``):`
 
     `print``(n)`
@@ -96,9 +89,10 @@ e = True    # boolean (True / False)
     `print``(n)`
 
     `n` `+``=` `1`
+```
 
 ## Functions
-
+```python
 `def` `increment(number, by``=``1``):`  
 
     `return` `number` `+` `by`
@@ -124,9 +118,11 @@ e = True    # boolean (True / False)
     `...`
 
 `save_user(``id``=``1``, name``=``"Mosh"``)`
+```
 
 ## Lists
 
+```python
 `# Creating lists`
 
 `letters` `=` `[``"a"``,` `"b"``,` `"c"``]`    
@@ -237,7 +233,10 @@ e = True    # boolean (True / False)
 
 `combined` `=` `list``(``zip``(list1, list2))`    `# [(1, 10), (2, 20)]`
 
+```
+
 ## Tuples
+```python
 `point` `=` `(``1``,` `2``,` `3``)`
 
 `point(``0``:``2``)`     `# (1, 2)`
@@ -255,15 +254,17 @@ e = True    # boolean (True / False)
 `y` `=` `11`
 
 `x, y` `=` `y, x`
+```
 
 ## Arrays
-
+```python
 `from` `array` `import` `array`
 
 `numbers` `=` `array(``"i"``, [``1``,` `2``,` `3``])`
+```
 
 ## Sets
-
+```python
 `first` `=` `{``1``,` `2``,` `3``,` `4``}`
 
 `second` `=` `{``1``,` `5``}`
@@ -279,9 +280,11 @@ e = True    # boolean (True / False)
 `if` `1` `in` `first:`
 
     `...`
+```
 
 ## Dictionaries
 
+```python
 `point` `=` `{``"x"``:` `1``,` `"y"``:` `2``}`
 
 `point` `=` `dict``(x``=``1``, y``=``2``)`
@@ -303,17 +306,21 @@ e = True    # boolean (True / False)
 `# Dictionary comprehensions`
 
 `values` `=` `{x: x` `*` `2` `for` `x` `in` `range``(``5``)}`
+```
+
 
 ## Generator Expressions
-
+```python
 `values` `=` `(x` `*` `2` `for` `x` `in` `range``(``10000``))`
 
 `len``(values)`  `# Error`
 
 `for` `x` `in` `values:`
+```
+
 
 ## Unpacking Operator
-
+```python
 `first` `=` `[``1``,` `2``,` `3``]`
 
 `second` `=` `[``4``,` `5``,` `6``]`
@@ -325,42 +332,40 @@ e = True    # boolean (True / False)
 `second` `=` `{``"y"``:` `2``}`
 
 `combined` `=` `{``*``*``first,` `*``*``second}`
+```
+
 
 ## Exceptions
 
-`# Handling Exceptions`
+```python
+# Handling Exceptions
+try:
+	…
 
-`try``:`
+except(ValueError, ZeroDivisionError):
+	…
 
-  `…` 
+else:
+  # no exceptions raised
 
-`except` `(ValueError, ZeroDivisionError):`
+finally:
+	# cleanup code`
 
-  `…`
+# Raising exceptions
 
-`else``:`
+if x < 1:  
+	raise ValueError(“…”)
 
-  `# no exceptions raised`
+# The with statement
 
-`finally``:`
-
-  `# cleanup code`
-
-`# Raising exceptions`
-
-`if` `x <` `1``:`     
-
-    `raise` `ValueError(“…”)`
-
-`# The with statement`
-
-`with` `open``(“``file``.txt”) as` `file``:`    
-
-   `…`
+with open(“file.txt”) as file:
+	…
+	
+```
 
 ## Classes
-
-`# Creating classes`
+```python
+# Creating classes
 
 `class` `Point:`
 
@@ -471,3 +476,4 @@ e = True    # boolean (True / False)
 `Point` `=` `namedtuple(“Point”, [“x”, “y”])`
 
 `point` `=` `Point(x``=``1``, y``=``2``)`
+```

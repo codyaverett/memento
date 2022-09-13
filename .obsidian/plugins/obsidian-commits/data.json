@@ -336,11 +336,41 @@
     },
     "programming/python/python extensions.md": {
       "size": 0,
-      "tags": 0,
+      "tags": 1,
       "links": 1
     },
     "programming/python/python cheatsheet.md": {
       "size": 8035,
+      "tags": 1,
+      "links": 0
+    },
+    "daily/09-12-22.md": {
+      "size": 0,
+      "tags": 0,
+      "links": 0
+    },
+    "programming/python/useful python standard library modules.md": {
+      "size": 2628,
+      "tags": 0,
+      "links": 0
+    },
+    "programming/python/python programming.md": {
+      "size": 0,
+      "tags": 0,
+      "links": 0
+    },
+    "explorer.ergoplatform.com.md": {
+      "size": 0,
+      "tags": 0,
+      "links": 0
+    },
+    "programming/python/common python programming errors.md": {
+      "size": 0,
+      "tags": 0,
+      "links": 0
+    },
+    "programming/python/documenting python code with sphinx.md": {
+      "size": 0,
       "tags": 0,
       "links": 0
     }
@@ -348,9 +378,9 @@
   "commitTypes": {
     "/": {
       "Refactor": 6,
-      "Create": 22,
-      "Link": 4,
-      "Expand": 26
+      "Create": 28,
+      "Link": 6,
+      "Expand": 27
     }
   },
   "dailyCommits": {
@@ -374,8 +404,8 @@
       "16": 9,
       "17": 3,
       "18": 0,
-      "19": 2,
-      "20": 2,
+      "19": 9,
+      "20": 4,
       "21": 1,
       "22": 0,
       "23": 1
@@ -383,7 +413,7 @@
   },
   "weeklyCommits": {
     "/": {
-      "Mon": 21,
+      "Mon": 30,
       "Tue": 2,
       "Wed": 4,
       "Thu": 4,
@@ -420,7 +450,8 @@
         "<a class=\"internal-link\" href=\"programming/python/python basics.md\"> python basics </a>",
         "<a class=\"internal-link\" href=\"programming/python/python basics.md\"> python basics </a>",
         "<a class=\"internal-link\" href=\"programming/python/python basics.md\"> python basics </a>",
-        "<a class=\"internal-link\" href=\"programming/python/python cheatsheet.md\"> python cheatsheet </a>"
+        "<a class=\"internal-link\" href=\"programming/python/python cheatsheet.md\"> python cheatsheet </a>",
+        "<a class=\"internal-link\" href=\"programming/python/useful python standard library modules.md\"> useful python standard library modules </a>"
       ],
       "Created": [
         "<a class=\"internal-link\" href=\"daily/08-11-22.md\"> 08-11-22 </a>",
@@ -444,6 +475,12 @@
         "<a class=\"internal-link\" href=\"personal/job-hunting/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"programming/SQL/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"programming/python/Untitled.md\"> Untitled </a>",
+        "<a class=\"internal-link\" href=\"programming/python/Untitled.md\"> Untitled </a>",
+        "<a class=\"internal-link\" href=\"daily/09-12-22.md\"> 09-12-22 </a>",
+        "<a class=\"internal-link\" href=\"programming/python/Untitled.md\"> Untitled </a>",
+        "<a class=\"internal-link\" href=\"programming/python/Untitled.md\"> Untitled </a>",
+        "<a class=\"internal-link\" href=\"explorer.ergoplatform.com.md\"> explorer.ergoplatform.com </a>",
+        "<a class=\"internal-link\" href=\"programming/python/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"programming/python/Untitled.md\"> Untitled </a>"
       ],
       "Renamed": [
@@ -453,7 +490,9 @@
         "<a class=\"internal-link\" href=\"programming/python/python extensions.md\"> python extensions </a>"
       ],
       "Tagged": [
-        "<a class=\"internal-link\" href=\"personal/job-hunting/jb-hunt-topics.md\"> jb-hunt-topics </a>"
+        "<a class=\"internal-link\" href=\"personal/job-hunting/jb-hunt-topics.md\"> jb-hunt-topics </a>",
+        "<a class=\"internal-link\" href=\"programming/python/python extensions.md\"> python extensions </a>",
+        "<a class=\"internal-link\" href=\"programming/python/python cheatsheet.md\"> python cheatsheet </a>"
       ],
       "Refactored": [],
       "Deleted": [
