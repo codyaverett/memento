@@ -245,3 +245,5 @@ Install in project root with pipenv
 ```shell
 pipenv install django-debug-toolbar
 ```
+
+Add `debug_toolbar` to your Django project settings file
