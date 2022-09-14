@@ -165,6 +165,16 @@ Superuser created successfully.
 (.venv) (base) ---------------------------------------------------------------------------------------------
 ```
 
+## Database Tables
+```shell
+sqlite> .tables
+auth_group                  auth_user_user_permissions
+auth_group_permissions      django_admin_log          
+auth_permission             django_content_type       
+auth_user                   django_migrations         
+auth_user_groups            django_session   
+```
+
 ## App Views
 
 - HTTP requests are a request response protocol

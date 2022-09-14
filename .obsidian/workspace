@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "programming/python/ansible for network automation.md",
+            "file": "programming/python/DJango quick reference.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "programming/python/ansible for network automation.md",
+                "file": "programming/python/DJango quick reference.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,7 +87,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "programming/python/ansible for network automation.md"
+                "file": "programming/python/DJango quick reference.md"
               }
             }
           },
@@ -119,15 +119,15 @@
   },
   "active": "1c392326fcff0a8d",
   "lastOpenFiles": [
-    "programming/python/python module search path.md",
-    "Python research.md",
-    "python packaging.md",
-    "python special strings.md",
-    "programming/python/DJango quick reference.md",
-    "programming/python/python basics.md",
-    "programming/python/django container.md",
     "programming/python/django testing.md",
+    "programming/python/convert an image to ASCII art.md",
+    "programming/python/django container.md",
+    "programming/python/DJango quick reference.md",
+    "programming/python/documenting python code with sphinx.md",
+    "programming/python/functional python programming.md",
+    "programming/python/python basics.md",
     "programming/python/python cheatsheet.md",
-    "programming/python/python extensions.md"
+    "programming/python/python extensions.md",
+    "programming/python/python module search path.md"
   ]
 }
