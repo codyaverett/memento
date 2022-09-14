@@ -41,6 +41,20 @@ print("Total is " + str(sum))
 
 ```
 
+## Python Virtual Environment
+```shell
+$ python -m venv venv 
+$ echo venv/ >> .gitignore 
+$ source venv/bin/activate
+```
+
+## Requirements (dependencies)
+```shell
+$ echo martor >> requirements.txt
+$ echo gunicorn >> requirements.txt
+$ pip install -r requirements.txt
+```
+
 ### Built-in Functions
 Python has a lot of built in functions see a complete list in the python docs
 [https://docs.python.org/3/library/functions.html](https://docs.python.org/3/library/functions.html)
