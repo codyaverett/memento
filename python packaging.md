@@ -8,10 +8,10 @@ realpython-reader/
 │
 ├── src/
 │   └── reader/
-│       ├── __init__.py
-│       ├── __main__.py
-│       ├── config.toml
-│       ├── feed.py
+│       ├── __init__.py # keep small, but represens package root and can specify package constants/docs/etc
+│       ├── __main__.py # main entry for the package
+│       ├── config.toml # Configuration file for package TOML key value pairs
+│       ├── feed.py # 
 │       └── viewer.py
 │
 ├── tests/
@@ -30,3 +30,5 @@ realpython-reader/
 # Assuming reader is installed
 python -m reader
 ```
+
+When the `-m` flag is used, python is actually looking for a special file named `__main__.py`
