@@ -15,6 +15,8 @@ class Product(models.Model):
 	# There are lots of other types of fields
 ```
 
+[Field Types](https://docs.djangoproject.com/en/4.1/ref/models/fields/#field-types)
+
 ## Update models
 
 ```shell
