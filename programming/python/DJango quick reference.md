@@ -199,3 +199,42 @@ urlpatterns = [
 ```
 
 ## Templates
+Templates are simple html files.
+
+Put HTML files in your app `template` directory.  You will reference the file by name
+
+Use a view to render your HTML template
+
+### views.py
+```python
+from django.shortcuts import render
+from django.http import HttpResponse
+
+def say_hello(request) -> HttpResponse:
+	return HttpResponse('Hello World')
+
+def say_hello_to(request, name) -> HttpResponse:
+	return render(request, 'hello.html', {'name': name})
+```
+
+### urls.py
+```python
+from django.urls import path
+from . import views
+
+urlpatterns = [
+	path('hello/', views.say_hello),
+	path('hello/<name>/', views.say_hello_to),
+]
+```
+
+### template/hello.html
+Variables passed from the view render function will be interpolated in the html file below
+```html
+<html>
+	<body>
+		<div>omg, hi {{name}}</div>
+	</body>
+</html>
+```
+
