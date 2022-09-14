@@ -282,3 +282,14 @@ Used to store and retrieve data
 - coding model classes
 
 ### Data modeling
+
+![[Pasted image 20220914012020.png]]
+
+**Ids are added by DJango by default
+
+### Types of relationships
+- 1 to 1
+- 1 to many
+- many to many
+
+ n 
