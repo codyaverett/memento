@@ -167,3 +167,34 @@ def say_hello(request) -> HttpResponse:
 	#...
 	return HttpResponse('Hello World')
 ```
+
+## Map View to url
+
+### urls.py
+module to map urls to views
+
+```python
+from django.urls import path
+from . import views
+
+# URL Conf module
+urlpatterns = [
+	path('hello/', views.say_hello)
+]
+```
+
+Need to import into the main app url conf
+
+### main project storefront>urls.py
+```python
+# need to include include from django urls
+from django.urls import path, include
+from playground import 
+
+urlpatterns = [
+
+	path('playground/', include('playground.urls'))
+]
+```
+
+## Templates
