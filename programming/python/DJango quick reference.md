@@ -27,6 +27,7 @@ pipenv --venv # get the pipenv directory easily
 Installing to a virtual environment will separate your project dependencies in their own dependency store
 
 ## VSCode
+[guide](https://code.visualstudio.com/docs/python/tutorial-django)
 Set python interpretor in settings.json
 
 ```json
