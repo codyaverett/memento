@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "ca1264d38d81d7eb",
+        "id": "6dfbb566c44d0463",
         "type": "leaf",
         "state": {
           "type": "empty",
@@ -109,10 +109,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "ca1264d38d81d7eb",
+  "active": "33a2bab88d111215",
   "lastOpenFiles": [
-    "django data migrations.md",
-    "django class models.md",
+    "programming/python/django data migrations.md",
+    "programming/python/django class models.md",
     "programming/python/DJango quick reference.md",
     "programming/python/django testing.md",
     "programming/python/convert an image to ASCII art.md",
