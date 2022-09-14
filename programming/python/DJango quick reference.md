@@ -10,7 +10,7 @@
 	- Keys
 	- Relationships
 
-## Install
+## Install django and basic commands
 
 ```bash
 pip3 install pipenv
@@ -20,9 +20,20 @@ pipenv install django
 pipenv shell # use the pipenv context
 
 django-admin
+
+pipenv --venv # get the pipenv directory easily
 ```
 
 Installing to a virtual environment will separate your project dependencies in their own dependency store
+
+## VSCode
+Set python interpretor in settings.json
+
+```json
+{
+	"python.pythonPath": "blah blah"
+}
+```
 
 ### The pipfile
 similar to package.json in javascript projects 
@@ -90,7 +101,7 @@ django-admin startproject storefront .  # create a django storefront project in 
 (django) (base) ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ```
 
-Start the server with local project settings and DEBUG
+### Start the server with local project settings and DEBUG
 ```bash
 python manage.py runserver 9000 # start on port 9000
 ```
