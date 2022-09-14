@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "python special strings.md",
+            "file": "python packaging.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "python special strings.md",
+                "file": "python packaging.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,7 +87,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "python special strings.md"
+                "file": "python packaging.md"
               }
             }
           },
@@ -119,6 +119,7 @@
   },
   "active": "2329db3b24cb2b46",
   "lastOpenFiles": [
+    "python special strings.md",
     "programming/python/DJango quick reference.md",
     "programming/python/python basics.md",
     "programming/python/django container.md",
@@ -127,7 +128,6 @@
     "programming/python/python extensions.md",
     "programming/python/python os module.md",
     "programming/python/convert an image to ASCII art.md",
-    "programming/python/functional python programming.md",
-    "programming/python/documenting python code with sphinx.md"
+    "programming/python/functional python programming.md"
   ]
 }
