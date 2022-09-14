@@ -4,16 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "1c392326fcff0a8d",
+        "id": "ca1264d38d81d7eb",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "django class models.md",
-            "mode": "source",
-            "backlinks": false,
-            "source": false
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -70,7 +65,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "django class models.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,9 +80,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "django class models.md"
-              }
+              "state": {}
             }
           },
           {
@@ -117,8 +109,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "1c392326fcff0a8d",
+  "active": "ca1264d38d81d7eb",
   "lastOpenFiles": [
+    "django data migrations.md",
+    "django class models.md",
     "programming/python/DJango quick reference.md",
     "programming/python/django testing.md",
     "programming/python/convert an image to ASCII art.md",
@@ -126,8 +120,6 @@
     "programming/python/documenting python code with sphinx.md",
     "programming/python/functional python programming.md",
     "programming/python/python basics.md",
-    "programming/python/python cheatsheet.md",
-    "programming/python/python extensions.md",
-    "programming/python/python module search path.md"
+    "programming/python/python cheatsheet.md"
   ]
 }

@@ -63,3 +63,4 @@ python manage.py shell
 >>> Product.objects.create(title='New prod 2', description='anoth', price='245', summary='woohoo')
 >>> 
 ```
+
