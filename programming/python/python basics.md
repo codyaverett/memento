@@ -41,6 +41,9 @@ print("Total is " + str(sum))
 
 ```
 
+## VSCode
+[environment setup](https://code.visualstudio.com/docs/python/environments)
+
 ## Python Virtual Environment
 ```shell
 $ python -m venv venv 
