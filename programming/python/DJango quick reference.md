@@ -10,4 +10,12 @@
 	- Keys
 	- Relationships
 
+## Install
+
+```bash
+pipenv install django
+```
+
+Installing to a virtual environment will separate your project dependencies in their own dependency store
+
 ## 
