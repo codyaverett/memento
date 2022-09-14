@@ -252,3 +252,32 @@ The debug toolbar will only appear when DJango is responding with a valid HTML d
 
 e.g.
 Valid HTML, Body tags
+
+Also, DJango debug toolbar will only appear to the addresses assigned in the `INTERNAL_IPS` array of project settings
+
+### Very Useful tools the debug toolbar has!
+- History
+- Versions
+- Time
+- Settings
+- Headers
+- Request
+- SQL
+- Static files
+- Templates
+- Cache
+- Signals
+- Logging
+- Intercept redirects
+- Profiling
+
+## Models
+
+Used to store and retrieve data
+
+- data modeling
+- building out data model
+- organizing models in apps
+- coding model classes
+
+### Data modeling
