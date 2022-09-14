@@ -292,4 +292,20 @@ Used to store and retrieve data
 - 1 to many
 - many to many
 
- 
+### Organizing Models in Apps
+
+#### 1: Create a single DJango app
+ Way 1, create a single DJango app called a Store and drop all entities here
+ - PRO: Can distribute this app through a pip
+ - CON: As the app grows it can become a monolith/ hard to maintain, understand and reuse
+
+#### 2: Create smaller apps
+- Breaking down the app too small can create a dependency mess!
+- Each app should be self contained
+- Dependencies could result in breaking changes
+- Group together similar functionality!
+
+#### 3. Separate out abstract concepts
+- Tags and TaggedItems are not dependent on app specific 
+- Minimal couplign
+- High Cohesion (Focus)
