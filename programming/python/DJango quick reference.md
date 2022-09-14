@@ -106,3 +106,64 @@ django-admin startproject storefront .  # create a django storefront project in 
 python manage.py runserver 9000 # start on port 9000
 ```
 
+## Apps
+
+Django projects include apps by default
+
+### settings.py
+```python
+INSTALLED_APPS = [
+	'django.contrib.admin',
+	'django.contrib.auth',
+	'django.contrib.contenttypes',
+	'django.contrib.sessions', # not usually 
+	'django.contrib.messages',
+	'django.contrib.staticfiles', # serving images and other static files
+	'playground' # Created in the next section below
+]
+```
+
+### Create your own app
+```shell
+python manage.py startapp playground
+
+~/Projects/play/django/storefront/playground » tree                                                                           caavere@Codys-MacBook-Pro
+.
+├── __init__.py
+├── admin.py
+├── apps.py  # You can consider this an "app" configuration file
+├── migrations
+│   └── __init__.py
+├── models.py
+├── tests.py
+└── views.py
+
+1 directory, 7 files
+(base) -------------------------------------------------------------------------------------------------------------------------------------------------
+```
+
+After it is created, you can include it in another DJango project.
+Every DJango app has the same folder structure
+
+
+## App Views
+
+- HTTP requests are a request response protocol
+
+### views.py
+```python
+from django.shortcuts import render
+from django.http import HttpResponse
+
+# Create your views here.
+# request -> response
+# request handler
+# action
+
+def say_hello(request) -> HttpResponse:
+	# Pull data from db
+	# Transform
+	# Send email
+	#...
+	return HttpResponse('Hello World')
+```
