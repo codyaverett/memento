@@ -310,7 +310,7 @@
       "links": 0
     },
     "programming/python/DJango quick reference.md": {
-      "size": 5432,
+      "size": 6330,
       "tags": 0,
       "links": 0
     },
@@ -400,13 +400,13 @@
       "Refactor": 7,
       "Create": 32,
       "Link": 6,
-      "Expand": 35
+      "Expand": 36
     }
   },
   "dailyCommits": {
     "/": {
       "0": 15,
-      "1": 3,
+      "1": 4,
       "2": 0,
       "3": 0,
       "4": 1,
@@ -435,7 +435,7 @@
     "/": {
       "Mon": 30,
       "Tue": 10,
-      "Wed": 9,
+      "Wed": 10,
       "Thu": 4,
       "Fri": 24,
       "Sat": 0,
@@ -479,7 +479,8 @@
         "<a class=\"internal-link\" href=\"programming/python/DJango quick reference.md\"> DJango quick reference </a>",
         "<a class=\"internal-link\" href=\"programming/python/django container.md\"> django container </a>",
         "<a class=\"internal-link\" href=\"programming/python/python basics.md\"> python basics </a>",
-        "<a class=\"internal-link\" href=\"programming/python/django container.md\"> django container </a>"
+        "<a class=\"internal-link\" href=\"programming/python/django container.md\"> django container </a>",
+        "<a class=\"internal-link\" href=\"programming/python/DJango quick reference.md\"> DJango quick reference </a>"
       ],
       "Created": [
         "<a class=\"internal-link\" href=\"daily/08-11-22.md\"> 08-11-22 </a>",
