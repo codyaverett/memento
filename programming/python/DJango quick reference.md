@@ -146,6 +146,24 @@ python manage.py startapp playground
 After it is created, you can include it in another DJango project.
 Every DJango app has the same folder structure
 
+## Create super user
+Ensure all migration operations have been completed
+```shell
+~/Projects/play/django/storefront (main*) » python manage.py migrate              caavere@Codys-MacBook-Pro
+Operations to perform:
+  Apply all migrations: admin, auth, contenttypes, sessions
+Running migrations:
+  No migrations to apply.
+(.venv) (base) ---------------------------------------------------------------------------------------------
+
+~/Projects/play/django/storefront (main*) » python manage.py createsuperuser      caavere@Codys-MacBook-Pro
+Username (leave blank to use 'caavere'): 
+Email address: codyaverett@gmail.com
+Password: 
+Password (again): 
+Superuser created successfully.
+(.venv) (base) ---------------------------------------------------------------------------------------------
+```
 
 ## App Views
 
