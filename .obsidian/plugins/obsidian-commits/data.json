@@ -310,7 +310,7 @@
       "links": 0
     },
     "programming/python/DJango quick reference.md": {
-      "size": 2433,
+      "size": 3855,
       "tags": 0,
       "links": 0
     },
@@ -390,7 +390,7 @@
       "Refactor": 7,
       "Create": 30,
       "Link": 6,
-      "Expand": 28
+      "Expand": 30
     }
   },
   "dailyCommits": {
@@ -417,14 +417,14 @@
       "19": 9,
       "20": 4,
       "21": 1,
-      "22": 3,
+      "22": 5,
       "23": 1
     }
   },
   "weeklyCommits": {
     "/": {
       "Mon": 30,
-      "Tue": 6,
+      "Tue": 8,
       "Wed": 4,
       "Thu": 4,
       "Fri": 24,
@@ -462,6 +462,8 @@
         "<a class=\"internal-link\" href=\"programming/python/python basics.md\"> python basics </a>",
         "<a class=\"internal-link\" href=\"programming/python/python cheatsheet.md\"> python cheatsheet </a>",
         "<a class=\"internal-link\" href=\"programming/python/useful python standard library modules.md\"> useful python standard library modules </a>",
+        "<a class=\"internal-link\" href=\"programming/python/DJango quick reference.md\"> DJango quick reference </a>",
+        "<a class=\"internal-link\" href=\"programming/python/DJango quick reference.md\"> DJango quick reference </a>",
         "<a class=\"internal-link\" href=\"programming/python/DJango quick reference.md\"> DJango quick reference </a>"
       ],
       "Created": [
