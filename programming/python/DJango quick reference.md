@@ -309,3 +309,7 @@ Used to store and retrieve data
 - Tags and TaggedItems are not dependent on app specific 
 - Minimal couplign
 - High Cohesion (Focus)
+
+## Model Classes
+
+
