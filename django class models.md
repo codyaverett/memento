@@ -50,3 +50,14 @@ admin.site.register(Product)
 
 Profit!  You can manipulate the Product information directly from the DJango admin site.
 ![[Pasted image 20220914033351.png]]
+
+## Using the python shell to create Products
+
+```shell
+python manage.py shell
+
+>>> from products.models import Product
+>>> Product.objects.all()
+>>> Product.objects.create(title='New prod 2', description='anoth', price='245', summary='woohoo')
+>>> 
+```
