@@ -403,21 +403,31 @@
       "size": 0,
       "tags": 0,
       "links": 0
+    },
+    "Python research.md": {
+      "size": 0,
+      "tags": 0,
+      "links": 1
+    },
+    "programming/python/python module search path.md": {
+      "size": 2017,
+      "tags": 0,
+      "links": 0
     }
   },
   "commitTypes": {
     "/": {
       "Refactor": 7,
-      "Create": 34,
-      "Link": 8,
-      "Expand": 37
+      "Create": 36,
+      "Link": 9,
+      "Expand": 38
     }
   },
   "dailyCommits": {
     "/": {
       "0": 15,
       "1": 9,
-      "2": 0,
+      "2": 4,
       "3": 0,
       "4": 1,
       "5": 0,
@@ -445,7 +455,7 @@
     "/": {
       "Mon": 30,
       "Tue": 10,
-      "Wed": 15,
+      "Wed": 19,
       "Thu": 4,
       "Fri": 24,
       "Sat": 0,
@@ -491,7 +501,8 @@
         "<a class=\"internal-link\" href=\"programming/python/python basics.md\"> python basics </a>",
         "<a class=\"internal-link\" href=\"programming/python/django container.md\"> django container </a>",
         "<a class=\"internal-link\" href=\"programming/python/DJango quick reference.md\"> DJango quick reference </a>",
-        "<a class=\"internal-link\" href=\"programming/python/DJango quick reference.md\"> DJango quick reference </a>"
+        "<a class=\"internal-link\" href=\"programming/python/DJango quick reference.md\"> DJango quick reference </a>",
+        "<a class=\"internal-link\" href=\"programming/python/python module search path.md\"> python module search path </a>"
       ],
       "Created": [
         "<a class=\"internal-link\" href=\"daily/08-11-22.md\"> 08-11-22 </a>",
@@ -527,7 +538,9 @@
         "<a class=\"internal-link\" href=\"programming/python/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"programming/python/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"Untitled.md\"> Untitled </a>",
-        "<a class=\"internal-link\" href=\"Untitled.md\"> Untitled </a>"
+        "<a class=\"internal-link\" href=\"Untitled.md\"> Untitled </a>",
+        "<a class=\"internal-link\" href=\"Untitled.md\"> Untitled </a>",
+        "<a class=\"internal-link\" href=\"programming/python/Untitled.md\"> Untitled </a>"
       ],
       "Renamed": [
         "<a class=\"internal-link\" href=\"programming/haskell/haskell lists.md\"> haskell lists </a>",
@@ -551,7 +564,8 @@
         "<a class=\"internal-link\" href=\"programming/python/python extensions.md\"> python extensions </a>",
         "<a class=\"internal-link\" href=\"programming/python/python basics.md\"> python basics </a>",
         "<a class=\"internal-link\" href=\"programming/python/DJango quick reference.md\"> DJango quick reference </a>",
-        "<a class=\"internal-link\" href=\"python special strings.md\"> python special strings </a>"
+        "<a class=\"internal-link\" href=\"python special strings.md\"> python special strings </a>",
+        "<a class=\"internal-link\" href=\"Python research.md\"> Python research </a>"
       ],
       "Removed Tags from": [],
       "Removed Links from": []
