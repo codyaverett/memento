@@ -149,6 +149,7 @@ Every DJango app has the same folder structure
 ## App Views
 
 - HTTP requests are a request response protocol
+- Views are actually more like request handlers
 
 ### views.py
 ```python
