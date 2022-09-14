@@ -238,3 +238,10 @@ Variables passed from the view render function will be interpolated in the html 
 </html>
 ```
 
+## DJango debug toolbar
+
+Install in project root with pipenv
+
+```shell
+pipenv install django-debug-toolbar
+```

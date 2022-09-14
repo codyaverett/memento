@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "programming/python/django container.md",
+            "file": "programming/python/DJango quick reference.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "programming/python/django container.md",
+                "file": "programming/python/DJango quick reference.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,7 +87,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "programming/python/django container.md"
+                "file": "programming/python/DJango quick reference.md"
               }
             }
           },
@@ -117,8 +117,9 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "33a2bab88d111215",
+  "active": "2329db3b24cb2b46",
   "lastOpenFiles": [
+    "programming/python/django container.md",
     "programming/python/django testing.md",
     "programming/python/python basics.md",
     "programming/python/DJango quick reference.md",
@@ -127,7 +128,6 @@
     "programming/python/python os module.md",
     "programming/python/convert an image to ASCII art.md",
     "programming/python/functional python programming.md",
-    "programming/python/documenting python code with sphinx.md",
-    "programming/python/common python programming errors.md"
+    "programming/python/documenting python code with sphinx.md"
   ]
 }
