@@ -73,5 +73,25 @@ Note that only Django core commands are listed as settings are not properly conf
 ```shell
 django-admin startproject storefront .  # create a django storefront project in current directory
 
+~/Projects/play/django » tree                                                                                                                                          caavere@Codys-MacBook-Pro
+.
+├── Pipfile
+├── Pipfile.lock
+└── storefront
+    ├── manage.py # start the project with local settings
+    └── storefront
+        ├── __init__.py
+        ├── asgi.py
+        ├── settings.py
+        ├── urls.py
+        └── wsgi.py
+
+2 directories, 8 files
+(django) (base) ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+```
+
+Start the server with local project settings and DEBUG
+```bash
+python manage.py runserver 9000 # start on port 9000
 ```
 
