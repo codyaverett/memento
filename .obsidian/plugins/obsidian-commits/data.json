@@ -312,7 +312,7 @@
     "programming/python/DJango quick reference.md": {
       "size": 6330,
       "tags": 0,
-      "links": 0
+      "links": 1
     },
     "programming/frontend/list of dope websites.md": {
       "size": 0,
@@ -399,14 +399,14 @@
     "/": {
       "Refactor": 7,
       "Create": 32,
-      "Link": 6,
+      "Link": 7,
       "Expand": 36
     }
   },
   "dailyCommits": {
     "/": {
       "0": 15,
-      "1": 4,
+      "1": 5,
       "2": 0,
       "3": 0,
       "4": 1,
@@ -435,7 +435,7 @@
     "/": {
       "Mon": 30,
       "Tue": 10,
-      "Wed": 10,
+      "Wed": 11,
       "Thu": 4,
       "Fri": 24,
       "Sat": 0,
@@ -536,7 +536,8 @@
       "Linked": [
         "<a class=\"internal-link\" href=\"programming/haskell/working with lists.md\"> working with lists </a>",
         "<a class=\"internal-link\" href=\"programming/python/python extensions.md\"> python extensions </a>",
-        "<a class=\"internal-link\" href=\"programming/python/python basics.md\"> python basics </a>"
+        "<a class=\"internal-link\" href=\"programming/python/python basics.md\"> python basics </a>",
+        "<a class=\"internal-link\" href=\"programming/python/DJango quick reference.md\"> DJango quick reference </a>"
       ],
       "Removed Tags from": [],
       "Removed Links from": []

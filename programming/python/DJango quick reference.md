@@ -292,4 +292,4 @@ Used to store and retrieve data
 - 1 to many
 - many to many
 
- n 
+ 
