@@ -247,3 +247,8 @@ pipenv install django-debug-toolbar
 ```
 
 Add `debug_toolbar` to your Django project settings file
+
+The debug toolbar will only appear when DJango is responding with a valid HTML document
+
+e.g.
+Valid HTML, Body tags
