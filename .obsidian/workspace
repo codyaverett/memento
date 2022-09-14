@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "programming/python/functional python programming.md",
+            "file": "programming/python/DJango quick reference.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "programming/python/functional python programming.md",
+                "file": "programming/python/DJango quick reference.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,7 +87,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "programming/python/functional python programming.md"
+                "file": "programming/python/DJango quick reference.md"
               }
             }
           },
@@ -119,6 +119,7 @@
   },
   "active": "2329db3b24cb2b46",
   "lastOpenFiles": [
+    "programming/python/functional python programming.md",
     "programming/python/documenting python code with sphinx.md",
     "programming/python/common python programming errors.md",
     "programming/python/useful python standard library modules.md",
@@ -127,7 +128,6 @@
     "explorer.ergoplatform.com.md",
     "software/obsidian/first-impressions.md",
     "programming/python/python basics.md",
-    "programming/python/python extensions.md",
-    "programming/python/python programming.md"
+    "programming/python/python extensions.md"
   ]
 }
