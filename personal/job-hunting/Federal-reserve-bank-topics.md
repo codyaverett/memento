@@ -74,7 +74,6 @@ Aggregations
 ### Proficiency with Spark APIs (preferably PySpark) to manipulate DataFrames
 - Familiar with Apache Spark 
 - [[pyspark reference]]
-- 
 
 ### Experience building and tuning analytical SQL queries for ETL, reporting, or AI/ML data prep, preferably using PostGres
 - Yes I am familiar with tuning Analytical SQL queries
