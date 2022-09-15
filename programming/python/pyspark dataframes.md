@@ -14,3 +14,21 @@ distData = sc.parallelize(data_second)
 distData.reduce (lambda a, b: a + b) # 55 
 ```
 
+```python
+import pyspark as spark
+from pyspark.sql import SparkSession
+
+spark = SparkSession \
+	.builder \
+	.appName("Python Spark SQL basic example") \
+	.config("spark.some.config.option", "some-value") \
+	.getOrCreate()
+
+df = spark.read.csv('creaditcard.csv')
+
+df.printSchema()
+df.head()
+df.count()
+
+```
+
