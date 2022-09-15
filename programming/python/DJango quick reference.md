@@ -302,6 +302,8 @@ Also, DJango debug toolbar will only appear to the addresses assigned in the `IN
 
 ## Models
 
+[Django ORM references](https://www.fullstackpython.com/django-orm.html)
+
 Used to store and retrieve data
 
 - data modeling
