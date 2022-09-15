@@ -429,36 +429,21 @@
       "tags": 0,
       "links": 8
     },
-    "python.md": {
-      "size": 0,
-      "tags": 0,
-      "links": 0
-    },
-    "'python.md": {
-      "size": 0,
-      "tags": 0,
-      "links": 0
-    },
-    "python_os_module.md": {
-      "size": 0,
-      "tags": 0,
-      "links": 0
-    },
-    "\"python.md": {
-      "size": 0,
-      "tags": 0,
-      "links": 0
-    },
     "programming/python/pyspark reference.md": {
       "size": 0,
       "tags": 0,
       "links": 1
+    },
+    "programming/python/pyspark dataframes.md": {
+      "size": 0,
+      "tags": 0,
+      "links": 0
     }
   },
   "commitTypes": {
     "/": {
-      "Refactor": 14,
-      "Create": 44,
+      "Refactor": 19,
+      "Create": 45,
       "Link": 14,
       "Expand": 39
     }
@@ -468,7 +453,7 @@
       "0": 15,
       "1": 9,
       "2": 5,
-      "3": 20,
+      "3": 26,
       "4": 1,
       "5": 0,
       "6": 0,
@@ -496,7 +481,7 @@
       "Mon": 30,
       "Tue": 10,
       "Wed": 29,
-      "Thu": 15,
+      "Thu": 21,
       "Fri": 24,
       "Sat": 0,
       "Sun": 3
@@ -589,6 +574,7 @@
         "<a class=\"internal-link\" href=\"'python.md\"> 'python </a>",
         "<a class=\"internal-link\" href=\"python_os_module.md\"> python_os_module </a>",
         "<a class=\"internal-link\" href=\"\"python.md\"> \"python </a>",
+        "<a class=\"internal-link\" href=\"programming/python/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"programming/python/Untitled.md\"> Untitled </a>"
       ],
       "Renamed": [
@@ -603,7 +589,8 @@
         "<a class=\"internal-link\" href=\"programming/python/Python research.md\"> Python research </a>",
         "<a class=\"internal-link\" href=\"programming/python/python special strings.md\"> python special strings </a>",
         "<a class=\"internal-link\" href=\"programming/python/python programming language.md\"> python programming language </a>",
-        "<a class=\"internal-link\" href=\"programming/python/pyspark reference.md\"> pyspark reference </a>"
+        "<a class=\"internal-link\" href=\"programming/python/pyspark reference.md\"> pyspark reference </a>",
+        "<a class=\"internal-link\" href=\"programming/python/python_os_module.md\"> python_os_module </a>"
       ],
       "Tagged": [
         "<a class=\"internal-link\" href=\"personal/job-hunting/jb-hunt-topics.md\"> jb-hunt-topics </a>",
@@ -613,7 +600,11 @@
       "Refactored": [],
       "Deleted": [
         "<a class=\"internal-link\" href=\"personal/job-hunting/jbHunt-topics/Untitled.md\"> Untitled </a>",
-        "<a class=\"internal-link\" href=\"personal/software/Untitled.md\"> Untitled </a>"
+        "<a class=\"internal-link\" href=\"personal/software/Untitled.md\"> Untitled </a>",
+        "<a class=\"internal-link\" href=\"programming/python/python_os_module.md\"> python_os_module </a>",
+        "<a class=\"internal-link\" href=\"\"python.md\"> \"python </a>",
+        "<a class=\"internal-link\" href=\"'python.md\"> 'python </a>",
+        "<a class=\"internal-link\" href=\"python.md\"> python </a>"
       ],
       "Linked": [
         "<a class=\"internal-link\" href=\"programming/haskell/working with lists.md\"> working with lists </a>",
