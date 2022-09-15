@@ -50,8 +50,16 @@ Python has a Rich set of libraries for data visualization and model building
 ## PySpark Contents
 - SparkConf
 	- provides configurations to run a spark application
+	- How many executors/cores
+	- Key-values
+	- Set Master/AppName
+	- get(key, defaultValue=None)
 - SparkContext
 	- Configuration to point to the spark cluster
+	- is the main entry point in any Spark Program
+	- A driver program would implement and use a spark context
+	- Py4J used to launch a jvm spark context
+	- Socket connection from SparkContext to Py4J
 - SparkFiles
 	- Read files from filesystems
 - RDD
@@ -63,4 +71,23 @@ Python has a Rich set of libraries for data visualization and model building
 - DataFrame
 	- DataSets
 - Broadcast & Accumulators
-- 
+-
+
+## PySpark - SparkContext
+
+```python
+class pyspark. SparkContext (
+	master = None,
+	appName = None,
+	sparkHome = None,
+	pyFiles = None,
+	environment = None,
+	batchSize = 0,
+	serializer = PickleSerializer(),
+	conf = None,
+	gateway = None,
+	jsc = None,
+	profiler_cls = ‹class 'pyspark.profiler. BasicProfiler'>
+)
+```
+
