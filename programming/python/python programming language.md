@@ -1,4 +1,10 @@
 # Python Programming Language
 
-- [python os module]('python os module')
-- 
+- [[python basics]]
+- [[python cheatsheet]]
+- [[python module search path]]
+- [[python packaging]]
+- [[Python research]]
+- [[python special strings]]
+- [[useful python standard library modules]]
+- [[python os module]]

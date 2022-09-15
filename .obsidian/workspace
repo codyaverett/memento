@@ -7,13 +7,8 @@
         "id": "6dfbb566c44d0463",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "'python.md",
-            "mode": "source",
-            "backlinks": false,
-            "source": false
-          }
+          "type": "graph",
+          "state": {}
         }
       }
     ],
@@ -70,7 +65,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "'python.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,9 +80,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "'python.md"
-              }
+              "state": {}
             }
           },
           {
@@ -120,14 +112,14 @@
   "active": "6dfbb566c44d0463",
   "lastOpenFiles": [
     "programming/python/python programming language.md",
-    "python.md",
     "programming/python/python os module.md",
+    "\"python.md",
+    "python_os_module.md",
+    "'python.md",
+    "python.md",
     "programming/python/python packaging.md",
     "programming/python/django data migrations.md",
     "programming/python/django class models.md",
-    "programming/python/DJango quick reference.md",
-    "programming/python/django testing.md",
-    "programming/python/convert an image to ASCII art.md",
-    "programming/python/django container.md"
+    "programming/python/DJango quick reference.md"
   ]
 }
