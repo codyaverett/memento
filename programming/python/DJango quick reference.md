@@ -1,5 +1,8 @@
 # DJANGO a python web framework 
 
+```toc
+```
+
 ## What you should know 
 - Python basics
 	- classes

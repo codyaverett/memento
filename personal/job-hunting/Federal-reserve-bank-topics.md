@@ -3,6 +3,8 @@
 
 ### 3+ years designing and contributing to API-based project(s)
 - I have been doing this my entire 10 year programming career
+- [[python basics]]
+
 
 ### 3+ years professional experience with Python
 - I have around 8 years experience with the 
@@ -28,7 +30,7 @@ Aggregations
 - I've created webapps in Python, Java, .Net, and NodeJS
 - I used Fastify and Express with NodeJS
 - Used SpringBoot with tomcat and jetty webservers
-- DJango 
+- DJango [[DJango quick reference]]
 
 ### 1-2 years of experience designing and integrating with web-based HTTP APIs (REST (preferred), GraphQL, SOAP)
 - I am very familiar with designing and integrating REST based apis

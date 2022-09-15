@@ -17,12 +17,12 @@
         }
       },
       {
-        "id": "660abec88dd9479a",
+        "id": "6e555983537d8874",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "programming/python/pyspark reference.md",
+            "file": "programming/python/python basics.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -67,8 +67,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 309.5032558441162,
-    "collapsed": true
+    "width": 156.5032558441162
   },
   "right": {
     "id": "27aa3db891e6815a",
@@ -84,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "personal/job-hunting/Federal-reserve-bank-topics.md",
+                "file": "programming/python/python basics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,7 +100,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "personal/job-hunting/Federal-reserve-bank-topics.md"
+                "file": "programming/python/python basics.md"
               }
             }
           },
@@ -131,17 +130,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "6dfbb566c44d0463",
+  "active": "6e555983537d8874",
   "lastOpenFiles": [
-    "programming/python/pyspark reference.md",
-    "personal/job-hunting/Federal-reserve-bank-topics.md",
-    "programming/python/pyspark dataframes.md",
     "programming/python/DJango quick reference.md",
+    "programming/python/python basics.md",
+    "personal/job-hunting/Federal-reserve-bank-topics.md",
+    "programming/python/pyspark reference.md",
+    "programming/python/pyspark dataframes.md",
     "programming/python/python_os_module.md",
     "\"python.md",
     "programming/python/python programming language.md",
     "programming/python/python os module.md",
-    "'python.md",
-    "python.md"
+    "'python.md"
   ]
 }
