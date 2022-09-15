@@ -121,12 +121,12 @@ Aggregations
 ### Experience with a caching solution, like ElasticCache (preferred), Redis, Memcache, Hazelcast, Geode/GemFire or similar
 - I used Redis as a quick in memory database
 - Researched using it as a distributed in memory db to store application deployment configurations
-- Ended up using ETCD to manage those though
+- Ended up using ETCD to manage those though.  Had to compile it myself (uses golang)
 
 ### Proficiency with Spark APIs (preferably PySpark) to manipulate DataFrames
 - Familiar with Apache Spark 
 - [[pyspark reference]]
-	- Create RDDs
+	- Create RDDs (Resilient Distributed Database)
 
 ### Experience building and tuning analytical SQL queries for ETL, reporting, or AI/ML data prep, preferably using PostGres
 - Yes I am familiar with tuning Analytical SQL queries
