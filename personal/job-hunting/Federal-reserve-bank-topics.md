@@ -44,7 +44,7 @@ Walmart is a heavily data-driven company, so it's good to be comfortable working
 
 
 ### 3+ years professional experience with Python
-- I have around 8 years experience with using python in a professional capacity.
+- I have around 8 years experience with using python in a professional capacity for various projects.
 - My latest experience was using python to create plugins for Redhat's IT automation framework Ansible
 - Prior to that I worked on a APIs to aggregate application resiliency metrics across the walmart internal cloud systems (before we started using gcp and azure more regularly)
 - I used Python to expose IBM 4690 system information over an API for development purposes
