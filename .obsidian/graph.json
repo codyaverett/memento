@@ -1,6 +1,6 @@
 {
   "collapse-filter": false,
-  "search": "python",
+  "search": "",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
@@ -17,6 +17,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 1.6377959602933223,
+  "scale": 0.5554987739686167,
   "close": true
 }

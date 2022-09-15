@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "daily/09-15-22.md",
+            "file": "programming/python/python basics.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "daily/09-15-22.md",
+                "file": "programming/python/python basics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,7 +87,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "daily/09-15-22.md"
+                "file": "programming/python/python basics.md"
               }
             }
           },
@@ -119,6 +119,7 @@
   },
   "active": "6dfbb566c44d0463",
   "lastOpenFiles": [
+    "daily/09-15-22.md",
     "programming/python/python basics.md",
     "personal/job-hunting/Federal-reserve-bank-topics.md",
     "programming/python/DJango quick reference.md",
@@ -127,7 +128,6 @@
     "programming/python/pyspark dataframes.md",
     "programming/python/python_os_module.md",
     "\"python.md",
-    "programming/python/python programming language.md",
-    "programming/python/python os module.md"
+    "programming/python/python programming language.md"
   ]
 }
