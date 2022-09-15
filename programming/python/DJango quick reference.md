@@ -345,4 +345,12 @@ Used to store and retrieve data
 
 ## Model Classes
 
-
+```python
+  
+class Product(models.Model):
+	title = models.TextField()
+	description = models.TextField()
+	price = models.TextField()
+	active = models.BooleanField(default=True)
+	summary = models.TextField(blank=True, null=True)
+```
