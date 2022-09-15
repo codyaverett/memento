@@ -29,6 +29,10 @@ df = spark.read.csv('creaditcard.csv')
 df.printSchema()
 df.head()
 df.count()
-
+df.dropna().count() # Drop the null values
+df.fillna(-1).show(5) # replace nulls with -1 show top five rows
 ```
 
+
+
+ 
