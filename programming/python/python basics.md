@@ -433,3 +433,31 @@ greet()
 print(message) # b
 ```
 
+## With statement
+Used in exception handling to make the code cleaner/more readable
+
+### Without With
+```python
+# file handling
+
+# 1) without using with statement
+file = open ('file path', 'w')
+file. write ('hello world !')
+file. close()
+
+# 2) without using with statement
+file = open ('file path', 'w')
+try:
+	file. write ('hello world')
+finally:
+	file. close ()
+```
+
+### With with
+```python
+# using with statement
+with open ('file path', 'w') as file:
+	file. write ('hello world ! ')
+```
+
+With ensures proper acquisition and release of resources, no need to close the file because it's handled automatically
