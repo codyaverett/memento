@@ -71,7 +71,6 @@ Python has a Rich set of libraries for data visualization and model building
 - DataFrame
 	- DataSets
 - Broadcast & Accumulators
--
 
 ## PySpark - SparkContext
 
