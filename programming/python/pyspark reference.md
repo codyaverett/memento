@@ -65,7 +65,7 @@ Python has a Rich set of libraries for data visualization and model building
 - RDD
 	- Building blocks for spark
 	- Resilient Distributed Database in memory
-	- Anytimes you do anything with spark, you 
+	- Anytimes you do anything with spark, you create an RDD
 - StorageLevel
 	- persistances
 - DataFrame
