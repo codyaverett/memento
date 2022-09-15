@@ -116,7 +116,6 @@ Aggregations
 
 ### Proficiency with non-relational/NoSQL databases, like Elasticsearch (preferred), Cassandra, MongoDB, Neo4j, OrientDB, or similar
 - I have experience with MongoDB (Walmart Carshow Application for charity)
-- I'm 
 
 ### Experience with a caching solution, like ElasticCache (preferred), Redis, Memcache, Hazelcast, Geode/GemFire or similar
 - I used Redis as a quick in memory database
