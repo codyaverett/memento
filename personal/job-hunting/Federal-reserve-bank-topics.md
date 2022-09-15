@@ -14,7 +14,7 @@ I like geeking out over code, music theory, space things (star power, spaceship 
 
 I have a lot of general programming experience with high and low level programming languages
 
-Over the past 13 years I've worked for Walmart 
+I've worked at the Walmart and their corporate office for the past 13 years
 	and I've worked in a lot of different areas
 	like, Point of sale processing and streaming customer Data
 		- Electronic Journal, searching through and locating transaction related data.  
