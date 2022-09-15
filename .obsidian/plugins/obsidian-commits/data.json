@@ -354,11 +354,6 @@
       "tags": 0,
       "links": 0
     },
-    "programming/python/python programming.md": {
-      "size": 0,
-      "tags": 0,
-      "links": 0
-    },
     "explorer.ergoplatform.com.md": {
       "size": 0,
       "tags": 0,
@@ -428,12 +423,22 @@
       "size": 0,
       "tags": 0,
       "links": 1
+    },
+    "programming/python/python programming language.md": {
+      "size": 0,
+      "tags": 0,
+      "links": 0
+    },
+    "python.md": {
+      "size": 0,
+      "tags": 0,
+      "links": 0
     }
   },
   "commitTypes": {
     "/": {
-      "Refactor": 12,
-      "Create": 39,
+      "Refactor": 13,
+      "Create": 40,
       "Link": 10,
       "Expand": 39
     }
@@ -443,7 +448,7 @@
       "0": 15,
       "1": 9,
       "2": 5,
-      "3": 9,
+      "3": 11,
       "4": 1,
       "5": 0,
       "6": 0,
@@ -471,7 +476,7 @@
       "Mon": 30,
       "Tue": 10,
       "Wed": 29,
-      "Thu": 4,
+      "Thu": 6,
       "Fri": 24,
       "Sat": 0,
       "Sun": 3
@@ -559,7 +564,8 @@
         "<a class=\"internal-link\" href=\"programming/python/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"programming/python/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"Untitled.md\"> Untitled </a>",
-        "<a class=\"internal-link\" href=\"Untitled.md\"> Untitled </a>"
+        "<a class=\"internal-link\" href=\"Untitled.md\"> Untitled </a>",
+        "<a class=\"internal-link\" href=\"python.md\"> python </a>"
       ],
       "Renamed": [
         "<a class=\"internal-link\" href=\"programming/haskell/haskell lists.md\"> haskell lists </a>",
@@ -571,7 +577,8 @@
         "<a class=\"internal-link\" href=\"programming/python/django data migrations.md\"> django data migrations </a>",
         "<a class=\"internal-link\" href=\"programming/python/python packaging.md\"> python packaging </a>",
         "<a class=\"internal-link\" href=\"programming/python/Python research.md\"> Python research </a>",
-        "<a class=\"internal-link\" href=\"programming/python/python special strings.md\"> python special strings </a>"
+        "<a class=\"internal-link\" href=\"programming/python/python special strings.md\"> python special strings </a>",
+        "<a class=\"internal-link\" href=\"programming/python/python programming language.md\"> python programming language </a>"
       ],
       "Tagged": [
         "<a class=\"internal-link\" href=\"personal/job-hunting/jb-hunt-topics.md\"> jb-hunt-topics </a>",
