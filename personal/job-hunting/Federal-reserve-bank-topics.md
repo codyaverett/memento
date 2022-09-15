@@ -106,12 +106,13 @@ Aggregations
 
 ### Experience submitting Pull Requests in GitHub, and passing Continuous Integration checks
 - Yes, been using git for 10+ years
-- Developed CI pipelines that automatically ran against new PRs and merges to the main branch
-- Jenkins (Internally at Walmart I used Looper)
+- Developed CI and CD pipelines that automatically ran against new PRs and merges to the main branch
+- Custom Jenkins (Internally at Walmart I used Looper)
 
 ### Proficiency developing and deploying applications on a Linux OS
 - I'm an EXPERT at this
 - I like to automated my deployments 100% and hook up a git based CICD process
+- Linux in containers to do things
 
 ### Proficiency with non-relational/NoSQL databases, like Elasticsearch (preferred), Cassandra, MongoDB, Neo4j, OrientDB, or similar
 - I have experience with MongoDB (Walmart Carshow Application for charity)
