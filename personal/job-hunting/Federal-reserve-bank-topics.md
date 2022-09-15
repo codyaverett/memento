@@ -1,5 +1,9 @@
 
-**Basic Qualifications**
+```toc
+```
+
+
+## Basic Qualifications
 
 ### 3+ years designing and contributing to API-based project(s)
 - I have been doing this my entire 10 year programming career
