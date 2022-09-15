@@ -134,13 +134,16 @@ Aggregations
 - Properly index data in tables to ensure quick execution times
 - Tune queries to prevent too many sequential scans on the table
 - Want to gain more experience in the AI/ML space.  I'm very interested in ML topics.
+	- Was talking with some friends about static diffusion (image generation with python)
+	- There are some guides using an open source alternative to DallE 2
+	- I came up with this analogy 
 
 ### Experience managing AWS cloud services, such as RDS, EC2, S3 and the AWS CLI
 - Completed a Course and was mentored in AWS server functions and server logging
 - Internally at Walmart we did not use AWS because it would have been a conflict of interest
 - I have a lot of experience managing cloud computes and platform as a service instances
 - linux systems and distributed storage (IPFS)
-- Mentored in AWS logging
+- Mentored in AWS basics by Swizec Teller (same guy that mentored me for over a year in data visualization)
 
 ### Experience using Docker to build containerized microservices applications and DevOps tools
 Extensive docker container experience
