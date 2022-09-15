@@ -7,11 +7,13 @@
 
 
 ### 3+ years professional experience with Python
-- I have around 8 years experience with the 
+- I have around 8 years experience with using python in a professional capacity.
 - My latest experience was using python to create plugins for Redhat's IT automation framework Ansible
 - Prior to that I worked on a APIs to aggregate application resiliency metrics across the walmart internal cloud systems (before we started using gcp and azure more regularly)
 - I used Python to expose IBM 4690 system information over an API for development purposes
 - I have had some side projects and have some experience with DJango and Pygame
+	- Simple websites
+	- Refresher project over the last month
 
 ### 2+ years of experience with relational databases, like PostgreSQL(preferred), MySQL, SQL Server, Oracle
 - Most recently used Microsoft SQL Server for the past 3 years
