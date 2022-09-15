@@ -325,7 +325,7 @@
       "links": 1
     },
     "personal/job-hunting/Federal-reserve-bank-topics.md": {
-      "size": 7246,
+      "size": 8371,
       "tags": 0,
       "links": 3
     },
@@ -450,7 +450,7 @@
       "Refactor": 19,
       "Create": 46,
       "Link": 15,
-      "Expand": 42
+      "Expand": 43
     }
   },
   "dailyCommits": {
@@ -465,7 +465,7 @@
       "7": 0,
       "8": 0,
       "9": 0,
-      "10": 8,
+      "10": 9,
       "11": 5,
       "12": 0,
       "13": 0,
@@ -486,7 +486,7 @@
       "Mon": 30,
       "Tue": 10,
       "Wed": 29,
-      "Thu": 26,
+      "Thu": 27,
       "Fri": 24,
       "Sat": 0,
       "Sun": 3
@@ -536,7 +536,8 @@
         "<a class=\"internal-link\" href=\"django data migrations.md\"> django data migrations </a>",
         "<a class=\"internal-link\" href=\"personal/job-hunting/Federal-reserve-bank-topics.md\"> Federal-reserve-bank-topics </a>",
         "<a class=\"internal-link\" href=\"personal/job-hunting/Federal-reserve-bank-topics.md\"> Federal-reserve-bank-topics </a>",
-        "<a class=\"internal-link\" href=\"programming/python/python basics.md\"> python basics </a>"
+        "<a class=\"internal-link\" href=\"programming/python/python basics.md\"> python basics </a>",
+        "<a class=\"internal-link\" href=\"personal/job-hunting/Federal-reserve-bank-topics.md\"> Federal-reserve-bank-topics </a>"
       ],
       "Created": [
         "<a class=\"internal-link\" href=\"daily/08-11-22.md\"> 08-11-22 </a>",
