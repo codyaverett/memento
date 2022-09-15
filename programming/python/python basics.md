@@ -461,3 +461,25 @@ with open ('file path', 'w') as file:
 ```
 
 With ensures proper acquisition and release of resources, no need to close the file because it's handled automatically
+
+### Using with with custom code
+```python
+# a simple file writer object
+class MessageWriter (object) :
+	def init (self, file name) :
+		self.file_name = file name
+		
+	def enter (self):
+		self.file = open(self. file name, 'w')
+		return self.file
+
+	def exit (self):
+		self.file.close()
+		
+# using with statement with MessageWriter
+with MessageWriter('my_file. txt') as xfile:
+	xfile. write ('hello world')
+```
+
+Alternatively you can use a `contextmanager` from `contextlib`
+
