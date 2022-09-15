@@ -5,14 +5,36 @@
 ## Intro
 Hi, My name is Cody Ave-Rett
 I'm coder at heart and and love doing Cody things
-My mom always knew I would grow up to be a coder.
+I guess my mom always knew I would grow up to be a coder.  I like my name.
 
-I live in rogers with my wife, 2 doggos and 2 cats
+I live in rogers AR with my wife, 2 doggos and 2 cats
 Pricilla, Peanut, Pascal, and Panko
 
 I like geeking out over code, music theory, space things (star power, spaceship earth), and I like anime (I'm in the middle of rewatching all 1000 episodes of Naruto)
 
-I have a lot of general programming experience at high and low levels of code
+I have a lot of general programming experience with high and low level programming languages
+
+Over the past 13 years I've worked for Walmart 
+	and I've worked in a lot of different areas
+	like, Point of sale processing and streaming customer Data
+		- Electronic Journal, searching through and locating transaction related data.  
+		- Native C++ Data parser,
+		- IBM Broker Toolkit for DATA ETL
+		- Customer transaction api - query customer transaction related data
+	I've worked around the store systems area providing production support and root cause analysis of high volume problems
+		- I had Support reduction goals
+		- Had to reduce the overall cost of support by automating and eliminating waste in our processes
+		- Automated manual tasks with scripts and scheduled jobs
+		- Provided On call support 
+		- and had was a technical lead for a 30+ member 24/7 (on and offshore) support team
+	I've worked in a team called "Software Delivery Enablement" making devtools and improving the internal developer experience
+		- Contributed to the UI and DSL (Domain specific language) an opensource workflow orchestration tool called Concord (concord.walmartlabs.com)
+		- Updated and improved developer documentation
+		- Created apis reporting cloud compute resources and allocations
+		- Created apis and UIs to report cost of cloud infrastructure and area budgets
+	In my latest role at Walmart was a Senior Manager and Staff Data Engineer running a "shadow IT" operation for walmart business 
+	
+Walmart is a heavily data-driven company, so it's good to be comfortable working with data at any level.
 
 ## Basic Qualifications
 
