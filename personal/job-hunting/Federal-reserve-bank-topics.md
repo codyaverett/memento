@@ -135,7 +135,7 @@ Aggregations
 - Want to gain more experience in the AI/ML space.  I'm very interested in ML topics.
 	- Was talking with some friends about static diffusion (image generation with python)
 	- There are some guides using an open source alternative to DallE 2
-	- I came up with this analogy 
+	- I came up with this analogy comparing Naruto to Nvidia's training
 
 ### Experience managing AWS cloud services, such as RDS, EC2, S3 and the AWS CLI
 - Completed a Course and was mentored in AWS server functions and server logging
