@@ -83,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "programming/python/python basics.md",
+                "file": "personal/job-hunting/Federal-reserve-bank-topics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +100,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "programming/python/python basics.md"
+                "file": "personal/job-hunting/Federal-reserve-bank-topics.md"
               }
             }
           },
@@ -130,10 +130,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "6e555983537d8874",
+  "active": "6dfbb566c44d0463",
   "lastOpenFiles": [
-    "programming/python/DJango quick reference.md",
     "programming/python/python basics.md",
+    "programming/python/DJango quick reference.md",
     "personal/job-hunting/Federal-reserve-bank-topics.md",
     "programming/python/pyspark reference.md",
     "programming/python/pyspark dataframes.md",
