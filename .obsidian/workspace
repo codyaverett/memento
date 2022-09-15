@@ -6,11 +6,12 @@
       {
         "id": "6dfbb566c44d0463",
         "type": "leaf",
+        "dimension": 43.412526997840175,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "personal/job-hunting/jb-hunt-topics.md",
-            "mode": "source",
+            "file": "personal/job-hunting/Federal-reserve-bank-topics.md",
+            "mode": "preview",
             "backlinks": false,
             "source": false
           }
@@ -19,6 +20,7 @@
       {
         "id": "6e555983537d8874",
         "type": "leaf",
+        "dimension": 56.587473002159825,
         "state": {
           "type": "markdown",
           "state": {
@@ -67,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 156.5032558441162
+    "width": 156.5032558441162,
+    "collapsed": true
   },
   "right": {
     "id": "27aa3db891e6815a",
@@ -83,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "personal/job-hunting/jb-hunt-topics.md",
+                "file": "programming/python/python basics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +103,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "personal/job-hunting/jb-hunt-topics.md"
+                "file": "programming/python/python basics.md"
               }
             }
           },
@@ -130,17 +133,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "6dfbb566c44d0463",
+  "active": "6e555983537d8874",
   "lastOpenFiles": [
     "personal/job-hunting/Federal-reserve-bank-topics.md",
     "programming/python/python basics.md",
+    "personal/job-hunting/jb-hunt-topics.md",
     "programming/python/DJango quick reference.md",
     "programming/python/pyspark reference.md",
     "programming/python/pyspark dataframes.md",
     "programming/python/python_os_module.md",
     "\"python.md",
     "programming/python/python programming language.md",
-    "programming/python/python os module.md",
-    "'python.md"
+    "programming/python/python os module.md"
   ]
 }
