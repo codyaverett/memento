@@ -39,7 +39,7 @@ Aggregations
 
 ### 1-2 years of experience with ETL or data processing/integration using tools such as Apache Spark, PySpark, Pandas, Parquet, Amazon EMR, Databricks, Informatica, Oracle Data Integrator, SQL Server Integration Services, or similar platforms or vendor tools
 - Past 3 years I've been using Microsoft SSIS (SQL Server Integration Services)
-- Used apache Spark to ingest various kafka topics
+- Used apache Spark [[pyspark reference]] to ingest various kafka topics
 
 ### 1-2 years developing applications using an Object/Relational Mapper, Django ORM (preferred), Hibernate, Entity Framework.
 - We made our own ORM in typescript to help us query data from our SQL Server instances
@@ -72,7 +72,9 @@ Aggregations
 - Ended up using ETCD to manage those though
 
 ### Proficiency with Spark APIs (preferably PySpark) to manipulate DataFrames
-- Familiar with Apache Spark
+- Familiar with Apache Spark 
+- [[pyspark reference]]
+- 
 
 ### Experience building and tuning analytical SQL queries for ETL, reporting, or AI/ML data prep, preferably using PostGres
 - Yes I am familiar with tuning Analytical SQL queries

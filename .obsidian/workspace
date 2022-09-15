@@ -7,8 +7,13 @@
         "id": "6dfbb566c44d0463",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "programming/python/pyspark reference.md",
+            "mode": "source",
+            "backlinks": false,
+            "source": false
+          }
         }
       }
     ],
@@ -49,7 +54,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 363.50482177734375
+    "width": 309.5032558441162
   },
   "right": {
     "id": "27aa3db891e6815a",
@@ -65,6 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "programming/python/pyspark reference.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -80,7 +86,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "programming/python/pyspark reference.md"
+              }
             }
           },
           {
@@ -111,15 +119,15 @@
   },
   "active": "6dfbb566c44d0463",
   "lastOpenFiles": [
-    "programming/python/python programming language.md",
-    "programming/python/python os module.md",
+    "personal/job-hunting/Federal-reserve-bank-topics.md",
     "\"python.md",
+    "programming/python/python programming language.md",
+    "programming/python/pyspark reference.md",
+    "programming/python/python os module.md",
     "python_os_module.md",
     "'python.md",
     "python.md",
     "programming/python/python packaging.md",
-    "programming/python/django data migrations.md",
-    "programming/python/django class models.md",
-    "programming/python/DJango quick reference.md"
+    "programming/python/django data migrations.md"
   ]
 }
