@@ -92,7 +92,7 @@ Aggregations
 	- Called it SQL builder.
 	- The abstraction made it really simple for us to connect to 
 	- Helped us avoid common issues 
-  I've used other ORMs before, they are handy
+  I've used other ORMs before like Sequelize and TypeORM they are handy
 - Familiar with Django ORM
 	- QuerySets - iterable object
 
