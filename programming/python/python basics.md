@@ -331,6 +331,20 @@ numbers = (1, 2, 3, 3)
 numbers.count(3) # returns 2
 ```
 
+Using tuple of objects/dicts
+```python
+>>> for person in objs:
+...     print(person)
+...
+{'name': 'Cody'}
+{'name': 'Heather'}
+>>> for person in objs:
+...     print(person['name'])
+...
+Cody
+Heather
+```
+
 ## Magic methods 
 Also called "Special Variables"
 "__ function __()" They have underscores preceding the values
