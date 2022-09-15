@@ -75,6 +75,8 @@ Aggregations
 
 ### 1-2 years of experience designing and integrating with web-based HTTP APIs (REST (preferred), GraphQL, SOAP)
 - I am very familiar with designing and integrating REST based apis
+- Tested apis with postman
+- Documented apis with Swagger
 - I have played with GraphQL and used it on a few internal Gatsby JS sites (Used GraphQL on the application build step)
 - I do not like SOAP and XML based queries.  
 	  It's cumbersome, verbose and there are simpler ways to get the same job done
@@ -82,10 +84,15 @@ Aggregations
 
 ### 1-2 years of experience with ETL or data processing/integration using tools such as Apache Spark, PySpark, Pandas, Parquet, Amazon EMR, Databricks, Informatica, Oracle Data Integrator, SQL Server Integration Services, or similar platforms or vendor tools
 - Past 3 years I've been using Microsoft SSIS (SQL Server Integration Services)
-- Used apache Spark [[pyspark reference]] to ingest various kafka topics
+- We used apache Spark [[pyspark reference]] to ingest various kafka topics, 
+  I wrote code to posted to specific kafka topics from a system running at every walmart store on the planet 
 
 ### 1-2 years developing applications using an Object/Relational Mapper, Django ORM (preferred), Hibernate, Entity Framework.
 - We made our own ORM in typescript to help us query data from our SQL Server instances
+	- Called it SQL builder.
+	- The abstraction made it really simple for us to connect to 
+	- Helped us avoid common issues 
+  I've used other ORMs before, they are handy
 - Familiar with Django ORM
 	- QuerySets - iterable object
 
