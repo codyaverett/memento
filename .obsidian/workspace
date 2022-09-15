@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "daily/09-15-22.md",
+            "file": "personal/job-hunting/Federal-reserve-bank-topics.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -54,7 +54,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 283.50235176086426
+    "width": 283.50235176086426,
+    "collapsed": true
   },
   "right": {
     "id": "27aa3db891e6815a",
@@ -70,7 +71,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "daily/09-15-22.md",
+                "file": "personal/job-hunting/Federal-reserve-bank-topics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,7 +88,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "daily/09-15-22.md"
+                "file": "personal/job-hunting/Federal-reserve-bank-topics.md"
               }
             }
           },
@@ -119,8 +120,8 @@
   },
   "active": "6dfbb566c44d0463",
   "lastOpenFiles": [
-    "programming/python/python basics.md",
     "daily/09-15-22.md",
+    "programming/python/python basics.md",
     "personal/job-hunting/Federal-reserve-bank-topics.md",
     "programming/python/DJango quick reference.md",
     "personal/job-hunting/jb-hunt-topics.md",
