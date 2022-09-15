@@ -2,6 +2,17 @@
 ```toc
 ```
 
+## Intro
+Hi, My name is Cody Ave-Rett
+I'm coder at heart and and love doing Cody things
+My mom always knew I would grow up to be a coder.
+
+I live in rogers with my wife, 2 doggos and 2 cats
+Pricilla, Peanut, Pascal, and Panko
+
+I like geeking out over code, music theory, space things (star power, spaceship earth), and I like anime (I'm in the middle of rewatching all 1000 episodes of Naruto)
+
+I have a lot of general programming experience at high and low levels of code
 
 ## Basic Qualifications
 
