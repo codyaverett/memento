@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "personal/job-hunting/Federal-reserve-bank-topics.md",
+            "file": "programming/python/DJango quick reference.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "personal/job-hunting/Federal-reserve-bank-topics.md",
+                "file": "programming/python/DJango quick reference.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,7 +87,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "personal/job-hunting/Federal-reserve-bank-topics.md"
+                "file": "programming/python/DJango quick reference.md"
               }
             }
           },
@@ -119,8 +119,8 @@
   },
   "active": "6dfbb566c44d0463",
   "lastOpenFiles": [
-    "programming/python/python basics.md",
     "personal/job-hunting/Federal-reserve-bank-topics.md",
+    "programming/python/python basics.md",
     "personal/job-hunting/jb-hunt-topics.md",
     "programming/python/DJango quick reference.md",
     "programming/python/pyspark reference.md",

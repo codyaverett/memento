@@ -50,7 +50,7 @@ Walmart is a heavily data-driven company, so it's good to be comfortable working
 - I used Python to expose IBM 4690 system information over an API for development purposes
 - I have had some side projects and have some experience with DJango and Pygame
 	- Simple websites
-	- Refresher project over the last month
+	- Smaller refresher projects over the last month
 
 ### 2+ years of experience with relational databases, like PostgreSQL(preferred), MySQL, SQL Server, Oracle
 - Most recently used Microsoft SQL Server for the past 3 years
@@ -66,9 +66,11 @@ Built out tables and with normalized data and relationship tables
 Aggregations
 
 ### 1-2 years of experience with a web application framework in any of: Python, Java, .NET, Ruby, Node.js, or Go
-- I've created webapps in Python, Java, .Net, and NodeJS
+- 8 years building webapps
+- I've created webapps in Python (django), Java, .Net, and NodeJS
 - I used Fastify and Express with NodeJS
-- Used SpringBoot with tomcat and jetty webservers
+- Used Java SpringBoot with tomcat and jetty webservers
+- ASP .NET
 - DJango [[DJango quick reference]]
 
 ### 1-2 years of experience designing and integrating with web-based HTTP APIs (REST (preferred), GraphQL, SOAP)
