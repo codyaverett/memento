@@ -458,12 +458,17 @@
       "size": 0,
       "tags": 0,
       "links": 0
+    },
+    "software/LDAP/Untitled.md": {
+      "size": 0,
+      "tags": 0,
+      "links": 0
     }
   },
   "commitTypes": {
     "/": {
       "Refactor": 20,
-      "Create": 49,
+      "Create": 50,
       "Link": 15,
       "Expand": 46
     }
@@ -472,7 +477,7 @@
     "/": {
       "0": 16,
       "1": 9,
-      "2": 5,
+      "2": 6,
       "3": 26,
       "4": 2,
       "5": 2,
@@ -504,7 +509,7 @@
       "Thu": 27,
       "Fri": 30,
       "Sat": 0,
-      "Sun": 4
+      "Sun": 5
     }
   },
   "recentCommits": {
@@ -606,7 +611,8 @@
         "<a class=\"internal-link\" href=\"daily/09-15-22.md\"> 09-15-22 </a>",
         "<a class=\"internal-link\" href=\"programming/python/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"programming/python/Untitled.md\"> Untitled </a>",
-        "<a class=\"internal-link\" href=\"programming/python/Untitled.md\"> Untitled </a>"
+        "<a class=\"internal-link\" href=\"programming/python/Untitled.md\"> Untitled </a>",
+        "<a class=\"internal-link\" href=\"software/LDAP/Untitled.md\"> Untitled </a>"
       ],
       "Renamed": [
         "<a class=\"internal-link\" href=\"programming/haskell/haskell lists.md\"> haskell lists </a>",
