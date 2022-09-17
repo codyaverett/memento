@@ -448,14 +448,19 @@
       "size": 7916,
       "tags": 0,
       "links": 0
+    },
+    "programming/python/python virtual environments.md": {
+      "size": 4185,
+      "tags": 0,
+      "links": 0
     }
   },
   "commitTypes": {
     "/": {
-      "Refactor": 19,
-      "Create": 47,
+      "Refactor": 20,
+      "Create": 48,
       "Link": 15,
-      "Expand": 44
+      "Expand": 45
     }
   },
   "dailyCommits": {
@@ -483,7 +488,7 @@
       "20": 4,
       "21": 1,
       "22": 7,
-      "23": 3
+      "23": 6
     }
   },
   "weeklyCommits": {
@@ -492,7 +497,7 @@
       "Tue": 10,
       "Wed": 29,
       "Thu": 27,
-      "Fri": 26,
+      "Fri": 29,
       "Sat": 0,
       "Sun": 3
     }
@@ -543,7 +548,8 @@
         "<a class=\"internal-link\" href=\"personal/job-hunting/Federal-reserve-bank-topics.md\"> Federal-reserve-bank-topics </a>",
         "<a class=\"internal-link\" href=\"programming/python/python basics.md\"> python basics </a>",
         "<a class=\"internal-link\" href=\"personal/job-hunting/Federal-reserve-bank-topics.md\"> Federal-reserve-bank-topics </a>",
-        "<a class=\"internal-link\" href=\"programming/python/python classes.md\"> python classes </a>"
+        "<a class=\"internal-link\" href=\"programming/python/python classes.md\"> python classes </a>",
+        "<a class=\"internal-link\" href=\"programming/python/python virtual environments.md\"> python virtual environments </a>"
       ],
       "Created": [
         "<a class=\"internal-link\" href=\"daily/08-11-22.md\"> 08-11-22 </a>",
@@ -592,6 +598,7 @@
         "<a class=\"internal-link\" href=\"programming/python/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"programming/python/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"daily/09-15-22.md\"> 09-15-22 </a>",
+        "<a class=\"internal-link\" href=\"programming/python/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"programming/python/Untitled.md\"> Untitled </a>"
       ],
       "Renamed": [
@@ -607,7 +614,8 @@
         "<a class=\"internal-link\" href=\"programming/python/python special strings.md\"> python special strings </a>",
         "<a class=\"internal-link\" href=\"programming/python/python programming language.md\"> python programming language </a>",
         "<a class=\"internal-link\" href=\"programming/python/pyspark reference.md\"> pyspark reference </a>",
-        "<a class=\"internal-link\" href=\"programming/python/python_os_module.md\"> python_os_module </a>"
+        "<a class=\"internal-link\" href=\"programming/python/python_os_module.md\"> python_os_module </a>",
+        "<a class=\"internal-link\" href=\"programming/python/python virtual environments.md\"> python virtual environments </a>"
       ],
       "Tagged": [
         "<a class=\"internal-link\" href=\"personal/job-hunting/jb-hunt-topics.md\"> jb-hunt-topics </a>",
