@@ -101,5 +101,14 @@ Commands:
   verify        Verify the hash in Pipfile.lock is up-to-date.
 ```
 
+## Installing deps for existing pipfiles
+
+If a Pipfile and Pipfile.Lock already exist, you can run `pipenv install` to automatically download and install the exact same dependencies as defined in these files.
+
+## Entering the pipenv
+
+To activate this project's virtualenv, run pipenv shell.
+Alternatively, run a command inside the virtualenv with pipenv run.
+
 ## Reference
 https://jonathanmeier.io/advantages-of-pipfile-lock-over-requirements-txt/
