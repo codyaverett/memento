@@ -459,7 +459,12 @@
       "tags": 0,
       "links": 0
     },
-    "software/LDAP/Untitled.md": {
+    "software/LDAP/finding ldap servers with nslookup.md": {
+      "size": 0,
+      "tags": 0,
+      "links": 0
+    },
+    "programming/python/jupyter notebooks.md": {
       "size": 0,
       "tags": 0,
       "links": 0
@@ -468,7 +473,7 @@
   "commitTypes": {
     "/": {
       "Refactor": 20,
-      "Create": 50,
+      "Create": 51,
       "Link": 15,
       "Expand": 46
     }
@@ -478,7 +483,7 @@
       "0": 16,
       "1": 9,
       "2": 6,
-      "3": 26,
+      "3": 27,
       "4": 2,
       "5": 2,
       "6": 2,
@@ -509,7 +514,7 @@
       "Thu": 27,
       "Fri": 30,
       "Sat": 0,
-      "Sun": 5
+      "Sun": 6
     }
   },
   "recentCommits": {
@@ -612,7 +617,8 @@
         "<a class=\"internal-link\" href=\"programming/python/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"programming/python/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"programming/python/Untitled.md\"> Untitled </a>",
-        "<a class=\"internal-link\" href=\"software/LDAP/Untitled.md\"> Untitled </a>"
+        "<a class=\"internal-link\" href=\"software/LDAP/Untitled.md\"> Untitled </a>",
+        "<a class=\"internal-link\" href=\"programming/python/Untitled.md\"> Untitled </a>"
       ],
       "Renamed": [
         "<a class=\"internal-link\" href=\"programming/haskell/haskell lists.md\"> haskell lists </a>",

@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "software/LDAP/finding ldap servers with nslookup.md",
+            "file": "programming/python/jupyter notebooks.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "software/LDAP/finding ldap servers with nslookup.md",
+                "file": "programming/python/jupyter notebooks.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,7 +87,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "software/LDAP/finding ldap servers with nslookup.md"
+                "file": "programming/python/jupyter notebooks.md"
               }
             }
           },
@@ -119,6 +119,7 @@
   },
   "active": "6dfbb566c44d0463",
   "lastOpenFiles": [
+    "software/LDAP/finding ldap servers with nslookup.md",
     "programming/python/python package managers.md",
     "programming/python/python virtual environments.md",
     "programming/python/python classes.md",
@@ -127,7 +128,6 @@
     "personal/job-hunting/Federal-reserve-bank-topics.md",
     "programming/python/pyspark reference.md",
     "daily/09-15-22.md",
-    "programming/python/python basics.md",
-    "personal/job-hunting/jb-hunt-topics.md"
+    "programming/python/python basics.md"
   ]
 }
