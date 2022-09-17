@@ -453,19 +453,24 @@
       "size": 4910,
       "tags": 0,
       "links": 0
+    },
+    "programming/python/python package managers.md": {
+      "size": 0,
+      "tags": 0,
+      "links": 0
     }
   },
   "commitTypes": {
     "/": {
       "Refactor": 20,
-      "Create": 48,
+      "Create": 49,
       "Link": 15,
       "Expand": 46
     }
   },
   "dailyCommits": {
     "/": {
-      "0": 15,
+      "0": 16,
       "1": 9,
       "2": 5,
       "3": 26,
@@ -499,7 +504,7 @@
       "Thu": 27,
       "Fri": 30,
       "Sat": 0,
-      "Sun": 3
+      "Sun": 4
     }
   },
   "recentCommits": {
@@ -599,6 +604,7 @@
         "<a class=\"internal-link\" href=\"programming/python/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"programming/python/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"daily/09-15-22.md\"> 09-15-22 </a>",
+        "<a class=\"internal-link\" href=\"programming/python/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"programming/python/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"programming/python/Untitled.md\"> Untitled </a>"
       ],
