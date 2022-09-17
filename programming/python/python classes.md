@@ -1,8 +1,10 @@
-# Python Notes
+# Python classes
 These notes are from a mentoring session I had with my friend Ben.
 
 ## Notes
-``
+
+Created a Question class that will encapsulate situations like Defining a question, the answer to the question, and possible question answers if the question ends up being multiple choice.
+
 ```python
 class Question:
     """_summary_
@@ -44,6 +46,8 @@ class Question:
 Instantiate and run it like this
 question1 = Question("What is 1 + 1?", "2", ["1", "2", "3", "4"])
 question1.ask_and_evaluate()
+
+Using python's REPL (runtime evaluation print loop) I can import the code and run it in an interactive way.
 
 ```python
 >>> from quiz.question import Question
