@@ -450,7 +450,7 @@
       "links": 0
     },
     "programming/python/python virtual environments.md": {
-      "size": 4185,
+      "size": 4910,
       "tags": 0,
       "links": 0
     }
@@ -460,7 +460,7 @@
       "Refactor": 20,
       "Create": 48,
       "Link": 15,
-      "Expand": 45
+      "Expand": 46
     }
   },
   "dailyCommits": {
@@ -488,7 +488,7 @@
       "20": 4,
       "21": 1,
       "22": 7,
-      "23": 6
+      "23": 7
     }
   },
   "weeklyCommits": {
@@ -497,7 +497,7 @@
       "Tue": 10,
       "Wed": 29,
       "Thu": 27,
-      "Fri": 29,
+      "Fri": 30,
       "Sat": 0,
       "Sun": 3
     }
@@ -549,6 +549,7 @@
         "<a class=\"internal-link\" href=\"programming/python/python basics.md\"> python basics </a>",
         "<a class=\"internal-link\" href=\"personal/job-hunting/Federal-reserve-bank-topics.md\"> Federal-reserve-bank-topics </a>",
         "<a class=\"internal-link\" href=\"programming/python/python classes.md\"> python classes </a>",
+        "<a class=\"internal-link\" href=\"programming/python/python virtual environments.md\"> python virtual environments </a>",
         "<a class=\"internal-link\" href=\"programming/python/python virtual environments.md\"> python virtual environments </a>"
       ],
       "Created": [
