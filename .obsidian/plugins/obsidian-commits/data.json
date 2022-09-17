@@ -443,14 +443,19 @@
       "size": 0,
       "tags": 0,
       "links": 0
+    },
+    "programming/python/python classes.md": {
+      "size": 7916,
+      "tags": 0,
+      "links": 0
     }
   },
   "commitTypes": {
     "/": {
       "Refactor": 19,
-      "Create": 46,
+      "Create": 47,
       "Link": 15,
-      "Expand": 43
+      "Expand": 44
     }
   },
   "dailyCommits": {
@@ -477,7 +482,7 @@
       "19": 9,
       "20": 4,
       "21": 1,
-      "22": 5,
+      "22": 7,
       "23": 3
     }
   },
@@ -487,7 +492,7 @@
       "Tue": 10,
       "Wed": 29,
       "Thu": 27,
-      "Fri": 24,
+      "Fri": 26,
       "Sat": 0,
       "Sun": 3
     }
@@ -537,7 +542,8 @@
         "<a class=\"internal-link\" href=\"personal/job-hunting/Federal-reserve-bank-topics.md\"> Federal-reserve-bank-topics </a>",
         "<a class=\"internal-link\" href=\"personal/job-hunting/Federal-reserve-bank-topics.md\"> Federal-reserve-bank-topics </a>",
         "<a class=\"internal-link\" href=\"programming/python/python basics.md\"> python basics </a>",
-        "<a class=\"internal-link\" href=\"personal/job-hunting/Federal-reserve-bank-topics.md\"> Federal-reserve-bank-topics </a>"
+        "<a class=\"internal-link\" href=\"personal/job-hunting/Federal-reserve-bank-topics.md\"> Federal-reserve-bank-topics </a>",
+        "<a class=\"internal-link\" href=\"programming/python/python classes.md\"> python classes </a>"
       ],
       "Created": [
         "<a class=\"internal-link\" href=\"daily/08-11-22.md\"> 08-11-22 </a>",
@@ -585,7 +591,8 @@
         "<a class=\"internal-link\" href=\"\"python.md\"> \"python </a>",
         "<a class=\"internal-link\" href=\"programming/python/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"programming/python/Untitled.md\"> Untitled </a>",
-        "<a class=\"internal-link\" href=\"daily/09-15-22.md\"> 09-15-22 </a>"
+        "<a class=\"internal-link\" href=\"daily/09-15-22.md\"> 09-15-22 </a>",
+        "<a class=\"internal-link\" href=\"programming/python/Untitled.md\"> Untitled </a>"
       ],
       "Renamed": [
         "<a class=\"internal-link\" href=\"programming/haskell/haskell lists.md\"> haskell lists </a>",

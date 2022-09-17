@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "personal/job-hunting/Federal-reserve-bank-topics.md",
+            "file": "programming/python/python classes.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -54,8 +54,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 283.50235176086426,
-    "collapsed": true
+    "width": 283.50235176086426
   },
   "right": {
     "id": "27aa3db891e6815a",
@@ -71,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "personal/job-hunting/Federal-reserve-bank-topics.md",
+                "file": "programming/python/python classes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,7 +87,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "personal/job-hunting/Federal-reserve-bank-topics.md"
+                "file": "programming/python/python classes.md"
               }
             }
           },
@@ -120,15 +119,15 @@
   },
   "active": "6dfbb566c44d0463",
   "lastOpenFiles": [
-    "programming/python/pyspark reference.md",
+    "programming/python/DJango quick reference.md",
+    "programming/python/django testing.md",
     "personal/job-hunting/Federal-reserve-bank-topics.md",
+    "programming/python/pyspark reference.md",
     "daily/09-15-22.md",
     "programming/python/python basics.md",
-    "programming/python/DJango quick reference.md",
     "personal/job-hunting/jb-hunt-topics.md",
     "programming/python/pyspark dataframes.md",
     "programming/python/python_os_module.md",
-    "\"python.md",
-    "programming/python/python programming language.md"
+    "\"python.md"
   ]
 }
