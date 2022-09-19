@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "programming/neural networks/different types of neural networks.md",
+            "file": "personal/social/Harvard principles of negotiation.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "programming/neural networks/different types of neural networks.md",
+                "file": "personal/social/Harvard principles of negotiation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,7 +87,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "programming/neural networks/different types of neural networks.md"
+                "file": "personal/social/Harvard principles of negotiation.md"
               }
             }
           },
@@ -119,9 +119,9 @@
   },
   "active": "6dfbb566c44d0463",
   "lastOpenFiles": [
+    "programming/neural networks/different types of neural networks.md",
     "programming/python/attachments/Pasted image 20220919154837.png",
     "programming/python/attachments/Pasted image 20220912144323.png",
-    "programming/neural networks/different types of neural networks.md",
     "programming/python/jupyter notebooks.md",
     "software/LDAP/finding ldap servers with nslookup.md",
     "programming/python/python package managers.md",
