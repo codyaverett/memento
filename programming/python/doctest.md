@@ -2,6 +2,11 @@
 
 Doctest is a utility package to test code documentation inline your files directly.
 
+## Reference
+[Python documentation](https://docs.python.org/3/library/doctest.html)
+
+## Examples
+
 ```python
 """
 
