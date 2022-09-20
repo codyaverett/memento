@@ -10,3 +10,6 @@ A **backtracking algorithm** is a **recursive algorithm** that attempts to s
 
 The typical scenario where a backtracking algorithm is when you try to find your way out in a maze. Every time you reach a dead-end, you backtrack to try another path until you find the exit or all path have been explored.
 
+Backtracking algorithms can be used for other types of problems such as solving a [Magic Square Puzzle](https://www.101computing.net/backtracking-algorithm-magic-square-solver/) or a [Sudoku grid](https://www.101computing.net/backtracking-algorithm-sudoku-solver/).
+
+Backtracking algorithms rely on the use of a **recursive function**. A recursive function is a function that calls itself until a condition is met.
