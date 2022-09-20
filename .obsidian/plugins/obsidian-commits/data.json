@@ -488,12 +488,17 @@
       "size": 0,
       "tags": 0,
       "links": 0
+    },
+    "programming/python/doctest.md": {
+      "size": 0,
+      "tags": 0,
+      "links": 0
     }
   },
   "commitTypes": {
     "/": {
       "Refactor": 20,
-      "Create": 55,
+      "Create": 56,
       "Link": 16,
       "Expand": 46
     }
@@ -522,13 +527,13 @@
       "19": 9,
       "20": 5,
       "21": 1,
-      "22": 7,
+      "22": 8,
       "23": 7
     }
   },
   "weeklyCommits": {
     "/": {
-      "Mon": 35,
+      "Mon": 36,
       "Tue": 10,
       "Wed": 29,
       "Thu": 27,
@@ -588,6 +593,7 @@
         "<a class=\"internal-link\" href=\"programming/python/python virtual environments.md\"> python virtual environments </a>"
       ],
       "Created": [
+        "<a class=\"internal-link\" href=\"programming/python/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"programming/general/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"programming/general/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"personal/social/Untitled.md\"> Untitled </a>",
@@ -637,8 +643,7 @@
         "<a class=\"internal-link\" href=\"\"python.md\"> \"python </a>",
         "<a class=\"internal-link\" href=\"programming/python/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"programming/python/Untitled.md\"> Untitled </a>",
-        "<a class=\"internal-link\" href=\"daily/09-15-22.md\"> 09-15-22 </a>",
-        "<a class=\"internal-link\" href=\"programming/python/Untitled.md\"> Untitled </a>"
+        "<a class=\"internal-link\" href=\"daily/09-15-22.md\"> 09-15-22 </a>"
       ],
       "Renamed": [
         "<a class=\"internal-link\" href=\"programming/haskell/haskell lists.md\"> haskell lists </a>",
