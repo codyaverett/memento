@@ -2,6 +2,8 @@
 
 Doctest is a utility package to test code documentation inline your files directly.
 
+It's useful for testing interactive code blocks.  Similar to a snapshot test.
+
 ## Reference
 [Python documentation](https://docs.python.org/3/library/doctest.html)
 
