@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "programming/python/doctest.md",
+            "file": "programming/python/pandas.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "programming/python/doctest.md",
+                "file": "programming/python/pandas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,7 +87,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "programming/python/doctest.md"
+                "file": "programming/python/pandas.md"
               }
             }
           },
@@ -119,6 +119,7 @@
   },
   "active": "6dfbb566c44d0463",
   "lastOpenFiles": [
+    "programming/python/doctest.md",
     "programming/general/backtracking.md",
     "programming/python/python basics.md",
     "programming/general/30 seconds of code.md",
@@ -127,7 +128,6 @@
     "programming/python/attachments/Pasted image 20220919154837.png",
     "programming/python/attachments/Pasted image 20220912144323.png",
     "programming/python/jupyter notebooks.md",
-    "software/LDAP/finding ldap servers with nslookup.md",
-    "programming/python/python package managers.md"
+    "software/LDAP/finding ldap servers with nslookup.md"
   ]
 }
