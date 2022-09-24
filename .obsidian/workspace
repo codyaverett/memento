@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "6dfbb566c44d0463",
+        "id": "7708f620295d324b",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "personal/software/AWS quiz.md",
+            "file": "programming/algorithms/left-leaning red black trees.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -71,7 +71,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "personal/software/AWS quiz.md",
+                "file": "programming/algorithms/left-leaning red black trees.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,7 +88,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "personal/software/AWS quiz.md"
+                "file": "programming/algorithms/left-leaning red black trees.md"
               }
             }
           },
@@ -118,8 +118,9 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "6dfbb566c44d0463",
+  "active": "7708f620295d324b",
   "lastOpenFiles": [
+    "personal/software/AWS quiz.md",
     "daily/09-22-22.md",
     "personal/job-hunting/interesting jobhunt finds.md",
     "personal/job-hunting/Untitled.md",
@@ -128,7 +129,6 @@
     "programming/general/backtracking.md",
     "programming/python/python basics.md",
     "programming/general/30 seconds of code.md",
-    "personal/social/Harvard principles of negotiation.md",
-    "programming/neural networks/different types of neural networks.md"
+    "personal/social/Harvard principles of negotiation.md"
   ]
 }
