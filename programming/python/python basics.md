@@ -232,6 +232,20 @@ print(1 in numbers)
 print(len(numbers)) # returns the number of elements in the list
 ```
 
+The built-in `List` function turns an iterable into a list/array object
+
+## Zip
+
+Joins two objects together and returns an iterable object.
+```python
+>>> for thing in zip("techno", 'woo'):
+...     print(thing)
+...
+('t', 'w')
+('e', 'o')
+('c', 'o')
+```
+
 ## Iterate over a list
 ```python
 numbers = [1, 2, 3, 4, 5]
