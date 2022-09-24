@@ -55,4 +55,61 @@ CDN
 - Up to 900 seconds (Answer)
 
 ## What is the purpose of Elastic Load Balancing?
-- 
+- Distribution of the traffic to EC2 instances (Answer)
+- Routing user requests to nearest edge locations
+- Patching the database software and managing backups
+
+## Which service is used to send, store, and receive messages between software components?
+- Amazon Neptune
+- Amazon Snowball
+- Amazon Simple Queue Service (Answer)
+
+## Which service is used to build and train machine learning models in AWS?
+- Amazon SageMaker (Answer)
+- Amazon Athena
+- Amazon Macie
+
+## Which is the best AWS service to perform real-time monitoring of AWS services and get actionable insights?
+- Amazon Chime
+- Amazon CloudWatch (Answer)
+- AWS Batch
+
+## Which of these is Amazon networking service
+- Amazon Lightsat
+- Amazon S3
+- Amazon Route53 (Answer)
+
+## What does Amazon RDS stand for?
+- Real-time data streaming
+- Raw data scraping
+- Relational database service (Answer)
+
+## Amazon Redshift does provide a built-in Data API.
+- True (Answer)
+- False
+
+## Which AWS services are not region-specific?
+- AWS IAM
+- Amazon Route 53
+- Amazon CloudFront
+- All of the above (Answer)
+
+## What services does Amazon Route53 provide?
+- Domain name system (Answer)
+- Content delivery system
+- Simple storage service
+
+## What services does Amazon S3 provide?
+- Content Delivery
+- Data Storage (Answer)
+- Domain Names
+
+## What's Amazon Snowball?
+- Data warehouse
+- Data transport option (Answer)
+- AWS specific logging tool
+
+## What solutions does Amazon Workspaces provide?
+- PaaS
+- SaaS
+- DaaS (Desktop as a service) (Answer)
