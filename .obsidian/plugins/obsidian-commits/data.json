@@ -508,12 +508,17 @@
       "size": 2835,
       "tags": 0,
       "links": 0
+    },
+    "programming/algorithms/left-leaning red black trees.md": {
+      "size": 0,
+      "tags": 0,
+      "links": 0
     }
   },
   "commitTypes": {
     "/": {
       "Refactor": 22,
-      "Create": 60,
+      "Create": 61,
       "Link": 16,
       "Expand": 49
     }
@@ -540,7 +545,7 @@
       "17": 4,
       "18": 0,
       "19": 13,
-      "20": 5,
+      "20": 6,
       "21": 2,
       "22": 8,
       "23": 8
@@ -552,7 +557,7 @@
       "Tue": 11,
       "Wed": 31,
       "Thu": 28,
-      "Fri": 34,
+      "Fri": 35,
       "Sat": 0,
       "Sun": 6
     }
@@ -611,6 +616,7 @@
         "<a class=\"internal-link\" href=\"personal/software/AWS.md\"> AWS </a>"
       ],
       "Created": [
+        "<a class=\"internal-link\" href=\"programming/algorithms/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"personal/software/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"daily/09-22-22.md\"> 09-22-22 </a>",
         "<a class=\"internal-link\" href=\"personal/job-hunting/Untitled.md\"> Untitled </a>",
@@ -660,8 +666,7 @@
         "<a class=\"internal-link\" href=\"Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"python.md\"> python </a>",
-        "<a class=\"internal-link\" href=\"'python.md\"> 'python </a>",
-        "<a class=\"internal-link\" href=\"python_os_module.md\"> python_os_module </a>"
+        "<a class=\"internal-link\" href=\"'python.md\"> 'python </a>"
       ],
       "Renamed": [
         "<a class=\"internal-link\" href=\"programming/haskell/haskell lists.md\"> haskell lists </a>",
