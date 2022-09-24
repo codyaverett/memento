@@ -1,6 +1,6 @@
 # Left-Leaning red black trees
 
-Balanced tree searches
+This is a Balanced tree for optimal searching, inserting, and deleting nodes.
 
 ## Reference
 - [Robert Sedgewick](https://sedgewick.io/)
