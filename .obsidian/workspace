@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "personal/software/AWS.md",
+            "file": "personal/software/AWS quiz.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -71,7 +71,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "personal/software/AWS.md",
+                "file": "personal/software/AWS quiz.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,7 +88,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "personal/software/AWS.md"
+                "file": "personal/software/AWS quiz.md"
               }
             }
           },
