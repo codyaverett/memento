@@ -523,12 +523,17 @@
       "size": 0,
       "tags": 0,
       "links": 0
+    },
+    "programming/general/catamorphism.md": {
+      "size": 0,
+      "tags": 0,
+      "links": 0
     }
   },
   "commitTypes": {
     "/": {
-      "Refactor": 24,
-      "Create": 63,
+      "Refactor": 25,
+      "Create": 64,
       "Link": 16,
       "Expand": 49
     }
@@ -557,7 +562,7 @@
       "19": 13,
       "20": 7,
       "21": 5,
-      "22": 8,
+      "22": 10,
       "23": 8
     }
   },
@@ -567,7 +572,7 @@
       "Tue": 11,
       "Wed": 31,
       "Thu": 28,
-      "Fri": 39,
+      "Fri": 41,
       "Sat": 0,
       "Sun": 6
     }
@@ -626,6 +631,7 @@
         "<a class=\"internal-link\" href=\"personal/software/AWS.md\"> AWS </a>"
       ],
       "Created": [
+        "<a class=\"internal-link\" href=\"programming/general/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"programming/algorithms/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"programming/python/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"programming/algorithms/Untitled.md\"> Untitled </a>",
@@ -675,7 +681,6 @@
         "<a class=\"internal-link\" href=\"Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"programming/python/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"programming/python/Untitled.md\"> Untitled </a>",
-        "<a class=\"internal-link\" href=\"Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"Untitled.md\"> Untitled </a>"
       ],
       "Renamed": [
@@ -695,7 +700,8 @@
         "<a class=\"internal-link\" href=\"programming/python/python virtual environments.md\"> python virtual environments </a>",
         "<a class=\"internal-link\" href=\"personal/software/AWS quiz.md\"> AWS quiz </a>",
         "<a class=\"internal-link\" href=\"programming/algorithms/data-structures/left-leaning red black trees.md\"> left-leaning red black trees </a>",
-        "<a class=\"internal-link\" href=\"programming/algorithms/algorithms.md\"> algorithms </a>"
+        "<a class=\"internal-link\" href=\"programming/algorithms/algorithms.md\"> algorithms </a>",
+        "<a class=\"internal-link\" href=\"programming/general/catamorphism.md\"> catamorphism </a>"
       ],
       "Tagged": [
         "<a class=\"internal-link\" href=\"personal/job-hunting/jb-hunt-topics.md\"> jb-hunt-topics </a>",

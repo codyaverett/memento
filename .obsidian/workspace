@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "programming/python/python basics.md",
+            "file": "programming/general/catamorphism.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -54,8 +54,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 283.50235176086426,
-    "collapsed": true
+    "width": 283.50235176086426
   },
   "right": {
     "id": "27aa3db891e6815a",
@@ -71,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "programming/python/python basics.md",
+                "file": "programming/general/catamorphism.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,7 +87,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "programming/python/python basics.md"
+                "file": "programming/general/catamorphism.md"
               }
             }
           },
@@ -120,6 +119,7 @@
   },
   "active": "7708f620295d324b",
   "lastOpenFiles": [
+    "programming/python/python basics.md",
     "programming/python/python package managers.md",
     "programming/algorithms/algorithms.md",
     "programming/python/python cached property.md",
@@ -128,7 +128,6 @@
     "daily/09-22-22.md",
     "personal/job-hunting/interesting jobhunt finds.md",
     "personal/job-hunting/Untitled.md",
-    "programming/python/pandas.md",
-    "programming/python/doctest.md"
+    "programming/python/pandas.md"
   ]
 }
