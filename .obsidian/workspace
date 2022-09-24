@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "programming/python/python cached property.md",
+            "file": "programming/algorithms/alorithms.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "programming/python/python cached property.md",
+                "file": "programming/algorithms/alorithms.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,7 +87,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "programming/python/python cached property.md"
+                "file": "programming/algorithms/alorithms.md"
               }
             }
           },
@@ -117,9 +117,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "33a2bab88d111215",
+  "active": "7708f620295d324b",
   "lastOpenFiles": [
-    "programming/algorithms/left-leaning red black trees.md",
+    "programming/python/python cached property.md",
+    "programming/algorithms/data-structures/left-leaning red black trees.md",
     "personal/software/AWS quiz.md",
     "daily/09-22-22.md",
     "personal/job-hunting/interesting jobhunt finds.md",
@@ -127,7 +128,6 @@
     "programming/python/pandas.md",
     "programming/python/doctest.md",
     "programming/general/backtracking.md",
-    "programming/python/python basics.md",
-    "programming/general/30 seconds of code.md"
+    "programming/python/python basics.md"
   ]
 }
