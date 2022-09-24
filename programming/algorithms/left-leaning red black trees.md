@@ -15,3 +15,5 @@ Red Black trees are used in various implementations currently:
 - [Robert Sedgewick](https://sedgewick.io/)
 - [Rober Sedgewick's paper on the topic](https://sedgewick.io/wp-content/themes/sedgewick/papers/2008LLRB.pdf)
 - [Scapegoat Trees](https://en.wikipedia.org/wiki/Scapegoat_tree)
+- [GoLang implementation](https://pkg.go.dev/github.com/coredns/coredns/plugin/file/tree)
+- 
