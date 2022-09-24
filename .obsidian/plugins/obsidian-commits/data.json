@@ -504,18 +504,18 @@
       "tags": 0,
       "links": 0
     },
-    "personal/software/AWS.md": {
-      "size": 2252,
+    "personal/software/AWS quiz.md": {
+      "size": 2835,
       "tags": 0,
       "links": 0
     }
   },
   "commitTypes": {
     "/": {
-      "Refactor": 21,
+      "Refactor": 22,
       "Create": 60,
       "Link": 16,
-      "Expand": 48
+      "Expand": 49
     }
   },
   "dailyCommits": {
@@ -539,7 +539,7 @@
       "16": 10,
       "17": 4,
       "18": 0,
-      "19": 11,
+      "19": 13,
       "20": 5,
       "21": 2,
       "22": 8,
@@ -552,7 +552,7 @@
       "Tue": 11,
       "Wed": 31,
       "Thu": 28,
-      "Fri": 32,
+      "Fri": 34,
       "Sat": 0,
       "Sun": 6
     }
@@ -607,6 +607,7 @@
         "<a class=\"internal-link\" href=\"programming/python/python virtual environments.md\"> python virtual environments </a>",
         "<a class=\"internal-link\" href=\"programming/python/python virtual environments.md\"> python virtual environments </a>",
         "<a class=\"internal-link\" href=\"programming/python/doctest.md\"> doctest </a>",
+        "<a class=\"internal-link\" href=\"personal/software/AWS.md\"> AWS </a>",
         "<a class=\"internal-link\" href=\"personal/software/AWS.md\"> AWS </a>"
       ],
       "Created": [
@@ -676,7 +677,8 @@
         "<a class=\"internal-link\" href=\"programming/python/python programming language.md\"> python programming language </a>",
         "<a class=\"internal-link\" href=\"programming/python/pyspark reference.md\"> pyspark reference </a>",
         "<a class=\"internal-link\" href=\"programming/python/python_os_module.md\"> python_os_module </a>",
-        "<a class=\"internal-link\" href=\"programming/python/python virtual environments.md\"> python virtual environments </a>"
+        "<a class=\"internal-link\" href=\"programming/python/python virtual environments.md\"> python virtual environments </a>",
+        "<a class=\"internal-link\" href=\"personal/software/AWS quiz.md\"> AWS quiz </a>"
       ],
       "Tagged": [
         "<a class=\"internal-link\" href=\"personal/job-hunting/jb-hunt-topics.md\"> jb-hunt-topics </a>",
