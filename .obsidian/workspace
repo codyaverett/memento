@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "programming/algorithms/left-leaning red black trees.md",
+            "file": "programming/python/python cached property.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -54,8 +54,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 283.50235176086426,
-    "collapsed": true
+    "width": 283.50235176086426
   },
   "right": {
     "id": "27aa3db891e6815a",
@@ -71,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "programming/algorithms/left-leaning red black trees.md",
+                "file": "programming/python/python cached property.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,7 +87,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "programming/algorithms/left-leaning red black trees.md"
+                "file": "programming/python/python cached property.md"
               }
             }
           },
@@ -118,8 +117,9 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "7708f620295d324b",
+  "active": "33a2bab88d111215",
   "lastOpenFiles": [
+    "programming/algorithms/left-leaning red black trees.md",
     "personal/software/AWS quiz.md",
     "daily/09-22-22.md",
     "personal/job-hunting/interesting jobhunt finds.md",
@@ -128,7 +128,6 @@
     "programming/python/doctest.md",
     "programming/general/backtracking.md",
     "programming/python/python basics.md",
-    "programming/general/30 seconds of code.md",
-    "personal/social/Harvard principles of negotiation.md"
+    "programming/general/30 seconds of code.md"
   ]
 }
