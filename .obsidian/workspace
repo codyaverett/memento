@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "daily/09-22-22.md",
+            "file": "personal/software/AWS.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -54,7 +54,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 283.50235176086426
+    "width": 283.50235176086426,
+    "collapsed": true
   },
   "right": {
     "id": "27aa3db891e6815a",
@@ -70,7 +71,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "daily/09-22-22.md",
+                "file": "personal/software/AWS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,7 +88,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "daily/09-22-22.md"
+                "file": "personal/software/AWS.md"
               }
             }
           },
@@ -119,6 +120,7 @@
   },
   "active": "6dfbb566c44d0463",
   "lastOpenFiles": [
+    "daily/09-22-22.md",
     "personal/job-hunting/interesting jobhunt finds.md",
     "personal/job-hunting/Untitled.md",
     "programming/python/pandas.md",
@@ -127,7 +129,6 @@
     "programming/python/python basics.md",
     "programming/general/30 seconds of code.md",
     "personal/social/Harvard principles of negotiation.md",
-    "programming/neural networks/different types of neural networks.md",
-    "programming/python/attachments/Pasted image 20220919154837.png"
+    "programming/neural networks/different types of neural networks.md"
   ]
 }
