@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "programming/algorithms/alorithms.md",
+            "file": "programming/algorithms/algorithms.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "programming/algorithms/alorithms.md",
+                "file": "programming/algorithms/algorithms.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,7 +87,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "programming/algorithms/alorithms.md"
+                "file": "programming/algorithms/algorithms.md"
               }
             }
           },
@@ -117,7 +117,7 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "7708f620295d324b",
+  "active": "33a2bab88d111215",
   "lastOpenFiles": [
     "programming/python/python cached property.md",
     "programming/algorithms/data-structures/left-leaning red black trees.md",
