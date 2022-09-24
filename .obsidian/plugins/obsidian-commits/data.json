@@ -518,12 +518,17 @@
       "size": 0,
       "tags": 0,
       "links": 0
+    },
+    "programming/algorithms/algorithms.md": {
+      "size": 0,
+      "tags": 0,
+      "links": 0
     }
   },
   "commitTypes": {
     "/": {
-      "Refactor": 23,
-      "Create": 62,
+      "Refactor": 24,
+      "Create": 63,
       "Link": 16,
       "Expand": 49
     }
@@ -551,7 +556,7 @@
       "18": 0,
       "19": 13,
       "20": 7,
-      "21": 3,
+      "21": 5,
       "22": 8,
       "23": 8
     }
@@ -562,7 +567,7 @@
       "Tue": 11,
       "Wed": 31,
       "Thu": 28,
-      "Fri": 37,
+      "Fri": 39,
       "Sat": 0,
       "Sun": 6
     }
@@ -621,6 +626,7 @@
         "<a class=\"internal-link\" href=\"personal/software/AWS.md\"> AWS </a>"
       ],
       "Created": [
+        "<a class=\"internal-link\" href=\"programming/algorithms/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"programming/python/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"programming/algorithms/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"personal/software/Untitled.md\"> Untitled </a>",
@@ -670,8 +676,7 @@
         "<a class=\"internal-link\" href=\"programming/python/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"programming/python/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"Untitled.md\"> Untitled </a>",
-        "<a class=\"internal-link\" href=\"Untitled.md\"> Untitled </a>",
-        "<a class=\"internal-link\" href=\"python.md\"> python </a>"
+        "<a class=\"internal-link\" href=\"Untitled.md\"> Untitled </a>"
       ],
       "Renamed": [
         "<a class=\"internal-link\" href=\"programming/haskell/haskell lists.md\"> haskell lists </a>",
@@ -689,7 +694,8 @@
         "<a class=\"internal-link\" href=\"programming/python/python_os_module.md\"> python_os_module </a>",
         "<a class=\"internal-link\" href=\"programming/python/python virtual environments.md\"> python virtual environments </a>",
         "<a class=\"internal-link\" href=\"personal/software/AWS quiz.md\"> AWS quiz </a>",
-        "<a class=\"internal-link\" href=\"programming/algorithms/data-structures/left-leaning red black trees.md\"> left-leaning red black trees </a>"
+        "<a class=\"internal-link\" href=\"programming/algorithms/data-structures/left-leaning red black trees.md\"> left-leaning red black trees </a>",
+        "<a class=\"internal-link\" href=\"programming/algorithms/algorithms.md\"> algorithms </a>"
       ],
       "Tagged": [
         "<a class=\"internal-link\" href=\"personal/job-hunting/jb-hunt-topics.md\"> jb-hunt-topics </a>",
