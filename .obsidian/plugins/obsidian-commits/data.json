@@ -528,12 +528,17 @@
       "size": 0,
       "tags": 0,
       "links": 0
+    },
+    "programming/general/polymorphism.md": {
+      "size": 0,
+      "tags": 0,
+      "links": 0
     }
   },
   "commitTypes": {
     "/": {
       "Refactor": 25,
-      "Create": 64,
+      "Create": 65,
       "Link": 16,
       "Expand": 49
     }
@@ -562,7 +567,7 @@
       "19": 13,
       "20": 7,
       "21": 5,
-      "22": 10,
+      "22": 11,
       "23": 8
     }
   },
@@ -574,7 +579,7 @@
       "Thu": 28,
       "Fri": 41,
       "Sat": 0,
-      "Sun": 6
+      "Sun": 7
     }
   },
   "recentCommits": {
@@ -632,6 +637,7 @@
       ],
       "Created": [
         "<a class=\"internal-link\" href=\"programming/general/Untitled.md\"> Untitled </a>",
+        "<a class=\"internal-link\" href=\"programming/general/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"programming/algorithms/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"programming/python/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"programming/algorithms/Untitled.md\"> Untitled </a>",
@@ -680,8 +686,7 @@
         "<a class=\"internal-link\" href=\"Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"programming/python/Untitled.md\"> Untitled </a>",
-        "<a class=\"internal-link\" href=\"programming/python/Untitled.md\"> Untitled </a>",
-        "<a class=\"internal-link\" href=\"Untitled.md\"> Untitled </a>"
+        "<a class=\"internal-link\" href=\"programming/python/Untitled.md\"> Untitled </a>"
       ],
       "Renamed": [
         "<a class=\"internal-link\" href=\"programming/haskell/haskell lists.md\"> haskell lists </a>",
