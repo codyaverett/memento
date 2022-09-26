@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "programming/general/polymorphism.md",
+            "file": "daily/09-26-22.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "programming/general/polymorphism.md",
+                "file": "daily/09-26-22.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,7 +87,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "programming/general/polymorphism.md"
+                "file": "daily/09-26-22.md"
               }
             }
           },
@@ -119,6 +119,7 @@
   },
   "active": "7708f620295d324b",
   "lastOpenFiles": [
+    "programming/general/polymorphism.md",
     "programming/general/catamorphism.md",
     "programming/python/python basics.md",
     "programming/python/python package managers.md",
@@ -127,7 +128,6 @@
     "programming/algorithms/data-structures/left-leaning red black trees.md",
     "personal/software/AWS quiz.md",
     "daily/09-22-22.md",
-    "personal/job-hunting/interesting jobhunt finds.md",
-    "personal/job-hunting/Untitled.md"
+    "personal/job-hunting/interesting jobhunt finds.md"
   ]
 }
