@@ -548,12 +548,22 @@
       "size": 0,
       "tags": 0,
       "links": 0
+    },
+    "personal/college/WGU/about wgu.md": {
+      "size": 0,
+      "tags": 0,
+      "links": 0
+    },
+    "personal/college/WGU/computer science degree at WGU.md": {
+      "size": 0,
+      "tags": 0,
+      "links": 0
     }
   },
   "commitTypes": {
     "/": {
-      "Refactor": 25,
-      "Create": 68,
+      "Refactor": 26,
+      "Create": 70,
       "Link": 16,
       "Expand": 49
     }
@@ -576,7 +586,7 @@
       "13": 0,
       "14": 6,
       "15": 14,
-      "16": 10,
+      "16": 13,
       "17": 4,
       "18": 0,
       "19": 13,
@@ -590,7 +600,7 @@
     "/": {
       "Mon": 38,
       "Tue": 12,
-      "Wed": 32,
+      "Wed": 35,
       "Thu": 28,
       "Fri": 41,
       "Sat": 0,
@@ -651,6 +661,8 @@
         "<a class=\"internal-link\" href=\"personal/software/AWS.md\"> AWS </a>"
       ],
       "Created": [
+        "<a class=\"internal-link\" href=\"personal/college/WGU/Untitled.md\"> Untitled </a>",
+        "<a class=\"internal-link\" href=\"personal/college/WGU/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"daily/09-28-22.md\"> 09-28-22 </a>",
         "<a class=\"internal-link\" href=\"daily/09-27-22.md\"> 09-27-22 </a>",
         "<a class=\"internal-link\" href=\"daily/09-26-22.md\"> 09-26-22 </a>",
@@ -699,9 +711,7 @@
         "<a class=\"internal-link\" href=\"programming/python/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"programming/python/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"programming/python/Untitled.md\"> Untitled </a>",
-        "<a class=\"internal-link\" href=\"programming/python/Untitled.md\"> Untitled </a>",
-        "<a class=\"internal-link\" href=\"Untitled.md\"> Untitled </a>",
-        "<a class=\"internal-link\" href=\"Untitled.md\"> Untitled </a>"
+        "<a class=\"internal-link\" href=\"programming/python/Untitled.md\"> Untitled </a>"
       ],
       "Renamed": [
         "<a class=\"internal-link\" href=\"programming/haskell/haskell lists.md\"> haskell lists </a>",
@@ -721,7 +731,8 @@
         "<a class=\"internal-link\" href=\"personal/software/AWS quiz.md\"> AWS quiz </a>",
         "<a class=\"internal-link\" href=\"programming/algorithms/data-structures/left-leaning red black trees.md\"> left-leaning red black trees </a>",
         "<a class=\"internal-link\" href=\"programming/algorithms/algorithms.md\"> algorithms </a>",
-        "<a class=\"internal-link\" href=\"programming/general/catamorphism.md\"> catamorphism </a>"
+        "<a class=\"internal-link\" href=\"programming/general/catamorphism.md\"> catamorphism </a>",
+        "<a class=\"internal-link\" href=\"personal/college/WGU/computer science degree at WGU.md\"> computer science degree at WGU </a>"
       ],
       "Tagged": [
         "<a class=\"internal-link\" href=\"personal/job-hunting/jb-hunt-topics.md\"> jb-hunt-topics </a>",

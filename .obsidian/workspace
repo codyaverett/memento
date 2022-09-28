@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "daily/09-28-22.md",
+            "file": "personal/college/WGU/computer science degree at WGU.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -54,8 +54,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 283.50235176086426,
-    "collapsed": true
+    "width": 283.50235176086426
   },
   "right": {
     "id": "27aa3db891e6815a",
@@ -71,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "daily/09-28-22.md",
+                "file": "personal/college/WGU/computer science degree at WGU.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,7 +87,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "daily/09-28-22.md"
+                "file": "personal/college/WGU/computer science degree at WGU.md"
               }
             }
           },
@@ -120,6 +119,8 @@
   },
   "active": "7708f620295d324b",
   "lastOpenFiles": [
+    "personal/college/WGU/about wgu.md",
+    "daily/09-28-22.md",
     "daily/09-27-22.md",
     "daily/09-26-22.md",
     "programming/general/polymorphism.md",
@@ -127,8 +128,6 @@
     "programming/python/python basics.md",
     "programming/python/python package managers.md",
     "programming/algorithms/algorithms.md",
-    "programming/python/python cached property.md",
-    "programming/algorithms/data-structures/left-leaning red black trees.md",
-    "personal/software/AWS quiz.md"
+    "programming/python/python cached property.md"
   ]
 }
