@@ -1,6 +1,11 @@
 # Lists of current things I care about
 
-## Marlowe course
+## Cardano Blockchain network learning
+- [IdeaScale Cardano Propasals](https://cardano.ideascale.com/c/idea/414020)
+- [ ] Stake pool operation
+- [ ] Website integrations
+  
+### Marlowe course
 - explorer https://explorer.pioneers.testnet.marlowe-finance.io/en
 - canvas https://canvas.instructure.com/courses/4490405/pages/3-marlowe-in-depth-june-2nd
 - Marlowe run https://marlowe-run-marlowe-pioneers.plutus.aws.iohkdev.io/#
@@ -17,3 +22,6 @@
 - [First Impressions](software/obsidian/first-impressions)
 - https://obsidian.md/
 - [plugins](https://obsidian.md/plugins)
+
+## WGU college
+- My [[computer science degree at WGU]]
