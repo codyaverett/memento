@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Current Stuff.md",
+            "file": "programming/python/concurrency in python.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Current Stuff.md",
+                "file": "programming/python/concurrency in python.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,7 +87,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Current Stuff.md"
+                "file": "programming/python/concurrency in python.md"
               }
             }
           },
@@ -119,6 +119,7 @@
   },
   "active": "7708f620295d324b",
   "lastOpenFiles": [
+    "Current Stuff.md",
     "personal/college/WGU/computer science degree at WGU.md",
     "personal/college/WGU/student accessibility services.md",
     "personal/college/WGU/about wgu.md",
@@ -127,7 +128,6 @@
     "daily/09-26-22.md",
     "programming/general/polymorphism.md",
     "programming/general/catamorphism.md",
-    "programming/python/python basics.md",
-    "programming/python/python package managers.md"
+    "programming/python/python basics.md"
   ]
 }
