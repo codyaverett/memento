@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "personal/college/WGU/student accessibility services.md",
+            "file": "Current Stuff.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "personal/college/WGU/student accessibility services.md",
+                "file": "Current Stuff.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,7 +87,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "personal/college/WGU/student accessibility services.md"
+                "file": "Current Stuff.md"
               }
             }
           },
@@ -120,6 +120,7 @@
   "active": "7708f620295d324b",
   "lastOpenFiles": [
     "personal/college/WGU/computer science degree at WGU.md",
+    "personal/college/WGU/student accessibility services.md",
     "personal/college/WGU/about wgu.md",
     "daily/09-28-22.md",
     "daily/09-27-22.md",
@@ -127,7 +128,6 @@
     "programming/general/polymorphism.md",
     "programming/general/catamorphism.md",
     "programming/python/python basics.md",
-    "programming/python/python package managers.md",
-    "programming/algorithms/algorithms.md"
+    "programming/python/python package managers.md"
   ]
 }
