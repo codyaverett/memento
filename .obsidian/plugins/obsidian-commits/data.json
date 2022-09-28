@@ -242,7 +242,7 @@
     "Current Stuff.md": {
       "size": 787,
       "tags": 0,
-      "links": 1
+      "links": 2
     },
     "daily/08-11-22.md": {
       "size": 0,
@@ -569,7 +569,7 @@
     "/": {
       "Refactor": 26,
       "Create": 71,
-      "Link": 16,
+      "Link": 17,
       "Expand": 50
     }
   },
@@ -592,7 +592,7 @@
       "14": 6,
       "15": 14,
       "16": 15,
-      "17": 4,
+      "17": 5,
       "18": 0,
       "19": 13,
       "20": 7,
@@ -605,7 +605,7 @@
     "/": {
       "Mon": 38,
       "Tue": 12,
-      "Wed": 37,
+      "Wed": 38,
       "Thu": 28,
       "Fri": 41,
       "Sat": 0,
@@ -768,7 +768,8 @@
         "<a class=\"internal-link\" href=\"programming/python/pyspark.md\"> pyspark </a>",
         "<a class=\"internal-link\" href=\"personal/job-hunting/Federal-reserve-bank-topics.md\"> Federal-reserve-bank-topics </a>",
         "<a class=\"internal-link\" href=\"personal/job-hunting/Federal-reserve-bank-topics.md\"> Federal-reserve-bank-topics </a>",
-        "<a class=\"internal-link\" href=\"programming/neural networks/different types of neural networks.md\"> different types of neural networks </a>"
+        "<a class=\"internal-link\" href=\"programming/neural networks/different types of neural networks.md\"> different types of neural networks </a>",
+        "<a class=\"internal-link\" href=\"Current Stuff.md\"> Current Stuff </a>"
       ],
       "Removed Tags from": [],
       "Removed Links from": []
