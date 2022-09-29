@@ -573,12 +573,17 @@
       "size": 0,
       "tags": 0,
       "links": 1
+    },
+    "software/data ETL/apache paraquet.md": {
+      "size": 0,
+      "tags": 0,
+      "links": 0
     }
   },
   "commitTypes": {
     "/": {
-      "Refactor": 26,
-      "Create": 73,
+      "Refactor": 27,
+      "Create": 74,
       "Link": 18,
       "Expand": 51
     }
@@ -607,7 +612,7 @@
       "19": 13,
       "20": 7,
       "21": 5,
-      "22": 14,
+      "22": 16,
       "23": 8
     }
   },
@@ -615,7 +620,7 @@
     "/": {
       "Mon": 38,
       "Tue": 12,
-      "Wed": 42,
+      "Wed": 44,
       "Thu": 28,
       "Fri": 41,
       "Sat": 0,
@@ -678,6 +683,7 @@
         "<a class=\"internal-link\" href=\"programming/python/concurrency in python.md\"> concurrency in python </a>"
       ],
       "Created": [
+        "<a class=\"internal-link\" href=\"software/data ETL/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"programming/cli/loading/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"programming/python/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"personal/college/WGU/Untitled.md\"> Untitled </a>",
@@ -727,7 +733,6 @@
         "<a class=\"internal-link\" href=\"programming/python/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"explorer.ergoplatform.com.md\"> explorer.ergoplatform.com </a>",
         "<a class=\"internal-link\" href=\"programming/python/Untitled.md\"> Untitled </a>",
-        "<a class=\"internal-link\" href=\"programming/python/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"programming/python/Untitled.md\"> Untitled </a>"
       ],
       "Renamed": [
@@ -749,7 +754,8 @@
         "<a class=\"internal-link\" href=\"programming/algorithms/data-structures/left-leaning red black trees.md\"> left-leaning red black trees </a>",
         "<a class=\"internal-link\" href=\"programming/algorithms/algorithms.md\"> algorithms </a>",
         "<a class=\"internal-link\" href=\"programming/general/catamorphism.md\"> catamorphism </a>",
-        "<a class=\"internal-link\" href=\"personal/college/WGU/computer science degree at WGU.md\"> computer science degree at WGU </a>"
+        "<a class=\"internal-link\" href=\"personal/college/WGU/computer science degree at WGU.md\"> computer science degree at WGU </a>",
+        "<a class=\"internal-link\" href=\"software/data ETL/apache paraquet.md\"> apache paraquet </a>"
       ],
       "Tagged": [
         "<a class=\"internal-link\" href=\"personal/job-hunting/jb-hunt-topics.md\"> jb-hunt-topics </a>",
