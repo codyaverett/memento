@@ -565,17 +565,22 @@
       "links": 0
     },
     "programming/python/concurrency in python.md": {
-      "size": 0,
+      "size": 2045,
       "tags": 0,
       "links": 0
+    },
+    "programming/cli/loading/loading spinners and representing updates in a CLI application.md": {
+      "size": 0,
+      "tags": 0,
+      "links": 1
     }
   },
   "commitTypes": {
     "/": {
       "Refactor": 26,
-      "Create": 72,
-      "Link": 17,
-      "Expand": 50
+      "Create": 73,
+      "Link": 18,
+      "Expand": 51
     }
   },
   "dailyCommits": {
@@ -598,11 +603,11 @@
       "15": 14,
       "16": 15,
       "17": 6,
-      "18": 0,
+      "18": 1,
       "19": 13,
       "20": 7,
       "21": 5,
-      "22": 12,
+      "22": 14,
       "23": 8
     }
   },
@@ -610,7 +615,7 @@
     "/": {
       "Mon": 38,
       "Tue": 12,
-      "Wed": 39,
+      "Wed": 42,
       "Thu": 28,
       "Fri": 41,
       "Sat": 0,
@@ -669,9 +674,11 @@
         "<a class=\"internal-link\" href=\"programming/python/doctest.md\"> doctest </a>",
         "<a class=\"internal-link\" href=\"personal/software/AWS.md\"> AWS </a>",
         "<a class=\"internal-link\" href=\"personal/software/AWS.md\"> AWS </a>",
-        "<a class=\"internal-link\" href=\"personal/college/WGU/student accessibility services.md\"> student accessibility services </a>"
+        "<a class=\"internal-link\" href=\"personal/college/WGU/student accessibility services.md\"> student accessibility services </a>",
+        "<a class=\"internal-link\" href=\"programming/python/concurrency in python.md\"> concurrency in python </a>"
       ],
       "Created": [
+        "<a class=\"internal-link\" href=\"programming/cli/loading/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"programming/python/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"personal/college/WGU/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"personal/college/WGU/Untitled.md\"> Untitled </a>",
@@ -719,7 +726,6 @@
         "<a class=\"internal-link\" href=\"programming/python/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"programming/python/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"explorer.ergoplatform.com.md\"> explorer.ergoplatform.com </a>",
-        "<a class=\"internal-link\" href=\"programming/python/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"programming/python/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"programming/python/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"programming/python/Untitled.md\"> Untitled </a>"
@@ -774,7 +780,8 @@
         "<a class=\"internal-link\" href=\"personal/job-hunting/Federal-reserve-bank-topics.md\"> Federal-reserve-bank-topics </a>",
         "<a class=\"internal-link\" href=\"personal/job-hunting/Federal-reserve-bank-topics.md\"> Federal-reserve-bank-topics </a>",
         "<a class=\"internal-link\" href=\"programming/neural networks/different types of neural networks.md\"> different types of neural networks </a>",
-        "<a class=\"internal-link\" href=\"Current Stuff.md\"> Current Stuff </a>"
+        "<a class=\"internal-link\" href=\"Current Stuff.md\"> Current Stuff </a>",
+        "<a class=\"internal-link\" href=\"programming/cli/loading/loading spinners and representing updates in a CLI application.md\"> loading spinners and representing updates in a CLI application </a>"
       ],
       "Removed Tags from": [],
       "Removed Links from": []
