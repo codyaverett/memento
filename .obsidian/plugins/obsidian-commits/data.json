@@ -583,12 +583,17 @@
       "size": 0,
       "tags": 0,
       "links": 7
+    },
+    "programming/python/cli/building and distributing a CLI app with python.md": {
+      "size": 0,
+      "tags": 0,
+      "links": 0
     }
   },
   "commitTypes": {
     "/": {
       "Refactor": 28,
-      "Create": 75,
+      "Create": 76,
       "Link": 22,
       "Expand": 51
     }
@@ -618,14 +623,14 @@
       "20": 7,
       "21": 5,
       "22": 17,
-      "23": 13
+      "23": 14
     }
   },
   "weeklyCommits": {
     "/": {
       "Mon": 38,
       "Tue": 12,
-      "Wed": 50,
+      "Wed": 51,
       "Thu": 28,
       "Fri": 41,
       "Sat": 0,
@@ -688,6 +693,7 @@
         "<a class=\"internal-link\" href=\"programming/python/concurrency in python.md\"> concurrency in python </a>"
       ],
       "Created": [
+        "<a class=\"internal-link\" href=\"programming/python/cli/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"personal/job-hunting/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"software/data ETL/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"programming/cli/loading/Untitled.md\"> Untitled </a>",
@@ -737,8 +743,7 @@
         "<a class=\"internal-link\" href=\"daily/09-12-22.md\"> 09-12-22 </a>",
         "<a class=\"internal-link\" href=\"programming/python/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"programming/python/Untitled.md\"> Untitled </a>",
-        "<a class=\"internal-link\" href=\"explorer.ergoplatform.com.md\"> explorer.ergoplatform.com </a>",
-        "<a class=\"internal-link\" href=\"programming/python/Untitled.md\"> Untitled </a>"
+        "<a class=\"internal-link\" href=\"explorer.ergoplatform.com.md\"> explorer.ergoplatform.com </a>"
       ],
       "Renamed": [
         "<a class=\"internal-link\" href=\"programming/haskell/haskell lists.md\"> haskell lists </a>",
