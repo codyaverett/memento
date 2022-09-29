@@ -582,14 +582,14 @@
     "personal/job-hunting/Lextegrity.md": {
       "size": 0,
       "tags": 0,
-      "links": 4
+      "links": 7
     }
   },
   "commitTypes": {
     "/": {
       "Refactor": 28,
       "Create": 75,
-      "Link": 21,
+      "Link": 22,
       "Expand": 51
     }
   },
@@ -618,14 +618,14 @@
       "20": 7,
       "21": 5,
       "22": 17,
-      "23": 12
+      "23": 13
     }
   },
   "weeklyCommits": {
     "/": {
       "Mon": 38,
       "Tue": 12,
-      "Wed": 49,
+      "Wed": 50,
       "Thu": 28,
       "Fri": 41,
       "Sat": 0,
@@ -795,6 +795,7 @@
         "<a class=\"internal-link\" href=\"Current Stuff.md\"> Current Stuff </a>",
         "<a class=\"internal-link\" href=\"programming/cli/loading/loading spinners and representing updates in a CLI application.md\"> loading spinners and representing updates in a CLI application </a>",
         "<a class=\"internal-link\" href=\"software/data ETL/apache paraquet.md\"> apache paraquet </a>",
+        "<a class=\"internal-link\" href=\"personal/job-hunting/Lextegrity.md\"> Lextegrity </a>",
         "<a class=\"internal-link\" href=\"personal/job-hunting/Lextegrity.md\"> Lextegrity </a>",
         "<a class=\"internal-link\" href=\"personal/job-hunting/Lextegrity.md\"> Lextegrity </a>"
       ],
