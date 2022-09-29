@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "personal/job-hunting/Lextegrity.md",
+            "file": "programming/python/cli/building and distributing a CLI app with python.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "personal/job-hunting/Lextegrity.md",
+                "file": "programming/python/cli/building and distributing a CLI app with python.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,7 +87,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "personal/job-hunting/Lextegrity.md"
+                "file": "programming/python/cli/building and distributing a CLI app with python.md"
               }
             }
           },
@@ -119,6 +119,7 @@
   },
   "active": "7708f620295d324b",
   "lastOpenFiles": [
+    "personal/job-hunting/Lextegrity.md",
     "software/data ETL/apache paraquet.md",
     "programming/cli/loading/loading spinners and representing updates in a CLI application.md",
     "programming/python/python basics.md",
@@ -127,7 +128,6 @@
     "personal/college/WGU/computer science degree at WGU.md",
     "personal/college/WGU/student accessibility services.md",
     "personal/college/WGU/about wgu.md",
-    "daily/09-28-22.md",
-    "daily/09-27-22.md"
+    "daily/09-28-22.md"
   ]
 }
