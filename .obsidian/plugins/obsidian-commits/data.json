@@ -577,14 +577,19 @@
     "software/data ETL/apache paraquet.md": {
       "size": 0,
       "tags": 0,
-      "links": 0
+      "links": 1
+    },
+    "personal/job-hunting/Lextegrity.md": {
+      "size": 0,
+      "tags": 0,
+      "links": 4
     }
   },
   "commitTypes": {
     "/": {
-      "Refactor": 27,
-      "Create": 74,
-      "Link": 18,
+      "Refactor": 28,
+      "Create": 75,
+      "Link": 21,
       "Expand": 51
     }
   },
@@ -612,15 +617,15 @@
       "19": 13,
       "20": 7,
       "21": 5,
-      "22": 16,
-      "23": 8
+      "22": 17,
+      "23": 12
     }
   },
   "weeklyCommits": {
     "/": {
       "Mon": 38,
       "Tue": 12,
-      "Wed": 44,
+      "Wed": 49,
       "Thu": 28,
       "Fri": 41,
       "Sat": 0,
@@ -683,6 +688,7 @@
         "<a class=\"internal-link\" href=\"programming/python/concurrency in python.md\"> concurrency in python </a>"
       ],
       "Created": [
+        "<a class=\"internal-link\" href=\"personal/job-hunting/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"software/data ETL/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"programming/cli/loading/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"programming/python/Untitled.md\"> Untitled </a>",
@@ -732,7 +738,6 @@
         "<a class=\"internal-link\" href=\"programming/python/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"programming/python/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"explorer.ergoplatform.com.md\"> explorer.ergoplatform.com </a>",
-        "<a class=\"internal-link\" href=\"programming/python/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"programming/python/Untitled.md\"> Untitled </a>"
       ],
       "Renamed": [
@@ -755,7 +760,8 @@
         "<a class=\"internal-link\" href=\"programming/algorithms/algorithms.md\"> algorithms </a>",
         "<a class=\"internal-link\" href=\"programming/general/catamorphism.md\"> catamorphism </a>",
         "<a class=\"internal-link\" href=\"personal/college/WGU/computer science degree at WGU.md\"> computer science degree at WGU </a>",
-        "<a class=\"internal-link\" href=\"software/data ETL/apache paraquet.md\"> apache paraquet </a>"
+        "<a class=\"internal-link\" href=\"software/data ETL/apache paraquet.md\"> apache paraquet </a>",
+        "<a class=\"internal-link\" href=\"personal/job-hunting/Lextegrity.md\"> Lextegrity </a>"
       ],
       "Tagged": [
         "<a class=\"internal-link\" href=\"personal/job-hunting/jb-hunt-topics.md\"> jb-hunt-topics </a>",
@@ -787,7 +793,10 @@
         "<a class=\"internal-link\" href=\"personal/job-hunting/Federal-reserve-bank-topics.md\"> Federal-reserve-bank-topics </a>",
         "<a class=\"internal-link\" href=\"programming/neural networks/different types of neural networks.md\"> different types of neural networks </a>",
         "<a class=\"internal-link\" href=\"Current Stuff.md\"> Current Stuff </a>",
-        "<a class=\"internal-link\" href=\"programming/cli/loading/loading spinners and representing updates in a CLI application.md\"> loading spinners and representing updates in a CLI application </a>"
+        "<a class=\"internal-link\" href=\"programming/cli/loading/loading spinners and representing updates in a CLI application.md\"> loading spinners and representing updates in a CLI application </a>",
+        "<a class=\"internal-link\" href=\"software/data ETL/apache paraquet.md\"> apache paraquet </a>",
+        "<a class=\"internal-link\" href=\"personal/job-hunting/Lextegrity.md\"> Lextegrity </a>",
+        "<a class=\"internal-link\" href=\"personal/job-hunting/Lextegrity.md\"> Lextegrity </a>"
       ],
       "Removed Tags from": [],
       "Removed Links from": []
