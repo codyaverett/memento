@@ -4,7 +4,6 @@ There are many super cool CLI applications out there that do things beyond what 
 
 It's simpler then you might think to create a simple loader.  You just need to understand more about standard input and output and take control of the terminals rendering process.
 
-
 e.g. NodeJS
 
 ```javascript
