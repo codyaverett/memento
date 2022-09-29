@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "programming/python/concurrency in python.md",
-            "mode": "preview",
+            "file": "programming/cli/loading/loading spinners and representing updates in a CLI application.md",
+            "mode": "source",
             "backlinks": false,
             "source": false
           }
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "programming/python/concurrency in python.md",
+                "file": "programming/cli/loading/loading spinners and representing updates in a CLI application.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,7 +87,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "programming/python/concurrency in python.md"
+                "file": "programming/cli/loading/loading spinners and representing updates in a CLI application.md"
               }
             }
           },
@@ -119,6 +119,8 @@
   },
   "active": "7708f620295d324b",
   "lastOpenFiles": [
+    "programming/python/python basics.md",
+    "programming/python/concurrency in python.md",
     "Current Stuff.md",
     "personal/college/WGU/computer science degree at WGU.md",
     "personal/college/WGU/student accessibility services.md",
@@ -126,8 +128,6 @@
     "daily/09-28-22.md",
     "daily/09-27-22.md",
     "daily/09-26-22.md",
-    "programming/general/polymorphism.md",
-    "programming/general/catamorphism.md",
-    "programming/python/python basics.md"
+    "programming/general/polymorphism.md"
   ]
 }
