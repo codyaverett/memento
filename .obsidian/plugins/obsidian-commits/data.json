@@ -588,12 +588,27 @@
       "size": 0,
       "tags": 0,
       "links": 0
+    },
+    "programming/python/building python extensions with Rust.md": {
+      "size": 0,
+      "tags": 0,
+      "links": 0
+    },
+    "daily/09-30-22.md": {
+      "size": 0,
+      "tags": 0,
+      "links": 0
+    },
+    "daily/10-01-22.md": {
+      "size": 0,
+      "tags": 0,
+      "links": 0
     }
   },
   "commitTypes": {
     "/": {
       "Refactor": 28,
-      "Create": 76,
+      "Create": 79,
       "Link": 22,
       "Expand": 51
     }
@@ -613,12 +628,12 @@
       "10": 9,
       "11": 5,
       "12": 0,
-      "13": 0,
-      "14": 6,
+      "13": 1,
+      "14": 7,
       "15": 14,
       "16": 15,
       "17": 6,
-      "18": 1,
+      "18": 2,
       "19": 13,
       "20": 7,
       "21": 5,
@@ -631,10 +646,10 @@
       "Mon": 38,
       "Tue": 12,
       "Wed": 51,
-      "Thu": 28,
-      "Fri": 41,
+      "Thu": 29,
+      "Fri": 42,
       "Sat": 0,
-      "Sun": 7
+      "Sun": 8
     }
   },
   "recentCommits": {
@@ -693,6 +708,9 @@
         "<a class=\"internal-link\" href=\"programming/python/concurrency in python.md\"> concurrency in python </a>"
       ],
       "Created": [
+        "<a class=\"internal-link\" href=\"daily/10-01-22.md\"> 10-01-22 </a>",
+        "<a class=\"internal-link\" href=\"daily/09-30-22.md\"> 09-30-22 </a>",
+        "<a class=\"internal-link\" href=\"programming/python/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"programming/python/cli/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"personal/job-hunting/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"software/data ETL/Untitled.md\"> Untitled </a>",
@@ -740,10 +758,7 @@
         "<a class=\"internal-link\" href=\"programming/SQL/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"programming/python/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"programming/python/Untitled.md\"> Untitled </a>",
-        "<a class=\"internal-link\" href=\"daily/09-12-22.md\"> 09-12-22 </a>",
-        "<a class=\"internal-link\" href=\"programming/python/Untitled.md\"> Untitled </a>",
-        "<a class=\"internal-link\" href=\"programming/python/Untitled.md\"> Untitled </a>",
-        "<a class=\"internal-link\" href=\"explorer.ergoplatform.com.md\"> explorer.ergoplatform.com </a>"
+        "<a class=\"internal-link\" href=\"daily/09-12-22.md\"> 09-12-22 </a>"
       ],
       "Renamed": [
         "<a class=\"internal-link\" href=\"programming/haskell/haskell lists.md\"> haskell lists </a>",
