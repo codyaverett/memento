@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "daily/10-01-22.md",
+            "file": "programming/python/python extensions with rust.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "daily/10-01-22.md",
+                "file": "programming/python/python extensions with rust.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,7 +87,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "daily/10-01-22.md"
+                "file": "programming/python/python extensions with rust.md"
               }
             }
           },
@@ -119,15 +119,15 @@
   },
   "active": "7708f620295d324b",
   "lastOpenFiles": [
+    "programming/python/django testing.md",
+    "programming/python/DJango quick reference.md",
+    "daily/10-01-22.md",
     "daily/09-30-22.md",
     "programming/cli/loading/loading spinners and representing updates in a CLI application.md",
     "programming/general/30 seconds of code.md",
     "programming/python/building python extensions with Rust.md",
     "programming/python/cli/building and distributing a CLI app with python.md",
     "personal/job-hunting/Lextegrity.md",
-    "software/data ETL/apache paraquet.md",
-    "programming/python/python basics.md",
-    "programming/python/concurrency in python.md",
-    "Current Stuff.md"
+    "software/data ETL/apache paraquet.md"
   ]
 }
