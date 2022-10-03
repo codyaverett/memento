@@ -91,3 +91,51 @@ Usage from python
 datetime.date(2019, 2, 9)
 ```
 
+### Making a class
+```rust
+use py03::prelude::*;
+
+#[pyclass]
+struct Point {
+	x: i32,
+	y: i32,
+}
+
+#[pymethods]
+impl Point {
+	#[new]
+	fn __new__(obj: &PyRawObject, x: i32, y: i32) -> PyResult<()> {
+		obj.init(|| Point { x: x, y: y })
+	}
+
+	fn norm(&self, py: Python< >) -> f64 {
+		((self.x as f64).powf(2.) + (self.y as f64).powf(2.)).sqrt()
+	}
+}
+```
+
+```rust
+#[pymodule]
+fn classy(_py: Python, m: &PyModule) -> PyResult<()> {
+	m.add_class::<Point>()?;
+	Ok( () )
+}
+```
+
+From python
+```python
+>>> from pomodule.classy import Point
+>>> p = Point(3,4)
+>>> p
+<Point object at 0x7f4a27c18270>
+>>> Point(3, 4).norm()
+5.0
+```
+
+## FFI Bindings (an alternative to C bindings)
+
+- this is more flexible... can be handed off to any other language that understands C.
+- Python, Ruby, C, etc.
+
+## MilkSnake
+Writing python bindings for C FFI
