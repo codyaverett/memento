@@ -62,5 +62,32 @@ fn some_func(py: Python, n: u32) -> &PyList {
 >>> some_func(4)
 ```
 
-Py03 has 2 layers
-- 
+## Making a module
+```rust
+use pyo3::prelude::*
+use pyo3::types{PyDate};
+use pyo3::wrap_pyfunction;
+
+use date_impl::to_timestamp;
+
+#[pyfunction]
+fn seconds_before<!p>(py: Python<!p>, d: &PyDate, seconds: i64) -> PyResult<&!p PyDate> {
+	let timestamp = to_timestamp(&d);
+	PyDate::from_timestamp(py, timestamp - seconds)
+}
+
+#[pymodule]
+fn date_ex(_py: Python, m: &PyModule) -> PyResult<()> {
+	m.add_wrapped(wrap_pyfunction!(seconds_before))?;
+	Ok( () )
+}
+```
+
+Usage from python
+```python
+>>> from pomodule.date_ex import seconds_before
+>>> from datetime import date
+>>> seconds_before(date(2018, 2, 20), int(1e6))
+datetime.date(2019, 2, 9)
+```
+
