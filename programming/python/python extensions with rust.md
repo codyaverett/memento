@@ -143,4 +143,4 @@ Writing python bindings for C FFI
 ## Cython
 
 - Essentially Python code that gets compiled down to C
-- 
+- Out of the box it can give great speed boosts
