@@ -23,7 +23,7 @@ Rust has a package manager called Cargo that can be used
 ### Rust: Ownership
 - Variable bindings have ownership over the resource they're bound to
 ```rust
-fn some func() {
+fn some_func() {
 	let v = vec![1,2,3];
 } // v goes out of scope here
 ```
@@ -40,3 +40,27 @@ fn main() {
 }
 ```
 
+## Rust API Bindings: Py03
+
+Py03 is a library that provides a procedural macro to translate rust code to the Python api.  Py03 is used for native C packages too.
+```rust
+fn some_func impl() {
+	let v = vec![1,2,3];
+} // v goes out of scope here
+
+
+#[pyfunction]
+fn some_func(py: Python, n: u32) -> &PyList {
+	let list = PyList::new(py, &some_func(n as usize));
+	list
+}
+```
+
+### Python import
+```python
+>>> from pomodule.backend import some_func
+>>> some_func(4)
+```
+
+Py03 has 2 layers
+- 
