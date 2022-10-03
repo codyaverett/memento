@@ -139,3 +139,8 @@ From python
 
 ## MilkSnake
 Writing python bindings for C FFI
+
+## Cython
+
+- Essentially Python code that gets compiled down to C
+- 
