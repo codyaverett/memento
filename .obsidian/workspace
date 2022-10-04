@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "programming/python/python extensions with rust.md",
+            "file": "programming/security/Sybil attacks.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "programming/python/python extensions with rust.md",
+                "file": "programming/security/Sybil attacks.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,7 +87,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "programming/python/python extensions with rust.md"
+                "file": "programming/security/Sybil attacks.md"
               }
             }
           },
@@ -119,6 +119,7 @@
   },
   "active": "7708f620295d324b",
   "lastOpenFiles": [
+    "programming/python/python extensions with rust.md",
     "programming/python/django testing.md",
     "programming/python/DJango quick reference.md",
     "daily/10-01-22.md",
@@ -127,7 +128,6 @@
     "programming/general/30 seconds of code.md",
     "programming/python/building python extensions with Rust.md",
     "programming/python/cli/building and distributing a CLI app with python.md",
-    "personal/job-hunting/Lextegrity.md",
-    "software/data ETL/apache paraquet.md"
+    "personal/job-hunting/Lextegrity.md"
   ]
 }
