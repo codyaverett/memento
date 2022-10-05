@@ -613,12 +613,17 @@
       "size": 0,
       "tags": 0,
       "links": 0
+    },
+    "software/data ETL/apache airflow.md": {
+      "size": 0,
+      "tags": 0,
+      "links": 0
     }
   },
   "commitTypes": {
     "/": {
       "Refactor": 28,
-      "Create": 81,
+      "Create": 82,
       "Link": 22,
       "Expand": 54
     }
@@ -639,7 +644,7 @@
       "11": 5,
       "12": 0,
       "13": 1,
-      "14": 8,
+      "14": 9,
       "15": 14,
       "16": 19,
       "17": 6,
@@ -655,7 +660,7 @@
     "/": {
       "Mon": 42,
       "Tue": 13,
-      "Wed": 51,
+      "Wed": 52,
       "Thu": 29,
       "Fri": 42,
       "Sat": 0,
@@ -718,6 +723,7 @@
         "<a class=\"internal-link\" href=\"personal/software/AWS.md\"> AWS </a>"
       ],
       "Created": [
+        "<a class=\"internal-link\" href=\"software/data ETL/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"programming/security/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"programming/python/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"daily/10-01-22.md\"> 10-01-22 </a>",
@@ -767,8 +773,7 @@
         "<a class=\"internal-link\" href=\"programming/frontend/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"programming/python/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"personal/job-hunting/Untitled.md\"> Untitled </a>",
-        "<a class=\"internal-link\" href=\"programming/SQL/Untitled.md\"> Untitled </a>",
-        "<a class=\"internal-link\" href=\"programming/python/Untitled.md\"> Untitled </a>"
+        "<a class=\"internal-link\" href=\"programming/SQL/Untitled.md\"> Untitled </a>"
       ],
       "Renamed": [
         "<a class=\"internal-link\" href=\"programming/haskell/haskell lists.md\"> haskell lists </a>",
