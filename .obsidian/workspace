@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "software/data ETL/apache airflow.md",
+            "file": "daily/10-05-22.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "software/data ETL/apache airflow.md",
+                "file": "daily/10-05-22.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,7 +87,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "software/data ETL/apache airflow.md"
+                "file": "daily/10-05-22.md"
               }
             }
           },
@@ -119,6 +119,7 @@
   },
   "active": "7708f620295d324b",
   "lastOpenFiles": [
+    "software/data ETL/apache airflow.md",
     "programming/security/Sybil attacks.md",
     "programming/python/python extensions with rust.md",
     "programming/python/django testing.md",
@@ -127,7 +128,6 @@
     "daily/09-30-22.md",
     "programming/cli/loading/loading spinners and representing updates in a CLI application.md",
     "programming/general/30 seconds of code.md",
-    "programming/python/building python extensions with Rust.md",
-    "programming/python/cli/building and distributing a CLI app with python.md"
+    "programming/python/building python extensions with Rust.md"
   ]
 }
