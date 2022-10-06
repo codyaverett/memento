@@ -35,3 +35,7 @@ It's more efficient energy-wise.
 ## Relax your eyes
 Increases your peripheral vision
 
+## Remember to pause
+- pause to really comprehend the content you are reading
+- try to take strategic processing breaks
+- 
