@@ -628,12 +628,17 @@
       "size": 0,
       "tags": 0,
       "links": 0
+    },
+    "personal/lifehacks/reading quickly.md": {
+      "size": 0,
+      "tags": 0,
+      "links": 0
     }
   },
   "commitTypes": {
     "/": {
       "Refactor": 28,
-      "Create": 84,
+      "Create": 85,
       "Link": 23,
       "Expand": 54
     }
@@ -653,7 +658,7 @@
       "10": 9,
       "11": 5,
       "12": 0,
-      "13": 1,
+      "13": 2,
       "14": 11,
       "15": 14,
       "16": 19,
@@ -671,7 +676,7 @@
       "Mon": 42,
       "Tue": 13,
       "Wed": 55,
-      "Thu": 29,
+      "Thu": 30,
       "Fri": 42,
       "Sat": 0,
       "Sun": 8
@@ -733,6 +738,7 @@
         "<a class=\"internal-link\" href=\"personal/software/AWS.md\"> AWS </a>"
       ],
       "Created": [
+        "<a class=\"internal-link\" href=\"personal/lifehacks/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"daily/10-06-22.md\"> 10-06-22 </a>",
         "<a class=\"internal-link\" href=\"daily/10-05-22.md\"> 10-05-22 </a>",
         "<a class=\"internal-link\" href=\"software/data ETL/Untitled.md\"> Untitled </a>",
@@ -782,8 +788,7 @@
         "<a class=\"internal-link\" href=\"daily/09-02-22.md\"> 09-02-22 </a>",
         "<a class=\"internal-link\" href=\"personal/software/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"programming/python/Untitled.md\"> Untitled </a>",
-        "<a class=\"internal-link\" href=\"programming/frontend/Untitled.md\"> Untitled </a>",
-        "<a class=\"internal-link\" href=\"programming/python/Untitled.md\"> Untitled </a>"
+        "<a class=\"internal-link\" href=\"programming/frontend/Untitled.md\"> Untitled </a>"
       ],
       "Renamed": [
         "<a class=\"internal-link\" href=\"programming/haskell/haskell lists.md\"> haskell lists </a>",
