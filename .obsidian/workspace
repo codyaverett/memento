@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "daily/10-05-22.md",
+            "file": "daily/10-06-22.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "daily/10-05-22.md",
+                "file": "daily/10-06-22.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,7 +87,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "daily/10-05-22.md"
+                "file": "daily/10-06-22.md"
               }
             }
           },
@@ -119,15 +119,15 @@
   },
   "active": "7708f620295d324b",
   "lastOpenFiles": [
-    "software/data ETL/apache airflow.md",
-    "programming/security/Sybil attacks.md",
-    "programming/python/python extensions with rust.md",
-    "programming/python/django testing.md",
-    "programming/python/DJango quick reference.md",
-    "daily/10-01-22.md",
-    "daily/09-30-22.md",
-    "programming/cli/loading/loading spinners and representing updates in a CLI application.md",
-    "programming/general/30 seconds of code.md",
-    "programming/python/building python extensions with Rust.md"
+    "daily/10-05-22.md",
+    "personal/job-hunting/jb-hunt-topics.md",
+    "programming/python/python package managers.md",
+    "programming/python/django container.md",
+    "programming/python/convert an image to ASCII art.md",
+    "programming/python/building python extensions with Rust.md",
+    "programming/python/python cheatsheet.md",
+    "programming/python/python os module.md",
+    "programming/python/python packaging.md",
+    "programming/python/django testing.md"
   ]
 }
