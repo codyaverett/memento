@@ -36,6 +36,9 @@ It's more efficient energy-wise.
 Increases your peripheral vision
 
 ## Remember to pause
-- pause to really comprehend the content you are reading
-- try to take strategic processing breaks
-- 
+- Pause to really comprehend the content you are reading
+- Try to take strategic processing breaks
+
+## Narrow the field of reading
+Fewer characters per line of text are easier to group together
+They make the 
