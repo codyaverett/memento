@@ -314,11 +314,6 @@
       "tags": 0,
       "links": 0
     },
-    "programming/python/python basics.md": {
-      "size": 8448,
-      "tags": 0,
-      "links": 1
-    },
     "personal/job-hunting/Federal-reserve-bank-topics.md": {
       "size": 8371,
       "tags": 0,
@@ -394,16 +389,6 @@
       "tags": 0,
       "links": 8
     },
-    "programming/python/pyspark reference.md": {
-      "size": 0,
-      "tags": 0,
-      "links": 1
-    },
-    "programming/python/pyspark dataframes.md": {
-      "size": 0,
-      "tags": 0,
-      "links": 0
-    },
     "daily/09-15-22.md": {
       "size": 0,
       "tags": 0,
@@ -456,11 +441,6 @@
     },
     "programming/python/doctest.md": {
       "size": 3495,
-      "tags": 0,
-      "links": 0
-    },
-    "programming/python/pandas.md": {
-      "size": 0,
       "tags": 0,
       "links": 0
     },
@@ -678,11 +658,31 @@
       "size": 0,
       "tags": 0,
       "links": 0
+    },
+    "programming/python/pandas/pandas.md": {
+      "size": 0,
+      "tags": 0,
+      "links": 0
+    },
+    "programming/python/pyspark/pyspark dataframes.md": {
+      "size": 0,
+      "tags": 0,
+      "links": 0
+    },
+    "programming/python/pyspark/pyspark reference.md": {
+      "size": 0,
+      "tags": 0,
+      "links": 1
+    },
+    "programming/python/pyspark/python basics.md": {
+      "size": 8448,
+      "tags": 0,
+      "links": 1
     }
   },
   "commitTypes": {
     "/": {
-      "Refactor": 39,
+      "Refactor": 43,
       "Create": 94,
       "Link": 32,
       "Expand": 54
@@ -706,7 +706,7 @@
       "13": 2,
       "14": 11,
       "15": 14,
-      "16": 29,
+      "16": 33,
       "17": 6,
       "18": 2,
       "19": 13,
@@ -722,7 +722,7 @@
       "Tue": 13,
       "Wed": 55,
       "Thu": 31,
-      "Fri": 70,
+      "Fri": 74,
       "Sat": 0,
       "Sun": 8
     }
@@ -867,7 +867,11 @@
         "<a class=\"internal-link\" href=\"programming/python/django/DJango quick reference.md\"> DJango quick reference </a>",
         "<a class=\"internal-link\" href=\"programming/python/django/django revert migrations.md\"> django revert migrations </a>",
         "<a class=\"internal-link\" href=\"programming/python/django/django testing.md\"> django testing </a>",
-        "<a class=\"internal-link\" href=\"programming/python/ansible/ansible for network automation.md\"> ansible for network automation </a>"
+        "<a class=\"internal-link\" href=\"programming/python/ansible/ansible for network automation.md\"> ansible for network automation </a>",
+        "<a class=\"internal-link\" href=\"programming/python/pandas/pandas.md\"> pandas </a>",
+        "<a class=\"internal-link\" href=\"programming/python/pyspark/pyspark dataframes.md\"> pyspark dataframes </a>",
+        "<a class=\"internal-link\" href=\"programming/python/pyspark/pyspark reference.md\"> pyspark reference </a>",
+        "<a class=\"internal-link\" href=\"programming/python/pyspark/python basics.md\"> python basics </a>"
       ],
       "Tagged": [
         "<a class=\"internal-link\" href=\"personal/job-hunting/jb-hunt-topics.md\"> jb-hunt-topics </a>",
