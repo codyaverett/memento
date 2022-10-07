@@ -342,7 +342,7 @@
     "programming/python/python cheatsheet.md": {
       "size": 8035,
       "tags": 1,
-      "links": 0
+      "links": 1
     },
     "daily/09-12-22.md": {
       "size": 0,
@@ -377,7 +377,7 @@
     "programming/python/python os module.md": {
       "size": 0,
       "tags": 0,
-      "links": 0
+      "links": 1
     },
     "programming/python/django testing.md": {
       "size": 0,
@@ -417,7 +417,7 @@
     "programming/python/python special strings.md": {
       "size": 0,
       "tags": 0,
-      "links": 1
+      "links": 2
     },
     "programming/python/python programming language.md": {
       "size": 0,
@@ -442,7 +442,7 @@
     "programming/python/python classes.md": {
       "size": 7916,
       "tags": 0,
-      "links": 0
+      "links": 1
     },
     "programming/python/python virtual environments.md": {
       "size": 4910,
@@ -507,7 +507,7 @@
     "programming/python/python cached property.md": {
       "size": 0,
       "tags": 0,
-      "links": 0
+      "links": 1
     },
     "programming/algorithms/data-structures/left-leaning red black trees.md": {
       "size": 0,
@@ -641,29 +641,34 @@
     },
     "programming/python/reading python bools from a .env file.md": {
       "size": 0,
-      "tags": 0,
+      "tags": 1,
       "links": 0
     },
     "programming/python/Python Caching.md": {
       "size": 0,
       "tags": 0,
-      "links": 1
+      "links": 2
+    },
+    "programming/python/django models.md": {
+      "size": 0,
+      "tags": 0,
+      "links": 3
     }
   },
   "commitTypes": {
     "/": {
       "Refactor": 31,
-      "Create": 88,
-      "Link": 23,
+      "Create": 89,
+      "Link": 31,
       "Expand": 54
     }
   },
   "dailyCommits": {
     "/": {
       "0": 19,
-      "1": 12,
+      "1": 19,
       "2": 6,
-      "3": 27,
+      "3": 29,
       "4": 2,
       "5": 2,
       "6": 2,
@@ -692,7 +697,7 @@
       "Tue": 13,
       "Wed": 55,
       "Thu": 31,
-      "Fri": 47,
+      "Fri": 56,
       "Sat": 0,
       "Sun": 8
     }
@@ -754,6 +759,7 @@
       ],
       "Created": [
         "<a class=\"internal-link\" href=\"programming/python/Untitled.md\"> Untitled </a>",
+        "<a class=\"internal-link\" href=\"programming/python/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"programming/shell/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"personal/job-hunting/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"personal/lifehacks/Untitled.md\"> Untitled </a>",
@@ -802,8 +808,7 @@
         "<a class=\"internal-link\" href=\"personal/social/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"daily/08-22-22.md\"> 08-22-22 </a>",
         "<a class=\"internal-link\" href=\"personal/job-hunting/jbHunt-topics/Untitled.md\"> Untitled </a>",
-        "<a class=\"internal-link\" href=\"personal/job-hunting/Untitled.md\"> Untitled </a>",
-        "<a class=\"internal-link\" href=\"daily/09-02-22.md\"> 09-02-22 </a>"
+        "<a class=\"internal-link\" href=\"personal/job-hunting/Untitled.md\"> Untitled </a>"
       ],
       "Renamed": [
         "<a class=\"internal-link\" href=\"programming/haskell/haskell lists.md\"> haskell lists </a>",
@@ -834,7 +839,8 @@
       "Tagged": [
         "<a class=\"internal-link\" href=\"personal/job-hunting/jb-hunt-topics.md\"> jb-hunt-topics </a>",
         "<a class=\"internal-link\" href=\"programming/python/python extensions.md\"> python extensions </a>",
-        "<a class=\"internal-link\" href=\"programming/python/python cheatsheet.md\"> python cheatsheet </a>"
+        "<a class=\"internal-link\" href=\"programming/python/python cheatsheet.md\"> python cheatsheet </a>",
+        "<a class=\"internal-link\" href=\"programming/python/reading python bools from a .env file.md\"> reading python bools from a .env file </a>"
       ],
       "Refactored": [],
       "Deleted": [
@@ -866,7 +872,14 @@
         "<a class=\"internal-link\" href=\"personal/job-hunting/Lextegrity.md\"> Lextegrity </a>",
         "<a class=\"internal-link\" href=\"personal/job-hunting/Lextegrity.md\"> Lextegrity </a>",
         "<a class=\"internal-link\" href=\"personal/job-hunting/Lextegrity.md\"> Lextegrity </a>",
-        "<a class=\"internal-link\" href=\"daily/10-05-22.md\"> 10-05-22 </a>"
+        "<a class=\"internal-link\" href=\"daily/10-05-22.md\"> 10-05-22 </a>",
+        "<a class=\"internal-link\" href=\"programming/python/Python Caching.md\"> Python Caching </a>",
+        "<a class=\"internal-link\" href=\"programming/python/python cached property.md\"> python cached property </a>",
+        "<a class=\"internal-link\" href=\"programming/python/python classes.md\"> python classes </a>",
+        "<a class=\"internal-link\" href=\"programming/python/python special strings.md\"> python special strings </a>",
+        "<a class=\"internal-link\" href=\"programming/python/python os module.md\"> python os module </a>",
+        "<a class=\"internal-link\" href=\"programming/python/python cheatsheet.md\"> python cheatsheet </a>",
+        "<a class=\"internal-link\" href=\"programming/python/django models.md\"> django models </a>"
       ],
       "Removed Tags from": [],
       "Removed Links from": []

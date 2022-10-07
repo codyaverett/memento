@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "programming/python/common python programming errors.md",
+            "file": "programming/python/django models.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "programming/python/common python programming errors.md",
+                "file": "programming/python/django models.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,7 +87,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "programming/python/common python programming errors.md"
+                "file": "programming/python/django models.md"
               }
             }
           },
@@ -119,6 +119,7 @@
   },
   "active": "740a59ba12c21e37",
   "lastOpenFiles": [
+    "programming/python/common python programming errors.md",
     "programming/python/ansible for network automation.md",
     "programming/python/building python extensions with Rust.md",
     "programming/python/convert an image to ASCII art.md",
@@ -127,7 +128,6 @@
     "programming/python/django data migrations.md",
     "programming/python/django testing.md",
     "programming/python/documenting python code with sphinx.md",
-    "programming/python/functional python programming.md",
-    "programming/python/jupyter notebooks.md"
+    "programming/python/functional python programming.md"
   ]
 }
