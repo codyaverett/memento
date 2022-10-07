@@ -41,4 +41,3 @@ Increases your peripheral vision
 
 ## Narrow the field of reading
 Fewer characters per line of text are easier to group together
-They make the 
