@@ -477,3 +477,6 @@ with open(“file.txt”) as file:
 
 `point` `=` `Point(x``=``1``, y``=``2``)`
 ```
+
+## Reference
+[[python basics]]

@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "7708f620295d324b",
+        "id": "740a59ba12c21e37",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "programming/shell/simple curl script.md",
+            "file": "programming/python/common python programming errors.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "programming/shell/simple curl script.md",
+                "file": "programming/python/common python programming errors.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,7 +87,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "programming/shell/simple curl script.md"
+                "file": "programming/python/common python programming errors.md"
               }
             }
           },
@@ -117,17 +117,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "7708f620295d324b",
+  "active": "740a59ba12c21e37",
   "lastOpenFiles": [
-    "personal/job-hunting/chainlink-labs.md",
-    "personal/lifehacks/reading quickly.md",
-    "daily/10-06-22.md",
-    "daily/10-05-22.md",
-    "personal/job-hunting/jb-hunt-topics.md",
-    "programming/python/python package managers.md",
-    "programming/python/django container.md",
-    "programming/python/convert an image to ASCII art.md",
+    "programming/python/ansible for network automation.md",
     "programming/python/building python extensions with Rust.md",
-    "programming/python/python cheatsheet.md"
+    "programming/python/convert an image to ASCII art.md",
+    "programming/python/django class models.md",
+    "programming/python/django container.md",
+    "programming/python/django data migrations.md",
+    "programming/python/django testing.md",
+    "programming/python/documenting python code with sphinx.md",
+    "programming/python/functional python programming.md",
+    "programming/python/jupyter notebooks.md"
   ]
 }

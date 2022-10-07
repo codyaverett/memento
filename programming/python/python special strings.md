@@ -6,3 +6,6 @@
 - str_f - format string f'text {var}'  Like template strings in typescript
 
 ![[Pasted image 20220914014737.png]]
+
+## Reference
+[[python basics]]

@@ -213,3 +213,6 @@ I've added a little bit more logic in the `ask_and_evaluate` method to let the t
 
 `functions` are called `methods` when they are defined on an object.
 They essentially do the same thing, but methods automatically get a reference to self which allows the method to access the other object properties and other object methods defined in the same class.
+
+## Reference
+[[python basics]]
