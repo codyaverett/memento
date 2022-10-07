@@ -633,19 +633,29 @@
       "size": 0,
       "tags": 0,
       "links": 0
+    },
+    "personal/job-hunting/chainlink-labs.md": {
+      "size": 0,
+      "tags": 0,
+      "links": 0
+    },
+    "programming/shell/simple curl script.md": {
+      "size": 0,
+      "tags": 0,
+      "links": 0
     }
   },
   "commitTypes": {
     "/": {
-      "Refactor": 28,
-      "Create": 85,
+      "Refactor": 29,
+      "Create": 87,
       "Link": 23,
       "Expand": 54
     }
   },
   "dailyCommits": {
     "/": {
-      "0": 17,
+      "0": 19,
       "1": 9,
       "2": 6,
       "3": 27,
@@ -668,7 +678,7 @@
       "20": 7,
       "21": 5,
       "22": 17,
-      "23": 15
+      "23": 16
     }
   },
   "weeklyCommits": {
@@ -676,8 +686,8 @@
       "Mon": 42,
       "Tue": 13,
       "Wed": 55,
-      "Thu": 30,
-      "Fri": 42,
+      "Thu": 31,
+      "Fri": 44,
       "Sat": 0,
       "Sun": 8
     }
@@ -738,6 +748,8 @@
         "<a class=\"internal-link\" href=\"personal/software/AWS.md\"> AWS </a>"
       ],
       "Created": [
+        "<a class=\"internal-link\" href=\"programming/shell/Untitled.md\"> Untitled </a>",
+        "<a class=\"internal-link\" href=\"personal/job-hunting/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"personal/lifehacks/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"daily/10-06-22.md\"> 10-06-22 </a>",
         "<a class=\"internal-link\" href=\"daily/10-05-22.md\"> 10-05-22 </a>",
@@ -786,9 +798,7 @@
         "<a class=\"internal-link\" href=\"personal/job-hunting/jbHunt-topics/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"personal/job-hunting/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"daily/09-02-22.md\"> 09-02-22 </a>",
-        "<a class=\"internal-link\" href=\"personal/software/Untitled.md\"> Untitled </a>",
-        "<a class=\"internal-link\" href=\"programming/python/Untitled.md\"> Untitled </a>",
-        "<a class=\"internal-link\" href=\"programming/frontend/Untitled.md\"> Untitled </a>"
+        "<a class=\"internal-link\" href=\"personal/software/Untitled.md\"> Untitled </a>"
       ],
       "Renamed": [
         "<a class=\"internal-link\" href=\"programming/haskell/haskell lists.md\"> haskell lists </a>",
@@ -811,7 +821,8 @@
         "<a class=\"internal-link\" href=\"programming/general/catamorphism.md\"> catamorphism </a>",
         "<a class=\"internal-link\" href=\"personal/college/WGU/computer science degree at WGU.md\"> computer science degree at WGU </a>",
         "<a class=\"internal-link\" href=\"software/data ETL/apache paraquet.md\"> apache paraquet </a>",
-        "<a class=\"internal-link\" href=\"personal/job-hunting/Lextegrity.md\"> Lextegrity </a>"
+        "<a class=\"internal-link\" href=\"personal/job-hunting/Lextegrity.md\"> Lextegrity </a>",
+        "<a class=\"internal-link\" href=\"programming/shell/simple curl script.md\"> simple curl script </a>"
       ],
       "Tagged": [
         "<a class=\"internal-link\" href=\"personal/job-hunting/jb-hunt-topics.md\"> jb-hunt-topics </a>",
