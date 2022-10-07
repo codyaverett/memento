@@ -309,11 +309,6 @@
       "tags": 0,
       "links": 0
     },
-    "programming/python/DJango quick reference.md": {
-      "size": 7852,
-      "tags": 0,
-      "links": 1
-    },
     "programming/frontend/list of dope websites.md": {
       "size": 0,
       "tags": 0,
@@ -379,33 +374,8 @@
       "tags": 0,
       "links": 1
     },
-    "programming/python/django testing.md": {
-      "size": 0,
-      "tags": 0,
-      "links": 0
-    },
-    "programming/python/django container.md": {
-      "size": 7999,
-      "tags": 0,
-      "links": 0
-    },
     "programming/python/python module search path.md": {
       "size": 2017,
-      "tags": 0,
-      "links": 0
-    },
-    "programming/python/ansible for network automation.md": {
-      "size": 0,
-      "tags": 0,
-      "links": 0
-    },
-    "programming/python/django class models.md": {
-      "size": 0,
-      "tags": 0,
-      "links": 1
-    },
-    "programming/python/django data migrations.md": {
-      "size": 8832,
       "tags": 0,
       "links": 0
     },
@@ -649,22 +619,62 @@
       "tags": 0,
       "links": 2
     },
-    "programming/python/django models.md": {
-      "size": 0,
-      "tags": 0,
-      "links": 3
-    },
     "django migrations with custom sql.md": {
       "size": 0,
       "tags": 0,
       "links": 1
     },
-    "programming/python/django revert migrations.md": {
+    "daily/10-07-22.md": {
       "size": 0,
       "tags": 0,
       "links": 0
     },
-    "daily/10-07-22.md": {
+    "software/github actions/github actions for a django project.md": {
+      "size": 0,
+      "tags": 0,
+      "links": 0
+    },
+    "programming/python/django/django extensions.md": {
+      "size": 0,
+      "tags": 0,
+      "links": 0
+    },
+    "programming/python/django/django class models.md": {
+      "size": 0,
+      "tags": 0,
+      "links": 1
+    },
+    "programming/python/django/django container.md": {
+      "size": 7999,
+      "tags": 0,
+      "links": 0
+    },
+    "programming/python/django/django data migrations.md": {
+      "size": 8832,
+      "tags": 0,
+      "links": 0
+    },
+    "programming/python/django/django models.md": {
+      "size": 0,
+      "tags": 0,
+      "links": 3
+    },
+    "programming/python/django/DJango quick reference.md": {
+      "size": 7852,
+      "tags": 0,
+      "links": 1
+    },
+    "programming/python/django/django revert migrations.md": {
+      "size": 0,
+      "tags": 0,
+      "links": 0
+    },
+    "programming/python/django/django testing.md": {
+      "size": 0,
+      "tags": 0,
+      "links": 0
+    },
+    "programming/python/ansible/ansible for network automation.md": {
       "size": 0,
       "tags": 0,
       "links": 0
@@ -672,8 +682,8 @@
   },
   "commitTypes": {
     "/": {
-      "Refactor": 31,
-      "Create": 92,
+      "Refactor": 39,
+      "Create": 94,
       "Link": 32,
       "Expand": 54
     }
@@ -696,7 +706,7 @@
       "13": 2,
       "14": 11,
       "15": 14,
-      "16": 19,
+      "16": 29,
       "17": 6,
       "18": 2,
       "19": 13,
@@ -712,7 +722,7 @@
       "Tue": 13,
       "Wed": 55,
       "Thu": 31,
-      "Fri": 60,
+      "Fri": 70,
       "Sat": 0,
       "Sun": 8
     }
@@ -773,6 +783,8 @@
         "<a class=\"internal-link\" href=\"personal/software/AWS.md\"> AWS </a>"
       ],
       "Created": [
+        "<a class=\"internal-link\" href=\"programming/python/django/Untitled.md\"> Untitled </a>",
+        "<a class=\"internal-link\" href=\"software/github actions/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"daily/10-07-22.md\"> 10-07-22 </a>",
         "<a class=\"internal-link\" href=\"programming/python/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"Untitled.md\"> Untitled </a>",
@@ -821,9 +833,7 @@
         "<a class=\"internal-link\" href=\"daily/08-16-22.md\"> 08-16-22 </a>",
         "<a class=\"internal-link\" href=\"programming/python/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"daily/08-18-22.md\"> 08-18-22 </a>",
-        "<a class=\"internal-link\" href=\"personal/job-hunting/Untitled.md\"> Untitled </a>",
-        "<a class=\"internal-link\" href=\"daily/08-19-22.md\"> 08-19-22 </a>",
-        "<a class=\"internal-link\" href=\"personal/social/Untitled.md\"> Untitled </a>"
+        "<a class=\"internal-link\" href=\"personal/job-hunting/Untitled.md\"> Untitled </a>"
       ],
       "Renamed": [
         "<a class=\"internal-link\" href=\"programming/haskell/haskell lists.md\"> haskell lists </a>",
@@ -849,7 +859,15 @@
         "<a class=\"internal-link\" href=\"personal/job-hunting/Lextegrity.md\"> Lextegrity </a>",
         "<a class=\"internal-link\" href=\"programming/shell/simple curl script.md\"> simple curl script </a>",
         "<a class=\"internal-link\" href=\"programming/python/reading python bools from a .env file.md\"> reading python bools from a .env file </a>",
-        "<a class=\"internal-link\" href=\"programming/python/Python Caching.md\"> Python Caching </a>"
+        "<a class=\"internal-link\" href=\"programming/python/Python Caching.md\"> Python Caching </a>",
+        "<a class=\"internal-link\" href=\"programming/python/django/django class models.md\"> django class models </a>",
+        "<a class=\"internal-link\" href=\"programming/python/django/django container.md\"> django container </a>",
+        "<a class=\"internal-link\" href=\"programming/python/django/django data migrations.md\"> django data migrations </a>",
+        "<a class=\"internal-link\" href=\"programming/python/django/django models.md\"> django models </a>",
+        "<a class=\"internal-link\" href=\"programming/python/django/DJango quick reference.md\"> DJango quick reference </a>",
+        "<a class=\"internal-link\" href=\"programming/python/django/django revert migrations.md\"> django revert migrations </a>",
+        "<a class=\"internal-link\" href=\"programming/python/django/django testing.md\"> django testing </a>",
+        "<a class=\"internal-link\" href=\"programming/python/ansible/ansible for network automation.md\"> ansible for network automation </a>"
       ],
       "Tagged": [
         "<a class=\"internal-link\" href=\"personal/job-hunting/jb-hunt-topics.md\"> jb-hunt-topics </a>",
