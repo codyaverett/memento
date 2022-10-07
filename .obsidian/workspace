@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "daily/10-07-22.md",
+            "file": "software/github actions/github actions for a django project.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "daily/10-07-22.md",
+                "file": "software/github actions/github actions for a django project.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,7 +87,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "daily/10-07-22.md"
+                "file": "software/github actions/github actions for a django project.md"
               }
             }
           },
@@ -119,8 +119,8 @@
   },
   "active": "740a59ba12c21e37",
   "lastOpenFiles": [
-    "daily/10-06-22.md",
     "daily/10-07-22.md",
+    "daily/10-06-22.md",
     "programming/python/django revert migrations.md",
     "django migrations with custom sql.md",
     "programming/python/django data migrations.md",
