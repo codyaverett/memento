@@ -399,11 +399,6 @@
       "tags": 0,
       "links": 1
     },
-    "programming/python/python virtual environments.md": {
-      "size": 4910,
-      "tags": 0,
-      "links": 0
-    },
     "programming/python/python package managers.md": {
       "size": 0,
       "tags": 0,
@@ -678,12 +673,22 @@
       "size": 8448,
       "tags": 0,
       "links": 1
+    },
+    "programming/python/package management/python virtual environments.md": {
+      "size": 4910,
+      "tags": 0,
+      "links": 0
+    },
+    "programming/python/package management/pipenv usage.md": {
+      "size": 0,
+      "tags": 0,
+      "links": 0
     }
   },
   "commitTypes": {
     "/": {
-      "Refactor": 43,
-      "Create": 94,
+      "Refactor": 45,
+      "Create": 95,
       "Link": 32,
       "Expand": 54
     }
@@ -707,7 +712,7 @@
       "14": 11,
       "15": 14,
       "16": 33,
-      "17": 6,
+      "17": 9,
       "18": 2,
       "19": 13,
       "20": 7,
@@ -722,7 +727,7 @@
       "Tue": 13,
       "Wed": 55,
       "Thu": 31,
-      "Fri": 74,
+      "Fri": 77,
       "Sat": 0,
       "Sun": 8
     }
@@ -783,6 +788,7 @@
         "<a class=\"internal-link\" href=\"personal/software/AWS.md\"> AWS </a>"
       ],
       "Created": [
+        "<a class=\"internal-link\" href=\"programming/python/package management/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"programming/python/django/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"software/github actions/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"daily/10-07-22.md\"> 10-07-22 </a>",
@@ -832,8 +838,7 @@
         "<a class=\"internal-link\" href=\"programming/haskell/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"daily/08-16-22.md\"> 08-16-22 </a>",
         "<a class=\"internal-link\" href=\"programming/python/Untitled.md\"> Untitled </a>",
-        "<a class=\"internal-link\" href=\"daily/08-18-22.md\"> 08-18-22 </a>",
-        "<a class=\"internal-link\" href=\"personal/job-hunting/Untitled.md\"> Untitled </a>"
+        "<a class=\"internal-link\" href=\"daily/08-18-22.md\"> 08-18-22 </a>"
       ],
       "Renamed": [
         "<a class=\"internal-link\" href=\"programming/haskell/haskell lists.md\"> haskell lists </a>",
@@ -871,7 +876,9 @@
         "<a class=\"internal-link\" href=\"programming/python/pandas/pandas.md\"> pandas </a>",
         "<a class=\"internal-link\" href=\"programming/python/pyspark/pyspark dataframes.md\"> pyspark dataframes </a>",
         "<a class=\"internal-link\" href=\"programming/python/pyspark/pyspark reference.md\"> pyspark reference </a>",
-        "<a class=\"internal-link\" href=\"programming/python/pyspark/python basics.md\"> python basics </a>"
+        "<a class=\"internal-link\" href=\"programming/python/pyspark/python basics.md\"> python basics </a>",
+        "<a class=\"internal-link\" href=\"programming/python/package management/python virtual environments.md\"> python virtual environments </a>",
+        "<a class=\"internal-link\" href=\"programming/python/package management/pipenv usage.md\"> pipenv usage </a>"
       ],
       "Tagged": [
         "<a class=\"internal-link\" href=\"personal/job-hunting/jb-hunt-topics.md\"> jb-hunt-topics </a>",

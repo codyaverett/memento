@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "programming/python/django/django extensions.md",
+            "file": "programming/python/package management/pipenv usage.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "programming/python/django/django extensions.md",
+                "file": "programming/python/package management/pipenv usage.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,7 +87,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "programming/python/django/django extensions.md"
+                "file": "programming/python/package management/pipenv usage.md"
               }
             }
           },
@@ -117,8 +117,9 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "33a2bab88d111215",
+  "active": "740a59ba12c21e37",
   "lastOpenFiles": [
+    "programming/python/django/django extensions.md",
     "software/github actions/github actions for a django project.md",
     "daily/10-07-22.md",
     "daily/10-06-22.md",
@@ -127,7 +128,6 @@
     "programming/python/django/django data migrations.md",
     "programming/python/django/django models.md",
     "programming/python/common python programming errors.md",
-    "programming/python/ansible/ansible for network automation.md",
-    "programming/python/building python extensions with Rust.md"
+    "programming/python/ansible/ansible for network automation.md"
   ]
 }
