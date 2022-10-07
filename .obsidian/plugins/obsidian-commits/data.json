@@ -657,14 +657,19 @@
     "django migrations with custom sql.md": {
       "size": 0,
       "tags": 0,
+      "links": 1
+    },
+    "programming/python/django revert migrations.md": {
+      "size": 0,
+      "tags": 0,
       "links": 0
     }
   },
   "commitTypes": {
     "/": {
       "Refactor": 31,
-      "Create": 90,
-      "Link": 31,
+      "Create": 91,
+      "Link": 32,
       "Expand": 54
     }
   },
@@ -673,7 +678,7 @@
       "0": 19,
       "1": 19,
       "2": 6,
-      "3": 30,
+      "3": 32,
       "4": 2,
       "5": 2,
       "6": 2,
@@ -702,7 +707,7 @@
       "Tue": 13,
       "Wed": 55,
       "Thu": 31,
-      "Fri": 57,
+      "Fri": 59,
       "Sat": 0,
       "Sun": 8
     }
@@ -763,6 +768,7 @@
         "<a class=\"internal-link\" href=\"personal/software/AWS.md\"> AWS </a>"
       ],
       "Created": [
+        "<a class=\"internal-link\" href=\"programming/python/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"programming/python/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"programming/python/Untitled.md\"> Untitled </a>",
@@ -812,8 +818,7 @@
         "<a class=\"internal-link\" href=\"personal/job-hunting/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"daily/08-19-22.md\"> 08-19-22 </a>",
         "<a class=\"internal-link\" href=\"personal/social/Untitled.md\"> Untitled </a>",
-        "<a class=\"internal-link\" href=\"daily/08-22-22.md\"> 08-22-22 </a>",
-        "<a class=\"internal-link\" href=\"personal/job-hunting/jbHunt-topics/Untitled.md\"> Untitled </a>"
+        "<a class=\"internal-link\" href=\"daily/08-22-22.md\"> 08-22-22 </a>"
       ],
       "Renamed": [
         "<a class=\"internal-link\" href=\"programming/haskell/haskell lists.md\"> haskell lists </a>",
@@ -884,7 +889,8 @@
         "<a class=\"internal-link\" href=\"programming/python/python special strings.md\"> python special strings </a>",
         "<a class=\"internal-link\" href=\"programming/python/python os module.md\"> python os module </a>",
         "<a class=\"internal-link\" href=\"programming/python/python cheatsheet.md\"> python cheatsheet </a>",
-        "<a class=\"internal-link\" href=\"programming/python/django models.md\"> django models </a>"
+        "<a class=\"internal-link\" href=\"programming/python/django models.md\"> django models </a>",
+        "<a class=\"internal-link\" href=\"django migrations with custom sql.md\"> django migrations with custom sql </a>"
       ],
       "Removed Tags from": [],
       "Removed Links from": []
