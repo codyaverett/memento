@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "personal/lifehacks/reading quickly.md",
+            "file": "personal/job-hunting/chainlink-labs.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "personal/lifehacks/reading quickly.md",
+                "file": "personal/job-hunting/chainlink-labs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,7 +87,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "personal/lifehacks/reading quickly.md"
+                "file": "personal/job-hunting/chainlink-labs.md"
               }
             }
           },
@@ -119,6 +119,7 @@
   },
   "active": "7708f620295d324b",
   "lastOpenFiles": [
+    "personal/lifehacks/reading quickly.md",
     "daily/10-06-22.md",
     "daily/10-05-22.md",
     "personal/job-hunting/jb-hunt-topics.md",
@@ -127,7 +128,6 @@
     "programming/python/convert an image to ASCII art.md",
     "programming/python/building python extensions with Rust.md",
     "programming/python/python cheatsheet.md",
-    "programming/python/python os module.md",
-    "programming/python/python packaging.md"
+    "programming/python/python os module.md"
   ]
 }
