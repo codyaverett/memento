@@ -653,12 +653,17 @@
       "size": 0,
       "tags": 0,
       "links": 3
+    },
+    "django migrations with custom sql.md": {
+      "size": 0,
+      "tags": 0,
+      "links": 0
     }
   },
   "commitTypes": {
     "/": {
       "Refactor": 31,
-      "Create": 89,
+      "Create": 90,
       "Link": 31,
       "Expand": 54
     }
@@ -668,7 +673,7 @@
       "0": 19,
       "1": 19,
       "2": 6,
-      "3": 29,
+      "3": 30,
       "4": 2,
       "5": 2,
       "6": 2,
@@ -697,7 +702,7 @@
       "Tue": 13,
       "Wed": 55,
       "Thu": 31,
-      "Fri": 56,
+      "Fri": 57,
       "Sat": 0,
       "Sun": 8
     }
@@ -758,6 +763,7 @@
         "<a class=\"internal-link\" href=\"personal/software/AWS.md\"> AWS </a>"
       ],
       "Created": [
+        "<a class=\"internal-link\" href=\"Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"programming/python/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"programming/python/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"programming/shell/Untitled.md\"> Untitled </a>",
@@ -807,8 +813,7 @@
         "<a class=\"internal-link\" href=\"daily/08-19-22.md\"> 08-19-22 </a>",
         "<a class=\"internal-link\" href=\"personal/social/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"daily/08-22-22.md\"> 08-22-22 </a>",
-        "<a class=\"internal-link\" href=\"personal/job-hunting/jbHunt-topics/Untitled.md\"> Untitled </a>",
-        "<a class=\"internal-link\" href=\"personal/job-hunting/Untitled.md\"> Untitled </a>"
+        "<a class=\"internal-link\" href=\"personal/job-hunting/jbHunt-topics/Untitled.md\"> Untitled </a>"
       ],
       "Renamed": [
         "<a class=\"internal-link\" href=\"programming/haskell/haskell lists.md\"> haskell lists </a>",
