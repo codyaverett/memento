@@ -414,11 +414,6 @@
       "tags": 0,
       "links": 0
     },
-    "programming/python/Python research.md": {
-      "size": 0,
-      "tags": 0,
-      "links": 1
-    },
     "programming/python/python special strings.md": {
       "size": 0,
       "tags": 0,
@@ -643,12 +638,22 @@
       "size": 0,
       "tags": 0,
       "links": 0
+    },
+    "programming/python/reading python bools from a .env file.md": {
+      "size": 0,
+      "tags": 0,
+      "links": 0
+    },
+    "programming/python/Python Caching.md": {
+      "size": 0,
+      "tags": 0,
+      "links": 1
     }
   },
   "commitTypes": {
     "/": {
-      "Refactor": 29,
-      "Create": 87,
+      "Refactor": 31,
+      "Create": 88,
       "Link": 23,
       "Expand": 54
     }
@@ -656,7 +661,7 @@
   "dailyCommits": {
     "/": {
       "0": 19,
-      "1": 9,
+      "1": 12,
       "2": 6,
       "3": 27,
       "4": 2,
@@ -687,7 +692,7 @@
       "Tue": 13,
       "Wed": 55,
       "Thu": 31,
-      "Fri": 44,
+      "Fri": 47,
       "Sat": 0,
       "Sun": 8
     }
@@ -748,6 +753,7 @@
         "<a class=\"internal-link\" href=\"personal/software/AWS.md\"> AWS </a>"
       ],
       "Created": [
+        "<a class=\"internal-link\" href=\"programming/python/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"programming/shell/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"personal/job-hunting/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"personal/lifehacks/Untitled.md\"> Untitled </a>",
@@ -797,8 +803,7 @@
         "<a class=\"internal-link\" href=\"daily/08-22-22.md\"> 08-22-22 </a>",
         "<a class=\"internal-link\" href=\"personal/job-hunting/jbHunt-topics/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"personal/job-hunting/Untitled.md\"> Untitled </a>",
-        "<a class=\"internal-link\" href=\"daily/09-02-22.md\"> 09-02-22 </a>",
-        "<a class=\"internal-link\" href=\"personal/software/Untitled.md\"> Untitled </a>"
+        "<a class=\"internal-link\" href=\"daily/09-02-22.md\"> 09-02-22 </a>"
       ],
       "Renamed": [
         "<a class=\"internal-link\" href=\"programming/haskell/haskell lists.md\"> haskell lists </a>",
@@ -822,7 +827,9 @@
         "<a class=\"internal-link\" href=\"personal/college/WGU/computer science degree at WGU.md\"> computer science degree at WGU </a>",
         "<a class=\"internal-link\" href=\"software/data ETL/apache paraquet.md\"> apache paraquet </a>",
         "<a class=\"internal-link\" href=\"personal/job-hunting/Lextegrity.md\"> Lextegrity </a>",
-        "<a class=\"internal-link\" href=\"programming/shell/simple curl script.md\"> simple curl script </a>"
+        "<a class=\"internal-link\" href=\"programming/shell/simple curl script.md\"> simple curl script </a>",
+        "<a class=\"internal-link\" href=\"programming/python/reading python bools from a .env file.md\"> reading python bools from a .env file </a>",
+        "<a class=\"internal-link\" href=\"programming/python/Python Caching.md\"> Python Caching </a>"
       ],
       "Tagged": [
         "<a class=\"internal-link\" href=\"personal/job-hunting/jb-hunt-topics.md\"> jb-hunt-topics </a>",

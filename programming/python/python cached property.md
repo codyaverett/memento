@@ -7,3 +7,4 @@ The **@cached_property** is a decorator which transforms a method of a class i
 ## Reference
 - [geeks for geeks](https://www.geeksforgeeks.org/python-functools-cached_property/)
 - [usage in the podman-py library](https://github.com/containers/podman-py/blob/main/podman/client.py#L139)
+- [[python basics]]
