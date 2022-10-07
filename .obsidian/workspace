@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "programming/python/django models.md",
+            "file": "programming/python/django revert migrations.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "programming/python/django models.md",
+                "file": "programming/python/django revert migrations.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,7 +87,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "programming/python/django models.md"
+                "file": "programming/python/django revert migrations.md"
               }
             }
           },
@@ -119,15 +119,15 @@
   },
   "active": "740a59ba12c21e37",
   "lastOpenFiles": [
+    "django migrations with custom sql.md",
+    "programming/python/django data migrations.md",
+    "programming/python/django models.md",
     "programming/python/common python programming errors.md",
     "programming/python/ansible for network automation.md",
     "programming/python/building python extensions with Rust.md",
     "programming/python/convert an image to ASCII art.md",
     "programming/python/django class models.md",
     "programming/python/django container.md",
-    "programming/python/django data migrations.md",
-    "programming/python/django testing.md",
-    "programming/python/documenting python code with sphinx.md",
-    "programming/python/functional python programming.md"
+    "programming/python/django testing.md"
   ]
 }
