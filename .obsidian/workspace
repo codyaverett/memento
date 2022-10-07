@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "software/github actions/github actions for a django project.md",
+            "file": "programming/python/django/django extensions.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "software/github actions/github actions for a django project.md",
+                "file": "programming/python/django/django extensions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,7 +87,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "software/github actions/github actions for a django project.md"
+                "file": "programming/python/django/django extensions.md"
               }
             }
           },
@@ -117,17 +117,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "740a59ba12c21e37",
+  "active": "33a2bab88d111215",
   "lastOpenFiles": [
+    "software/github actions/github actions for a django project.md",
     "daily/10-07-22.md",
     "daily/10-06-22.md",
-    "programming/python/django revert migrations.md",
+    "programming/python/django/django revert migrations.md",
     "django migrations with custom sql.md",
-    "programming/python/django data migrations.md",
-    "programming/python/django models.md",
+    "programming/python/django/django data migrations.md",
+    "programming/python/django/django models.md",
     "programming/python/common python programming errors.md",
-    "programming/python/ansible for network automation.md",
-    "programming/python/building python extensions with Rust.md",
-    "programming/python/convert an image to ASCII art.md"
+    "programming/python/ansible/ansible for network automation.md",
+    "programming/python/building python extensions with Rust.md"
   ]
 }
