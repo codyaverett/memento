@@ -715,7 +715,7 @@
       "links": 0
     },
     "software/data ETL/apache airflow/apache airflow quickstart.md": {
-      "size": 0,
+      "size": 2082,
       "tags": 0,
       "links": 1
     },
@@ -727,10 +727,10 @@
   },
   "commitTypes": {
     "/": {
-      "Refactor": 49,
-      "Create": 103,
+      "Refactor": 51,
+      "Create": 104,
       "Link": 37,
-      "Expand": 55
+      "Expand": 56
     }
   },
   "dailyCommits": {
@@ -752,7 +752,7 @@
       "14": 11,
       "15": 21,
       "16": 43,
-      "17": 9,
+      "17": 13,
       "18": 2,
       "19": 13,
       "20": 8,
@@ -769,12 +769,13 @@
       "Thu": 31,
       "Fri": 78,
       "Sat": 0,
-      "Sun": 25
+      "Sun": 29
     }
   },
   "recentCommits": {
     "/": {
       "Expanded": [
+        "<a class=\"internal-link\" href=\"software/data ETL/apache airflow/apache airflow quickstart.md\"> apache airflow quickstart </a>",
         "<a class=\"internal-link\" href=\"software/data ETL/apache airflow/apache airflow.md\"> apache airflow </a>",
         "<a class=\"internal-link\" href=\"programming/python/python extensions with rust.md\"> python extensions with rust </a>",
         "<a class=\"internal-link\" href=\"programming/python/python extensions with rust.md\"> python extensions with rust </a>",
@@ -824,10 +825,10 @@
         "<a class=\"internal-link\" href=\"personal/job-hunting/Federal-reserve-bank-topics.md\"> Federal-reserve-bank-topics </a>",
         "<a class=\"internal-link\" href=\"programming/python/python classes.md\"> python classes </a>",
         "<a class=\"internal-link\" href=\"programming/python/python virtual environments.md\"> python virtual environments </a>",
-        "<a class=\"internal-link\" href=\"programming/python/python virtual environments.md\"> python virtual environments </a>",
-        "<a class=\"internal-link\" href=\"programming/python/doctest.md\"> doctest </a>"
+        "<a class=\"internal-link\" href=\"programming/python/python virtual environments.md\"> python virtual environments </a>"
       ],
       "Created": [
+        "<a class=\"internal-link\" href=\"software/data ETL/apache airflow/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"software/data ETL/apache airflow/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"software/data ETL/apache airflow/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"math/Untitled.md\"> Untitled </a>",
@@ -877,8 +878,7 @@
         "<a class=\"internal-link\" href=\"programming/python/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"programming/python/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"programming/general/Untitled.md\"> Untitled </a>",
-        "<a class=\"internal-link\" href=\"programming/general/Untitled.md\"> Untitled </a>",
-        "<a class=\"internal-link\" href=\"personal/social/Untitled.md\"> Untitled </a>"
+        "<a class=\"internal-link\" href=\"programming/general/Untitled.md\"> Untitled </a>"
       ],
       "Renamed": [
         "<a class=\"internal-link\" href=\"programming/haskell/haskell lists.md\"> haskell lists </a>",
@@ -922,7 +922,8 @@
         "<a class=\"internal-link\" href=\"programming/general/pointers.md\"> pointers </a>",
         "<a class=\"internal-link\" href=\"math/Kepler.md\"> Kepler </a>",
         "<a class=\"internal-link\" href=\"games/stardew valley/stardew valley item codes.md\"> stardew valley item codes </a>",
-        "<a class=\"internal-link\" href=\"software/data ETL/apache airflow/apache airflow.md\"> apache airflow </a>"
+        "<a class=\"internal-link\" href=\"software/data ETL/apache airflow/apache airflow.md\"> apache airflow </a>",
+        "<a class=\"internal-link\" href=\"software/data ETL/apache airflow/airflow resources.md\"> airflow resources </a>"
       ],
       "Tagged": [
         "<a class=\"internal-link\" href=\"personal/job-hunting/jb-hunt-topics.md\"> jb-hunt-topics </a>",
@@ -938,7 +939,8 @@
         "<a class=\"internal-link\" href=\"\"python.md\"> \"python </a>",
         "<a class=\"internal-link\" href=\"'python.md\"> 'python </a>",
         "<a class=\"internal-link\" href=\"python.md\"> python </a>",
-        "<a class=\"internal-link\" href=\"personal/job-hunting/Untitled.md\"> Untitled </a>"
+        "<a class=\"internal-link\" href=\"personal/job-hunting/Untitled.md\"> Untitled </a>",
+        "<a class=\"internal-link\" href=\"software/data ETL/apache airflow/airflow resources.md\"> airflow resources </a>"
       ],
       "Linked": [
         "<a class=\"internal-link\" href=\"programming/haskell/working with lists.md\"> working with lists </a>",
