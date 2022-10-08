@@ -3,6 +3,7 @@
 - [Joined the Apache Foundation](https://blogs.apache.org/foundation/entry/the-apache-software-foundation-announces44) March 2016
 - python based ETL system
 - Jobs are written in python
+- [python client](https://github.com/apache/airflow-client-python)
 
 ## Reference
 - [Official Documentation](https://airflow.apache.org/docs/)
