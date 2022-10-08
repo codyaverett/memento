@@ -12,6 +12,7 @@
 - [Configuration]([Configuration Reference](https://airflow.apache.org/docs/apache-airflow/stable/configurations-ref.html))
 
 ## Awesome Lists
+- [Ecosystem](https://airflow.apache.org/ecosystem/)
 - [Awesome Apache Airflow](https://github.com/jghoman/awesome-apache-airflow)
 - [Awesome Airflow](https://github.com/msantino/awesome-airflow)
 
