@@ -683,12 +683,17 @@
       "size": 0,
       "tags": 0,
       "links": 0
+    },
+    "programming/data streams/Data streams vs buffers.md": {
+      "size": 0,
+      "tags": 0,
+      "links": 0
     }
   },
   "commitTypes": {
     "/": {
       "Refactor": 45,
-      "Create": 95,
+      "Create": 96,
       "Link": 32,
       "Expand": 54
     }
@@ -715,7 +720,7 @@
       "17": 9,
       "18": 2,
       "19": 13,
-      "20": 7,
+      "20": 8,
       "21": 5,
       "22": 17,
       "23": 16
@@ -727,7 +732,7 @@
       "Tue": 13,
       "Wed": 55,
       "Thu": 31,
-      "Fri": 77,
+      "Fri": 78,
       "Sat": 0,
       "Sun": 8
     }
@@ -788,6 +793,7 @@
         "<a class=\"internal-link\" href=\"personal/software/AWS.md\"> AWS </a>"
       ],
       "Created": [
+        "<a class=\"internal-link\" href=\"programming/data streams/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"programming/python/package management/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"programming/python/django/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"software/github actions/Untitled.md\"> Untitled </a>",
@@ -837,8 +843,7 @@
         "<a class=\"internal-link\" href=\"personal/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"programming/haskell/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"daily/08-16-22.md\"> 08-16-22 </a>",
-        "<a class=\"internal-link\" href=\"programming/python/Untitled.md\"> Untitled </a>",
-        "<a class=\"internal-link\" href=\"daily/08-18-22.md\"> 08-18-22 </a>"
+        "<a class=\"internal-link\" href=\"programming/python/Untitled.md\"> Untitled </a>"
       ],
       "Renamed": [
         "<a class=\"internal-link\" href=\"programming/haskell/haskell lists.md\"> haskell lists </a>",
