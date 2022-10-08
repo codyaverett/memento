@@ -710,7 +710,7 @@
       "links": 1
     },
     "software/data ETL/apache airflow/apache airflow.md": {
-      "size": 2022,
+      "size": 2453,
       "tags": 0,
       "links": 0
     },
@@ -730,7 +730,7 @@
       "Refactor": 51,
       "Create": 104,
       "Link": 37,
-      "Expand": 56
+      "Expand": 57
     }
   },
   "dailyCommits": {
@@ -752,7 +752,7 @@
       "14": 11,
       "15": 21,
       "16": 43,
-      "17": 13,
+      "17": 14,
       "18": 2,
       "19": 13,
       "20": 8,
@@ -769,12 +769,13 @@
       "Thu": 31,
       "Fri": 78,
       "Sat": 0,
-      "Sun": 29
+      "Sun": 30
     }
   },
   "recentCommits": {
     "/": {
       "Expanded": [
+        "<a class=\"internal-link\" href=\"software/data ETL/apache airflow/apache airflow.md\"> apache airflow </a>",
         "<a class=\"internal-link\" href=\"software/data ETL/apache airflow/apache airflow quickstart.md\"> apache airflow quickstart </a>",
         "<a class=\"internal-link\" href=\"software/data ETL/apache airflow/apache airflow.md\"> apache airflow </a>",
         "<a class=\"internal-link\" href=\"programming/python/python extensions with rust.md\"> python extensions with rust </a>",
@@ -824,7 +825,6 @@
         "<a class=\"internal-link\" href=\"programming/python/python basics.md\"> python basics </a>",
         "<a class=\"internal-link\" href=\"personal/job-hunting/Federal-reserve-bank-topics.md\"> Federal-reserve-bank-topics </a>",
         "<a class=\"internal-link\" href=\"programming/python/python classes.md\"> python classes </a>",
-        "<a class=\"internal-link\" href=\"programming/python/python virtual environments.md\"> python virtual environments </a>",
         "<a class=\"internal-link\" href=\"programming/python/python virtual environments.md\"> python virtual environments </a>"
       ],
       "Created": [
