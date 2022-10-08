@@ -544,11 +544,6 @@
       "tags": 0,
       "links": 0
     },
-    "software/data ETL/apache airflow.md": {
-      "size": 0,
-      "tags": 0,
-      "links": 0
-    },
     "daily/10-05-22.md": {
       "size": 0,
       "tags": 0,
@@ -713,11 +708,16 @@
       "size": 0,
       "tags": 0,
       "links": 1
+    },
+    "software/data ETL/apache airflow/apache airflow.md": {
+      "size": 0,
+      "tags": 0,
+      "links": 0
     }
   },
   "commitTypes": {
     "/": {
-      "Refactor": 48,
+      "Refactor": 49,
       "Create": 101,
       "Link": 35,
       "Expand": 54
@@ -741,7 +741,7 @@
       "13": 2,
       "14": 11,
       "15": 21,
-      "16": 37,
+      "16": 38,
       "17": 9,
       "18": 2,
       "19": 13,
@@ -759,7 +759,7 @@
       "Thu": 31,
       "Fri": 78,
       "Sat": 0,
-      "Sun": 19
+      "Sun": 20
     }
   },
   "recentCommits": {
@@ -911,7 +911,8 @@
         "<a class=\"internal-link\" href=\"programming/python/package management/pipenv usage.md\"> pipenv usage </a>",
         "<a class=\"internal-link\" href=\"programming/general/pointers.md\"> pointers </a>",
         "<a class=\"internal-link\" href=\"math/Kepler.md\"> Kepler </a>",
-        "<a class=\"internal-link\" href=\"games/stardew valley/stardew valley item codes.md\"> stardew valley item codes </a>"
+        "<a class=\"internal-link\" href=\"games/stardew valley/stardew valley item codes.md\"> stardew valley item codes </a>",
+        "<a class=\"internal-link\" href=\"software/data ETL/apache airflow/apache airflow.md\"> apache airflow </a>"
       ],
       "Tagged": [
         "<a class=\"internal-link\" href=\"personal/job-hunting/jb-hunt-topics.md\"> jb-hunt-topics </a>",

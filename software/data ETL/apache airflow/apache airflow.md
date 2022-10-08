@@ -1,6 +1,14 @@
 # Apache Airflow
+- Created Oct 2014 and announced June 2015
+- [Joined the Apache Foundation](https://blogs.apache.org/foundation/entry/the-apache-software-foundation-announces44) March 2016
 - python based ETL system
 - Jobs are written in python
+
+## Reference
+- [Official Documentation](https://airflow.apache.org/docs/)
+- [Github issues](https://github.com/apache/airflow/issues)
+- [Slack chat](https://s.apache.org/airflow-slack)
+- [Improvement Proposals](https://cwiki.apache.org/confluence/display/AIRFLOW/Airflow+Improvement+Proposals)
 
 ## Features
 - Develop, schedule, and monitor batch-oriented workflows
@@ -37,7 +45,15 @@ with DAG(dag_id="demo", start_date=datetime(2022, 1, 1), schedule="0 0 * * *") a
     hello >> airflow()
 ```
 
+## Boons to Airflow
+-   Workflows can be stored in version control so that you can roll back to previous versions
+-   Workflows can be developed by multiple people simultaneously
+-   Tests can be written to validate functionality
+-   Components are extensible and you can build on a wide collection of existing components
 
+## Cons to Airflow
+- Coding skills are highly recommended
+- There isn't much low-code opportunities within the software
 
 ## Reference
 - https://airflow.apache.org/

@@ -7,12 +7,9 @@
         "id": "740a59ba12c21e37",
         "type": "leaf",
         "state": {
-          "type": "markdown",
+          "type": "image",
           "state": {
-            "file": "math/linear interpolation.md",
-            "mode": "source",
-            "backlinks": false,
-            "source": false
+            "file": "software/data ETL/attachments/Pasted image 20220928225243.png"
           }
         }
       }
@@ -70,7 +67,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "math/linear interpolation.md",
+                "file": "software/data ETL/attachments/Pasted image 20220928225243.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,7 +84,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "math/linear interpolation.md"
+                "file": "software/data ETL/attachments/Pasted image 20220928225243.png"
               }
             }
           },
@@ -119,15 +116,15 @@
   },
   "active": "740a59ba12c21e37",
   "lastOpenFiles": [
+    "software/data ETL/apache airflow/apache airflow.md",
+    "math/linear interpolation.md",
     "math/Kepler.md",
     "programming/general/pointers.md",
-    "software/data ETL/apache airflow.md",
     "software/data ETL/apache paraquet.md",
     "software/data ETL/snowflake.md",
     "software/data ETL/Trino.md",
     "Todo.md",
     "programming/data streams/Data streams vs buffers.md",
-    "programming/python/package management/pipenv usage.md",
-    "programming/python/django/django extensions.md"
+    "programming/python/package management/pipenv usage.md"
   ]
 }
