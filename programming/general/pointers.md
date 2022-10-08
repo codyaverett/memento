@@ -37,15 +37,21 @@ int main(int argc, char **argv)
 ```
 
 Static vs Dynamic memory allocation
-```
+```c
 #include <stdio.h>
 #include <stdlib.h>
 
+# pointers are required to allocated memory outside of program scope!
 int main(int argc, char **argv)
 {
-
+	char *heapMemory = malloc(100);
+	if(NULL == heapMemory)
+	{
+		perror("malloc failed bruh")
+	}
 }
 ```
+
 ## Why use pointers?
 - We have to at lower levels
 - Passing values by reference is more efficient then passing a copy of the value
