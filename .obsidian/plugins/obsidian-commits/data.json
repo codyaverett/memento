@@ -720,11 +720,16 @@
       "links": 1
     },
     "software/data ETL/apache airflow/airflow CLI.md": {
-      "size": 0,
+      "size": 9108,
       "tags": 0,
       "links": 2
     },
     "programming/python/the zen of python.md": {
+      "size": 0,
+      "tags": 0,
+      "links": 0
+    },
+    "personal/job-hunting/Acre Trader.md": {
       "size": 0,
       "tags": 0,
       "links": 0
@@ -733,9 +738,9 @@
   "commitTypes": {
     "/": {
       "Refactor": 51,
-      "Create": 105,
+      "Create": 106,
       "Link": 37,
-      "Expand": 57
+      "Expand": 58
     }
   },
   "dailyCommits": {
@@ -757,7 +762,7 @@
       "14": 11,
       "15": 21,
       "16": 43,
-      "17": 15,
+      "17": 17,
       "18": 2,
       "19": 13,
       "20": 8,
@@ -774,12 +779,13 @@
       "Thu": 31,
       "Fri": 78,
       "Sat": 0,
-      "Sun": 31
+      "Sun": 33
     }
   },
   "recentCommits": {
     "/": {
       "Expanded": [
+        "<a class=\"internal-link\" href=\"software/data ETL/apache airflow/airflow CLI.md\"> airflow CLI </a>",
         "<a class=\"internal-link\" href=\"software/data ETL/apache airflow/apache airflow.md\"> apache airflow </a>",
         "<a class=\"internal-link\" href=\"software/data ETL/apache airflow/apache airflow quickstart.md\"> apache airflow quickstart </a>",
         "<a class=\"internal-link\" href=\"software/data ETL/apache airflow/apache airflow.md\"> apache airflow </a>",
@@ -829,10 +835,10 @@
         "<a class=\"internal-link\" href=\"personal/job-hunting/Federal-reserve-bank-topics.md\"> Federal-reserve-bank-topics </a>",
         "<a class=\"internal-link\" href=\"programming/python/python basics.md\"> python basics </a>",
         "<a class=\"internal-link\" href=\"personal/job-hunting/Federal-reserve-bank-topics.md\"> Federal-reserve-bank-topics </a>",
-        "<a class=\"internal-link\" href=\"programming/python/python classes.md\"> python classes </a>",
-        "<a class=\"internal-link\" href=\"programming/python/python virtual environments.md\"> python virtual environments </a>"
+        "<a class=\"internal-link\" href=\"programming/python/python classes.md\"> python classes </a>"
       ],
       "Created": [
+        "<a class=\"internal-link\" href=\"personal/job-hunting/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"programming/python/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"software/data ETL/apache airflow/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"software/data ETL/apache airflow/Untitled.md\"> Untitled </a>",
@@ -882,8 +888,7 @@
         "<a class=\"internal-link\" href=\"daily/09-22-22.md\"> 09-22-22 </a>",
         "<a class=\"internal-link\" href=\"personal/job-hunting/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"programming/python/Untitled.md\"> Untitled </a>",
-        "<a class=\"internal-link\" href=\"programming/python/Untitled.md\"> Untitled </a>",
-        "<a class=\"internal-link\" href=\"programming/general/Untitled.md\"> Untitled </a>"
+        "<a class=\"internal-link\" href=\"programming/python/Untitled.md\"> Untitled </a>"
       ],
       "Renamed": [
         "<a class=\"internal-link\" href=\"programming/haskell/haskell lists.md\"> haskell lists </a>",
