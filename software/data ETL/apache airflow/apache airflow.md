@@ -9,6 +9,7 @@
 - [Github issues](https://github.com/apache/airflow/issues)
 - [Slack chat](https://s.apache.org/airflow-slack)
 - [Improvement Proposals](https://cwiki.apache.org/confluence/display/AIRFLOW/Airflow+Improvement+Proposals)
+- [Configuration]([Configuration Reference](https://airflow.apache.org/docs/apache-airflow/stable/configurations-ref.html))
 
 ## Features
 - Develop, schedule, and monitor batch-oriented workflows

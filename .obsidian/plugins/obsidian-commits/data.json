@@ -718,13 +718,18 @@
       "size": 0,
       "tags": 0,
       "links": 1
+    },
+    "software/data ETL/apache airflow/airflow CLI.md": {
+      "size": 0,
+      "tags": 0,
+      "links": 2
     }
   },
   "commitTypes": {
     "/": {
       "Refactor": 49,
-      "Create": 102,
-      "Link": 36,
+      "Create": 103,
+      "Link": 37,
       "Expand": 55
     }
   },
@@ -746,7 +751,7 @@
       "13": 2,
       "14": 11,
       "15": 21,
-      "16": 41,
+      "16": 43,
       "17": 9,
       "18": 2,
       "19": 13,
@@ -764,7 +769,7 @@
       "Thu": 31,
       "Fri": 78,
       "Sat": 0,
-      "Sun": 23
+      "Sun": 25
     }
   },
   "recentCommits": {
@@ -824,6 +829,7 @@
       ],
       "Created": [
         "<a class=\"internal-link\" href=\"software/data ETL/apache airflow/Untitled.md\"> Untitled </a>",
+        "<a class=\"internal-link\" href=\"software/data ETL/apache airflow/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"math/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"programming/general/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"software/data ETL/Untitled.md\"> Untitled </a>",
@@ -872,8 +878,7 @@
         "<a class=\"internal-link\" href=\"programming/python/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"programming/general/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"programming/general/Untitled.md\"> Untitled </a>",
-        "<a class=\"internal-link\" href=\"personal/social/Untitled.md\"> Untitled </a>",
-        "<a class=\"internal-link\" href=\"programming/neural networks/Untitled.md\"> Untitled </a>"
+        "<a class=\"internal-link\" href=\"personal/social/Untitled.md\"> Untitled </a>"
       ],
       "Renamed": [
         "<a class=\"internal-link\" href=\"programming/haskell/haskell lists.md\"> haskell lists </a>",
@@ -967,7 +972,8 @@
         "<a class=\"internal-link\" href=\"software/data ETL/Trino.md\"> Trino </a>",
         "<a class=\"internal-link\" href=\"software/data ETL/snowflake.md\"> snowflake </a>",
         "<a class=\"internal-link\" href=\"math/linear interpolation.md\"> linear interpolation </a>",
-        "<a class=\"internal-link\" href=\"software/data ETL/apache airflow/apache airflow quickstart.md\"> apache airflow quickstart </a>"
+        "<a class=\"internal-link\" href=\"software/data ETL/apache airflow/apache airflow quickstart.md\"> apache airflow quickstart </a>",
+        "<a class=\"internal-link\" href=\"software/data ETL/apache airflow/airflow CLI.md\"> airflow CLI </a>"
       ],
       "Removed Tags from": [],
       "Removed Links from": []
