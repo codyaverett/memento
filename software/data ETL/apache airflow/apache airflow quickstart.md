@@ -26,5 +26,35 @@ airflow standalone
 # Enable the example_bash_operator dag in the home page
 ```
 
+Alternatively, instead of running airflow standalone, you can run the setup commands separately.
+```shell
+airflow db init
+
+airflow users create \
+    --username admin \
+    --firstname Peter \
+    --lastname Parker \
+    --role Admin \
+    --email spiderman@superhero.org
+
+airflow webserver --port 8080
+
+airflow scheduler
+```
+
+## Details
+- uses a SQLite database for a single instance, this limits parallelization and you will need to choose another option for scaling
+- Read about [production deployments]([Production Deployment](https://airflow.apache.org/docs/apache-airflow/stable/production-deployment.html))
+
+## Triggering tasks
+```shell
+# run your first task instance
+airflow tasks run example_bash_operator runme_0 2015-01-01
+# run a backfill over 2 days
+airflow dags backfill example_bash_operator \
+    --start-date 2015-01-01 \
+    --end-date 2015-01-02
+```
+
 ## Related
 - [[apache airflow]]

@@ -119,6 +119,8 @@
   },
   "active": "740a59ba12c21e37",
   "lastOpenFiles": [
+    "software/data ETL/apache airflow/airflow CLI.md",
+    "software/data ETL/apache airflow/apache airflow quickstart.md",
     "software/data ETL/apache airflow/apache airflow.md",
     "software/data ETL/attachments/Pasted image 20220928225243.png",
     "math/linear interpolation.md",
@@ -126,8 +128,6 @@
     "programming/general/pointers.md",
     "software/data ETL/apache paraquet.md",
     "software/data ETL/snowflake.md",
-    "software/data ETL/Trino.md",
-    "Todo.md",
-    "programming/data streams/Data streams vs buffers.md"
+    "software/data ETL/Trino.md"
   ]
 }
