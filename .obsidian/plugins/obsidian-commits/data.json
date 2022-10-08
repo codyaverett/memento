@@ -710,17 +710,22 @@
       "links": 1
     },
     "software/data ETL/apache airflow/apache airflow.md": {
-      "size": 0,
+      "size": 2022,
       "tags": 0,
       "links": 0
+    },
+    "software/data ETL/apache airflow/apache airflow quickstart.md": {
+      "size": 0,
+      "tags": 0,
+      "links": 1
     }
   },
   "commitTypes": {
     "/": {
       "Refactor": 49,
-      "Create": 101,
-      "Link": 35,
-      "Expand": 54
+      "Create": 102,
+      "Link": 36,
+      "Expand": 55
     }
   },
   "dailyCommits": {
@@ -741,7 +746,7 @@
       "13": 2,
       "14": 11,
       "15": 21,
-      "16": 38,
+      "16": 41,
       "17": 9,
       "18": 2,
       "19": 13,
@@ -759,12 +764,13 @@
       "Thu": 31,
       "Fri": 78,
       "Sat": 0,
-      "Sun": 20
+      "Sun": 23
     }
   },
   "recentCommits": {
     "/": {
       "Expanded": [
+        "<a class=\"internal-link\" href=\"software/data ETL/apache airflow/apache airflow.md\"> apache airflow </a>",
         "<a class=\"internal-link\" href=\"programming/python/python extensions with rust.md\"> python extensions with rust </a>",
         "<a class=\"internal-link\" href=\"programming/python/python extensions with rust.md\"> python extensions with rust </a>",
         "<a class=\"internal-link\" href=\"programming/python/python extensions with rust.md\"> python extensions with rust </a>",
@@ -814,10 +820,10 @@
         "<a class=\"internal-link\" href=\"programming/python/python classes.md\"> python classes </a>",
         "<a class=\"internal-link\" href=\"programming/python/python virtual environments.md\"> python virtual environments </a>",
         "<a class=\"internal-link\" href=\"programming/python/python virtual environments.md\"> python virtual environments </a>",
-        "<a class=\"internal-link\" href=\"programming/python/doctest.md\"> doctest </a>",
-        "<a class=\"internal-link\" href=\"personal/software/AWS.md\"> AWS </a>"
+        "<a class=\"internal-link\" href=\"programming/python/doctest.md\"> doctest </a>"
       ],
       "Created": [
+        "<a class=\"internal-link\" href=\"software/data ETL/apache airflow/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"math/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"programming/general/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"software/data ETL/Untitled.md\"> Untitled </a>",
@@ -867,8 +873,7 @@
         "<a class=\"internal-link\" href=\"programming/general/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"programming/general/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"personal/social/Untitled.md\"> Untitled </a>",
-        "<a class=\"internal-link\" href=\"programming/neural networks/Untitled.md\"> Untitled </a>",
-        "<a class=\"internal-link\" href=\"daily/08-11-22.md\"> 08-11-22 </a>"
+        "<a class=\"internal-link\" href=\"programming/neural networks/Untitled.md\"> Untitled </a>"
       ],
       "Renamed": [
         "<a class=\"internal-link\" href=\"programming/haskell/haskell lists.md\"> haskell lists </a>",
@@ -961,7 +966,8 @@
         "<a class=\"internal-link\" href=\"django migrations with custom sql.md\"> django migrations with custom sql </a>",
         "<a class=\"internal-link\" href=\"software/data ETL/Trino.md\"> Trino </a>",
         "<a class=\"internal-link\" href=\"software/data ETL/snowflake.md\"> snowflake </a>",
-        "<a class=\"internal-link\" href=\"math/linear interpolation.md\"> linear interpolation </a>"
+        "<a class=\"internal-link\" href=\"math/linear interpolation.md\"> linear interpolation </a>",
+        "<a class=\"internal-link\" href=\"software/data ETL/apache airflow/apache airflow quickstart.md\"> apache airflow quickstart </a>"
       ],
       "Removed Tags from": [],
       "Removed Links from": []
