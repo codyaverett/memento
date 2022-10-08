@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "software/data ETL/apache airflow.md",
+            "file": "programming/general/pointers.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -41,7 +41,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "python",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "software/data ETL/apache airflow.md",
+                "file": "programming/general/pointers.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,7 +87,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "software/data ETL/apache airflow.md"
+                "file": "programming/general/pointers.md"
               }
             }
           },
@@ -119,11 +119,11 @@
   },
   "active": "740a59ba12c21e37",
   "lastOpenFiles": [
+    "software/data ETL/apache airflow.md",
     "software/data ETL/apache paraquet.md",
     "software/data ETL/snowflake.md",
     "software/data ETL/Trino.md",
     "Todo.md",
-    "software/data ETL/apache airflow.md",
     "programming/data streams/Data streams vs buffers.md",
     "programming/python/package management/pipenv usage.md",
     "programming/python/django/django extensions.md",
