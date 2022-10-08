@@ -688,13 +688,28 @@
       "size": 0,
       "tags": 0,
       "links": 0
+    },
+    "software/data ETL/snowflake.md": {
+      "size": 0,
+      "tags": 0,
+      "links": 1
+    },
+    "Todo.md": {
+      "size": 0,
+      "tags": 0,
+      "links": 0
+    },
+    "software/data ETL/Trino.md": {
+      "size": 0,
+      "tags": 0,
+      "links": 1
     }
   },
   "commitTypes": {
     "/": {
       "Refactor": 45,
-      "Create": 96,
-      "Link": 32,
+      "Create": 99,
+      "Link": 34,
       "Expand": 54
     }
   },
@@ -715,7 +730,7 @@
       "12": 0,
       "13": 2,
       "14": 11,
-      "15": 14,
+      "15": 19,
       "16": 33,
       "17": 9,
       "18": 2,
@@ -734,7 +749,7 @@
       "Thu": 31,
       "Fri": 78,
       "Sat": 0,
-      "Sun": 8
+      "Sun": 13
     }
   },
   "recentCommits": {
@@ -793,6 +808,9 @@
         "<a class=\"internal-link\" href=\"personal/software/AWS.md\"> AWS </a>"
       ],
       "Created": [
+        "<a class=\"internal-link\" href=\"software/data ETL/Untitled.md\"> Untitled </a>",
+        "<a class=\"internal-link\" href=\"Untitled.md\"> Untitled </a>",
+        "<a class=\"internal-link\" href=\"software/data ETL/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"programming/data streams/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"programming/python/package management/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"programming/python/django/Untitled.md\"> Untitled </a>",
@@ -840,10 +858,7 @@
         "<a class=\"internal-link\" href=\"programming/neural networks/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"daily/08-11-22.md\"> 08-11-22 </a>",
         "<a class=\"internal-link\" href=\"personal/job-hunting/Untitled.md\"> Untitled </a>",
-        "<a class=\"internal-link\" href=\"personal/Untitled.md\"> Untitled </a>",
-        "<a class=\"internal-link\" href=\"programming/haskell/Untitled.md\"> Untitled </a>",
-        "<a class=\"internal-link\" href=\"daily/08-16-22.md\"> 08-16-22 </a>",
-        "<a class=\"internal-link\" href=\"programming/python/Untitled.md\"> Untitled </a>"
+        "<a class=\"internal-link\" href=\"personal/Untitled.md\"> Untitled </a>"
       ],
       "Renamed": [
         "<a class=\"internal-link\" href=\"programming/haskell/haskell lists.md\"> haskell lists </a>",
@@ -929,7 +944,9 @@
         "<a class=\"internal-link\" href=\"programming/python/python os module.md\"> python os module </a>",
         "<a class=\"internal-link\" href=\"programming/python/python cheatsheet.md\"> python cheatsheet </a>",
         "<a class=\"internal-link\" href=\"programming/python/django models.md\"> django models </a>",
-        "<a class=\"internal-link\" href=\"django migrations with custom sql.md\"> django migrations with custom sql </a>"
+        "<a class=\"internal-link\" href=\"django migrations with custom sql.md\"> django migrations with custom sql </a>",
+        "<a class=\"internal-link\" href=\"software/data ETL/Trino.md\"> Trino </a>",
+        "<a class=\"internal-link\" href=\"software/data ETL/snowflake.md\"> snowflake </a>"
       ],
       "Removed Tags from": [],
       "Removed Links from": []
