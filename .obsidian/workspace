@@ -7,9 +7,12 @@
         "id": "740a59ba12c21e37",
         "type": "leaf",
         "state": {
-          "type": "image",
+          "type": "markdown",
           "state": {
-            "file": "software/data ETL/attachments/Pasted image 20220928225243.png"
+            "file": "software/data ETL/apache airflow/apache airflow quickstart.md",
+            "mode": "source",
+            "backlinks": false,
+            "source": false
           }
         }
       }
@@ -67,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "software/data ETL/attachments/Pasted image 20220928225243.png",
+                "file": "software/data ETL/apache airflow/apache airflow quickstart.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -84,7 +87,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "software/data ETL/attachments/Pasted image 20220928225243.png"
+                "file": "software/data ETL/apache airflow/apache airflow quickstart.md"
               }
             }
           },
@@ -117,6 +120,7 @@
   "active": "740a59ba12c21e37",
   "lastOpenFiles": [
     "software/data ETL/apache airflow/apache airflow.md",
+    "software/data ETL/attachments/Pasted image 20220928225243.png",
     "math/linear interpolation.md",
     "math/Kepler.md",
     "programming/general/pointers.md",
@@ -124,7 +128,6 @@
     "software/data ETL/snowflake.md",
     "software/data ETL/Trino.md",
     "Todo.md",
-    "programming/data streams/Data streams vs buffers.md",
-    "programming/python/package management/pipenv usage.md"
+    "programming/data streams/Data streams vs buffers.md"
   ]
 }
