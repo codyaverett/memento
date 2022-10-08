@@ -703,12 +703,17 @@
       "size": 0,
       "tags": 0,
       "links": 1
+    },
+    "programming/general/pointers.md": {
+      "size": 0,
+      "tags": 0,
+      "links": 0
     }
   },
   "commitTypes": {
     "/": {
-      "Refactor": 45,
-      "Create": 99,
+      "Refactor": 46,
+      "Create": 100,
       "Link": 34,
       "Expand": 54
     }
@@ -730,7 +735,7 @@
       "12": 0,
       "13": 2,
       "14": 11,
-      "15": 19,
+      "15": 21,
       "16": 33,
       "17": 9,
       "18": 2,
@@ -749,7 +754,7 @@
       "Thu": 31,
       "Fri": 78,
       "Sat": 0,
-      "Sun": 13
+      "Sun": 15
     }
   },
   "recentCommits": {
@@ -808,6 +813,7 @@
         "<a class=\"internal-link\" href=\"personal/software/AWS.md\"> AWS </a>"
       ],
       "Created": [
+        "<a class=\"internal-link\" href=\"programming/general/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"software/data ETL/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"software/data ETL/Untitled.md\"> Untitled </a>",
@@ -857,8 +863,7 @@
         "<a class=\"internal-link\" href=\"personal/social/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"programming/neural networks/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"daily/08-11-22.md\"> 08-11-22 </a>",
-        "<a class=\"internal-link\" href=\"personal/job-hunting/Untitled.md\"> Untitled </a>",
-        "<a class=\"internal-link\" href=\"personal/Untitled.md\"> Untitled </a>"
+        "<a class=\"internal-link\" href=\"personal/job-hunting/Untitled.md\"> Untitled </a>"
       ],
       "Renamed": [
         "<a class=\"internal-link\" href=\"programming/haskell/haskell lists.md\"> haskell lists </a>",
@@ -898,7 +903,8 @@
         "<a class=\"internal-link\" href=\"programming/python/pyspark/pyspark reference.md\"> pyspark reference </a>",
         "<a class=\"internal-link\" href=\"programming/python/pyspark/python basics.md\"> python basics </a>",
         "<a class=\"internal-link\" href=\"programming/python/package management/python virtual environments.md\"> python virtual environments </a>",
-        "<a class=\"internal-link\" href=\"programming/python/package management/pipenv usage.md\"> pipenv usage </a>"
+        "<a class=\"internal-link\" href=\"programming/python/package management/pipenv usage.md\"> pipenv usage </a>",
+        "<a class=\"internal-link\" href=\"programming/general/pointers.md\"> pointers </a>"
       ],
       "Tagged": [
         "<a class=\"internal-link\" href=\"personal/job-hunting/jb-hunt-topics.md\"> jb-hunt-topics </a>",
