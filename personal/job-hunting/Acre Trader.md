@@ -5,8 +5,7 @@
 
 ## Intro
 Hi, I am called Cody Averett.
-I'm a long-time coding nerd and have experience with a lot of different technologies.
-- High and low level programming languages
+I'm a long-time code nerd and have experience with a lot of different technologies.
 - Databases
 - CICD and devops
 - containers
