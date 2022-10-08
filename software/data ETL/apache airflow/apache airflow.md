@@ -11,6 +11,13 @@
 - [Improvement Proposals](https://cwiki.apache.org/confluence/display/AIRFLOW/Airflow+Improvement+Proposals)
 - [Configuration]([Configuration Reference](https://airflow.apache.org/docs/apache-airflow/stable/configurations-ref.html))
 
+## Awesome Lists
+- [Awesome Apache Airflow](https://github.com/jghoman/awesome-apache-airflow)
+- [Awesome Airflow](https://github.com/msantino/awesome-airflow)
+
+## Examples
+- [Create bigquery github trends](https://github.com/tfayyaz/awesome-airflow/blob/master/examples/dags/bigquery_github_trends_v1.py)
+
 ## Features
 - Develop, schedule, and monitor batch-oriented workflows
 - Extensible with various programming languages
