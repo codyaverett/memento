@@ -723,12 +723,17 @@
       "size": 0,
       "tags": 0,
       "links": 2
+    },
+    "programming/python/the zen of python.md": {
+      "size": 0,
+      "tags": 0,
+      "links": 0
     }
   },
   "commitTypes": {
     "/": {
       "Refactor": 51,
-      "Create": 104,
+      "Create": 105,
       "Link": 37,
       "Expand": 57
     }
@@ -752,7 +757,7 @@
       "14": 11,
       "15": 21,
       "16": 43,
-      "17": 14,
+      "17": 15,
       "18": 2,
       "19": 13,
       "20": 8,
@@ -769,7 +774,7 @@
       "Thu": 31,
       "Fri": 78,
       "Sat": 0,
-      "Sun": 30
+      "Sun": 31
     }
   },
   "recentCommits": {
@@ -828,6 +833,7 @@
         "<a class=\"internal-link\" href=\"programming/python/python virtual environments.md\"> python virtual environments </a>"
       ],
       "Created": [
+        "<a class=\"internal-link\" href=\"programming/python/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"software/data ETL/apache airflow/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"software/data ETL/apache airflow/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"software/data ETL/apache airflow/Untitled.md\"> Untitled </a>",
@@ -877,7 +883,6 @@
         "<a class=\"internal-link\" href=\"personal/job-hunting/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"programming/python/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"programming/python/Untitled.md\"> Untitled </a>",
-        "<a class=\"internal-link\" href=\"programming/general/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"programming/general/Untitled.md\"> Untitled </a>"
       ],
       "Renamed": [
