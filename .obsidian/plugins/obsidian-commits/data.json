@@ -34,11 +34,6 @@
       "tags": 0,
       "links": 0
     },
-    "personal/math/Kepler.md": {
-      "size": 113,
-      "tags": 0,
-      "links": 0
-    },
     "personal/social/two traits necessary to seem confident.md": {
       "size": 324,
       "tags": 0,
@@ -51,11 +46,6 @@
     },
     "personal/food/vegan stocking your pantry tips.md": {
       "size": 1149,
-      "tags": 0,
-      "links": 0
-    },
-    "personal/games/stardew valley/stardew valley item codes.md": {
-      "size": 63890,
       "tags": 0,
       "links": 0
     },
@@ -708,13 +698,28 @@
       "size": 0,
       "tags": 0,
       "links": 0
+    },
+    "math/Kepler.md": {
+      "size": 113,
+      "tags": 0,
+      "links": 0
+    },
+    "games/stardew valley/stardew valley item codes.md": {
+      "size": 63890,
+      "tags": 0,
+      "links": 0
+    },
+    "math/linear interpolation.md": {
+      "size": 0,
+      "tags": 0,
+      "links": 1
     }
   },
   "commitTypes": {
     "/": {
-      "Refactor": 46,
-      "Create": 100,
-      "Link": 34,
+      "Refactor": 48,
+      "Create": 101,
+      "Link": 35,
       "Expand": 54
     }
   },
@@ -736,7 +741,7 @@
       "13": 2,
       "14": 11,
       "15": 21,
-      "16": 33,
+      "16": 37,
       "17": 9,
       "18": 2,
       "19": 13,
@@ -754,7 +759,7 @@
       "Thu": 31,
       "Fri": 78,
       "Sat": 0,
-      "Sun": 15
+      "Sun": 19
     }
   },
   "recentCommits": {
@@ -813,6 +818,7 @@
         "<a class=\"internal-link\" href=\"personal/software/AWS.md\"> AWS </a>"
       ],
       "Created": [
+        "<a class=\"internal-link\" href=\"math/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"programming/general/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"software/data ETL/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"Untitled.md\"> Untitled </a>",
@@ -862,8 +868,7 @@
         "<a class=\"internal-link\" href=\"programming/general/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"personal/social/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"programming/neural networks/Untitled.md\"> Untitled </a>",
-        "<a class=\"internal-link\" href=\"daily/08-11-22.md\"> 08-11-22 </a>",
-        "<a class=\"internal-link\" href=\"personal/job-hunting/Untitled.md\"> Untitled </a>"
+        "<a class=\"internal-link\" href=\"daily/08-11-22.md\"> 08-11-22 </a>"
       ],
       "Renamed": [
         "<a class=\"internal-link\" href=\"programming/haskell/haskell lists.md\"> haskell lists </a>",
@@ -904,7 +909,9 @@
         "<a class=\"internal-link\" href=\"programming/python/pyspark/python basics.md\"> python basics </a>",
         "<a class=\"internal-link\" href=\"programming/python/package management/python virtual environments.md\"> python virtual environments </a>",
         "<a class=\"internal-link\" href=\"programming/python/package management/pipenv usage.md\"> pipenv usage </a>",
-        "<a class=\"internal-link\" href=\"programming/general/pointers.md\"> pointers </a>"
+        "<a class=\"internal-link\" href=\"programming/general/pointers.md\"> pointers </a>",
+        "<a class=\"internal-link\" href=\"math/Kepler.md\"> Kepler </a>",
+        "<a class=\"internal-link\" href=\"games/stardew valley/stardew valley item codes.md\"> stardew valley item codes </a>"
       ],
       "Tagged": [
         "<a class=\"internal-link\" href=\"personal/job-hunting/jb-hunt-topics.md\"> jb-hunt-topics </a>",
@@ -952,7 +959,8 @@
         "<a class=\"internal-link\" href=\"programming/python/django models.md\"> django models </a>",
         "<a class=\"internal-link\" href=\"django migrations with custom sql.md\"> django migrations with custom sql </a>",
         "<a class=\"internal-link\" href=\"software/data ETL/Trino.md\"> Trino </a>",
-        "<a class=\"internal-link\" href=\"software/data ETL/snowflake.md\"> snowflake </a>"
+        "<a class=\"internal-link\" href=\"software/data ETL/snowflake.md\"> snowflake </a>",
+        "<a class=\"internal-link\" href=\"math/linear interpolation.md\"> linear interpolation </a>"
       ],
       "Removed Tags from": [],
       "Removed Links from": []
