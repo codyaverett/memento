@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "personal/job-hunting/Acre Trader.md",
+            "file": "software/data ETL/apache airflow/apache airflow.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "personal/job-hunting/Acre Trader.md",
+                "file": "software/data ETL/apache airflow/apache airflow.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,7 +87,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "personal/job-hunting/Acre Trader.md"
+                "file": "software/data ETL/apache airflow/apache airflow.md"
               }
             }
           },
@@ -119,6 +119,7 @@
   },
   "active": "740a59ba12c21e37",
   "lastOpenFiles": [
+    "personal/job-hunting/Acre Trader.md",
     "software/data ETL/apache airflow/airflow CLI.md",
     "software/data ETL/apache airflow/apache airflow.md",
     "programming/python/the zen of python.md",
@@ -127,7 +128,6 @@
     "software/data ETL/attachments/Pasted image 20220928225243.png",
     "math/linear interpolation.md",
     "math/Kepler.md",
-    "programming/general/pointers.md",
-    "software/data ETL/apache paraquet.md"
+    "programming/general/pointers.md"
   ]
 }
