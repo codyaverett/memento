@@ -735,7 +735,7 @@
       "links": 0
     },
     "programming/python/python package name collisions.md": {
-      "size": 0,
+      "size": 2060,
       "tags": 0,
       "links": 0
     }
@@ -745,7 +745,7 @@
       "Refactor": 51,
       "Create": 107,
       "Link": 37,
-      "Expand": 58
+      "Expand": 59
     }
   },
   "dailyCommits": {
@@ -771,7 +771,7 @@
       "18": 2,
       "19": 13,
       "20": 9,
-      "21": 5,
+      "21": 6,
       "22": 17,
       "23": 16
     }
@@ -784,12 +784,13 @@
       "Thu": 31,
       "Fri": 78,
       "Sat": 0,
-      "Sun": 34
+      "Sun": 35
     }
   },
   "recentCommits": {
     "/": {
       "Expanded": [
+        "<a class=\"internal-link\" href=\"programming/python/python package name collisions.md\"> python package name collisions </a>",
         "<a class=\"internal-link\" href=\"software/data ETL/apache airflow/airflow CLI.md\"> airflow CLI </a>",
         "<a class=\"internal-link\" href=\"software/data ETL/apache airflow/apache airflow.md\"> apache airflow </a>",
         "<a class=\"internal-link\" href=\"software/data ETL/apache airflow/apache airflow quickstart.md\"> apache airflow quickstart </a>",
@@ -839,8 +840,7 @@
         "<a class=\"internal-link\" href=\"personal/job-hunting/Federal-reserve-bank-topics.md\"> Federal-reserve-bank-topics </a>",
         "<a class=\"internal-link\" href=\"personal/job-hunting/Federal-reserve-bank-topics.md\"> Federal-reserve-bank-topics </a>",
         "<a class=\"internal-link\" href=\"programming/python/python basics.md\"> python basics </a>",
-        "<a class=\"internal-link\" href=\"personal/job-hunting/Federal-reserve-bank-topics.md\"> Federal-reserve-bank-topics </a>",
-        "<a class=\"internal-link\" href=\"programming/python/python classes.md\"> python classes </a>"
+        "<a class=\"internal-link\" href=\"personal/job-hunting/Federal-reserve-bank-topics.md\"> Federal-reserve-bank-topics </a>"
       ],
       "Created": [
         "<a class=\"internal-link\" href=\"programming/python/Untitled.md\"> Untitled </a>",
