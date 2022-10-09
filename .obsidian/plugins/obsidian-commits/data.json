@@ -735,7 +735,7 @@
       "links": 0
     },
     "programming/python/python package name collisions.md": {
-      "size": 2060,
+      "size": 2457,
       "tags": 0,
       "links": 0
     }
@@ -745,7 +745,7 @@
       "Refactor": 51,
       "Create": 107,
       "Link": 37,
-      "Expand": 59
+      "Expand": 60
     }
   },
   "dailyCommits": {
@@ -772,7 +772,7 @@
       "19": 13,
       "20": 9,
       "21": 6,
-      "22": 17,
+      "22": 18,
       "23": 16
     }
   },
@@ -784,12 +784,13 @@
       "Thu": 31,
       "Fri": 78,
       "Sat": 0,
-      "Sun": 35
+      "Sun": 36
     }
   },
   "recentCommits": {
     "/": {
       "Expanded": [
+        "<a class=\"internal-link\" href=\"programming/python/python package name collisions.md\"> python package name collisions </a>",
         "<a class=\"internal-link\" href=\"programming/python/python package name collisions.md\"> python package name collisions </a>",
         "<a class=\"internal-link\" href=\"software/data ETL/apache airflow/airflow CLI.md\"> airflow CLI </a>",
         "<a class=\"internal-link\" href=\"software/data ETL/apache airflow/apache airflow.md\"> apache airflow </a>",
@@ -839,8 +840,7 @@
         "<a class=\"internal-link\" href=\"django data migrations.md\"> django data migrations </a>",
         "<a class=\"internal-link\" href=\"personal/job-hunting/Federal-reserve-bank-topics.md\"> Federal-reserve-bank-topics </a>",
         "<a class=\"internal-link\" href=\"personal/job-hunting/Federal-reserve-bank-topics.md\"> Federal-reserve-bank-topics </a>",
-        "<a class=\"internal-link\" href=\"programming/python/python basics.md\"> python basics </a>",
-        "<a class=\"internal-link\" href=\"personal/job-hunting/Federal-reserve-bank-topics.md\"> Federal-reserve-bank-topics </a>"
+        "<a class=\"internal-link\" href=\"programming/python/python basics.md\"> python basics </a>"
       ],
       "Created": [
         "<a class=\"internal-link\" href=\"programming/python/Untitled.md\"> Untitled </a>",
