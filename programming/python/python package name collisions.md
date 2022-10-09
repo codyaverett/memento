@@ -16,8 +16,16 @@ ImportError: cannot import name 'read_dotenv' from 'dotenv' (/Users/caavere/.loc
 
 However, It turns out that the `pytest-dotenv` could be used instead.  The key difference was that I was using the `read_dotenv` function instead of the `load_dotenv` function.
 
+
+
 ```python
->>> import dotenv # from pytest_dotenv
+# from django_dotenv
+>>> import dotenv
+>>> dir(dotenv)
+['Any', 'Optional', '__all__', '__builtins__', '__cached__', '__doc__', '__file__', '__loader__', '__name__', '__package__', '__path__', '__spec__', 'dotenv_values', 'find_dotenv', 'get_cli_string', 'get_key', 'load_dotenv', 'load_ipython_extension', 'main', 'parser', 'set_key', 'unset_key', 'variables']
+
+ # from pytest_dotenv
+>>> import dotenv
 >>> dir(dotenv)
 ['Any', 'Optional', '__all__', '__builtins__', '__cached__', '__doc__', '__file__', '__loader__', '__name__', '__package__', '__path__', '__spec__', 'dotenv_values', 'find_dotenv', 'get_cli_string', 'get_key', 'load_dotenv', 'load_ipython_extension', 'main', 'parser', 'set_key', 'unset_key', 'variables']
 ```
