@@ -44,7 +44,8 @@ python setup.py sdist
 └── setup.py
 
 
-# use twine to upload dist
+# use twine to upload dist directory to pypi
+twine upload dist/*
 ```
 
 ## Reference
