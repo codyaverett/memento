@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "software/data ETL/apache airflow/apache airflow.md",
+            "file": "programming/python/python package name collisions.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "software/data ETL/apache airflow/apache airflow.md",
+                "file": "programming/python/python package name collisions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,7 +87,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "software/data ETL/apache airflow/apache airflow.md"
+                "file": "programming/python/python package name collisions.md"
               }
             }
           },
@@ -119,9 +119,9 @@
   },
   "active": "740a59ba12c21e37",
   "lastOpenFiles": [
+    "software/data ETL/apache airflow/apache airflow.md",
     "personal/job-hunting/Acre Trader.md",
     "software/data ETL/apache airflow/airflow CLI.md",
-    "software/data ETL/apache airflow/apache airflow.md",
     "programming/python/the zen of python.md",
     "software/data ETL/apache airflow/airflow resources.md",
     "software/data ETL/apache airflow/apache airflow quickstart.md",
