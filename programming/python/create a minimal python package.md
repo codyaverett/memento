@@ -23,13 +23,28 @@ setup(
 ## Publish steps
 
 ```shell
-# install twine
+# install twine, pipenv creates pipfile and pipfile.lock
 pipenv install --dev twine
 
 # Create source distribution
 python setup.py sdist
 
-# use 
+## This creates a bunch of stuff
+.
+├── Pipfile
+├── Pipfile.lock
+├── dist
+│   └── required_env-0.1.0.tar.gz
+├── required_env.egg-info
+│   ├── PKG-INFO
+│   ├── SOURCES.txt
+│   ├── dependency_links.txt
+│   └── top_level.txt
+├── required_env.py
+└── setup.py
+
+
+# use twine to upload dist
 ```
 
 ## Reference
