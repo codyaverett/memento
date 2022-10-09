@@ -16,13 +16,16 @@ ImportError: cannot import name 'read_dotenv' from 'dotenv' (/Users/caavere/.loc
 
 However, It turns out that the `pytest-dotenv` could be used instead.  The key difference was that I was using the `read_dotenv` function instead of the `load_dotenv` function.
 
-
-
 ```python
 # from python_dotenv
 >>> import dotenv
 >>> dir(dotenv)
 ['Any', 'Optional', '__all__', '__builtins__', '__cached__', '__doc__', '__file__', '__loader__', '__name__', '__package__', '__path__', '__spec__', 'dotenv_values', 'find_dotenv', 'get_cli_string', 'get_key', 'load_dotenv', 'load_ipython_extension', 'main', 'parser', 'set_key', 'unset_key', 'variables']
+
+# from djano_dotenv
+>>> import dotenv
+>>> dir(dotenv)
+['__builtins__', '__cached__', '__doc__', '__file__', '__loader__', '__name__', '__package__', '__spec__', '__version__', 'line_re', 'os', 'parse_dotenv', 're', 'read_dotenv', 'sys', 'variable_re', 'warnings']
 
  # from pytest_dotenv
 >>> import dotenv
@@ -30,7 +33,9 @@ However, It turns out that the `pytest-dotenv` could be used instead.  The key d
 ['Any', 'Optional', '__all__', '__builtins__', '__cached__', '__doc__', '__file__', '__loader__', '__name__', '__package__', '__path__', '__spec__', 'dotenv_values', 'find_dotenv', 'get_cli_string', 'get_key', 'load_dotenv', 'load_ipython_extension', 'main', 'parser', 'set_key', 'unset_key', 'variables']
 ```
 
-## Workarounds
+Things like this can be a little confusing especially if the libraries aren't documented very well.
+
+## Workarounds if I needed to fix the collision
 1. Fork the project and publish to pypi under your own name
 2. Use `pip download` to download a local copy of the package where you can then change the name to be something else.
 
