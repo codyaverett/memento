@@ -19,7 +19,7 @@ However, It turns out that the `pytest-dotenv` could be used instead.  The key d
 
 
 ```python
-# from django_dotenv
+# from python_dotenv
 >>> import dotenv
 >>> dir(dotenv)
 ['Any', 'Optional', '__all__', '__builtins__', '__cached__', '__doc__', '__file__', '__loader__', '__name__', '__package__', '__path__', '__spec__', 'dotenv_values', 'find_dotenv', 'get_cli_string', 'get_key', 'load_dotenv', 'load_ipython_extension', 'main', 'parser', 'set_key', 'unset_key', 'variables']
