@@ -742,14 +742,14 @@
     "programming/python/create a minimal python package.md": {
       "size": 0,
       "tags": 0,
-      "links": 0
+      "links": 1
     }
   },
   "commitTypes": {
     "/": {
       "Refactor": 51,
       "Create": 108,
-      "Link": 37,
+      "Link": 38,
       "Expand": 60
     }
   },
@@ -777,7 +777,7 @@
       "19": 13,
       "20": 9,
       "21": 6,
-      "22": 19,
+      "22": 20,
       "23": 16
     }
   },
@@ -789,7 +789,7 @@
       "Thu": 31,
       "Fri": 78,
       "Sat": 0,
-      "Sun": 37
+      "Sun": 38
     }
   },
   "recentCommits": {
@@ -995,7 +995,8 @@
         "<a class=\"internal-link\" href=\"software/data ETL/snowflake.md\"> snowflake </a>",
         "<a class=\"internal-link\" href=\"math/linear interpolation.md\"> linear interpolation </a>",
         "<a class=\"internal-link\" href=\"software/data ETL/apache airflow/apache airflow quickstart.md\"> apache airflow quickstart </a>",
-        "<a class=\"internal-link\" href=\"software/data ETL/apache airflow/airflow CLI.md\"> airflow CLI </a>"
+        "<a class=\"internal-link\" href=\"software/data ETL/apache airflow/airflow CLI.md\"> airflow CLI </a>",
+        "<a class=\"internal-link\" href=\"programming/python/create a minimal python package.md\"> create a minimal python package </a>"
       ],
       "Removed Tags from": [],
       "Removed Links from": []
