@@ -14,6 +14,14 @@ Traceback (most recent call last):
 ImportError: cannot import name 'read_dotenv' from 'dotenv' (/Users/caavere/.local/share/virtualenvs/acre-trader-challenge-t4xepHAx/lib/python3.10/site-packages/dotenv/__init__.py)
 ```
 
+However, It turns out that the `pytest-dotenv` could be used instead.  The key difference was that I was using the `read_dotenv` function instead of the `load_dotenv` function.
+
+```python
+>>> import dotenv # from pytest_dotenv
+>>> dir(dotenv)
+['Any', 'Optional', '__all__', '__builtins__', '__cached__', '__doc__', '__file__', '__loader__', '__name__', '__package__', '__path__', '__spec__', 'dotenv_values', 'find_dotenv', 'get_cli_string', 'get_key', 'load_dotenv', 'load_ipython_extension', 'main', 'parser', 'set_key', 'unset_key', 'variables']
+```
+
 ## Workarounds
 1. Fork the project and publish to pypi under your own name
 2. Use `pip download` to download a local copy of the package where you can then change the name to be something else.
