@@ -1,5 +1,4 @@
 # Handle SIGTERM events in python
-
 ## Example 1
 Handy for making sure connections are closed
 ```python
