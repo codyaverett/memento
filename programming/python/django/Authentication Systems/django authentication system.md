@@ -8,8 +8,8 @@
 - auth_user_groups
 - auth_user_user_permissions
 
-
-## User Table
+## Tables
+### User Table
 - id
 - password - encrypted hash
 - last_login
@@ -22,3 +22,7 @@
 - is_active - 
 - date_joined
 
+## User profiles
+Extend or compose new profiles 
+
+Extending the user model
