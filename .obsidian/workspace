@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "programming/python/handle SIGTERM events in python.md",
+            "file": "software/data ETL/apache airflow/apache airflow quickstart.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "programming/python/handle SIGTERM events in python.md",
+                "file": "software/data ETL/apache airflow/apache airflow quickstart.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,7 +87,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "programming/python/handle SIGTERM events in python.md"
+                "file": "software/data ETL/apache airflow/apache airflow quickstart.md"
               }
             }
           },
@@ -119,6 +119,7 @@
   },
   "active": "dee6a1f0625a5f4b",
   "lastOpenFiles": [
+    "programming/python/handle SIGTERM events in python.md",
     "programming/python/django/django middleware.md",
     "programming/python/django/Untitled.md",
     "programming/python/pipenv cleanup.md",
@@ -127,7 +128,6 @@
     "programming/python/django/Authentication Systems/django authentication system.md",
     "daily/10-10-22.md",
     "programming/python/create a minimal python package.md",
-    "programming/python/python package name collisions.md",
-    "software/data ETL/apache airflow/apache airflow.md"
+    "programming/python/python package name collisions.md"
   ]
 }

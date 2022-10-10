@@ -780,7 +780,7 @@
       "links": 0
     },
     "programming/python/handle SIGTERM events in python.md": {
-      "size": 0,
+      "size": 3373,
       "tags": 0,
       "links": 0
     }
@@ -790,7 +790,7 @@
       "Refactor": 57,
       "Create": 116,
       "Link": 39,
-      "Expand": 62
+      "Expand": 63
     }
   },
   "dailyCommits": {
@@ -801,7 +801,7 @@
       "3": 32,
       "4": 2,
       "5": 2,
-      "6": 4,
+      "6": 5,
       "7": 0,
       "8": 1,
       "9": 0,
@@ -823,7 +823,7 @@
   },
   "weeklyCommits": {
     "/": {
-      "Mon": 54,
+      "Mon": 55,
       "Tue": 13,
       "Wed": 55,
       "Thu": 31,
@@ -835,6 +835,7 @@
   "recentCommits": {
     "/": {
       "Expanded": [
+        "<a class=\"internal-link\" href=\"programming/python/handle SIGTERM events in python.md\"> handle SIGTERM events in python </a>",
         "<a class=\"internal-link\" href=\"programming/python/python decorators primer.md\"> python decorators primer </a>",
         "<a class=\"internal-link\" href=\"programming/python/create a minimal python package.md\"> create a minimal python package </a>",
         "<a class=\"internal-link\" href=\"programming/python/python package name collisions.md\"> python package name collisions </a>",
@@ -884,8 +885,7 @@
         "<a class=\"internal-link\" href=\"programming/python/DJango quick reference.md\"> DJango quick reference </a>",
         "<a class=\"internal-link\" href=\"programming/python/DJango quick reference.md\"> DJango quick reference </a>",
         "<a class=\"internal-link\" href=\"programming/python/python module search path.md\"> python module search path </a>",
-        "<a class=\"internal-link\" href=\"django data migrations.md\"> django data migrations </a>",
-        "<a class=\"internal-link\" href=\"personal/job-hunting/Federal-reserve-bank-topics.md\"> Federal-reserve-bank-topics </a>"
+        "<a class=\"internal-link\" href=\"django data migrations.md\"> django data migrations </a>"
       ],
       "Created": [
         "<a class=\"internal-link\" href=\"programming/python/Untitled.md\"> Untitled </a>",
