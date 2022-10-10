@@ -21,3 +21,4 @@
 - is_staff - can user log into admin panel
 - is_active - 
 - date_joined
+
