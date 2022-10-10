@@ -748,12 +748,17 @@
       "size": 0,
       "tags": 0,
       "links": 0
+    },
+    "programming/python/django/Authentication Systems/django authentication system.md": {
+      "size": 0,
+      "tags": 0,
+      "links": 0
     }
   },
   "commitTypes": {
     "/": {
       "Refactor": 52,
-      "Create": 109,
+      "Create": 110,
       "Link": 38,
       "Expand": 61
     }
@@ -783,7 +788,7 @@
       "20": 9,
       "21": 6,
       "22": 20,
-      "23": 19
+      "23": 20
     }
   },
   "weeklyCommits": {
@@ -794,7 +799,7 @@
       "Thu": 31,
       "Fri": 78,
       "Sat": 0,
-      "Sun": 41
+      "Sun": 42
     }
   },
   "recentCommits": {
@@ -853,6 +858,7 @@
         "<a class=\"internal-link\" href=\"personal/job-hunting/Federal-reserve-bank-topics.md\"> Federal-reserve-bank-topics </a>"
       ],
       "Created": [
+        "<a class=\"internal-link\" href=\"programming/python/django/Authentication Systems/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"daily/10-09-22.md\"> 10-09-22 </a>",
         "<a class=\"internal-link\" href=\"programming/python/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"programming/python/Untitled.md\"> Untitled </a>",
@@ -902,8 +908,7 @@
         "<a class=\"internal-link\" href=\"programming/algorithms/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"programming/python/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"programming/algorithms/Untitled.md\"> Untitled </a>",
-        "<a class=\"internal-link\" href=\"personal/software/Untitled.md\"> Untitled </a>",
-        "<a class=\"internal-link\" href=\"daily/09-22-22.md\"> 09-22-22 </a>"
+        "<a class=\"internal-link\" href=\"personal/software/Untitled.md\"> Untitled </a>"
       ],
       "Renamed": [
         "<a class=\"internal-link\" href=\"programming/haskell/haskell lists.md\"> haskell lists </a>",
