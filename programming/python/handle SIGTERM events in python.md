@@ -97,7 +97,8 @@ $ echo $?
 ```
 
 ## Example 3
-I like this one because it uses the `with` keyword.  Looks nice
+I like this one because it uses the `with` keyword.  Looks nice, however someone in the comments pointed out:
+> "you don't call the original handler when event occurs, thus any handlers will get ignored. And with addition to that that we have exception handling mechanism that may catch and ignore exception thrown by sys.exit(0), nested `with` statements with exception handlers in-between will lead to ignoring the termination request. (And make you hit ctrl+C) several times at least."
 ```python
 import logging
 import signal
