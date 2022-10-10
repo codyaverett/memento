@@ -96,5 +96,50 @@ $ echo $?
 0
 ```
 
+## Example 3
+I like this one because it uses the `with` keyword.  Looks nice
+```python
+import logging
+import signal
+import sys
+
+
+class TerminateProtected:
+    """ Protect a piece of code from being killed by SIGINT or SIGTERM.
+    It can still be killed by a force kill.
+
+    Example:
+        with TerminateProtected():
+            run_func_1()
+            run_func_2()
+
+    Both functions will be executed even if a sigterm or sigkill has been received.
+    """
+    killed = False
+
+    def _handler(self, signum, frame):
+        logging.error("Received SIGINT or SIGTERM! Finishing this block, then exiting.")
+        self.killed = True
+
+    def __enter__(self):
+        self.old_sigint = signal.signal(signal.SIGINT, self._handler)
+        self.old_sigterm = signal.signal(signal.SIGTERM, self._handler)
+
+    def __exit__(self, type, value, traceback):
+        if self.killed:
+            sys.exit(0)
+        signal.signal(signal.SIGINT, self.old_sigint)
+        signal.signal(signal.SIGTERM, self.old_sigterm)
+
+
+if __name__ == '__main__':
+    print("Try pressing ctrl+c while the sleep is running!")
+    from time import sleep
+    with TerminateProtected():
+        sleep(10)
+        print("Finished anyway!")
+    print("This only prints if there was no sigint or sigterm")
+```
+
 ## Reference
 - https://stackoverflow.com/questions/18499497/how-to-process-sigterm-signal-gracefully
