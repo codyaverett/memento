@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "programming/python/django/Authentication Systems/Untitled.md",
+            "file": "programming/python/django/django middleware.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "programming/python/django/Authentication Systems/Untitled.md",
+                "file": "programming/python/django/django middleware.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,7 +87,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "programming/python/django/Authentication Systems/Untitled.md"
+                "file": "programming/python/django/django middleware.md"
               }
             }
           },
@@ -119,6 +119,7 @@
   },
   "active": "740a59ba12c21e37",
   "lastOpenFiles": [
+    "programming/python/django/Authentication Systems/django authentication system.md",
     "daily/10-10-22.md",
     "programming/python/create a minimal python package.md",
     "programming/python/python package name collisions.md",
@@ -127,7 +128,6 @@
     "software/data ETL/apache airflow/airflow CLI.md",
     "programming/python/the zen of python.md",
     "software/data ETL/apache airflow/airflow resources.md",
-    "software/data ETL/apache airflow/apache airflow quickstart.md",
-    "software/data ETL/attachments/Pasted image 20220928225243.png"
+    "software/data ETL/apache airflow/apache airflow quickstart.md"
   ]
 }
