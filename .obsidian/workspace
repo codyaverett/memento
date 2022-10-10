@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "programming/python/python decorators primer.md",
+            "file": "programming/python/python code formatters.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "programming/python/python decorators primer.md",
+                "file": "programming/python/python code formatters.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,7 +87,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "programming/python/python decorators primer.md"
+                "file": "programming/python/python code formatters.md"
               }
             }
           },
