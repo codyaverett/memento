@@ -758,20 +758,25 @@
       "size": 0,
       "tags": 0,
       "links": 0
+    },
+    "programming/python/python decorators primer.md": {
+      "size": 3081,
+      "tags": 0,
+      "links": 0
     }
   },
   "commitTypes": {
     "/": {
-      "Refactor": 52,
-      "Create": 111,
+      "Refactor": 55,
+      "Create": 112,
       "Link": 38,
-      "Expand": 61
+      "Expand": 62
     }
   },
   "dailyCommits": {
     "/": {
-      "0": 19,
-      "1": 19,
+      "0": 22,
+      "1": 21,
       "2": 6,
       "3": 32,
       "4": 2,
@@ -798,7 +803,7 @@
   },
   "weeklyCommits": {
     "/": {
-      "Mon": 42,
+      "Mon": 47,
       "Tue": 13,
       "Wed": 55,
       "Thu": 31,
@@ -810,6 +815,7 @@
   "recentCommits": {
     "/": {
       "Expanded": [
+        "<a class=\"internal-link\" href=\"programming/python/python decorators primer.md\"> python decorators primer </a>",
         "<a class=\"internal-link\" href=\"programming/python/create a minimal python package.md\"> create a minimal python package </a>",
         "<a class=\"internal-link\" href=\"programming/python/python package name collisions.md\"> python package name collisions </a>",
         "<a class=\"internal-link\" href=\"programming/python/python package name collisions.md\"> python package name collisions </a>",
@@ -859,10 +865,10 @@
         "<a class=\"internal-link\" href=\"programming/python/DJango quick reference.md\"> DJango quick reference </a>",
         "<a class=\"internal-link\" href=\"programming/python/python module search path.md\"> python module search path </a>",
         "<a class=\"internal-link\" href=\"django data migrations.md\"> django data migrations </a>",
-        "<a class=\"internal-link\" href=\"personal/job-hunting/Federal-reserve-bank-topics.md\"> Federal-reserve-bank-topics </a>",
         "<a class=\"internal-link\" href=\"personal/job-hunting/Federal-reserve-bank-topics.md\"> Federal-reserve-bank-topics </a>"
       ],
       "Created": [
+        "<a class=\"internal-link\" href=\"programming/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"programming/python/django/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"programming/python/django/Authentication Systems/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"daily/10-09-22.md\"> 10-09-22 </a>",
@@ -912,8 +918,7 @@
         "<a class=\"internal-link\" href=\"programming/general/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"programming/general/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"programming/algorithms/Untitled.md\"> Untitled </a>",
-        "<a class=\"internal-link\" href=\"programming/python/Untitled.md\"> Untitled </a>",
-        "<a class=\"internal-link\" href=\"programming/algorithms/Untitled.md\"> Untitled </a>"
+        "<a class=\"internal-link\" href=\"programming/python/Untitled.md\"> Untitled </a>"
       ],
       "Renamed": [
         "<a class=\"internal-link\" href=\"programming/haskell/haskell lists.md\"> haskell lists </a>",
@@ -959,7 +964,10 @@
         "<a class=\"internal-link\" href=\"games/stardew valley/stardew valley item codes.md\"> stardew valley item codes </a>",
         "<a class=\"internal-link\" href=\"software/data ETL/apache airflow/apache airflow.md\"> apache airflow </a>",
         "<a class=\"internal-link\" href=\"software/data ETL/apache airflow/airflow resources.md\"> airflow resources </a>",
-        "<a class=\"internal-link\" href=\"daily/10-10-22.md\"> 10-10-22 </a>"
+        "<a class=\"internal-link\" href=\"daily/10-10-22.md\"> 10-10-22 </a>",
+        "<a class=\"internal-link\" href=\"programming/SQL/python decorators.md\"> python decorators </a>",
+        "<a class=\"internal-link\" href=\"programming/python/python decorators.md\"> python decorators </a>",
+        "<a class=\"internal-link\" href=\"programming/python/python decorators primer.md\"> python decorators primer </a>"
       ],
       "Tagged": [
         "<a class=\"internal-link\" href=\"personal/job-hunting/jb-hunt-topics.md\"> jb-hunt-topics </a>",
