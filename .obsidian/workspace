@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "programming/python/create a minimal python package.md",
+            "file": "daily/10-09-22.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "programming/python/create a minimal python package.md",
+                "file": "daily/10-09-22.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,7 +87,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "programming/python/create a minimal python package.md"
+                "file": "daily/10-09-22.md"
               }
             }
           },
@@ -119,6 +119,7 @@
   },
   "active": "740a59ba12c21e37",
   "lastOpenFiles": [
+    "programming/python/create a minimal python package.md",
     "programming/python/python package name collisions.md",
     "software/data ETL/apache airflow/apache airflow.md",
     "personal/job-hunting/Acre Trader.md",
@@ -127,7 +128,6 @@
     "software/data ETL/apache airflow/airflow resources.md",
     "software/data ETL/apache airflow/apache airflow quickstart.md",
     "software/data ETL/attachments/Pasted image 20220928225243.png",
-    "math/linear interpolation.md",
-    "math/Kepler.md"
+    "math/linear interpolation.md"
   ]
 }
