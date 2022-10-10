@@ -773,12 +773,22 @@
       "size": 0,
       "tags": 0,
       "links": 1
+    },
+    "programming/python/django/Untitled.md": {
+      "size": 0,
+      "tags": 0,
+      "links": 0
+    },
+    "programming/python/handle SIGTERM events in python.md": {
+      "size": 0,
+      "tags": 0,
+      "links": 0
     }
   },
   "commitTypes": {
     "/": {
-      "Refactor": 56,
-      "Create": 114,
+      "Refactor": 57,
+      "Create": 116,
       "Link": 39,
       "Expand": 62
     }
@@ -787,11 +797,11 @@
     "/": {
       "0": 22,
       "1": 24,
-      "2": 7,
+      "2": 8,
       "3": 32,
       "4": 2,
       "5": 2,
-      "6": 2,
+      "6": 4,
       "7": 0,
       "8": 1,
       "9": 0,
@@ -813,7 +823,7 @@
   },
   "weeklyCommits": {
     "/": {
-      "Mon": 51,
+      "Mon": 54,
       "Tue": 13,
       "Wed": 55,
       "Thu": 31,
@@ -879,6 +889,8 @@
       ],
       "Created": [
         "<a class=\"internal-link\" href=\"programming/python/Untitled.md\"> Untitled </a>",
+        "<a class=\"internal-link\" href=\"programming/python/django/Untitled.md\"> Untitled </a>",
+        "<a class=\"internal-link\" href=\"programming/python/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"programming/python/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"programming/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"programming/python/django/Untitled.md\"> Untitled </a>",
@@ -926,9 +938,7 @@
         "<a class=\"internal-link\" href=\"personal/college/WGU/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"daily/09-28-22.md\"> 09-28-22 </a>",
         "<a class=\"internal-link\" href=\"daily/09-27-22.md\"> 09-27-22 </a>",
-        "<a class=\"internal-link\" href=\"daily/09-26-22.md\"> 09-26-22 </a>",
-        "<a class=\"internal-link\" href=\"programming/general/Untitled.md\"> Untitled </a>",
-        "<a class=\"internal-link\" href=\"programming/general/Untitled.md\"> Untitled </a>"
+        "<a class=\"internal-link\" href=\"daily/09-26-22.md\"> 09-26-22 </a>"
       ],
       "Renamed": [
         "<a class=\"internal-link\" href=\"programming/haskell/haskell lists.md\"> haskell lists </a>",
@@ -978,7 +988,8 @@
         "<a class=\"internal-link\" href=\"programming/SQL/python decorators.md\"> python decorators </a>",
         "<a class=\"internal-link\" href=\"programming/python/python decorators.md\"> python decorators </a>",
         "<a class=\"internal-link\" href=\"programming/python/python decorators primer.md\"> python decorators primer </a>",
-        "<a class=\"internal-link\" href=\"programming/python/python code formatters.md\"> python code formatters </a>"
+        "<a class=\"internal-link\" href=\"programming/python/python code formatters.md\"> python code formatters </a>",
+        "<a class=\"internal-link\" href=\"programming/python/handle SIGTERM events in python.md\"> handle SIGTERM events in python </a>"
       ],
       "Tagged": [
         "<a class=\"internal-link\" href=\"personal/job-hunting/jb-hunt-topics.md\"> jb-hunt-topics </a>",
