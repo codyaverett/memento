@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "personal/job-hunting/buf.build.md",
+            "file": "programming/rust/rust programming language.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "personal/job-hunting/buf.build.md",
+                "file": "programming/rust/rust programming language.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,7 +87,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "personal/job-hunting/buf.build.md"
+                "file": "programming/rust/rust programming language.md"
               }
             }
           },
@@ -119,15 +119,15 @@
   },
   "active": "dee6a1f0625a5f4b",
   "lastOpenFiles": [
+    "programming/python/django/DJango quick reference.md",
+    "programming/python/django/django testing.md",
+    "programming/python/create a minimal python package.md",
+    "programming/python/django/django models.md",
     "personal/job-hunting/Acre Trader.md",
+    "personal/job-hunting/buf.build.md",
     "personal/job-hunting/Lextegrity.md",
     "software/data ETL/apache airflow/apache airflow quickstart.md",
     "programming/python/handle SIGTERM events in python.md",
-    "programming/python/django/django middleware.md",
-    "programming/python/django/Untitled.md",
-    "programming/python/pipenv cleanup.md",
-    "programming/python/python code formatters.md",
-    "programming/python/python decorators primer.md",
-    "programming/python/django/Authentication Systems/django authentication system.md"
+    "programming/python/django/django middleware.md"
   ]
 }

@@ -39,11 +39,6 @@
       "tags": 0,
       "links": 0
     },
-    "personal/job-hunting/lead machine learning softwares.md": {
-      "size": 194,
-      "tags": 0,
-      "links": 0
-    },
     "personal/food/vegan stocking your pantry tips.md": {
       "size": 1149,
       "tags": 0,
@@ -81,11 +76,6 @@
     },
     "daily/06-10-22.md": {
       "size": 905,
-      "tags": 0,
-      "links": 0
-    },
-    "daily/06-08-22.md": {
-      "size": 65,
       "tags": 0,
       "links": 0
     },
@@ -269,11 +259,6 @@
       "tags": 0,
       "links": 0
     },
-    "personal/job-hunting/interesting jobhunt finds.md": {
-      "size": 0,
-      "tags": 0,
-      "links": 0
-    },
     "daily/08-19-22.md": {
       "size": 0,
       "tags": 0,
@@ -289,11 +274,6 @@
       "tags": 0,
       "links": 0
     },
-    "personal/job-hunting/jb-hunt-topics.md": {
-      "size": 9663,
-      "tags": 1,
-      "links": 0
-    },
     "daily/09-02-22.md": {
       "size": 2057,
       "tags": 0,
@@ -303,11 +283,6 @@
       "size": 0,
       "tags": 0,
       "links": 0
-    },
-    "personal/job-hunting/Federal-reserve-bank-topics.md": {
-      "size": 8371,
-      "tags": 0,
-      "links": 3
     },
     "programming/SQL/SQL order of execution.md": {
       "size": 0,
@@ -508,11 +483,6 @@
       "size": 0,
       "tags": 0,
       "links": 1
-    },
-    "personal/job-hunting/Lextegrity.md": {
-      "size": 0,
-      "tags": 0,
-      "links": 7
     },
     "programming/python/cli/building and distributing a CLI app with python.md": {
       "size": 0,
@@ -729,11 +699,6 @@
       "tags": 0,
       "links": 0
     },
-    "personal/job-hunting/Acre Trader.md": {
-      "size": 0,
-      "tags": 0,
-      "links": 0
-    },
     "programming/python/python package name collisions.md": {
       "size": 2457,
       "tags": 0,
@@ -783,21 +748,31 @@
       "size": 3373,
       "tags": 0,
       "links": 0
+    },
+    "personal/job-hunting/buf.build.md": {
+      "size": 0,
+      "tags": 0,
+      "links": 0
+    },
+    "programming/rust/rust programming language.md": {
+      "size": 0,
+      "tags": 0,
+      "links": 0
     }
   },
   "commitTypes": {
     "/": {
-      "Refactor": 57,
-      "Create": 116,
+      "Refactor": 64,
+      "Create": 118,
       "Link": 39,
       "Expand": 63
     }
   },
   "dailyCommits": {
     "/": {
-      "0": 22,
+      "0": 23,
       "1": 24,
-      "2": 8,
+      "2": 12,
       "3": 32,
       "4": 2,
       "5": 2,
@@ -808,10 +783,10 @@
       "10": 9,
       "11": 5,
       "12": 0,
-      "13": 2,
-      "14": 11,
+      "13": 4,
+      "14": 12,
       "15": 21,
-      "16": 43,
+      "16": 44,
       "17": 17,
       "18": 2,
       "19": 13,
@@ -823,13 +798,13 @@
   },
   "weeklyCommits": {
     "/": {
-      "Mon": 55,
-      "Tue": 13,
-      "Wed": 55,
+      "Mon": 56,
+      "Tue": 14,
+      "Wed": 59,
       "Thu": 31,
       "Fri": 78,
       "Sat": 0,
-      "Sun": 43
+      "Sun": 46
     }
   },
   "recentCommits": {
@@ -888,6 +863,8 @@
         "<a class=\"internal-link\" href=\"django data migrations.md\"> django data migrations </a>"
       ],
       "Created": [
+        "<a class=\"internal-link\" href=\"programming/rust/Untitled.md\"> Untitled </a>",
+        "<a class=\"internal-link\" href=\"personal/job-hunting/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"programming/python/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"programming/python/django/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"programming/python/Untitled.md\"> Untitled </a>",
@@ -936,9 +913,7 @@
         "<a class=\"internal-link\" href=\"personal/college/WGU/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"personal/college/WGU/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"personal/college/WGU/Untitled.md\"> Untitled </a>",
-        "<a class=\"internal-link\" href=\"daily/09-28-22.md\"> 09-28-22 </a>",
-        "<a class=\"internal-link\" href=\"daily/09-27-22.md\"> 09-27-22 </a>",
-        "<a class=\"internal-link\" href=\"daily/09-26-22.md\"> 09-26-22 </a>"
+        "<a class=\"internal-link\" href=\"daily/09-28-22.md\"> 09-28-22 </a>"
       ],
       "Renamed": [
         "<a class=\"internal-link\" href=\"programming/haskell/haskell lists.md\"> haskell lists </a>",
@@ -1006,7 +981,14 @@
         "<a class=\"internal-link\" href=\"'python.md\"> 'python </a>",
         "<a class=\"internal-link\" href=\"python.md\"> python </a>",
         "<a class=\"internal-link\" href=\"personal/job-hunting/Untitled.md\"> Untitled </a>",
-        "<a class=\"internal-link\" href=\"software/data ETL/apache airflow/airflow resources.md\"> airflow resources </a>"
+        "<a class=\"internal-link\" href=\"software/data ETL/apache airflow/airflow resources.md\"> airflow resources </a>",
+        "<a class=\"internal-link\" href=\"personal/job-hunting/Acre Trader.md\"> Acre Trader </a>",
+        "<a class=\"internal-link\" href=\"personal/job-hunting/Federal-reserve-bank-topics.md\"> Federal-reserve-bank-topics </a>",
+        "<a class=\"internal-link\" href=\"personal/job-hunting/interesting jobhunt finds.md\"> interesting jobhunt finds </a>",
+        "<a class=\"internal-link\" href=\"personal/job-hunting/jb-hunt-topics.md\"> jb-hunt-topics </a>",
+        "<a class=\"internal-link\" href=\"personal/job-hunting/Lextegrity.md\"> Lextegrity </a>",
+        "<a class=\"internal-link\" href=\"personal/job-hunting/lead machine learning softwares.md\"> lead machine learning softwares </a>",
+        "<a class=\"internal-link\" href=\"daily/06-08-22.md\"> 06-08-22 </a>"
       ],
       "Linked": [
         "<a class=\"internal-link\" href=\"programming/haskell/working with lists.md\"> working with lists </a>",
