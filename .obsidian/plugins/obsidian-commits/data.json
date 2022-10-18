@@ -828,12 +828,22 @@
       "size": 0,
       "tags": 0,
       "links": 0
+    },
+    "programming/javascript/Javascript oddities.md": {
+      "size": 0,
+      "tags": 0,
+      "links": 0
+    },
+    "personal/music/theory/Try only using major 7th chords to create a chord progression.md": {
+      "size": 0,
+      "tags": 0,
+      "links": 0
     }
   },
   "commitTypes": {
     "/": {
-      "Refactor": 80,
-      "Create": 134,
+      "Refactor": 82,
+      "Create": 136,
       "Link": 45,
       "Expand": 64
     }
@@ -858,7 +868,7 @@
       "15": 21,
       "16": 46,
       "17": 26,
-      "18": 9,
+      "18": 13,
       "19": 13,
       "20": 9,
       "21": 6,
@@ -869,7 +879,7 @@
   "weeklyCommits": {
     "/": {
       "Mon": 58,
-      "Tue": 51,
+      "Tue": 55,
       "Wed": 59,
       "Thu": 31,
       "Fri": 78,
@@ -933,6 +943,8 @@
         "<a class=\"internal-link\" href=\"programming/python/python module search path.md\"> python module search path </a>"
       ],
       "Created": [
+        "<a class=\"internal-link\" href=\"personal/music/theory/Untitled.md\"> Untitled </a>",
+        "<a class=\"internal-link\" href=\"programming/javascript/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"personal/money/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"programming/python/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"personal/lifehacks/Untitled.md\"> Untitled </a>",
@@ -981,11 +993,11 @@
         "<a class=\"internal-link\" href=\"programming/python/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"programming/python/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"programming/shell/Untitled.md\"> Untitled </a>",
-        "<a class=\"internal-link\" href=\"personal/job-hunting/Untitled.md\"> Untitled </a>",
-        "<a class=\"internal-link\" href=\"personal/lifehacks/Untitled.md\"> Untitled </a>",
-        "<a class=\"internal-link\" href=\"daily/10-06-22.md\"> 10-06-22 </a>"
+        "<a class=\"internal-link\" href=\"personal/job-hunting/Untitled.md\"> Untitled </a>"
       ],
       "Renamed": [
+        "<a class=\"internal-link\" href=\"personal/music/theory/Try only using major 7th chords to create a chord progression.md\"> Try only using major 7th chords to create a chord progression </a>",
+        "<a class=\"internal-link\" href=\"personal/music/theory/Major 7th chords to create a chord progression.md\"> Major 7th chords to create a chord progression </a>",
         "<a class=\"internal-link\" href=\"personal/money/Money facts.md\"> Money facts </a>",
         "<a class=\"internal-link\" href=\"personal/games/stardew valley/stardew valley item codes.md\"> stardew valley item codes </a>",
         "<a class=\"internal-link\" href=\"personal/math/linear interpolation.md\"> linear interpolation </a>",
@@ -1034,9 +1046,7 @@
         "<a class=\"internal-link\" href=\"programming/python/pyspark/pyspark reference.md\"> pyspark reference </a>",
         "<a class=\"internal-link\" href=\"programming/python/pyspark/python basics.md\"> python basics </a>",
         "<a class=\"internal-link\" href=\"programming/python/package management/python virtual environments.md\"> python virtual environments </a>",
-        "<a class=\"internal-link\" href=\"programming/python/package management/pipenv usage.md\"> pipenv usage </a>",
-        "<a class=\"internal-link\" href=\"programming/general/pointers.md\"> pointers </a>",
-        "<a class=\"internal-link\" href=\"math/Kepler.md\"> Kepler </a>"
+        "<a class=\"internal-link\" href=\"programming/python/package management/pipenv usage.md\"> pipenv usage </a>"
       ],
       "Tagged": [
         "<a class=\"internal-link\" href=\"personal/job-hunting/jb-hunt-topics.md\"> jb-hunt-topics </a>",
