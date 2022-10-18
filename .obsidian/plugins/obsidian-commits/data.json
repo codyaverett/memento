@@ -848,13 +848,23 @@
       "size": 0,
       "tags": 0,
       "links": 0
+    },
+    "programming/python/tips/Getting values from a python dictionary.md": {
+      "size": 0,
+      "tags": 0,
+      "links": 2
+    },
+    "personal/lists/really useful websites.md": {
+      "size": 0,
+      "tags": 0,
+      "links": 0
     }
   },
   "commitTypes": {
     "/": {
       "Refactor": 84,
-      "Create": 138,
-      "Link": 45,
+      "Create": 140,
+      "Link": 46,
       "Expand": 64
     }
   },
@@ -878,7 +888,7 @@
       "15": 21,
       "16": 46,
       "17": 26,
-      "18": 17,
+      "18": 20,
       "19": 13,
       "20": 9,
       "21": 6,
@@ -889,7 +899,7 @@
   "weeklyCommits": {
     "/": {
       "Mon": 58,
-      "Tue": 59,
+      "Tue": 62,
       "Wed": 59,
       "Thu": 31,
       "Fri": 78,
@@ -953,6 +963,8 @@
         "<a class=\"internal-link\" href=\"programming/python/python module search path.md\"> python module search path </a>"
       ],
       "Created": [
+        "<a class=\"internal-link\" href=\"personal/lists/Untitled.md\"> Untitled </a>",
+        "<a class=\"internal-link\" href=\"programming/python/tips/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"programming/general/beginner project ideas/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"programming/cli/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"personal/music/theory/Untitled.md\"> Untitled </a>",
@@ -1001,9 +1013,7 @@
         "<a class=\"internal-link\" href=\"software/github actions/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"daily/10-07-22.md\"> 10-07-22 </a>",
         "<a class=\"internal-link\" href=\"programming/python/Untitled.md\"> Untitled </a>",
-        "<a class=\"internal-link\" href=\"Untitled.md\"> Untitled </a>",
-        "<a class=\"internal-link\" href=\"programming/python/Untitled.md\"> Untitled </a>",
-        "<a class=\"internal-link\" href=\"programming/python/Untitled.md\"> Untitled </a>"
+        "<a class=\"internal-link\" href=\"Untitled.md\"> Untitled </a>"
       ],
       "Renamed": [
         "<a class=\"internal-link\" href=\"programming/general/beginner project ideas/Build a user interface wrapper for a CLI tool.md\"> Build a user interface wrapper for a CLI tool </a>",
@@ -1125,7 +1135,8 @@
         "<a class=\"internal-link\" href=\"Todo.md\"> Todo </a>",
         "<a class=\"internal-link\" href=\"programming/data models/OLTP data models.md\"> OLTP data models </a>",
         "<a class=\"internal-link\" href=\"programming/data models/OLAP data models.md\"> OLAP data models </a>",
-        "<a class=\"internal-link\" href=\"programming/data ETL/OLTP vs OLAP.md\"> OLTP vs OLAP </a>"
+        "<a class=\"internal-link\" href=\"programming/data ETL/OLTP vs OLAP.md\"> OLTP vs OLAP </a>",
+        "<a class=\"internal-link\" href=\"programming/python/tips/Getting values from a python dictionary.md\"> Getting values from a python dictionary </a>"
       ],
       "Removed Tags from": [],
       "Removed Links from": [
