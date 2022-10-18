@@ -19,3 +19,4 @@
 17. Place people in a situation where they can introspect on themselves more objectively
 18. Capture more data and metrics
 19. If you are going to be late on a deliverable tell the stake holder before the due date
+20. Things come and things go, you have to be able to accept that.  You are a part of a continuum where you will lose things.  Enjoy things and people while you have them.  Don't hold people back from their next thing.
