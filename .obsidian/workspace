@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "personal/money/Money facts.md",
+            "file": "programming/javascript/Javascript oddities.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "personal/money/Money facts.md",
+                "file": "programming/javascript/Javascript oddities.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,7 +87,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "personal/money/Money facts.md"
+                "file": "programming/javascript/Javascript oddities.md"
               }
             }
           },
@@ -119,6 +119,7 @@
   },
   "active": "dee6a1f0625a5f4b",
   "lastOpenFiles": [
+    "personal/money/Money facts.md",
     "programming/python/clean python sorting.md",
     "personal/lifehacks/productivity tips.md",
     "Backlog.md",
@@ -127,7 +128,6 @@
     "programming/data ETL/OLAP data models.md",
     "programming/data ETL/OLTP vs OLAP.md",
     "programming/data ETL/data warehouse.md",
-    "Todo.md",
-    "WIP.md"
+    "Todo.md"
   ]
 }
