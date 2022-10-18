@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "programming/rust/rust programming language.md",
+            "file": "programming/rust/rust types.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "programming/rust/rust programming language.md",
+                "file": "programming/rust/rust types.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,7 +87,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "programming/rust/rust programming language.md"
+                "file": "programming/rust/rust types.md"
               }
             }
           },
@@ -119,6 +119,7 @@
   },
   "active": "dee6a1f0625a5f4b",
   "lastOpenFiles": [
+    "programming/rust/rust programming language.md",
     "programming/python/django/DJango quick reference.md",
     "programming/python/django/django testing.md",
     "programming/python/create a minimal python package.md",
@@ -127,7 +128,6 @@
     "personal/job-hunting/buf.build.md",
     "personal/job-hunting/Lextegrity.md",
     "software/data ETL/apache airflow/apache airflow quickstart.md",
-    "programming/python/handle SIGTERM events in python.md",
-    "programming/python/django/django middleware.md"
+    "programming/python/handle SIGTERM events in python.md"
   ]
 }
