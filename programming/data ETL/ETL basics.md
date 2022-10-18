@@ -8,9 +8,11 @@ Get data from various sources
 * Normalization
 
 ## Tools for ETL processes
-- Apache Nifi
+- Apache Nifi (seen this before, we almost used at walmart)
 - Informatica
 - Talend
+- Microsoft SSIS
+- Apache Airflow (job runner/orchestrator, but people use it in ETL processes)
 
 ## Data Warehouse software
 A simple database can typically be used, but there are enterprise focused Data warehouse softwares that can be used instead.
