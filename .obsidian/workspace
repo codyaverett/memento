@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Todo.md",
+            "file": "programming/data models/OLAP data models.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Todo.md",
+                "file": "programming/data models/OLAP data models.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,7 +87,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Todo.md"
+                "file": "programming/data models/OLAP data models.md"
               }
             }
           },
@@ -119,15 +119,15 @@
   },
   "active": "dee6a1f0625a5f4b",
   "lastOpenFiles": [
-    "WIP.md",
+    "programming/data models/OLTP data models.md",
+    "programming/data models/OLAP data models.md",
     "Todo.md",
+    "WIP.md",
     "templates/new topic.md",
     "Backlog.md",
     "templates/new list.md",
     "templates/related list.md",
     "software/github actions/github actions for a django project.md",
-    "explorer.ergoplatform.com.md",
-    "personal/job-hunting/data etl project.md",
-    "programming/data models/OLAP data models.md"
+    "explorer.ergoplatform.com.md"
   ]
 }
