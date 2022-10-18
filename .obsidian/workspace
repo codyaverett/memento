@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "programming/data models/OLAP data models.md",
+            "file": "programming/data ETL/ETL basics.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "programming/data models/OLAP data models.md",
+                "file": "programming/data ETL/ETL basics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,7 +87,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "programming/data models/OLAP data models.md"
+                "file": "programming/data ETL/ETL basics.md"
               }
             }
           },
@@ -119,15 +119,15 @@
   },
   "active": "dee6a1f0625a5f4b",
   "lastOpenFiles": [
-    "programming/data models/OLTP data models.md",
-    "programming/data models/OLAP data models.md",
+    "programming/data ETL/OLTP data models.md",
+    "programming/data ETL/OLAP data models.md",
+    "programming/data ETL/OLTP vs OLAP.md",
+    "programming/data ETL/ETL basics.md",
+    "programming/data ETL/data warehouse.md",
     "Todo.md",
     "WIP.md",
     "templates/new topic.md",
     "Backlog.md",
-    "templates/new list.md",
-    "templates/related list.md",
-    "software/github actions/github actions for a django project.md",
-    "explorer.ergoplatform.com.md"
+    "templates/new list.md"
   ]
 }

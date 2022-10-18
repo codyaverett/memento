@@ -2,6 +2,11 @@
 
 Online Transaction Processing System
 
+Serve main business.  
+
+- Make sure these don't slow down
+- Make sure these are highly available
+
 ## Example
 
 Structured vs unstructured data
