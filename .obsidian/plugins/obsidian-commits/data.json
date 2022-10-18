@@ -758,12 +758,17 @@
       "size": 0,
       "tags": 0,
       "links": 0
+    },
+    "programming/rust/rust types.md": {
+      "size": 0,
+      "tags": 0,
+      "links": 0
     }
   },
   "commitTypes": {
     "/": {
-      "Refactor": 64,
-      "Create": 118,
+      "Refactor": 65,
+      "Create": 119,
       "Link": 39,
       "Expand": 63
     }
@@ -786,7 +791,7 @@
       "13": 4,
       "14": 12,
       "15": 21,
-      "16": 44,
+      "16": 46,
       "17": 17,
       "18": 2,
       "19": 13,
@@ -798,7 +803,7 @@
   },
   "weeklyCommits": {
     "/": {
-      "Mon": 56,
+      "Mon": 58,
       "Tue": 14,
       "Wed": 59,
       "Thu": 31,
@@ -864,6 +869,7 @@
       ],
       "Created": [
         "<a class=\"internal-link\" href=\"programming/rust/Untitled.md\"> Untitled </a>",
+        "<a class=\"internal-link\" href=\"programming/rust/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"personal/job-hunting/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"programming/python/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"programming/python/django/Untitled.md\"> Untitled </a>",
@@ -912,8 +918,7 @@
         "<a class=\"internal-link\" href=\"programming/python/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"personal/college/WGU/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"personal/college/WGU/Untitled.md\"> Untitled </a>",
-        "<a class=\"internal-link\" href=\"personal/college/WGU/Untitled.md\"> Untitled </a>",
-        "<a class=\"internal-link\" href=\"daily/09-28-22.md\"> 09-28-22 </a>"
+        "<a class=\"internal-link\" href=\"personal/college/WGU/Untitled.md\"> Untitled </a>"
       ],
       "Renamed": [
         "<a class=\"internal-link\" href=\"programming/haskell/haskell lists.md\"> haskell lists </a>",
@@ -964,7 +969,8 @@
         "<a class=\"internal-link\" href=\"programming/python/python decorators.md\"> python decorators </a>",
         "<a class=\"internal-link\" href=\"programming/python/python decorators primer.md\"> python decorators primer </a>",
         "<a class=\"internal-link\" href=\"programming/python/python code formatters.md\"> python code formatters </a>",
-        "<a class=\"internal-link\" href=\"programming/python/handle SIGTERM events in python.md\"> handle SIGTERM events in python </a>"
+        "<a class=\"internal-link\" href=\"programming/python/handle SIGTERM events in python.md\"> handle SIGTERM events in python </a>",
+        "<a class=\"internal-link\" href=\"programming/rust/rust types.md\"> rust types </a>"
       ],
       "Tagged": [
         "<a class=\"internal-link\" href=\"personal/job-hunting/jb-hunt-topics.md\"> jb-hunt-topics </a>",
