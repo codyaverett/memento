@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "programming/general/beginner project ideas/CLI tool.md",
+            "file": "programming/python/tips/Untitled.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "programming/general/beginner project ideas/CLI tool.md",
+                "file": "programming/python/tips/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,7 +87,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "programming/general/beginner project ideas/CLI tool.md"
+                "file": "programming/python/tips/Untitled.md"
               }
             }
           },
@@ -119,6 +119,7 @@
   },
   "active": "dee6a1f0625a5f4b",
   "lastOpenFiles": [
+    "programming/general/beginner project ideas/Build a user interface wrapper for a CLI tool.md",
     "programming/cli/python cli hide user input.md",
     "personal/music/theory/Try only using major 7th chords to create a chord progression.md",
     "programming/javascript/Javascript oddities.md",
@@ -127,7 +128,6 @@
     "personal/lifehacks/productivity tips.md",
     "Backlog.md",
     "programming/data ETL/ETL basics.md",
-    "programming/data ETL/OLTP data models.md",
-    "programming/data ETL/OLAP data models.md"
+    "programming/data ETL/OLTP data models.md"
   ]
 }
