@@ -18,6 +18,8 @@
 - https://benlevinmusicschool.com/p/blender-for-musicians
 - https://benlevinmusicschool.com/courses/1505045/lectures/34497166
 
+## Interesting projects
+- [Build a chrome extension](https://www.youtube.com/watch?v=B8Ihv3xsWYs)
 
 ## Mental Health
 - [(video) Developer Community Keynote: The thing about burnout](https://www.youtube.com/watch?v=FeDks5BJCQQ
