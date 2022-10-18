@@ -4,5 +4,6 @@
   "attachmentFolderPath": "programming/python/attachments",
   "promptDelete": false,
   "showLineNumber": true,
-  "spellcheck": true
+  "spellcheck": true,
+  "alwaysUpdateLinks": true
 }
