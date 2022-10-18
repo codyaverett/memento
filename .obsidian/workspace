@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "personal/job-hunting/data etl project.md",
+            "file": "templates/related list.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "personal/job-hunting/data etl project.md",
+                "file": "templates/related list.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,7 +87,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "personal/job-hunting/data etl project.md"
+                "file": "templates/related list.md"
               }
             }
           },
@@ -119,15 +119,15 @@
   },
   "active": "dee6a1f0625a5f4b",
   "lastOpenFiles": [
-    "programming/data models/OLAP data models.md",
+    "software/github actions/github actions for a django project.md",
+    "templates/new list.md",
+    "templates/new topic.md",
+    "Backlog.md",
+    "Current Stuff.md",
+    "explorer.ergoplatform.com.md",
     "personal/job-hunting/data etl project.md",
+    "programming/data models/OLAP data models.md",
     "personal/job-hunting/chainlink-labs.md",
-    "programming/machine learning/ml example.md",
-    "programming/machine learning/machine learning.md",
-    "programming/rust/rust types.md",
-    "programming/rust/rust programming language.md",
-    "programming/python/django/DJango quick reference.md",
-    "programming/python/django/django testing.md",
-    "programming/python/create a minimal python package.md"
+    "programming/machine learning/ml example.md"
   ]
 }
