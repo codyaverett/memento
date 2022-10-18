@@ -818,12 +818,17 @@
       "size": 0,
       "tags": 0,
       "links": 0
+    },
+    "programming/python/clean python sorting.md": {
+      "size": 0,
+      "tags": 0,
+      "links": 0
     }
   },
   "commitTypes": {
     "/": {
       "Refactor": 76,
-      "Create": 132,
+      "Create": 133,
       "Link": 45,
       "Expand": 64
     }
@@ -848,7 +853,7 @@
       "15": 21,
       "16": 46,
       "17": 26,
-      "18": 3,
+      "18": 4,
       "19": 13,
       "20": 9,
       "21": 6,
@@ -859,7 +864,7 @@
   "weeklyCommits": {
     "/": {
       "Mon": 58,
-      "Tue": 45,
+      "Tue": 46,
       "Wed": 59,
       "Thu": 31,
       "Fri": 78,
@@ -923,6 +928,7 @@
         "<a class=\"internal-link\" href=\"programming/python/python module search path.md\"> python module search path </a>"
       ],
       "Created": [
+        "<a class=\"internal-link\" href=\"programming/python/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"personal/lifehacks/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"programming/data ETL/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"programming/data ETL/Untitled.md\"> Untitled </a>",
@@ -972,8 +978,7 @@
         "<a class=\"internal-link\" href=\"personal/job-hunting/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"personal/lifehacks/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"daily/10-06-22.md\"> 10-06-22 </a>",
-        "<a class=\"internal-link\" href=\"daily/10-05-22.md\"> 10-05-22 </a>",
-        "<a class=\"internal-link\" href=\"software/data ETL/Untitled.md\"> Untitled </a>"
+        "<a class=\"internal-link\" href=\"daily/10-05-22.md\"> 10-05-22 </a>"
       ],
       "Renamed": [
         "<a class=\"internal-link\" href=\"programming/data ETL/OLTP data models.md\"> OLTP data models </a>",
