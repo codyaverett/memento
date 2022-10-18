@@ -767,9 +767,19 @@
     "programming/machine learning/ml example.md": {
       "size": 0,
       "tags": 0,
-      "links": 0
+      "links": 1
     },
     "programming/machine learning/machine learning.md": {
+      "size": 0,
+      "tags": 0,
+      "links": 0
+    },
+    "personal/job-hunting/data etl project.md": {
+      "size": 3431,
+      "tags": 0,
+      "links": 0
+    },
+    "programming/data models/OLAP data models.md": {
       "size": 0,
       "tags": 0,
       "links": 0
@@ -778,9 +788,9 @@
   "commitTypes": {
     "/": {
       "Refactor": 66,
-      "Create": 121,
-      "Link": 39,
-      "Expand": 63
+      "Create": 123,
+      "Link": 40,
+      "Expand": 64
     }
   },
   "dailyCommits": {
@@ -798,7 +808,7 @@
       "10": 9,
       "11": 5,
       "12": 2,
-      "13": 5,
+      "13": 9,
       "14": 12,
       "15": 21,
       "16": 46,
@@ -814,7 +824,7 @@
   "weeklyCommits": {
     "/": {
       "Mon": 58,
-      "Tue": 17,
+      "Tue": 21,
       "Wed": 59,
       "Thu": 31,
       "Fri": 78,
@@ -825,6 +835,7 @@
   "recentCommits": {
     "/": {
       "Expanded": [
+        "<a class=\"internal-link\" href=\"personal/job-hunting/data etl project.md\"> data etl project </a>",
         "<a class=\"internal-link\" href=\"programming/python/handle SIGTERM events in python.md\"> handle SIGTERM events in python </a>",
         "<a class=\"internal-link\" href=\"programming/python/python decorators primer.md\"> python decorators primer </a>",
         "<a class=\"internal-link\" href=\"programming/python/create a minimal python package.md\"> create a minimal python package </a>",
@@ -874,10 +885,11 @@
         "<a class=\"internal-link\" href=\"programming/python/django container.md\"> django container </a>",
         "<a class=\"internal-link\" href=\"programming/python/DJango quick reference.md\"> DJango quick reference </a>",
         "<a class=\"internal-link\" href=\"programming/python/DJango quick reference.md\"> DJango quick reference </a>",
-        "<a class=\"internal-link\" href=\"programming/python/python module search path.md\"> python module search path </a>",
-        "<a class=\"internal-link\" href=\"django data migrations.md\"> django data migrations </a>"
+        "<a class=\"internal-link\" href=\"programming/python/python module search path.md\"> python module search path </a>"
       ],
       "Created": [
+        "<a class=\"internal-link\" href=\"programming/data models/Untitled.md\"> Untitled </a>",
+        "<a class=\"internal-link\" href=\"personal/job-hunting/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"programming/machine learning/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"programming/machine learning/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"programming/rust/Untitled.md\"> Untitled </a>",
@@ -926,9 +938,7 @@
         "<a class=\"internal-link\" href=\"programming/python/cli/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"personal/job-hunting/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"software/data ETL/Untitled.md\"> Untitled </a>",
-        "<a class=\"internal-link\" href=\"programming/cli/loading/Untitled.md\"> Untitled </a>",
-        "<a class=\"internal-link\" href=\"programming/python/Untitled.md\"> Untitled </a>",
-        "<a class=\"internal-link\" href=\"personal/college/WGU/Untitled.md\"> Untitled </a>"
+        "<a class=\"internal-link\" href=\"programming/cli/loading/Untitled.md\"> Untitled </a>"
       ],
       "Renamed": [
         "<a class=\"internal-link\" href=\"programming/haskell/haskell lists.md\"> haskell lists </a>",
@@ -1042,7 +1052,8 @@
         "<a class=\"internal-link\" href=\"software/data ETL/apache airflow/apache airflow quickstart.md\"> apache airflow quickstart </a>",
         "<a class=\"internal-link\" href=\"software/data ETL/apache airflow/airflow CLI.md\"> airflow CLI </a>",
         "<a class=\"internal-link\" href=\"programming/python/create a minimal python package.md\"> create a minimal python package </a>",
-        "<a class=\"internal-link\" href=\"programming/python/pipenv cleanup.md\"> pipenv cleanup </a>"
+        "<a class=\"internal-link\" href=\"programming/python/pipenv cleanup.md\"> pipenv cleanup </a>",
+        "<a class=\"internal-link\" href=\"programming/machine learning/ml example.md\"> ml example </a>"
       ],
       "Removed Tags from": [],
       "Removed Links from": []
