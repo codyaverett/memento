@@ -763,12 +763,22 @@
       "size": 0,
       "tags": 0,
       "links": 0
+    },
+    "programming/machine learning/ml example.md": {
+      "size": 0,
+      "tags": 0,
+      "links": 0
+    },
+    "programming/machine learning/machine learning.md": {
+      "size": 0,
+      "tags": 0,
+      "links": 0
     }
   },
   "commitTypes": {
     "/": {
-      "Refactor": 65,
-      "Create": 119,
+      "Refactor": 66,
+      "Create": 121,
       "Link": 39,
       "Expand": 63
     }
@@ -787,8 +797,8 @@
       "9": 0,
       "10": 9,
       "11": 5,
-      "12": 0,
-      "13": 4,
+      "12": 2,
+      "13": 5,
       "14": 12,
       "15": 21,
       "16": 46,
@@ -804,7 +814,7 @@
   "weeklyCommits": {
     "/": {
       "Mon": 58,
-      "Tue": 14,
+      "Tue": 17,
       "Wed": 59,
       "Thu": 31,
       "Fri": 78,
@@ -868,6 +878,8 @@
         "<a class=\"internal-link\" href=\"django data migrations.md\"> django data migrations </a>"
       ],
       "Created": [
+        "<a class=\"internal-link\" href=\"programming/machine learning/Untitled.md\"> Untitled </a>",
+        "<a class=\"internal-link\" href=\"programming/machine learning/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"programming/rust/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"programming/rust/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"personal/job-hunting/Untitled.md\"> Untitled </a>",
@@ -916,8 +928,6 @@
         "<a class=\"internal-link\" href=\"software/data ETL/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"programming/cli/loading/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"programming/python/Untitled.md\"> Untitled </a>",
-        "<a class=\"internal-link\" href=\"personal/college/WGU/Untitled.md\"> Untitled </a>",
-        "<a class=\"internal-link\" href=\"personal/college/WGU/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"personal/college/WGU/Untitled.md\"> Untitled </a>"
       ],
       "Renamed": [
@@ -970,7 +980,8 @@
         "<a class=\"internal-link\" href=\"programming/python/python decorators primer.md\"> python decorators primer </a>",
         "<a class=\"internal-link\" href=\"programming/python/python code formatters.md\"> python code formatters </a>",
         "<a class=\"internal-link\" href=\"programming/python/handle SIGTERM events in python.md\"> handle SIGTERM events in python </a>",
-        "<a class=\"internal-link\" href=\"programming/rust/rust types.md\"> rust types </a>"
+        "<a class=\"internal-link\" href=\"programming/rust/rust types.md\"> rust types </a>",
+        "<a class=\"internal-link\" href=\"programming/machine learning/machine learning.md\"> machine learning </a>"
       ],
       "Tagged": [
         "<a class=\"internal-link\" href=\"personal/job-hunting/jb-hunt-topics.md\"> jb-hunt-topics </a>",
