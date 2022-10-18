@@ -632,7 +632,7 @@
     "Todo.md": {
       "size": 0,
       "tags": 0,
-      "links": 0
+      "links": 2
     },
     "software/data ETL/Trino.md": {
       "size": 0,
@@ -762,7 +762,7 @@
     "programming/data models/OLAP data models.md": {
       "size": 0,
       "tags": 0,
-      "links": 0
+      "links": 1
     },
     "personal/work/Site for Oasis Landscaping.md": {
       "size": 104,
@@ -792,14 +792,19 @@
     "WIP.md": {
       "size": 787,
       "tags": 0,
-      "links": 2
+      "links": 0
+    },
+    "programming/data models/OLTP data models.md": {
+      "size": 0,
+      "tags": 0,
+      "links": 1
     }
   },
   "commitTypes": {
     "/": {
-      "Refactor": 73,
-      "Create": 127,
-      "Link": 41,
+      "Refactor": 74,
+      "Create": 128,
+      "Link": 44,
       "Expand": 64
     }
   },
@@ -818,11 +823,11 @@
       "10": 9,
       "11": 5,
       "12": 2,
-      "13": 21,
+      "13": 23,
       "14": 12,
       "15": 21,
       "16": 46,
-      "17": 17,
+      "17": 20,
       "18": 2,
       "19": 13,
       "20": 9,
@@ -834,7 +839,7 @@
   "weeklyCommits": {
     "/": {
       "Mon": 58,
-      "Tue": 33,
+      "Tue": 38,
       "Wed": 59,
       "Thu": 31,
       "Fri": 78,
@@ -898,6 +903,7 @@
         "<a class=\"internal-link\" href=\"programming/python/python module search path.md\"> python module search path </a>"
       ],
       "Created": [
+        "<a class=\"internal-link\" href=\"programming/data models/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"templates/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"templates/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"templates/Untitled.md\"> Untitled </a>",
@@ -947,8 +953,7 @@
         "<a class=\"internal-link\" href=\"programming/security/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"programming/python/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"daily/10-01-22.md\"> 10-01-22 </a>",
-        "<a class=\"internal-link\" href=\"daily/09-30-22.md\"> 09-30-22 </a>",
-        "<a class=\"internal-link\" href=\"programming/python/Untitled.md\"> Untitled </a>"
+        "<a class=\"internal-link\" href=\"daily/09-30-22.md\"> 09-30-22 </a>"
       ],
       "Renamed": [
         "<a class=\"internal-link\" href=\"WIP.md\"> WIP </a>",
@@ -1066,10 +1071,15 @@
         "<a class=\"internal-link\" href=\"programming/python/create a minimal python package.md\"> create a minimal python package </a>",
         "<a class=\"internal-link\" href=\"programming/python/pipenv cleanup.md\"> pipenv cleanup </a>",
         "<a class=\"internal-link\" href=\"programming/machine learning/ml example.md\"> ml example </a>",
-        "<a class=\"internal-link\" href=\"personal/job-hunting/data etl project.md\"> data etl project </a>"
+        "<a class=\"internal-link\" href=\"personal/job-hunting/data etl project.md\"> data etl project </a>",
+        "<a class=\"internal-link\" href=\"Todo.md\"> Todo </a>",
+        "<a class=\"internal-link\" href=\"programming/data models/OLTP data models.md\"> OLTP data models </a>",
+        "<a class=\"internal-link\" href=\"programming/data models/OLAP data models.md\"> OLAP data models </a>"
       ],
       "Removed Tags from": [],
-      "Removed Links from": []
+      "Removed Links from": [
+        "<a class=\"internal-link\" href=\"WIP.md\"> WIP </a>"
+      ]
     }
   },
   "ignoreList": [],
