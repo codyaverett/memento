@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "programming/machine learning/ml example.md",
+            "file": "personal/job-hunting/data etl project.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "programming/machine learning/ml example.md",
+                "file": "personal/job-hunting/data etl project.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,7 +87,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "programming/machine learning/ml example.md"
+                "file": "personal/job-hunting/data etl project.md"
               }
             }
           },
@@ -119,6 +119,8 @@
   },
   "active": "33a2bab88d111215",
   "lastOpenFiles": [
+    "personal/job-hunting/chainlink-labs.md",
+    "programming/machine learning/ml example.md",
     "programming/machine learning/machine learning.md",
     "programming/rust/rust types.md",
     "programming/rust/rust programming language.md",
@@ -126,8 +128,6 @@
     "programming/python/django/django testing.md",
     "programming/python/create a minimal python package.md",
     "programming/python/django/django models.md",
-    "personal/job-hunting/Acre Trader.md",
-    "personal/job-hunting/buf.build.md",
-    "personal/job-hunting/Lextegrity.md"
+    "personal/job-hunting/Acre Trader.md"
   ]
 }
