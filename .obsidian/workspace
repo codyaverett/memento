@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "personal/lists/really useful websites.md",
+            "file": "personal/health/being impaled by a javelin.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "personal/lists/really useful websites.md",
+                "file": "personal/health/being impaled by a javelin.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,7 +87,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "personal/lists/really useful websites.md"
+                "file": "personal/health/being impaled by a javelin.md"
               }
             }
           },
@@ -119,6 +119,7 @@
   },
   "active": "dee6a1f0625a5f4b",
   "lastOpenFiles": [
+    "personal/lists/really useful websites.md",
     "programming/python/tips/Getting values from a python dictionary.md",
     "programming/general/beginner project ideas/Build a user interface wrapper for a CLI tool.md",
     "programming/cli/python cli hide user input.md",
@@ -127,7 +128,6 @@
     "personal/money/Money facts.md",
     "programming/python/clean python sorting.md",
     "personal/lifehacks/productivity tips.md",
-    "Backlog.md",
-    "programming/data ETL/ETL basics.md"
+    "Backlog.md"
   ]
 }
