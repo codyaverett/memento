@@ -777,7 +777,7 @@
     "personal/job-hunting/data etl project.md": {
       "size": 3431,
       "tags": 0,
-      "links": 0
+      "links": 1
     },
     "programming/data models/OLAP data models.md": {
       "size": 0,
@@ -789,7 +789,7 @@
     "/": {
       "Refactor": 66,
       "Create": 123,
-      "Link": 40,
+      "Link": 41,
       "Expand": 64
     }
   },
@@ -808,7 +808,7 @@
       "10": 9,
       "11": 5,
       "12": 2,
-      "13": 9,
+      "13": 10,
       "14": 12,
       "15": 21,
       "16": 46,
@@ -824,7 +824,7 @@
   "weeklyCommits": {
     "/": {
       "Mon": 58,
-      "Tue": 21,
+      "Tue": 22,
       "Wed": 59,
       "Thu": 31,
       "Fri": 78,
@@ -1053,7 +1053,8 @@
         "<a class=\"internal-link\" href=\"software/data ETL/apache airflow/airflow CLI.md\"> airflow CLI </a>",
         "<a class=\"internal-link\" href=\"programming/python/create a minimal python package.md\"> create a minimal python package </a>",
         "<a class=\"internal-link\" href=\"programming/python/pipenv cleanup.md\"> pipenv cleanup </a>",
-        "<a class=\"internal-link\" href=\"programming/machine learning/ml example.md\"> ml example </a>"
+        "<a class=\"internal-link\" href=\"programming/machine learning/ml example.md\"> ml example </a>",
+        "<a class=\"internal-link\" href=\"personal/job-hunting/data etl project.md\"> data etl project </a>"
       ],
       "Removed Tags from": [],
       "Removed Links from": []
