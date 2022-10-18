@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Backlog.md",
+            "file": "personal/lifehacks/productivity tips.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Backlog.md",
+                "file": "personal/lifehacks/productivity tips.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,7 +87,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Backlog.md"
+                "file": "personal/lifehacks/productivity tips.md"
               }
             }
           },
@@ -119,6 +119,7 @@
   },
   "active": "dee6a1f0625a5f4b",
   "lastOpenFiles": [
+    "Backlog.md",
     "programming/data ETL/ETL basics.md",
     "programming/data ETL/OLTP data models.md",
     "programming/data ETL/OLAP data models.md",
@@ -127,7 +128,6 @@
     "Todo.md",
     "WIP.md",
     "templates/new topic.md",
-    "Backlog.md",
     "templates/new list.md"
   ]
 }
