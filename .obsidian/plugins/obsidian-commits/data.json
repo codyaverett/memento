@@ -759,11 +759,6 @@
       "tags": 0,
       "links": 1
     },
-    "programming/data models/OLAP data models.md": {
-      "size": 0,
-      "tags": 0,
-      "links": 1
-    },
     "personal/work/Site for Oasis Landscaping.md": {
       "size": 104,
       "tags": 0,
@@ -794,7 +789,27 @@
       "tags": 0,
       "links": 0
     },
-    "programming/data models/OLTP data models.md": {
+    "programming/data ETL/OLAP data models.md": {
+      "size": 0,
+      "tags": 0,
+      "links": 1
+    },
+    "programming/data ETL/OLTP data models.md": {
+      "size": 0,
+      "tags": 0,
+      "links": 1
+    },
+    "programming/data ETL/data warehouse.md": {
+      "size": 0,
+      "tags": 0,
+      "links": 0
+    },
+    "programming/data ETL/ETL basics.md": {
+      "size": 0,
+      "tags": 0,
+      "links": 0
+    },
+    "programming/data ETL/OLTP vs OLAP.md": {
       "size": 0,
       "tags": 0,
       "links": 1
@@ -802,9 +817,9 @@
   },
   "commitTypes": {
     "/": {
-      "Refactor": 74,
-      "Create": 128,
-      "Link": 44,
+      "Refactor": 76,
+      "Create": 131,
+      "Link": 45,
       "Expand": 64
     }
   },
@@ -827,7 +842,7 @@
       "14": 12,
       "15": 21,
       "16": 46,
-      "17": 20,
+      "17": 26,
       "18": 2,
       "19": 13,
       "20": 9,
@@ -839,7 +854,7 @@
   "weeklyCommits": {
     "/": {
       "Mon": 58,
-      "Tue": 38,
+      "Tue": 44,
       "Wed": 59,
       "Thu": 31,
       "Fri": 78,
@@ -903,6 +918,9 @@
         "<a class=\"internal-link\" href=\"programming/python/python module search path.md\"> python module search path </a>"
       ],
       "Created": [
+        "<a class=\"internal-link\" href=\"programming/data ETL/Untitled.md\"> Untitled </a>",
+        "<a class=\"internal-link\" href=\"programming/data ETL/Untitled.md\"> Untitled </a>",
+        "<a class=\"internal-link\" href=\"programming/data ETL/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"programming/data models/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"templates/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"templates/Untitled.md\"> Untitled </a>",
@@ -950,12 +968,11 @@
         "<a class=\"internal-link\" href=\"daily/10-06-22.md\"> 10-06-22 </a>",
         "<a class=\"internal-link\" href=\"daily/10-05-22.md\"> 10-05-22 </a>",
         "<a class=\"internal-link\" href=\"software/data ETL/Untitled.md\"> Untitled </a>",
-        "<a class=\"internal-link\" href=\"programming/security/Untitled.md\"> Untitled </a>",
-        "<a class=\"internal-link\" href=\"programming/python/Untitled.md\"> Untitled </a>",
-        "<a class=\"internal-link\" href=\"daily/10-01-22.md\"> 10-01-22 </a>",
-        "<a class=\"internal-link\" href=\"daily/09-30-22.md\"> 09-30-22 </a>"
+        "<a class=\"internal-link\" href=\"programming/security/Untitled.md\"> Untitled </a>"
       ],
       "Renamed": [
+        "<a class=\"internal-link\" href=\"programming/data ETL/OLTP data models.md\"> OLTP data models </a>",
+        "<a class=\"internal-link\" href=\"programming/data ETL/OLAP data models.md\"> OLAP data models </a>",
         "<a class=\"internal-link\" href=\"WIP.md\"> WIP </a>",
         "<a class=\"internal-link\" href=\"programming/python/django/django migrations with custom sql.md\"> django migrations with custom sql </a>",
         "<a class=\"internal-link\" href=\"programming/python/django migrations with custom sql.md\"> django migrations with custom sql </a>",
@@ -1004,9 +1021,7 @@
         "<a class=\"internal-link\" href=\"games/stardew valley/stardew valley item codes.md\"> stardew valley item codes </a>",
         "<a class=\"internal-link\" href=\"software/data ETL/apache airflow/apache airflow.md\"> apache airflow </a>",
         "<a class=\"internal-link\" href=\"software/data ETL/apache airflow/airflow resources.md\"> airflow resources </a>",
-        "<a class=\"internal-link\" href=\"daily/10-10-22.md\"> 10-10-22 </a>",
-        "<a class=\"internal-link\" href=\"programming/SQL/python decorators.md\"> python decorators </a>",
-        "<a class=\"internal-link\" href=\"programming/python/python decorators.md\"> python decorators </a>"
+        "<a class=\"internal-link\" href=\"daily/10-10-22.md\"> 10-10-22 </a>"
       ],
       "Tagged": [
         "<a class=\"internal-link\" href=\"personal/job-hunting/jb-hunt-topics.md\"> jb-hunt-topics </a>",
@@ -1074,7 +1089,8 @@
         "<a class=\"internal-link\" href=\"personal/job-hunting/data etl project.md\"> data etl project </a>",
         "<a class=\"internal-link\" href=\"Todo.md\"> Todo </a>",
         "<a class=\"internal-link\" href=\"programming/data models/OLTP data models.md\"> OLTP data models </a>",
-        "<a class=\"internal-link\" href=\"programming/data models/OLAP data models.md\"> OLAP data models </a>"
+        "<a class=\"internal-link\" href=\"programming/data models/OLAP data models.md\"> OLAP data models </a>",
+        "<a class=\"internal-link\" href=\"programming/data ETL/OLTP vs OLAP.md\"> OLTP vs OLAP </a>"
       ],
       "Removed Tags from": [],
       "Removed Links from": [
