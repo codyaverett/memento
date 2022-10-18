@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "programming/rust/rust types.md",
+            "file": "programming/machine learning/ml example.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "programming/rust/rust types.md",
+                "file": "programming/machine learning/ml example.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,7 +87,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "programming/rust/rust types.md"
+                "file": "programming/machine learning/ml example.md"
               }
             }
           },
@@ -119,6 +119,8 @@
   },
   "active": "dee6a1f0625a5f4b",
   "lastOpenFiles": [
+    "programming/machine learning/machine learning topics.md",
+    "programming/rust/rust types.md",
     "programming/rust/rust programming language.md",
     "programming/python/django/DJango quick reference.md",
     "programming/python/django/django testing.md",
@@ -126,8 +128,6 @@
     "programming/python/django/django models.md",
     "personal/job-hunting/Acre Trader.md",
     "personal/job-hunting/buf.build.md",
-    "personal/job-hunting/Lextegrity.md",
-    "software/data ETL/apache airflow/apache airflow quickstart.md",
-    "programming/python/handle SIGTERM events in python.md"
+    "personal/job-hunting/Lextegrity.md"
   ]
 }
