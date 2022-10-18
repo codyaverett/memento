@@ -13,4 +13,9 @@
 11. Don't be easily reachable, if you can be easily reached you will not be productive.
 12. Ask how you get started until you get to a level where you can make the leap for the window
 13. Be in control of when, why, and how you do things.
-14. 
+14. "I can't want this for you more than you want it for yourself"
+15. Shake up, get peoples confidence up, put them in a situation where they can be more rewarded
+16. Don't let people stay in a place where they are underperforming
+17. Place people in a situation where they can introspect on themselves more objectively
+18. Capture more data and metrics
+19. If you are going to be late on a deliverable tell the stake holder before the due date
