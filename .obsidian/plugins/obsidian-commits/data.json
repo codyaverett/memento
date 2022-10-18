@@ -214,11 +214,6 @@
       "tags": 0,
       "links": 0
     },
-    "Current Stuff.md": {
-      "size": 787,
-      "tags": 0,
-      "links": 2
-    },
     "daily/08-11-22.md": {
       "size": 0,
       "tags": 0,
@@ -793,11 +788,16 @@
       "size": 0,
       "tags": 0,
       "links": 0
+    },
+    "WIP.md": {
+      "size": 787,
+      "tags": 0,
+      "links": 2
     }
   },
   "commitTypes": {
     "/": {
-      "Refactor": 72,
+      "Refactor": 73,
       "Create": 127,
       "Link": 41,
       "Expand": 64
@@ -818,7 +818,7 @@
       "10": 9,
       "11": 5,
       "12": 2,
-      "13": 20,
+      "13": 21,
       "14": 12,
       "15": 21,
       "16": 46,
@@ -834,7 +834,7 @@
   "weeklyCommits": {
     "/": {
       "Mon": 58,
-      "Tue": 32,
+      "Tue": 33,
       "Wed": 59,
       "Thu": 31,
       "Fri": 78,
@@ -951,6 +951,7 @@
         "<a class=\"internal-link\" href=\"programming/python/Untitled.md\"> Untitled </a>"
       ],
       "Renamed": [
+        "<a class=\"internal-link\" href=\"WIP.md\"> WIP </a>",
         "<a class=\"internal-link\" href=\"programming/python/django/django migrations with custom sql.md\"> django migrations with custom sql </a>",
         "<a class=\"internal-link\" href=\"programming/python/django migrations with custom sql.md\"> django migrations with custom sql </a>",
         "<a class=\"internal-link\" href=\"programming/django migrations with custom sql.md\"> django migrations with custom sql </a>",
@@ -1000,8 +1001,7 @@
         "<a class=\"internal-link\" href=\"software/data ETL/apache airflow/airflow resources.md\"> airflow resources </a>",
         "<a class=\"internal-link\" href=\"daily/10-10-22.md\"> 10-10-22 </a>",
         "<a class=\"internal-link\" href=\"programming/SQL/python decorators.md\"> python decorators </a>",
-        "<a class=\"internal-link\" href=\"programming/python/python decorators.md\"> python decorators </a>",
-        "<a class=\"internal-link\" href=\"programming/python/python decorators primer.md\"> python decorators primer </a>"
+        "<a class=\"internal-link\" href=\"programming/python/python decorators.md\"> python decorators </a>"
       ],
       "Tagged": [
         "<a class=\"internal-link\" href=\"personal/job-hunting/jb-hunt-topics.md\"> jb-hunt-topics </a>",
