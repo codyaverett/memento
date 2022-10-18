@@ -644,21 +644,6 @@
       "tags": 0,
       "links": 0
     },
-    "math/Kepler.md": {
-      "size": 113,
-      "tags": 0,
-      "links": 0
-    },
-    "games/stardew valley/stardew valley item codes.md": {
-      "size": 63890,
-      "tags": 0,
-      "links": 0
-    },
-    "math/linear interpolation.md": {
-      "size": 0,
-      "tags": 0,
-      "links": 1
-    },
     "software/data ETL/apache airflow/apache airflow.md": {
       "size": 2453,
       "tags": 0,
@@ -823,12 +808,32 @@
       "size": 0,
       "tags": 0,
       "links": 0
+    },
+    "personal/math/Kepler.md": {
+      "size": 113,
+      "tags": 0,
+      "links": 0
+    },
+    "personal/math/linear interpolation.md": {
+      "size": 0,
+      "tags": 0,
+      "links": 1
+    },
+    "personal/games/stardew valley/stardew valley item codes.md": {
+      "size": 63890,
+      "tags": 0,
+      "links": 0
+    },
+    "personal/money/Money facts.md": {
+      "size": 0,
+      "tags": 0,
+      "links": 0
     }
   },
   "commitTypes": {
     "/": {
-      "Refactor": 76,
-      "Create": 133,
+      "Refactor": 80,
+      "Create": 134,
       "Link": 45,
       "Expand": 64
     }
@@ -853,7 +858,7 @@
       "15": 21,
       "16": 46,
       "17": 26,
-      "18": 4,
+      "18": 9,
       "19": 13,
       "20": 9,
       "21": 6,
@@ -864,7 +869,7 @@
   "weeklyCommits": {
     "/": {
       "Mon": 58,
-      "Tue": 46,
+      "Tue": 51,
       "Wed": 59,
       "Thu": 31,
       "Fri": 78,
@@ -928,6 +933,7 @@
         "<a class=\"internal-link\" href=\"programming/python/python module search path.md\"> python module search path </a>"
       ],
       "Created": [
+        "<a class=\"internal-link\" href=\"personal/money/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"programming/python/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"personal/lifehacks/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"programming/data ETL/Untitled.md\"> Untitled </a>",
@@ -977,10 +983,13 @@
         "<a class=\"internal-link\" href=\"programming/shell/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"personal/job-hunting/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"personal/lifehacks/Untitled.md\"> Untitled </a>",
-        "<a class=\"internal-link\" href=\"daily/10-06-22.md\"> 10-06-22 </a>",
-        "<a class=\"internal-link\" href=\"daily/10-05-22.md\"> 10-05-22 </a>"
+        "<a class=\"internal-link\" href=\"daily/10-06-22.md\"> 10-06-22 </a>"
       ],
       "Renamed": [
+        "<a class=\"internal-link\" href=\"personal/money/Money facts.md\"> Money facts </a>",
+        "<a class=\"internal-link\" href=\"personal/games/stardew valley/stardew valley item codes.md\"> stardew valley item codes </a>",
+        "<a class=\"internal-link\" href=\"personal/math/linear interpolation.md\"> linear interpolation </a>",
+        "<a class=\"internal-link\" href=\"personal/math/Kepler.md\"> Kepler </a>",
         "<a class=\"internal-link\" href=\"programming/data ETL/OLTP data models.md\"> OLTP data models </a>",
         "<a class=\"internal-link\" href=\"programming/data ETL/OLAP data models.md\"> OLAP data models </a>",
         "<a class=\"internal-link\" href=\"WIP.md\"> WIP </a>",
@@ -1027,11 +1036,7 @@
         "<a class=\"internal-link\" href=\"programming/python/package management/python virtual environments.md\"> python virtual environments </a>",
         "<a class=\"internal-link\" href=\"programming/python/package management/pipenv usage.md\"> pipenv usage </a>",
         "<a class=\"internal-link\" href=\"programming/general/pointers.md\"> pointers </a>",
-        "<a class=\"internal-link\" href=\"math/Kepler.md\"> Kepler </a>",
-        "<a class=\"internal-link\" href=\"games/stardew valley/stardew valley item codes.md\"> stardew valley item codes </a>",
-        "<a class=\"internal-link\" href=\"software/data ETL/apache airflow/apache airflow.md\"> apache airflow </a>",
-        "<a class=\"internal-link\" href=\"software/data ETL/apache airflow/airflow resources.md\"> airflow resources </a>",
-        "<a class=\"internal-link\" href=\"daily/10-10-22.md\"> 10-10-22 </a>"
+        "<a class=\"internal-link\" href=\"math/Kepler.md\"> Kepler </a>"
       ],
       "Tagged": [
         "<a class=\"internal-link\" href=\"personal/job-hunting/jb-hunt-topics.md\"> jb-hunt-topics </a>",
