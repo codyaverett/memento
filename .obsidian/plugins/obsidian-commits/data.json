@@ -890,7 +890,7 @@
       "links": 1
     },
     "programming/deno/A fresh look at Deno - Brian Barrow.md": {
-      "size": 0,
+      "size": 2160,
       "tags": 0,
       "links": 0
     }
@@ -900,7 +900,7 @@
       "Refactor": 88,
       "Create": 147,
       "Link": 46,
-      "Expand": 64
+      "Expand": 65
     }
   },
   "dailyCommits": {
@@ -915,7 +915,7 @@
       "7": 0,
       "8": 1,
       "9": 0,
-      "10": 10,
+      "10": 11,
       "11": 5,
       "12": 2,
       "13": 23,
@@ -935,7 +935,7 @@
     "/": {
       "Mon": 58,
       "Tue": 72,
-      "Wed": 60,
+      "Wed": 61,
       "Thu": 31,
       "Fri": 78,
       "Sat": 0,
@@ -945,6 +945,7 @@
   "recentCommits": {
     "/": {
       "Expanded": [
+        "<a class=\"internal-link\" href=\"programming/deno/A fresh look at Deno - Brian Barrow.md\"> A fresh look at Deno - Brian Barrow </a>",
         "<a class=\"internal-link\" href=\"personal/job-hunting/data etl project.md\"> data etl project </a>",
         "<a class=\"internal-link\" href=\"programming/python/handle SIGTERM events in python.md\"> handle SIGTERM events in python </a>",
         "<a class=\"internal-link\" href=\"programming/python/python decorators primer.md\"> python decorators primer </a>",
@@ -994,8 +995,7 @@
         "<a class=\"internal-link\" href=\"programming/python/python basics.md\"> python basics </a>",
         "<a class=\"internal-link\" href=\"programming/python/django container.md\"> django container </a>",
         "<a class=\"internal-link\" href=\"programming/python/DJango quick reference.md\"> DJango quick reference </a>",
-        "<a class=\"internal-link\" href=\"programming/python/DJango quick reference.md\"> DJango quick reference </a>",
-        "<a class=\"internal-link\" href=\"programming/python/python module search path.md\"> python module search path </a>"
+        "<a class=\"internal-link\" href=\"programming/python/DJango quick reference.md\"> DJango quick reference </a>"
       ],
       "Created": [
         "<a class=\"internal-link\" href=\"programming/deno/Untitled.md\"> Untitled </a>",
