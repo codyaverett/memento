@@ -65,5 +65,10 @@ with DAG(dag_id="demo", start_date=datetime(2022, 1, 1), schedule="0 0 * * *") a
 - Coding skills are highly recommended
 - There isn't much low-code opportunities within the software
 
+## Structure
+1. Define Dag
+2. Define Task Operators
+3. Define the task dependency chains
+
 ## Reference
 - https://airflow.apache.org/
