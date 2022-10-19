@@ -55,3 +55,28 @@ testing   deno test
 
 ## Real world Deno
 Deepgram's SDK
+
+## Managing dependencies
+- Repetitive
+- Best to maintain a central dependency file
+```typescript
+export from "./scopes. ts"
+export { DefaultOptions from "./defaultOptions.ts"
+export * from "./types/index.ts";
+export from "./deepgram.ts";
+export from "./helpers/index.ts";
+export from "./transcription/index.ts";
+export from "./projects.ts";
+export * from "./members.ts";
+export from •/keys.ts";
+export from "./usage.ts";
+export * from "./invitation. ts";
+export from "./billing.ts";
+export * as querystring from "https://deno. land/x/querystring@v1.0.2/mod.js";
+```
+
+other files can import like 
+```typescript
+import { MemberList, Message, querystring } from ". /deps.ts";
+```
+
