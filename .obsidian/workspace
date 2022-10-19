@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "personal/health/being impaled by a javelin.md",
+            "file": "programming/python/tips/Reserved slots in python formatted strings.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "personal/health/being impaled by a javelin.md",
+                "file": "programming/python/tips/Reserved slots in python formatted strings.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,7 +87,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "personal/health/being impaled by a javelin.md"
+                "file": "programming/python/tips/Reserved slots in python formatted strings.md"
               }
             }
           },
@@ -119,6 +119,8 @@
   },
   "active": "dee6a1f0625a5f4b",
   "lastOpenFiles": [
+    "software/data ETL/apache airflow/airflow CLI.md",
+    "personal/health/being impaled by a javelin.md",
     "personal/lists/really useful websites.md",
     "programming/python/tips/Getting values from a python dictionary.md",
     "programming/general/beginner project ideas/Build a user interface wrapper for a CLI tool.md",
@@ -126,8 +128,6 @@
     "personal/music/theory/Try only using major 7th chords to create a chord progression.md",
     "programming/javascript/Javascript oddities.md",
     "personal/money/Money facts.md",
-    "programming/python/clean python sorting.md",
-    "personal/lifehacks/productivity tips.md",
-    "Backlog.md"
+    "programming/python/clean python sorting.md"
   ]
 }
