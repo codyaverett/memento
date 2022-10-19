@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "software/data ETL/databricks.md",
+            "file": "software/blender/Interesting plugins.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -41,7 +41,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "publish: true",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -50,7 +50,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -70,7 +71,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "software/data ETL/databricks.md",
+                "file": "software/blender/Interesting plugins.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,7 +88,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "software/data ETL/databricks.md"
+                "file": "software/blender/Interesting plugins.md"
               }
             }
           },
@@ -119,15 +120,15 @@
   },
   "active": "dee6a1f0625a5f4b",
   "lastOpenFiles": [
-    "software/CICD/concord.md",
-    "software/DNS/dns.md",
-    "software/linux/Linux directory Structure.md",
-    "software/linux/Linux DNS.md",
-    "software/data ETL/attachments/Pasted image 20221018175747.png",
-    "software/CICD/github actions.md",
-    "software/letsencrypt/letsencrypt.md",
-    "software/data ETL/apache airflow/Airflow Deployments.md",
-    "programming/deno/A fresh look at Deno - Brian Barrow.md",
-    "personal/job-hunting/data etl project.md"
+    "programming/python/python cheatsheet.md",
+    "programming/python/python programming language.md",
+    "programming/python/create a minimal python package.md",
+    "programming/python/pipenv cleanup.md",
+    "programming/python/python classes.md",
+    "programming/python/python decorators primer.md",
+    "programming/python/python extensions.md",
+    "programming/python/python extensions with rust.md",
+    "software/data ETL/databricks.md",
+    "software/CICD/concord.md"
   ]
 }
