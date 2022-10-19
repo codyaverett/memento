@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "software/linux/Linux directory Structure.md",
+            "file": "software/CICD/concord.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "software/linux/Linux directory Structure.md",
+                "file": "software/CICD/concord.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,7 +87,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "software/linux/Linux directory Structure.md"
+                "file": "software/CICD/concord.md"
               }
             }
           },
@@ -119,15 +119,15 @@
   },
   "active": "dee6a1f0625a5f4b",
   "lastOpenFiles": [
+    "software/DNS/dns.md",
+    "software/linux/Linux directory Structure.md",
+    "software/linux/Linux DNS.md",
     "software/data ETL/attachments/Pasted image 20221018175747.png",
     "software/CICD/github actions.md",
     "software/letsencrypt/letsencrypt.md",
     "software/data ETL/apache airflow/Airflow Deployments.md",
     "programming/deno/A fresh look at Deno - Brian Barrow.md",
     "personal/job-hunting/data etl project.md",
-    "software/data ETL/apache airflow/apache airflow.md",
-    "software/data ETL/apache airflow/airflow limitations.md",
-    "software/data ETL/apache paraquet.md",
-    "software/data ETL/apache NiFi.md"
+    "software/data ETL/apache airflow/apache airflow.md"
   ]
 }
