@@ -888,12 +888,17 @@
       "size": 0,
       "tags": 0,
       "links": 1
+    },
+    "programming/deno/A fresh look at Deno - Brian Barrow.md": {
+      "size": 0,
+      "tags": 0,
+      "links": 0
     }
   },
   "commitTypes": {
     "/": {
       "Refactor": 88,
-      "Create": 146,
+      "Create": 147,
       "Link": 46,
       "Expand": 64
     }
@@ -910,7 +915,7 @@
       "7": 0,
       "8": 1,
       "9": 0,
-      "10": 9,
+      "10": 10,
       "11": 5,
       "12": 2,
       "13": 23,
@@ -930,7 +935,7 @@
     "/": {
       "Mon": 58,
       "Tue": 72,
-      "Wed": 59,
+      "Wed": 60,
       "Thu": 31,
       "Fri": 78,
       "Sat": 0,
@@ -993,6 +998,7 @@
         "<a class=\"internal-link\" href=\"programming/python/python module search path.md\"> python module search path </a>"
       ],
       "Created": [
+        "<a class=\"internal-link\" href=\"programming/deno/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"software/data ETL/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"software/data ETL/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"software/data ETL/Untitled.md\"> Untitled </a>",
@@ -1042,8 +1048,7 @@
         "<a class=\"internal-link\" href=\"programming/general/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"software/data ETL/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"Untitled.md\"> Untitled </a>",
-        "<a class=\"internal-link\" href=\"software/data ETL/Untitled.md\"> Untitled </a>",
-        "<a class=\"internal-link\" href=\"programming/data streams/Untitled.md\"> Untitled </a>"
+        "<a class=\"internal-link\" href=\"software/data ETL/Untitled.md\"> Untitled </a>"
       ],
       "Renamed": [
         "<a class=\"internal-link\" href=\"software/data ETL/trino.md\"> trino </a>",
