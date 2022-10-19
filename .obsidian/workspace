@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "software/letsencrypt/letsencrypt.md",
+            "file": "software/CICD/github actions.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "software/letsencrypt/letsencrypt.md",
+                "file": "software/CICD/github actions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,7 +87,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "software/letsencrypt/letsencrypt.md"
+                "file": "software/CICD/github actions.md"
               }
             }
           },
@@ -119,6 +119,7 @@
   },
   "active": "dee6a1f0625a5f4b",
   "lastOpenFiles": [
+    "software/letsencrypt/letsencrypt.md",
     "software/data ETL/apache airflow/Airflow Deployments.md",
     "programming/deno/A fresh look at Deno - Brian Barrow.md",
     "personal/job-hunting/data etl project.md",
@@ -127,7 +128,6 @@
     "software/data ETL/apache paraquet.md",
     "software/data ETL/apache NiFi.md",
     "software/data ETL/kettle.md",
-    "software/data ETL/databricks.md",
-    "programming/machine learning/machine learning.md"
+    "software/data ETL/databricks.md"
   ]
 }
