@@ -87,3 +87,29 @@ import { MemberList, Message, querystring } from ". /deps.ts";
 - Deploy in less than 1 second
 
 Deno deploy powers supabase and netlify edge functions
+
+
+
+## Fresh
+progressive web framework made for Deno
+
+```typescript
+// routes/plain.tsx
+import { HandlerContext, Handlers } from "$fresh/server.ts";
+
+export cost handler: Handlers = {
+	GET (_req: Request,_ctx: HandlerContext)
+	return new Response ("Hello World");
+};
+```
+
+```typescript-jsx
+routes/html.tsx COPY
+/** @jsx h */
+import { h } from "preact";
+import { PageProps from "$fresh/server.ts";
+
+export default function Page (props: PageProps) {
+	return <div>You are on the page '{props .url.href}'.</div>;
+}
+```
