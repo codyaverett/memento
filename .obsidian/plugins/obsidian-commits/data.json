@@ -634,11 +634,6 @@
       "tags": 0,
       "links": 2
     },
-    "software/data ETL/Trino.md": {
-      "size": 0,
-      "tags": 0,
-      "links": 1
-    },
     "programming/general/pointers.md": {
       "size": 0,
       "tags": 0,
@@ -868,12 +863,37 @@
       "size": 0,
       "tags": 0,
       "links": 0
+    },
+    "software/data ETL/apache airflow/airflow limitations.md": {
+      "size": 0,
+      "tags": 0,
+      "links": 0
+    },
+    "software/data ETL/apache NiFi.md": {
+      "size": 0,
+      "tags": 0,
+      "links": 0
+    },
+    "software/data ETL/databricks.md": {
+      "size": 0,
+      "tags": 0,
+      "links": 0
+    },
+    "software/data ETL/kettle.md": {
+      "size": 0,
+      "tags": 0,
+      "links": 0
+    },
+    "software/data ETL/trino.md": {
+      "size": 0,
+      "tags": 0,
+      "links": 1
     }
   },
   "commitTypes": {
     "/": {
-      "Refactor": 85,
-      "Create": 142,
+      "Refactor": 88,
+      "Create": 146,
       "Link": 46,
       "Expand": 64
     }
@@ -901,15 +921,15 @@
       "18": 21,
       "19": 15,
       "20": 9,
-      "21": 6,
-      "22": 20,
+      "21": 7,
+      "22": 26,
       "23": 21
     }
   },
   "weeklyCommits": {
     "/": {
       "Mon": 58,
-      "Tue": 65,
+      "Tue": 72,
       "Wed": 59,
       "Thu": 31,
       "Fri": 78,
@@ -973,6 +993,10 @@
         "<a class=\"internal-link\" href=\"programming/python/python module search path.md\"> python module search path </a>"
       ],
       "Created": [
+        "<a class=\"internal-link\" href=\"software/data ETL/Untitled.md\"> Untitled </a>",
+        "<a class=\"internal-link\" href=\"software/data ETL/Untitled.md\"> Untitled </a>",
+        "<a class=\"internal-link\" href=\"software/data ETL/Untitled.md\"> Untitled </a>",
+        "<a class=\"internal-link\" href=\"software/data ETL/apache airflow/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"programming/python/tips/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"personal/health/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"personal/lists/Untitled.md\"> Untitled </a>",
@@ -1019,13 +1043,12 @@
         "<a class=\"internal-link\" href=\"software/data ETL/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"software/data ETL/Untitled.md\"> Untitled </a>",
-        "<a class=\"internal-link\" href=\"programming/data streams/Untitled.md\"> Untitled </a>",
-        "<a class=\"internal-link\" href=\"programming/python/package management/Untitled.md\"> Untitled </a>",
-        "<a class=\"internal-link\" href=\"programming/python/django/Untitled.md\"> Untitled </a>",
-        "<a class=\"internal-link\" href=\"software/github actions/Untitled.md\"> Untitled </a>",
-        "<a class=\"internal-link\" href=\"daily/10-07-22.md\"> 10-07-22 </a>"
+        "<a class=\"internal-link\" href=\"programming/data streams/Untitled.md\"> Untitled </a>"
       ],
       "Renamed": [
+        "<a class=\"internal-link\" href=\"software/data ETL/trino.md\"> trino </a>",
+        "<a class=\"internal-link\" href=\"software/data ETL/kettle.md\"> kettle </a>",
+        "<a class=\"internal-link\" href=\"software/data ETL/databricks.md\"> databricks </a>",
         "<a class=\"internal-link\" href=\"programming/python/tips/Reserved slots in python formatted strings.md\"> Reserved slots in python formatted strings </a>",
         "<a class=\"internal-link\" href=\"programming/general/beginner project ideas/Build a user interface wrapper for a CLI tool.md\"> Build a user interface wrapper for a CLI tool </a>",
         "<a class=\"internal-link\" href=\"programming/cli/python cli hide user input.md\"> python cli hide user input </a>",
@@ -1073,10 +1096,7 @@
         "<a class=\"internal-link\" href=\"programming/python/django/DJango quick reference.md\"> DJango quick reference </a>",
         "<a class=\"internal-link\" href=\"programming/python/django/django revert migrations.md\"> django revert migrations </a>",
         "<a class=\"internal-link\" href=\"programming/python/django/django testing.md\"> django testing </a>",
-        "<a class=\"internal-link\" href=\"programming/python/ansible/ansible for network automation.md\"> ansible for network automation </a>",
-        "<a class=\"internal-link\" href=\"programming/python/pandas/pandas.md\"> pandas </a>",
-        "<a class=\"internal-link\" href=\"programming/python/pyspark/pyspark dataframes.md\"> pyspark dataframes </a>",
-        "<a class=\"internal-link\" href=\"programming/python/pyspark/pyspark reference.md\"> pyspark reference </a>"
+        "<a class=\"internal-link\" href=\"programming/python/ansible/ansible for network automation.md\"> ansible for network automation </a>"
       ],
       "Tagged": [
         "<a class=\"internal-link\" href=\"personal/job-hunting/jb-hunt-topics.md\"> jb-hunt-topics </a>",
