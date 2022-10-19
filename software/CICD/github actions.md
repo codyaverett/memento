@@ -8,4 +8,3 @@ Example: Update personal metrics dashboards on your private github profile
 
 ## Reference
 - https://github.com/sdras/awesome-actions
-- 
