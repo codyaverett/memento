@@ -80,3 +80,10 @@ other files can import like
 import { MemberList, Message, querystring } from ". /deps.ts";
 ```
 
+## Deno deploy
+- distributed system
+- Runs JS, TS and WASM at the edge
+- Very Fast 
+- Deploy in less than 1 second
+
+Deno deploy powers supabase and netlify edge functions
