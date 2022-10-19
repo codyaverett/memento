@@ -908,14 +908,19 @@
       "size": 0,
       "tags": 0,
       "links": 0
+    },
+    "software/linux/Linux directory Structure.md": {
+      "size": 6261,
+      "tags": 0,
+      "links": 0
     }
   },
   "commitTypes": {
     "/": {
       "Refactor": 89,
-      "Create": 150,
+      "Create": 151,
       "Link": 47,
-      "Expand": 66
+      "Expand": 67
     }
   },
   "dailyCommits": {
@@ -935,7 +940,7 @@
       "12": 4,
       "13": 23,
       "14": 12,
-      "15": 21,
+      "15": 23,
       "16": 46,
       "17": 26,
       "18": 21,
@@ -950,7 +955,7 @@
     "/": {
       "Mon": 58,
       "Tue": 72,
-      "Wed": 67,
+      "Wed": 69,
       "Thu": 31,
       "Fri": 78,
       "Sat": 0,
@@ -960,6 +965,7 @@
   "recentCommits": {
     "/": {
       "Expanded": [
+        "<a class=\"internal-link\" href=\"software/linux/Linux directory Structure.md\"> Linux directory Structure </a>",
         "<a class=\"internal-link\" href=\"programming/deno/A fresh look at Deno - Brian Barrow.md\"> A fresh look at Deno - Brian Barrow </a>",
         "<a class=\"internal-link\" href=\"programming/deno/A fresh look at Deno - Brian Barrow.md\"> A fresh look at Deno - Brian Barrow </a>",
         "<a class=\"internal-link\" href=\"personal/job-hunting/data etl project.md\"> data etl project </a>",
@@ -1009,10 +1015,10 @@
         "<a class=\"internal-link\" href=\"programming/python/DJango quick reference.md\"> DJango quick reference </a>",
         "<a class=\"internal-link\" href=\"programming/python/django container.md\"> django container </a>",
         "<a class=\"internal-link\" href=\"programming/python/python basics.md\"> python basics </a>",
-        "<a class=\"internal-link\" href=\"programming/python/django container.md\"> django container </a>",
-        "<a class=\"internal-link\" href=\"programming/python/DJango quick reference.md\"> DJango quick reference </a>"
+        "<a class=\"internal-link\" href=\"programming/python/django container.md\"> django container </a>"
       ],
       "Created": [
+        "<a class=\"internal-link\" href=\"software/linux/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"software/CICD/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"software/letsencrypt/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"software/data ETL/apache airflow/Untitled.md\"> Untitled </a>",
@@ -1062,8 +1068,7 @@
         "<a class=\"internal-link\" href=\"software/data ETL/apache airflow/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"software/data ETL/apache airflow/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"software/data ETL/apache airflow/Untitled.md\"> Untitled </a>",
-        "<a class=\"internal-link\" href=\"math/Untitled.md\"> Untitled </a>",
-        "<a class=\"internal-link\" href=\"programming/general/Untitled.md\"> Untitled </a>"
+        "<a class=\"internal-link\" href=\"math/Untitled.md\"> Untitled </a>"
       ],
       "Renamed": [
         "<a class=\"internal-link\" href=\"software/CICD/github actions.md\"> github actions </a>",
