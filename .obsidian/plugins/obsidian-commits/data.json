@@ -913,13 +913,28 @@
       "size": 6261,
       "tags": 0,
       "links": 0
+    },
+    "software/linux/Linux DNS.md": {
+      "size": 0,
+      "tags": 0,
+      "links": 1
+    },
+    "software/DNS/dns.md": {
+      "size": 0,
+      "tags": 0,
+      "links": 0
+    },
+    "software/CICD/concord.md": {
+      "size": 0,
+      "tags": 0,
+      "links": 0
     }
   },
   "commitTypes": {
     "/": {
       "Refactor": 89,
-      "Create": 151,
-      "Link": 47,
+      "Create": 154,
+      "Link": 48,
       "Expand": 67
     }
   },
@@ -940,7 +955,7 @@
       "12": 4,
       "13": 23,
       "14": 12,
-      "15": 23,
+      "15": 27,
       "16": 46,
       "17": 26,
       "18": 21,
@@ -955,7 +970,7 @@
     "/": {
       "Mon": 58,
       "Tue": 72,
-      "Wed": 69,
+      "Wed": 73,
       "Thu": 31,
       "Fri": 78,
       "Sat": 0,
@@ -1018,6 +1033,9 @@
         "<a class=\"internal-link\" href=\"programming/python/django container.md\"> django container </a>"
       ],
       "Created": [
+        "<a class=\"internal-link\" href=\"software/CICD/Untitled.md\"> Untitled </a>",
+        "<a class=\"internal-link\" href=\"software/DNS/Untitled.md\"> Untitled </a>",
+        "<a class=\"internal-link\" href=\"software/linux/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"software/linux/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"software/CICD/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"software/letsencrypt/Untitled.md\"> Untitled </a>",
@@ -1065,10 +1083,7 @@
         "<a class=\"internal-link\" href=\"programming/python/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"personal/job-hunting/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"programming/python/Untitled.md\"> Untitled </a>",
-        "<a class=\"internal-link\" href=\"software/data ETL/apache airflow/Untitled.md\"> Untitled </a>",
-        "<a class=\"internal-link\" href=\"software/data ETL/apache airflow/Untitled.md\"> Untitled </a>",
-        "<a class=\"internal-link\" href=\"software/data ETL/apache airflow/Untitled.md\"> Untitled </a>",
-        "<a class=\"internal-link\" href=\"math/Untitled.md\"> Untitled </a>"
+        "<a class=\"internal-link\" href=\"software/data ETL/apache airflow/Untitled.md\"> Untitled </a>"
       ],
       "Renamed": [
         "<a class=\"internal-link\" href=\"software/CICD/github actions.md\"> github actions </a>",
@@ -1192,7 +1207,8 @@
         "<a class=\"internal-link\" href=\"programming/data models/OLAP data models.md\"> OLAP data models </a>",
         "<a class=\"internal-link\" href=\"programming/data ETL/OLTP vs OLAP.md\"> OLTP vs OLAP </a>",
         "<a class=\"internal-link\" href=\"programming/python/tips/Getting values from a python dictionary.md\"> Getting values from a python dictionary </a>",
-        "<a class=\"internal-link\" href=\"software/letsencrypt/letsencrypt.md\"> letsencrypt </a>"
+        "<a class=\"internal-link\" href=\"software/letsencrypt/letsencrypt.md\"> letsencrypt </a>",
+        "<a class=\"internal-link\" href=\"software/linux/Linux DNS.md\"> Linux DNS </a>"
       ],
       "Removed Tags from": [],
       "Removed Links from": [
