@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "programming/deno/A fresh look at Deno - Brian Barrow.md",
+            "file": "software/data ETL/apache airflow/Airflow Deployments.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "programming/deno/A fresh look at Deno - Brian Barrow.md",
+                "file": "software/data ETL/apache airflow/Airflow Deployments.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,7 +87,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "programming/deno/A fresh look at Deno - Brian Barrow.md"
+                "file": "software/data ETL/apache airflow/Airflow Deployments.md"
               }
             }
           },
@@ -119,6 +119,7 @@
   },
   "active": "dee6a1f0625a5f4b",
   "lastOpenFiles": [
+    "programming/deno/A fresh look at Deno - Brian Barrow.md",
     "personal/job-hunting/data etl project.md",
     "software/data ETL/apache airflow/apache airflow.md",
     "software/data ETL/apache airflow/airflow limitations.md",
@@ -127,7 +128,6 @@
     "software/data ETL/kettle.md",
     "software/data ETL/databricks.md",
     "programming/machine learning/machine learning.md",
-    "programming/python/tips/Reserved slots in python formatted strings.md",
-    "software/data ETL/apache airflow/airflow CLI.md"
+    "programming/python/tips/Reserved slots in python formatted strings.md"
   ]
 }
