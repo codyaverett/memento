@@ -77,5 +77,7 @@ For more help (including examples) see the accompanying README.md and docs folde
 ```
 
 ## Conan
-Link 
+[Website](https://conan.io/center/)
+[Install](https://conan.io/downloads.html)
+
 Based on Artifactory, seems to be pretty full featured.
