@@ -6,7 +6,8 @@ Historically the c++ package managers have been the operating system package man
 Seems to be a rather obscure package manager, at least I didn't try too hard to get it working.
 
 ```shell
-./bpt                                                                       
+./bpt
+
 Usage: ./bpt [--log-level <level>] [--data-dir <directory>]
              [--pkg-cache-dir <directory>] [--pkg-db-path <database-path>]
              {build,compile-file,build-deps,pkg,repoman,install-yourself}
@@ -74,3 +75,7 @@ Options:
 
 For more help (including examples) see the accompanying README.md and docs folder.
 ```
+
+## Conan
+Link 
+Based on Artifactory, seems to be pretty full featured.
