@@ -44,3 +44,6 @@ Please apply best practices from your previous experiences that you think make s
 - Transactions: https://ethereum.org/en/developers/docs/transactions/ 
 - Etherscan: https://etherscan.io/ , https://etherscan.io/apis 
 - Bscscan: Binance (BNB) Blockchain Explorer (bscscan.com) , https://bscscan.com/apis
+
+- Eth data in BigQuery: https://medium.com/google-cloud/full-relational-diagram-for-ethereum-public-data-on-google-bigquery-2825fdf0fb0b
+  
