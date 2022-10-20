@@ -44,3 +44,7 @@ Please apply best practices from your previous experiences that you think make s
 - Transactions: https://ethereum.org/en/developers/docs/transactions/ 
 - Etherscan: https://etherscan.io/ , https://etherscan.io/apis 
 - Bscscan: Binance (BNB) Blockchain Explorer (bscscan.com) , https://bscscan.com/apis
+
+
+Etherscan.io api key XN211PXP5QE7BQMA9TNTJG845VZWB5773U
+Bscscan api key
