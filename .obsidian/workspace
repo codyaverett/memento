@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "programming/c_plus_plus/Glut graphics framework.md",
+            "file": "programming/c++/c++ package managers.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "programming/c_plus_plus/Glut graphics framework.md",
+                "file": "programming/c++/c++ package managers.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,7 +87,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "programming/c_plus_plus/Glut graphics framework.md"
+                "file": "programming/c++/c++ package managers.md"
               }
             }
           },
@@ -119,6 +119,7 @@
   },
   "active": "dee6a1f0625a5f4b",
   "lastOpenFiles": [
+    "programming/c++/Glut graphics framework.md",
     "software/blender/Interesting plugins.md",
     "programming/python/python cheatsheet.md",
     "programming/python/python programming language.md",
@@ -127,7 +128,6 @@
     "programming/python/python classes.md",
     "programming/python/python decorators primer.md",
     "programming/python/python extensions.md",
-    "programming/python/python extensions with rust.md",
-    "software/data ETL/databricks.md"
+    "programming/python/python extensions with rust.md"
   ]
 }

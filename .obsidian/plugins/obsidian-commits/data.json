@@ -928,12 +928,22 @@
       "size": 0,
       "tags": 0,
       "links": 0
+    },
+    "programming/c++/Glut graphics framework.md": {
+      "size": 0,
+      "tags": 0,
+      "links": 0
+    },
+    "programming/c++/c++ package managers.md": {
+      "size": 0,
+      "tags": 0,
+      "links": 0
     }
   },
   "commitTypes": {
     "/": {
-      "Refactor": 89,
-      "Create": 154,
+      "Refactor": 90,
+      "Create": 156,
       "Link": 49,
       "Expand": 67
     }
@@ -959,8 +969,8 @@
       "16": 46,
       "17": 27,
       "18": 21,
-      "19": 15,
-      "20": 9,
+      "19": 16,
+      "20": 11,
       "21": 7,
       "22": 26,
       "23": 21
@@ -970,7 +980,7 @@
     "/": {
       "Mon": 58,
       "Tue": 72,
-      "Wed": 74,
+      "Wed": 77,
       "Thu": 31,
       "Fri": 78,
       "Sat": 0,
@@ -1033,6 +1043,8 @@
         "<a class=\"internal-link\" href=\"programming/python/django container.md\"> django container </a>"
       ],
       "Created": [
+        "<a class=\"internal-link\" href=\"programming/c++/Untitled.md\"> Untitled </a>",
+        "<a class=\"internal-link\" href=\"programming/c_plus_plus/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"software/CICD/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"software/DNS/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"software/linux/Untitled.md\"> Untitled </a>",
@@ -1081,11 +1093,10 @@
         "<a class=\"internal-link\" href=\"daily/10-09-22.md\"> 10-09-22 </a>",
         "<a class=\"internal-link\" href=\"programming/python/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"programming/python/Untitled.md\"> Untitled </a>",
-        "<a class=\"internal-link\" href=\"personal/job-hunting/Untitled.md\"> Untitled </a>",
-        "<a class=\"internal-link\" href=\"programming/python/Untitled.md\"> Untitled </a>",
-        "<a class=\"internal-link\" href=\"software/data ETL/apache airflow/Untitled.md\"> Untitled </a>"
+        "<a class=\"internal-link\" href=\"personal/job-hunting/Untitled.md\"> Untitled </a>"
       ],
       "Renamed": [
+        "<a class=\"internal-link\" href=\"programming/c++/Glut graphics framework.md\"> Glut graphics framework </a>",
         "<a class=\"internal-link\" href=\"software/CICD/github actions.md\"> github actions </a>",
         "<a class=\"internal-link\" href=\"software/data ETL/trino.md\"> trino </a>",
         "<a class=\"internal-link\" href=\"software/data ETL/kettle.md\"> kettle </a>",
@@ -1135,8 +1146,7 @@
         "<a class=\"internal-link\" href=\"programming/python/django/django data migrations.md\"> django data migrations </a>",
         "<a class=\"internal-link\" href=\"programming/python/django/django models.md\"> django models </a>",
         "<a class=\"internal-link\" href=\"programming/python/django/DJango quick reference.md\"> DJango quick reference </a>",
-        "<a class=\"internal-link\" href=\"programming/python/django/django revert migrations.md\"> django revert migrations </a>",
-        "<a class=\"internal-link\" href=\"programming/python/django/django testing.md\"> django testing </a>"
+        "<a class=\"internal-link\" href=\"programming/python/django/django revert migrations.md\"> django revert migrations </a>"
       ],
       "Tagged": [
         "<a class=\"internal-link\" href=\"personal/job-hunting/jb-hunt-topics.md\"> jb-hunt-topics </a>",
