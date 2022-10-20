@@ -938,12 +938,17 @@
       "size": 7133,
       "tags": 0,
       "links": 0
+    },
+    "programming/python/image manipulation/PyMuPDF.md": {
+      "size": 0,
+      "tags": 0,
+      "links": 0
     }
   },
   "commitTypes": {
     "/": {
       "Refactor": 90,
-      "Create": 156,
+      "Create": 157,
       "Link": 49,
       "Expand": 69
     }
@@ -970,7 +975,7 @@
       "17": 27,
       "18": 21,
       "19": 16,
-      "20": 13,
+      "20": 14,
       "21": 7,
       "22": 26,
       "23": 21
@@ -980,7 +985,7 @@
     "/": {
       "Mon": 58,
       "Tue": 72,
-      "Wed": 79,
+      "Wed": 80,
       "Thu": 31,
       "Fri": 78,
       "Sat": 0,
@@ -1043,6 +1048,7 @@
         "<a class=\"internal-link\" href=\"programming/python/django container.md\"> django container </a>"
       ],
       "Created": [
+        "<a class=\"internal-link\" href=\"programming/python/image manipulation/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"programming/c++/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"programming/c_plus_plus/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"software/CICD/Untitled.md\"> Untitled </a>",
@@ -1092,8 +1098,7 @@
         "<a class=\"internal-link\" href=\"programming/python/django/Authentication Systems/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"daily/10-09-22.md\"> 10-09-22 </a>",
         "<a class=\"internal-link\" href=\"programming/python/Untitled.md\"> Untitled </a>",
-        "<a class=\"internal-link\" href=\"programming/python/Untitled.md\"> Untitled </a>",
-        "<a class=\"internal-link\" href=\"personal/job-hunting/Untitled.md\"> Untitled </a>"
+        "<a class=\"internal-link\" href=\"programming/python/Untitled.md\"> Untitled </a>"
       ],
       "Renamed": [
         "<a class=\"internal-link\" href=\"programming/c++/Glut graphics framework.md\"> Glut graphics framework </a>",
