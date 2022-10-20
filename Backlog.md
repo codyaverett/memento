@@ -23,4 +23,7 @@
 
 ## Mental Health
 - [(video) Developer Community Keynote: The thing about burnout](https://www.youtube.com/watch?v=FeDks5BJCQQ
-- 
+
+## You know nothing
+- https://en.wikipedia.org/wiki/Memory_controller [[memory controllers]]
+- https://en.wikipedia.org/wiki/Non-uniform_memory_access 
