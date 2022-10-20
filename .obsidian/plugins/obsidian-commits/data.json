@@ -747,7 +747,7 @@
     "Backlog.md": {
       "size": 0,
       "tags": 0,
-      "links": 0
+      "links": 1
     },
     "programming/python/django/django migrations with custom sql.md": {
       "size": 0,
@@ -963,13 +963,18 @@
       "size": 0,
       "tags": 0,
       "links": 0
+    },
+    "programming/machine learning/interesting ml and ai products.md": {
+      "size": 0,
+      "tags": 0,
+      "links": 0
     }
   },
   "commitTypes": {
     "/": {
       "Refactor": 93,
-      "Create": 161,
-      "Link": 50,
+      "Create": 162,
+      "Link": 51,
       "Expand": 69
     }
   },
@@ -997,7 +1002,7 @@
       "19": 16,
       "20": 14,
       "21": 14,
-      "22": 27,
+      "22": 29,
       "23": 21
     }
   },
@@ -1005,7 +1010,7 @@
     "/": {
       "Mon": 58,
       "Tue": 72,
-      "Wed": 88,
+      "Wed": 90,
       "Thu": 31,
       "Fri": 78,
       "Sat": 0,
@@ -1068,6 +1073,7 @@
         "<a class=\"internal-link\" href=\"programming/python/django container.md\"> django container </a>"
       ],
       "Created": [
+        "<a class=\"internal-link\" href=\"programming/machine learning/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"hardware/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"programming/c and c++/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"programming/c and c++/Untitled.md\"> Untitled </a>",
@@ -1117,8 +1123,7 @@
         "<a class=\"internal-link\" href=\"programming/python/django/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"programming/python/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"programming/python/Untitled.md\"> Untitled </a>",
-        "<a class=\"internal-link\" href=\"programming/Untitled.md\"> Untitled </a>",
-        "<a class=\"internal-link\" href=\"programming/python/django/Untitled.md\"> Untitled </a>"
+        "<a class=\"internal-link\" href=\"programming/Untitled.md\"> Untitled </a>"
       ],
       "Renamed": [
         "<a class=\"internal-link\" href=\"programming/c and c++/opencv.md\"> opencv </a>",
@@ -1245,7 +1250,8 @@
         "<a class=\"internal-link\" href=\"software/letsencrypt/letsencrypt.md\"> letsencrypt </a>",
         "<a class=\"internal-link\" href=\"software/linux/Linux DNS.md\"> Linux DNS </a>",
         "<a class=\"internal-link\" href=\"programming/python/python cheatsheet.md\"> python cheatsheet </a>",
-        "<a class=\"internal-link\" href=\"programming/c and c++/opencv.md\"> opencv </a>"
+        "<a class=\"internal-link\" href=\"programming/c and c++/opencv.md\"> opencv </a>",
+        "<a class=\"internal-link\" href=\"Backlog.md\"> Backlog </a>"
       ],
       "Removed Tags from": [],
       "Removed Links from": [
