@@ -947,7 +947,7 @@
     "programming/c and c++/opencv.md": {
       "size": 0,
       "tags": 0,
-      "links": 0
+      "links": 3
     },
     "programming/c and c++/c programming language.md": {
       "size": 0,
@@ -964,7 +964,7 @@
     "/": {
       "Refactor": 93,
       "Create": 160,
-      "Link": 49,
+      "Link": 50,
       "Expand": 69
     }
   },
@@ -991,7 +991,7 @@
       "18": 21,
       "19": 16,
       "20": 14,
-      "21": 13,
+      "21": 14,
       "22": 26,
       "23": 21
     }
@@ -1000,7 +1000,7 @@
     "/": {
       "Mon": 58,
       "Tue": 72,
-      "Wed": 86,
+      "Wed": 87,
       "Thu": 31,
       "Fri": 78,
       "Sat": 0,
@@ -1239,7 +1239,8 @@
         "<a class=\"internal-link\" href=\"programming/python/tips/Getting values from a python dictionary.md\"> Getting values from a python dictionary </a>",
         "<a class=\"internal-link\" href=\"software/letsencrypt/letsencrypt.md\"> letsencrypt </a>",
         "<a class=\"internal-link\" href=\"software/linux/Linux DNS.md\"> Linux DNS </a>",
-        "<a class=\"internal-link\" href=\"programming/python/python cheatsheet.md\"> python cheatsheet </a>"
+        "<a class=\"internal-link\" href=\"programming/python/python cheatsheet.md\"> python cheatsheet </a>",
+        "<a class=\"internal-link\" href=\"programming/c and c++/opencv.md\"> opencv </a>"
       ],
       "Removed Tags from": [],
       "Removed Links from": [
