@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "software/blender/Interesting plugins.md",
+            "file": "programming/c_plus_plus/Glut graphics framework.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -50,8 +50,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -71,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "software/blender/Interesting plugins.md",
+                "file": "programming/c_plus_plus/Glut graphics framework.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,7 +87,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "software/blender/Interesting plugins.md"
+                "file": "programming/c_plus_plus/Glut graphics framework.md"
               }
             }
           },
@@ -120,6 +119,7 @@
   },
   "active": "dee6a1f0625a5f4b",
   "lastOpenFiles": [
+    "software/blender/Interesting plugins.md",
     "programming/python/python cheatsheet.md",
     "programming/python/python programming language.md",
     "programming/python/create a minimal python package.md",
@@ -128,7 +128,6 @@
     "programming/python/python decorators primer.md",
     "programming/python/python extensions.md",
     "programming/python/python extensions with rust.md",
-    "software/data ETL/databricks.md",
-    "software/CICD/concord.md"
+    "software/data ETL/databricks.md"
   ]
 }
