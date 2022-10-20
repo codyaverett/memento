@@ -287,7 +287,7 @@
     "programming/python/python cheatsheet.md": {
       "size": 8035,
       "tags": 1,
-      "links": 1
+      "links": 2
     },
     "daily/09-12-22.md": {
       "size": 0,
@@ -934,7 +934,7 @@
     "/": {
       "Refactor": 89,
       "Create": 154,
-      "Link": 48,
+      "Link": 49,
       "Expand": 67
     }
   },
@@ -957,7 +957,7 @@
       "14": 12,
       "15": 27,
       "16": 46,
-      "17": 26,
+      "17": 27,
       "18": 21,
       "19": 15,
       "20": 9,
@@ -970,7 +970,7 @@
     "/": {
       "Mon": 58,
       "Tue": 72,
-      "Wed": 73,
+      "Wed": 74,
       "Thu": 31,
       "Fri": 78,
       "Sat": 0,
@@ -1208,7 +1208,8 @@
         "<a class=\"internal-link\" href=\"programming/data ETL/OLTP vs OLAP.md\"> OLTP vs OLAP </a>",
         "<a class=\"internal-link\" href=\"programming/python/tips/Getting values from a python dictionary.md\"> Getting values from a python dictionary </a>",
         "<a class=\"internal-link\" href=\"software/letsencrypt/letsencrypt.md\"> letsencrypt </a>",
-        "<a class=\"internal-link\" href=\"software/linux/Linux DNS.md\"> Linux DNS </a>"
+        "<a class=\"internal-link\" href=\"software/linux/Linux DNS.md\"> Linux DNS </a>",
+        "<a class=\"internal-link\" href=\"programming/python/python cheatsheet.md\"> python cheatsheet </a>"
       ],
       "Removed Tags from": [],
       "Removed Links from": [
