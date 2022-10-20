@@ -6,6 +6,14 @@ Historically the c++ package managers have been the operating system package man
 Seems to be a rather obscure package manager, at least I didn't try too hard to get it working.
 
 ```shell
+# For Linux, writes a file in the working directory called "bpt"
+curl dds.pizza/get/linux -Lo bpt
+
+# For macOS, writes a file in the working directory called "bpt"
+curl dds.pizza/get/macos -Lo bpt
+```
+
+```shell
 ./bpt
 
 Usage: ./bpt [--log-level <level>] [--data-dir <directory>]
