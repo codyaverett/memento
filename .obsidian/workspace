@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "programming/c and c++/opencv.md",
+            "file": "hardware/memory controllers.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "programming/c and c++/opencv.md",
+                "file": "hardware/memory controllers.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,7 +87,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "programming/c and c++/opencv.md"
+                "file": "hardware/memory controllers.md"
               }
             }
           },
@@ -119,15 +119,15 @@
   },
   "active": "dee6a1f0625a5f4b",
   "lastOpenFiles": [
+    "programming/rust/rust programming language.md",
+    "programming/rust/rust types.md",
+    "programming/c and c++/opencv.md",
     "programming/c and c++/c++ programming language.md",
     "programming/c and c++/c programming language.md",
-    "programming/c and c++/opencv.md",
     "programming/c and c++/c++ package managers.md",
     "programming/python/image manipulation/PyMuPDF.md",
     "programming/c and c++/Glut graphics framework.md",
     "software/blender/Interesting plugins.md",
-    "programming/python/python cheatsheet.md",
-    "programming/python/python programming language.md",
-    "programming/python/create a minimal python package.md"
+    "programming/python/python cheatsheet.md"
   ]
 }
