@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "hardware/memory controllers.md",
+            "file": "programming/machine learning/interesting ml and ai products.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "hardware/memory controllers.md",
+                "file": "programming/machine learning/interesting ml and ai products.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,7 +87,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "hardware/memory controllers.md"
+                "file": "programming/machine learning/interesting ml and ai products.md"
               }
             }
           },
@@ -119,15 +119,15 @@
   },
   "active": "dee6a1f0625a5f4b",
   "lastOpenFiles": [
+    "Backlog.md",
+    "personal/lifehacks/productivity tips.md",
+    "hardware/memory controllers.md",
     "programming/rust/rust programming language.md",
     "programming/rust/rust types.md",
     "programming/c and c++/opencv.md",
     "programming/c and c++/c++ programming language.md",
     "programming/c and c++/c programming language.md",
     "programming/c and c++/c++ package managers.md",
-    "programming/python/image manipulation/PyMuPDF.md",
-    "programming/c and c++/Glut graphics framework.md",
-    "software/blender/Interesting plugins.md",
-    "programming/python/python cheatsheet.md"
+    "programming/python/image manipulation/PyMuPDF.md"
   ]
 }
