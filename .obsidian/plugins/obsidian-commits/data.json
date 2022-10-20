@@ -935,7 +935,7 @@
       "links": 0
     },
     "programming/c++/c++ package managers.md": {
-      "size": 4338,
+      "size": 7133,
       "tags": 0,
       "links": 0
     }
@@ -945,7 +945,7 @@
       "Refactor": 90,
       "Create": 156,
       "Link": 49,
-      "Expand": 68
+      "Expand": 69
     }
   },
   "dailyCommits": {
@@ -970,7 +970,7 @@
       "17": 27,
       "18": 21,
       "19": 16,
-      "20": 12,
+      "20": 13,
       "21": 7,
       "22": 26,
       "23": 21
@@ -980,7 +980,7 @@
     "/": {
       "Mon": 58,
       "Tue": 72,
-      "Wed": 78,
+      "Wed": 79,
       "Thu": 31,
       "Fri": 78,
       "Sat": 0,
@@ -990,6 +990,7 @@
   "recentCommits": {
     "/": {
       "Expanded": [
+        "<a class=\"internal-link\" href=\"programming/c++/c++ package managers.md\"> c++ package managers </a>",
         "<a class=\"internal-link\" href=\"programming/c++/c++ package managers.md\"> c++ package managers </a>",
         "<a class=\"internal-link\" href=\"software/linux/Linux directory Structure.md\"> Linux directory Structure </a>",
         "<a class=\"internal-link\" href=\"programming/deno/A fresh look at Deno - Brian Barrow.md\"> A fresh look at Deno - Brian Barrow </a>",
@@ -1039,8 +1040,7 @@
         "<a class=\"internal-link\" href=\"programming/python/DJango quick reference.md\"> DJango quick reference </a>",
         "<a class=\"internal-link\" href=\"programming/python/DJango quick reference.md\"> DJango quick reference </a>",
         "<a class=\"internal-link\" href=\"programming/python/DJango quick reference.md\"> DJango quick reference </a>",
-        "<a class=\"internal-link\" href=\"programming/python/django container.md\"> django container </a>",
-        "<a class=\"internal-link\" href=\"programming/python/python basics.md\"> python basics </a>"
+        "<a class=\"internal-link\" href=\"programming/python/django container.md\"> django container </a>"
       ],
       "Created": [
         "<a class=\"internal-link\" href=\"programming/c++/Untitled.md\"> Untitled </a>",
