@@ -1,4 +1,6 @@
-# Pyenv
+# Python Pyenv
+
+Used to manage the version of python  you have installed and manage virtual environments.
 
 ## Install
 ```shell
@@ -54,4 +56,13 @@ Some useful pyenv commands are:
    virtualenvs   List all Python virtualenvs found in `$PYENV_ROOT/versions/*'.
    whence      List all Python versions that contain the given executable
    which       Display the full path to an executable
+```
+
+### Example Usage
+```shell
+pyenv install 3.10.8
+Downloading Python-3.10.8.tar.xz...
+-> https://www.python.org/ftp/python/3.10.8/Python-3.10.8.tar.xz
+Installing Python-3.10.8...
+Installed Python-3.10.8 to /home/caavere/.pyenv/versions/3.10.8
 ```
