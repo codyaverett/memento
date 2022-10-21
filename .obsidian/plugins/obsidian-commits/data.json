@@ -1015,9 +1015,9 @@
       "links": 0
     },
     "programming/python/python poetry.md": {
-      "size": 0,
+      "size": 5038,
       "tags": 0,
-      "links": 0
+      "links": 1
     },
     "programming/python/python pyenv.md": {
       "size": 2484,
@@ -1034,8 +1034,8 @@
     "/": {
       "Refactor": 151,
       "Create": 175,
-      "Link": 55,
-      "Expand": 73
+      "Link": 56,
+      "Expand": 74
     }
   },
   "dailyCommits": {
@@ -1057,7 +1057,7 @@
       "14": 17,
       "15": 29,
       "16": 52,
-      "17": 27,
+      "17": 29,
       "18": 21,
       "19": 16,
       "20": 14,
@@ -1072,7 +1072,7 @@
       "Tue": 72,
       "Wed": 90,
       "Thu": 88,
-      "Fri": 100,
+      "Fri": 102,
       "Sat": 0,
       "Sun": 46
     }
@@ -1080,6 +1080,7 @@
   "recentCommits": {
     "/": {
       "Expanded": [
+        "<a class=\"internal-link\" href=\"programming/python/python poetry.md\"> python poetry </a>",
         "<a class=\"internal-link\" href=\"programming/python/pyenv.md\"> pyenv </a>",
         "<a class=\"internal-link\" href=\"programming/python/pyenv.md\"> pyenv </a>",
         "<a class=\"internal-link\" href=\"software/containers/buildah/create basic OCI image with buildah.md\"> create basic OCI image with buildah </a>",
@@ -1129,7 +1130,6 @@
         "<a class=\"internal-link\" href=\"programming/python/python basics.md\"> python basics </a>",
         "<a class=\"internal-link\" href=\"programming/python/python cheatsheet.md\"> python cheatsheet </a>",
         "<a class=\"internal-link\" href=\"programming/python/useful python standard library modules.md\"> useful python standard library modules </a>",
-        "<a class=\"internal-link\" href=\"programming/python/DJango quick reference.md\"> DJango quick reference </a>",
         "<a class=\"internal-link\" href=\"programming/python/DJango quick reference.md\"> DJango quick reference </a>"
       ],
       "Created": [
@@ -1266,6 +1266,7 @@
         "<a class=\"internal-link\" href=\"crypto/Ethereum/Untitled.md\"> Untitled </a>"
       ],
       "Linked": [
+        "<a class=\"internal-link\" href=\"programming/python/python poetry.md\"> python poetry </a>",
         "<a class=\"internal-link\" href=\"programming/haskell/working with lists.md\"> working with lists </a>",
         "<a class=\"internal-link\" href=\"programming/python/python extensions.md\"> python extensions </a>",
         "<a class=\"internal-link\" href=\"programming/python/python basics.md\"> python basics </a>",
@@ -1315,8 +1316,7 @@
         "<a class=\"internal-link\" href=\"Backlog.md\"> Backlog </a>",
         "<a class=\"internal-link\" href=\"personal/job-hunting/data etl project.md\"> data etl project </a>",
         "<a class=\"internal-link\" href=\"programming/javascript/Javascript oddities.md\"> Javascript oddities </a>",
-        "<a class=\"internal-link\" href=\"programming/authentication/JSON Web Token.md\"> JSON Web Token </a>",
-        "<a class=\"internal-link\" href=\"software/git/git reflog.md\"> git reflog </a>"
+        "<a class=\"internal-link\" href=\"programming/authentication/JSON Web Token.md\"> JSON Web Token </a>"
       ],
       "Removed Tags from": [],
       "Removed Links from": [
