@@ -13,6 +13,11 @@ eval "$(pyenv init -)"
 eval "$(pyenv virtualenv-init -)"
 ```
 
+Also, setup build environment for your system
+https://github.com/pyenv/pyenv/wiki#suggested-build-environment
+
+`pyenv` will build python for you and you can do interesting things during this step like patching objects during build. [e.g.](https://stackoverflow.com/questions/67411745/pyenv-build-failed-fedora-34-using-python-build-20180424)
+
 ## Usage
 ```shell
 pyenv 2.3.5
