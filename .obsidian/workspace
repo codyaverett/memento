@@ -4,16 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "dee6a1f0625a5f4b",
+        "id": "082ead63f0521168",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "software/linux/create linux superuser.md",
-            "mode": "source",
-            "backlinks": false,
-            "source": false
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -70,7 +65,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "software/linux/create linux superuser.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,9 +80,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "software/linux/create linux superuser.md"
-              }
+              "state": {}
             }
           },
           {
@@ -117,8 +109,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "dee6a1f0625a5f4b",
+  "active": "082ead63f0521168",
   "lastOpenFiles": [
+    "programming/authentication/JSON Web Token.md",
+    "software/linux/create linux superuser.md",
     "cryptocurrency/networks/milkomeda/milkomeda network.md",
     "cryptocurrency/networks/milkomeda/milkomeda smart contracts.md",
     "programming/javascript/Javascript oddities.md",
@@ -126,8 +120,6 @@
     "personal/job-hunting/data etl project.md",
     "crypto/Ethereum/Untitled.md",
     "personal/job-hunting/chainlink-labs.md",
-    "Backlog.md",
-    "programming/machine learning/interesting ml and ai products.md",
-    "personal/lifehacks/productivity tips.md"
+    "Backlog.md"
   ]
 }
