@@ -988,13 +988,18 @@
       "size": 4415,
       "tags": 0,
       "links": 0
+    },
+    "programming/authentication/JSON Web Token.md": {
+      "size": 0,
+      "tags": 0,
+      "links": 1
     }
   },
   "commitTypes": {
     "/": {
       "Refactor": 148,
-      "Create": 167,
-      "Link": 53,
+      "Create": 168,
+      "Link": 54,
       "Expand": 70
     }
   },
@@ -1013,7 +1018,7 @@
       "10": 12,
       "11": 10,
       "12": 6,
-      "13": 23,
+      "13": 25,
       "14": 13,
       "15": 27,
       "16": 46,
@@ -1032,7 +1037,7 @@
       "Tue": 72,
       "Wed": 90,
       "Thu": 88,
-      "Fri": 84,
+      "Fri": 86,
       "Sat": 0,
       "Sun": 46
     }
@@ -1093,6 +1098,7 @@
         "<a class=\"internal-link\" href=\"programming/python/DJango quick reference.md\"> DJango quick reference </a>"
       ],
       "Created": [
+        "<a class=\"internal-link\" href=\"programming/authentication/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"software/linux/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"programming/javascript/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"cryptocurrency/networks/milkomeda/Untitled.md\"> Untitled </a>",
@@ -1142,8 +1148,7 @@
         "<a class=\"internal-link\" href=\"programming/machine learning/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"programming/machine learning/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"programming/rust/Untitled.md\"> Untitled </a>",
-        "<a class=\"internal-link\" href=\"programming/rust/Untitled.md\"> Untitled </a>",
-        "<a class=\"internal-link\" href=\"personal/job-hunting/Untitled.md\"> Untitled </a>"
+        "<a class=\"internal-link\" href=\"programming/rust/Untitled.md\"> Untitled </a>"
       ],
       "Renamed": [
         "<a class=\"internal-link\" href=\"cryptocurrency/NFTs/Anyone could use any of the assets for any of the NFT collections.md\"> Anyone could use any of the assets for any of the NFT collections </a>",
@@ -1274,7 +1279,8 @@
         "<a class=\"internal-link\" href=\"programming/c and c++/opencv.md\"> opencv </a>",
         "<a class=\"internal-link\" href=\"Backlog.md\"> Backlog </a>",
         "<a class=\"internal-link\" href=\"personal/job-hunting/data etl project.md\"> data etl project </a>",
-        "<a class=\"internal-link\" href=\"programming/javascript/Javascript oddities.md\"> Javascript oddities </a>"
+        "<a class=\"internal-link\" href=\"programming/javascript/Javascript oddities.md\"> Javascript oddities </a>",
+        "<a class=\"internal-link\" href=\"programming/authentication/JSON Web Token.md\"> JSON Web Token </a>"
       ],
       "Removed Tags from": [],
       "Removed Links from": [
