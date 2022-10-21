@@ -1020,7 +1020,12 @@
       "links": 0
     },
     "programming/python/pyenv.md": {
-      "size": 2141,
+      "size": 2484,
+      "tags": 0,
+      "links": 0
+    },
+    "programming/python/python poetry.md": {
+      "size": 0,
       "tags": 0,
       "links": 0
     }
@@ -1028,9 +1033,9 @@
   "commitTypes": {
     "/": {
       "Refactor": 149,
-      "Create": 174,
+      "Create": 175,
       "Link": 55,
-      "Expand": 72
+      "Expand": 73
     }
   },
   "dailyCommits": {
@@ -1051,7 +1056,7 @@
       "13": 27,
       "14": 17,
       "15": 29,
-      "16": 48,
+      "16": 50,
       "17": 27,
       "18": 21,
       "19": 16,
@@ -1067,7 +1072,7 @@
       "Tue": 72,
       "Wed": 90,
       "Thu": 88,
-      "Fri": 96,
+      "Fri": 98,
       "Sat": 0,
       "Sun": 46
     }
@@ -1075,6 +1080,7 @@
   "recentCommits": {
     "/": {
       "Expanded": [
+        "<a class=\"internal-link\" href=\"programming/python/pyenv.md\"> pyenv </a>",
         "<a class=\"internal-link\" href=\"programming/python/pyenv.md\"> pyenv </a>",
         "<a class=\"internal-link\" href=\"software/containers/buildah/create basic OCI image with buildah.md\"> create basic OCI image with buildah </a>",
         "<a class=\"internal-link\" href=\"software/linux/create linux superuser.md\"> create linux superuser </a>",
@@ -1124,10 +1130,10 @@
         "<a class=\"internal-link\" href=\"programming/python/python cheatsheet.md\"> python cheatsheet </a>",
         "<a class=\"internal-link\" href=\"programming/python/useful python standard library modules.md\"> useful python standard library modules </a>",
         "<a class=\"internal-link\" href=\"programming/python/DJango quick reference.md\"> DJango quick reference </a>",
-        "<a class=\"internal-link\" href=\"programming/python/DJango quick reference.md\"> DJango quick reference </a>",
         "<a class=\"internal-link\" href=\"programming/python/DJango quick reference.md\"> DJango quick reference </a>"
       ],
       "Created": [
+        "<a class=\"internal-link\" href=\"programming/python/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"programming/python/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"software/containers/buildah/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"software/containers/buildah/Untitled.md\"> Untitled </a>",
@@ -1177,8 +1183,7 @@
         "<a class=\"internal-link\" href=\"programming/data models/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"templates/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"templates/Untitled.md\"> Untitled </a>",
-        "<a class=\"internal-link\" href=\"templates/Untitled.md\"> Untitled </a>",
-        "<a class=\"internal-link\" href=\"Untitled.md\"> Untitled </a>"
+        "<a class=\"internal-link\" href=\"templates/Untitled.md\"> Untitled </a>"
       ],
       "Renamed": [
         "<a class=\"internal-link\" href=\"software/containers/docker/run docker commands without sudo.md\"> run docker commands without sudo </a>",
