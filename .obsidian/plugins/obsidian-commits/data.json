@@ -1010,7 +1010,7 @@
       "links": 0
     },
     "software/containers/buildah/create basic OCI image with buildah.md": {
-      "size": 0,
+      "size": 5840,
       "tags": 0,
       "links": 0
     }
@@ -1020,7 +1020,7 @@
       "Refactor": 149,
       "Create": 172,
       "Link": 55,
-      "Expand": 70
+      "Expand": 71
     }
   },
   "dailyCommits": {
@@ -1040,7 +1040,7 @@
       "12": 6,
       "13": 27,
       "14": 17,
-      "15": 27,
+      "15": 28,
       "16": 46,
       "17": 27,
       "18": 21,
@@ -1057,7 +1057,7 @@
       "Tue": 72,
       "Wed": 90,
       "Thu": 88,
-      "Fri": 92,
+      "Fri": 93,
       "Sat": 0,
       "Sun": 46
     }
@@ -1065,6 +1065,7 @@
   "recentCommits": {
     "/": {
       "Expanded": [
+        "<a class=\"internal-link\" href=\"software/containers/buildah/create basic OCI image with buildah.md\"> create basic OCI image with buildah </a>",
         "<a class=\"internal-link\" href=\"software/linux/create linux superuser.md\"> create linux superuser </a>",
         "<a class=\"internal-link\" href=\"programming/c++/c++ package managers.md\"> c++ package managers </a>",
         "<a class=\"internal-link\" href=\"programming/c++/c++ package managers.md\"> c++ package managers </a>",
@@ -1111,7 +1112,6 @@
         "<a class=\"internal-link\" href=\"programming/python/python basics.md\"> python basics </a>",
         "<a class=\"internal-link\" href=\"programming/python/python cheatsheet.md\"> python cheatsheet </a>",
         "<a class=\"internal-link\" href=\"programming/python/useful python standard library modules.md\"> useful python standard library modules </a>",
-        "<a class=\"internal-link\" href=\"programming/python/DJango quick reference.md\"> DJango quick reference </a>",
         "<a class=\"internal-link\" href=\"programming/python/DJango quick reference.md\"> DJango quick reference </a>",
         "<a class=\"internal-link\" href=\"programming/python/DJango quick reference.md\"> DJango quick reference </a>",
         "<a class=\"internal-link\" href=\"programming/python/DJango quick reference.md\"> DJango quick reference </a>",
