@@ -74,141 +74,6 @@
       "tags": 0,
       "links": 0
     },
-    "crypto/CardanoWhaleWatching.md": {
-      "size": 395,
-      "tags": 0,
-      "links": 0
-    },
-    "crypto/BinanceSmartChain.md": {
-      "size": 220,
-      "tags": 0,
-      "links": 0
-    },
-    "crypto/tradingTools.md": {
-      "size": 790,
-      "tags": 0,
-      "links": 0
-    },
-    "crypto/TronList.md": {
-      "size": 87,
-      "tags": 0,
-      "links": 0
-    },
-    "crypto/Songbird.md": {
-      "size": 59,
-      "tags": 0,
-      "links": 0
-    },
-    "crypto/SolanaList.md": {
-      "size": 142,
-      "tags": 0,
-      "links": 0
-    },
-    "crypto/OasisNetworkList.md": {
-      "size": 116,
-      "tags": 0,
-      "links": 0
-    },
-    "crypto/Nervos.md": {
-      "size": 746,
-      "tags": 0,
-      "links": 0
-    },
-    "crypto/NFTQuickLinks.md": {
-      "size": 227,
-      "tags": 0,
-      "links": 0
-    },
-    "crypto/NFTs/Anyone could use any of the assets for any of the NFT collections.md": {
-      "size": 548,
-      "tags": 0,
-      "links": 0
-    },
-    "crypto/MoonRiver.md": {
-      "size": 84,
-      "tags": 0,
-      "links": 0
-    },
-    "crypto/MetamaskNetworks.md": {
-      "size": 289,
-      "tags": 0,
-      "links": 0
-    },
-    "crypto/Handshake.md": {
-      "size": 50,
-      "tags": 0,
-      "links": 0
-    },
-    "crypto/GeneralLinks.md": {
-      "size": 143,
-      "tags": 0,
-      "links": 0
-    },
-    "crypto/FantomList.md": {
-      "size": 587,
-      "tags": 0,
-      "links": 0
-    },
-    "crypto/Ethereum.md": {
-      "size": 1154,
-      "tags": 0,
-      "links": 0
-    },
-    "crypto/Ergo.md": {
-      "size": 750,
-      "tags": 0,
-      "links": 1
-    },
-    "crypto/Elrond.md": {
-      "size": 64,
-      "tags": 0,
-      "links": 0
-    },
-    "crypto/DecentralizedTools.md": {
-      "size": 99,
-      "tags": 0,
-      "links": 0
-    },
-    "crypto/CryptoPlatforms.md": {
-      "size": 63,
-      "tags": 0,
-      "links": 0
-    },
-    "crypto/CommunityBuilding.md": {
-      "size": 886,
-      "tags": 0,
-      "links": 0
-    },
-    "crypto/Cardano_marlowe_pioneer.md": {
-      "size": 1233,
-      "tags": 0,
-      "links": 0
-    },
-    "crypto/CardanoAssetIds.md": {
-      "size": 128,
-      "tags": 0,
-      "links": 0
-    },
-    "crypto/Cardano 1.md": {
-      "size": 4498,
-      "tags": 0,
-      "links": 0
-    },
-    "crypto/Cardano/Cardano_marlowe_pioneer.md": {
-      "size": 1233,
-      "tags": 0,
-      "links": 0
-    },
-    "crypto/BitcoinList.md": {
-      "size": 217,
-      "tags": 0,
-      "links": 0
-    },
-    "crypto/AvalancheList.md": {
-      "size": 104,
-      "tags": 0,
-      "links": 0
-    },
     "README.md": {
       "size": 29,
       "tags": 0,
@@ -737,7 +602,7 @@
     "personal/job-hunting/data etl project.md": {
       "size": 3431,
       "tags": 0,
-      "links": 1
+      "links": 2
     },
     "personal/work/Site for Oasis Landscaping.md": {
       "size": 104,
@@ -968,13 +833,153 @@
       "size": 0,
       "tags": 0,
       "links": 0
+    },
+    "cryptocurrency/AvalancheList.md": {
+      "size": 104,
+      "tags": 0,
+      "links": 0
+    },
+    "cryptocurrency/BinanceSmartChain.md": {
+      "size": 220,
+      "tags": 0,
+      "links": 0
+    },
+    "cryptocurrency/BitcoinList.md": {
+      "size": 217,
+      "tags": 0,
+      "links": 0
+    },
+    "cryptocurrency/Cardano 1.md": {
+      "size": 4498,
+      "tags": 0,
+      "links": 0
+    },
+    "cryptocurrency/CardanoAssetIds.md": {
+      "size": 128,
+      "tags": 0,
+      "links": 0
+    },
+    "cryptocurrency/CommunityBuilding.md": {
+      "size": 886,
+      "tags": 0,
+      "links": 0
+    },
+    "cryptocurrency/Cardano_marlowe_pioneer.md": {
+      "size": 1233,
+      "tags": 0,
+      "links": 0
+    },
+    "cryptocurrency/CryptoPlatforms.md": {
+      "size": 63,
+      "tags": 0,
+      "links": 0
+    },
+    "cryptocurrency/DecentralizedTools.md": {
+      "size": 99,
+      "tags": 0,
+      "links": 0
+    },
+    "cryptocurrency/Elrond.md": {
+      "size": 64,
+      "tags": 0,
+      "links": 0
+    },
+    "cryptocurrency/Ergo.md": {
+      "size": 750,
+      "tags": 0,
+      "links": 1
+    },
+    "cryptocurrency/Ethereum.md": {
+      "size": 1154,
+      "tags": 0,
+      "links": 0
+    },
+    "cryptocurrency/FantomList.md": {
+      "size": 587,
+      "tags": 0,
+      "links": 0
+    },
+    "cryptocurrency/GeneralLinks.md": {
+      "size": 143,
+      "tags": 0,
+      "links": 0
+    },
+    "cryptocurrency/CardanoWhaleWatching.md": {
+      "size": 395,
+      "tags": 0,
+      "links": 0
+    },
+    "cryptocurrency/Handshake.md": {
+      "size": 50,
+      "tags": 0,
+      "links": 0
+    },
+    "cryptocurrency/MetamaskNetworks.md": {
+      "size": 289,
+      "tags": 0,
+      "links": 0
+    },
+    "cryptocurrency/MoonRiver.md": {
+      "size": 84,
+      "tags": 0,
+      "links": 0
+    },
+    "cryptocurrency/NFTQuickLinks.md": {
+      "size": 227,
+      "tags": 0,
+      "links": 0
+    },
+    "cryptocurrency/OasisNetworkList.md": {
+      "size": 116,
+      "tags": 0,
+      "links": 0
+    },
+    "cryptocurrency/SolanaList.md": {
+      "size": 142,
+      "tags": 0,
+      "links": 0
+    },
+    "cryptocurrency/Songbird.md": {
+      "size": 59,
+      "tags": 0,
+      "links": 0
+    },
+    "cryptocurrency/TronList.md": {
+      "size": 87,
+      "tags": 0,
+      "links": 0
+    },
+    "cryptocurrency/tradingTools.md": {
+      "size": 790,
+      "tags": 0,
+      "links": 0
+    },
+    "cryptocurrency/Nervos.md": {
+      "size": 746,
+      "tags": 0,
+      "links": 0
+    },
+    "cryptocurrency/Cardano/Cardano_marlowe_pioneer.md": {
+      "size": 1233,
+      "tags": 0,
+      "links": 0
+    },
+    "cryptocurrency/NFTs/Anyone could use any of the assets for any of the NFT collections.md": {
+      "size": 548,
+      "tags": 0,
+      "links": 0
+    },
+    "cryptocurrency/networks/milkomeda/milkomeda network.md": {
+      "size": 0,
+      "tags": 0,
+      "links": 0
     }
   },
   "commitTypes": {
     "/": {
-      "Refactor": 93,
-      "Create": 162,
-      "Link": 51,
+      "Refactor": 148,
+      "Create": 164,
+      "Link": 52,
       "Expand": 69
     }
   },
@@ -982,7 +987,7 @@
     "/": {
       "0": 23,
       "1": 24,
-      "2": 12,
+      "2": 13,
       "3": 32,
       "4": 2,
       "5": 2,
@@ -994,14 +999,14 @@
       "11": 8,
       "12": 4,
       "13": 23,
-      "14": 12,
+      "14": 13,
       "15": 27,
       "16": 46,
       "17": 27,
       "18": 21,
       "19": 16,
       "20": 14,
-      "21": 14,
+      "21": 70,
       "22": 29,
       "23": 21
     }
@@ -1011,8 +1016,8 @@
       "Mon": 58,
       "Tue": 72,
       "Wed": 90,
-      "Thu": 31,
-      "Fri": 78,
+      "Thu": 88,
+      "Fri": 79,
       "Sat": 0,
       "Sun": 46
     }
@@ -1073,6 +1078,8 @@
         "<a class=\"internal-link\" href=\"programming/python/django container.md\"> django container </a>"
       ],
       "Created": [
+        "<a class=\"internal-link\" href=\"cryptocurrency/networks/milkomeda/Untitled.md\"> Untitled </a>",
+        "<a class=\"internal-link\" href=\"crypto/Ethereum/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"programming/machine learning/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"hardware/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"programming/c and c++/Untitled.md\"> Untitled </a>",
@@ -1121,62 +1128,60 @@
         "<a class=\"internal-link\" href=\"personal/job-hunting/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"programming/python/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"programming/python/django/Untitled.md\"> Untitled </a>",
-        "<a class=\"internal-link\" href=\"programming/python/Untitled.md\"> Untitled </a>",
-        "<a class=\"internal-link\" href=\"programming/python/Untitled.md\"> Untitled </a>",
-        "<a class=\"internal-link\" href=\"programming/Untitled.md\"> Untitled </a>"
+        "<a class=\"internal-link\" href=\"programming/python/Untitled.md\"> Untitled </a>"
       ],
       "Renamed": [
-        "<a class=\"internal-link\" href=\"programming/c and c++/opencv.md\"> opencv </a>",
-        "<a class=\"internal-link\" href=\"programming/c and c++/c++ package managers.md\"> c++ package managers </a>",
-        "<a class=\"internal-link\" href=\"programming/c and c++/Glut graphics framework.md\"> Glut graphics framework </a>",
-        "<a class=\"internal-link\" href=\"programming/c++/Glut graphics framework.md\"> Glut graphics framework </a>",
-        "<a class=\"internal-link\" href=\"software/CICD/github actions.md\"> github actions </a>",
-        "<a class=\"internal-link\" href=\"software/data ETL/trino.md\"> trino </a>",
-        "<a class=\"internal-link\" href=\"software/data ETL/kettle.md\"> kettle </a>",
-        "<a class=\"internal-link\" href=\"software/data ETL/databricks.md\"> databricks </a>",
-        "<a class=\"internal-link\" href=\"programming/python/tips/Reserved slots in python formatted strings.md\"> Reserved slots in python formatted strings </a>",
-        "<a class=\"internal-link\" href=\"programming/general/beginner project ideas/Build a user interface wrapper for a CLI tool.md\"> Build a user interface wrapper for a CLI tool </a>",
-        "<a class=\"internal-link\" href=\"programming/cli/python cli hide user input.md\"> python cli hide user input </a>",
-        "<a class=\"internal-link\" href=\"personal/music/theory/Try only using major 7th chords to create a chord progression.md\"> Try only using major 7th chords to create a chord progression </a>",
-        "<a class=\"internal-link\" href=\"personal/music/theory/Major 7th chords to create a chord progression.md\"> Major 7th chords to create a chord progression </a>",
-        "<a class=\"internal-link\" href=\"personal/money/Money facts.md\"> Money facts </a>",
-        "<a class=\"internal-link\" href=\"personal/games/stardew valley/stardew valley item codes.md\"> stardew valley item codes </a>",
-        "<a class=\"internal-link\" href=\"personal/math/linear interpolation.md\"> linear interpolation </a>",
-        "<a class=\"internal-link\" href=\"personal/math/Kepler.md\"> Kepler </a>",
-        "<a class=\"internal-link\" href=\"programming/data ETL/OLTP data models.md\"> OLTP data models </a>",
-        "<a class=\"internal-link\" href=\"programming/data ETL/OLAP data models.md\"> OLAP data models </a>",
-        "<a class=\"internal-link\" href=\"WIP.md\"> WIP </a>",
-        "<a class=\"internal-link\" href=\"programming/python/django/django migrations with custom sql.md\"> django migrations with custom sql </a>",
-        "<a class=\"internal-link\" href=\"programming/python/django migrations with custom sql.md\"> django migrations with custom sql </a>",
-        "<a class=\"internal-link\" href=\"programming/django migrations with custom sql.md\"> django migrations with custom sql </a>",
-        "<a class=\"internal-link\" href=\"personal/work/Site for Oasis Landscaping.md\"> Site for Oasis Landscaping </a>",
-        "<a class=\"internal-link\" href=\"programming/haskell/haskell lists.md\"> haskell lists </a>",
-        "<a class=\"internal-link\" href=\"programming/haskell/haskell list functions.md\"> haskell list functions </a>",
-        "<a class=\"internal-link\" href=\"personal/job-hunting/interesting jobhunt finds.md\"> interesting jobhunt finds </a>",
-        "<a class=\"internal-link\" href=\"programming/python/python extensions.md\"> python extensions </a>",
-        "<a class=\"internal-link\" href=\"programming/python/python os module.md\"> python os module </a>",
-        "<a class=\"internal-link\" href=\"programming/python/django class models.md\"> django class models </a>",
-        "<a class=\"internal-link\" href=\"programming/python/django data migrations.md\"> django data migrations </a>",
-        "<a class=\"internal-link\" href=\"programming/python/python packaging.md\"> python packaging </a>",
-        "<a class=\"internal-link\" href=\"programming/python/Python research.md\"> Python research </a>",
-        "<a class=\"internal-link\" href=\"programming/python/python special strings.md\"> python special strings </a>",
-        "<a class=\"internal-link\" href=\"programming/python/python programming language.md\"> python programming language </a>",
-        "<a class=\"internal-link\" href=\"programming/python/pyspark reference.md\"> pyspark reference </a>",
-        "<a class=\"internal-link\" href=\"programming/python/python_os_module.md\"> python_os_module </a>",
-        "<a class=\"internal-link\" href=\"programming/python/python virtual environments.md\"> python virtual environments </a>",
-        "<a class=\"internal-link\" href=\"personal/software/AWS quiz.md\"> AWS quiz </a>",
-        "<a class=\"internal-link\" href=\"programming/algorithms/data-structures/left-leaning red black trees.md\"> left-leaning red black trees </a>",
-        "<a class=\"internal-link\" href=\"programming/algorithms/algorithms.md\"> algorithms </a>",
-        "<a class=\"internal-link\" href=\"programming/general/catamorphism.md\"> catamorphism </a>",
-        "<a class=\"internal-link\" href=\"personal/college/WGU/computer science degree at WGU.md\"> computer science degree at WGU </a>",
-        "<a class=\"internal-link\" href=\"software/data ETL/apache paraquet.md\"> apache paraquet </a>",
-        "<a class=\"internal-link\" href=\"personal/job-hunting/Lextegrity.md\"> Lextegrity </a>",
-        "<a class=\"internal-link\" href=\"programming/shell/simple curl script.md\"> simple curl script </a>",
-        "<a class=\"internal-link\" href=\"programming/python/reading python bools from a .env file.md\"> reading python bools from a .env file </a>",
-        "<a class=\"internal-link\" href=\"programming/python/Python Caching.md\"> Python Caching </a>",
-        "<a class=\"internal-link\" href=\"programming/python/django/django class models.md\"> django class models </a>",
-        "<a class=\"internal-link\" href=\"programming/python/django/django container.md\"> django container </a>",
-        "<a class=\"internal-link\" href=\"programming/python/django/django data migrations.md\"> django data migrations </a>"
+        "<a class=\"internal-link\" href=\"cryptocurrency/NFTs/Anyone could use any of the assets for any of the NFT collections.md\"> Anyone could use any of the assets for any of the NFT collections </a>",
+        "<a class=\"internal-link\" href=\"cryptocurrency/Cardano/Cardano_marlowe_pioneer.md\"> Cardano_marlowe_pioneer </a>",
+        "<a class=\"internal-link\" href=\"cryptocurrency/Nervos.md\"> Nervos </a>",
+        "<a class=\"internal-link\" href=\"cryptocurrency/tradingTools.md\"> tradingTools </a>",
+        "<a class=\"internal-link\" href=\"cryptocurrency/TronList.md\"> TronList </a>",
+        "<a class=\"internal-link\" href=\"cryptocurrency/Songbird.md\"> Songbird </a>",
+        "<a class=\"internal-link\" href=\"cryptocurrency/SolanaList.md\"> SolanaList </a>",
+        "<a class=\"internal-link\" href=\"cryptocurrency/OasisNetworkList.md\"> OasisNetworkList </a>",
+        "<a class=\"internal-link\" href=\"cryptocurrency/NFTQuickLinks.md\"> NFTQuickLinks </a>",
+        "<a class=\"internal-link\" href=\"cryptocurrency/MoonRiver.md\"> MoonRiver </a>",
+        "<a class=\"internal-link\" href=\"cryptocurrency/MetamaskNetworks.md\"> MetamaskNetworks </a>",
+        "<a class=\"internal-link\" href=\"cryptocurrency/Handshake.md\"> Handshake </a>",
+        "<a class=\"internal-link\" href=\"cryptocurrency/CardanoWhaleWatching.md\"> CardanoWhaleWatching </a>",
+        "<a class=\"internal-link\" href=\"cryptocurrency/GeneralLinks.md\"> GeneralLinks </a>",
+        "<a class=\"internal-link\" href=\"cryptocurrency/FantomList.md\"> FantomList </a>",
+        "<a class=\"internal-link\" href=\"cryptocurrency/Ethereum.md\"> Ethereum </a>",
+        "<a class=\"internal-link\" href=\"cryptocurrency/Ergo.md\"> Ergo </a>",
+        "<a class=\"internal-link\" href=\"cryptocurrency/Elrond.md\"> Elrond </a>",
+        "<a class=\"internal-link\" href=\"cryptocurrency/DecentralizedTools.md\"> DecentralizedTools </a>",
+        "<a class=\"internal-link\" href=\"cryptocurrency/CryptoPlatforms.md\"> CryptoPlatforms </a>",
+        "<a class=\"internal-link\" href=\"cryptocurrency/Cardano_marlowe_pioneer.md\"> Cardano_marlowe_pioneer </a>",
+        "<a class=\"internal-link\" href=\"cryptocurrency/CommunityBuilding.md\"> CommunityBuilding </a>",
+        "<a class=\"internal-link\" href=\"cryptocurrency/CardanoAssetIds.md\"> CardanoAssetIds </a>",
+        "<a class=\"internal-link\" href=\"cryptocurrency/Cardano 1.md\"> Cardano 1 </a>",
+        "<a class=\"internal-link\" href=\"cryptocurrency/BitcoinList.md\"> BitcoinList </a>",
+        "<a class=\"internal-link\" href=\"cryptocurrency/BinanceSmartChain.md\"> BinanceSmartChain </a>",
+        "<a class=\"internal-link\" href=\"cryptocurrency/AvalancheList.md\"> AvalancheList </a>",
+        "<a class=\"internal-link\" href=\"cryptocurrencies/NFTs/Anyone could use any of the assets for any of the NFT collections.md\"> Anyone could use any of the assets for any of the NFT collections </a>",
+        "<a class=\"internal-link\" href=\"cryptocurrencies/Cardano/Cardano_marlowe_pioneer.md\"> Cardano_marlowe_pioneer </a>",
+        "<a class=\"internal-link\" href=\"cryptocurrencies/Nervos.md\"> Nervos </a>",
+        "<a class=\"internal-link\" href=\"cryptocurrencies/tradingTools.md\"> tradingTools </a>",
+        "<a class=\"internal-link\" href=\"cryptocurrencies/TronList.md\"> TronList </a>",
+        "<a class=\"internal-link\" href=\"cryptocurrencies/Songbird.md\"> Songbird </a>",
+        "<a class=\"internal-link\" href=\"cryptocurrencies/SolanaList.md\"> SolanaList </a>",
+        "<a class=\"internal-link\" href=\"cryptocurrencies/OasisNetworkList.md\"> OasisNetworkList </a>",
+        "<a class=\"internal-link\" href=\"cryptocurrencies/NFTQuickLinks.md\"> NFTQuickLinks </a>",
+        "<a class=\"internal-link\" href=\"cryptocurrencies/MoonRiver.md\"> MoonRiver </a>",
+        "<a class=\"internal-link\" href=\"cryptocurrencies/MetamaskNetworks.md\"> MetamaskNetworks </a>",
+        "<a class=\"internal-link\" href=\"cryptocurrencies/Handshake.md\"> Handshake </a>",
+        "<a class=\"internal-link\" href=\"cryptocurrencies/CardanoWhaleWatching.md\"> CardanoWhaleWatching </a>",
+        "<a class=\"internal-link\" href=\"cryptocurrencies/GeneralLinks.md\"> GeneralLinks </a>",
+        "<a class=\"internal-link\" href=\"cryptocurrencies/FantomList.md\"> FantomList </a>",
+        "<a class=\"internal-link\" href=\"cryptocurrencies/Ethereum.md\"> Ethereum </a>",
+        "<a class=\"internal-link\" href=\"cryptocurrencies/Ergo.md\"> Ergo </a>",
+        "<a class=\"internal-link\" href=\"cryptocurrencies/Elrond.md\"> Elrond </a>",
+        "<a class=\"internal-link\" href=\"cryptocurrencies/DecentralizedTools.md\"> DecentralizedTools </a>",
+        "<a class=\"internal-link\" href=\"cryptocurrencies/CryptoPlatforms.md\"> CryptoPlatforms </a>",
+        "<a class=\"internal-link\" href=\"cryptocurrencies/Cardano_marlowe_pioneer.md\"> Cardano_marlowe_pioneer </a>",
+        "<a class=\"internal-link\" href=\"cryptocurrencies/CommunityBuilding.md\"> CommunityBuilding </a>",
+        "<a class=\"internal-link\" href=\"cryptocurrencies/CardanoAssetIds.md\"> CardanoAssetIds </a>",
+        "<a class=\"internal-link\" href=\"cryptocurrencies/Cardano 1.md\"> Cardano 1 </a>"
       ],
       "Tagged": [
         "<a class=\"internal-link\" href=\"personal/job-hunting/jb-hunt-topics.md\"> jb-hunt-topics </a>",
@@ -1202,7 +1207,8 @@
         "<a class=\"internal-link\" href=\"personal/job-hunting/lead machine learning softwares.md\"> lead machine learning softwares </a>",
         "<a class=\"internal-link\" href=\"daily/06-08-22.md\"> 06-08-22 </a>",
         "<a class=\"internal-link\" href=\"explorer.ergoplatform.com.md\"> explorer.ergoplatform.com </a>",
-        "<a class=\"internal-link\" href=\"templates/new list.md\"> new list </a>"
+        "<a class=\"internal-link\" href=\"templates/new list.md\"> new list </a>",
+        "<a class=\"internal-link\" href=\"crypto/Ethereum/Untitled.md\"> Untitled </a>"
       ],
       "Linked": [
         "<a class=\"internal-link\" href=\"programming/haskell/working with lists.md\"> working with lists </a>",
@@ -1251,7 +1257,8 @@
         "<a class=\"internal-link\" href=\"software/linux/Linux DNS.md\"> Linux DNS </a>",
         "<a class=\"internal-link\" href=\"programming/python/python cheatsheet.md\"> python cheatsheet </a>",
         "<a class=\"internal-link\" href=\"programming/c and c++/opencv.md\"> opencv </a>",
-        "<a class=\"internal-link\" href=\"Backlog.md\"> Backlog </a>"
+        "<a class=\"internal-link\" href=\"Backlog.md\"> Backlog </a>",
+        "<a class=\"internal-link\" href=\"personal/job-hunting/data etl project.md\"> data etl project </a>"
       ],
       "Removed Tags from": [],
       "Removed Links from": [

@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "personal/job-hunting/data etl project.md",
+            "file": "cryptocurrency/networks/milkomeda/milkomeda network.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "personal/job-hunting/data etl project.md",
+                "file": "cryptocurrency/networks/milkomeda/milkomeda network.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,7 +87,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "personal/job-hunting/data etl project.md"
+                "file": "cryptocurrency/networks/milkomeda/milkomeda network.md"
               }
             }
           },
@@ -119,6 +119,8 @@
   },
   "active": "dee6a1f0625a5f4b",
   "lastOpenFiles": [
+    "crypto/Ethereum/Untitled.md",
+    "personal/job-hunting/data etl project.md",
     "personal/job-hunting/chainlink-labs.md",
     "Backlog.md",
     "programming/machine learning/interesting ml and ai products.md",
@@ -126,8 +128,6 @@
     "hardware/memory controllers.md",
     "programming/rust/rust programming language.md",
     "programming/rust/rust types.md",
-    "programming/c and c++/opencv.md",
-    "programming/c and c++/c++ programming language.md",
-    "programming/c and c++/c programming language.md"
+    "programming/c and c++/opencv.md"
   ]
 }
