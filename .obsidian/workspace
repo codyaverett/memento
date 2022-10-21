@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "programming/python/python Caching.md",
+            "file": "programming/python/python poetry.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "programming/python/python Caching.md",
+                "file": "programming/python/python poetry.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,7 +87,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "programming/python/python Caching.md"
+                "file": "programming/python/python poetry.md"
               }
             }
           },
@@ -117,8 +117,9 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "33a2bab88d111215",
+  "active": "400263977884d89b",
   "lastOpenFiles": [
+    "programming/python/python Caching.md",
     "programming/python/python pyenv.md",
     "programming/python/python poetry.md",
     "software/git/setting up git.md",
@@ -127,7 +128,6 @@
     "software/data ETL/apache airflow/Airflow Deployments.md",
     "software/data ETL/apache airflow/apache airflow quickstart.md",
     "software/data ETL/apache airflow/apache airflow.md",
-    "software/data ETL/apache airflow/airflow limitations.md",
-    "software/git/git reflog.md"
+    "software/data ETL/apache airflow/airflow limitations.md"
   ]
 }
