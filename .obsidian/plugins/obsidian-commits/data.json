@@ -985,7 +985,7 @@
       "links": 0
     },
     "software/linux/create linux superuser.md": {
-      "size": 0,
+      "size": 4415,
       "tags": 0,
       "links": 0
     }
@@ -995,7 +995,7 @@
       "Refactor": 148,
       "Create": 167,
       "Link": 53,
-      "Expand": 69
+      "Expand": 70
     }
   },
   "dailyCommits": {
@@ -1012,7 +1012,7 @@
       "9": 0,
       "10": 12,
       "11": 10,
-      "12": 5,
+      "12": 6,
       "13": 23,
       "14": 13,
       "15": 27,
@@ -1032,7 +1032,7 @@
       "Tue": 72,
       "Wed": 90,
       "Thu": 88,
-      "Fri": 83,
+      "Fri": 84,
       "Sat": 0,
       "Sun": 46
     }
@@ -1040,6 +1040,7 @@
   "recentCommits": {
     "/": {
       "Expanded": [
+        "<a class=\"internal-link\" href=\"software/linux/create linux superuser.md\"> create linux superuser </a>",
         "<a class=\"internal-link\" href=\"programming/c++/c++ package managers.md\"> c++ package managers </a>",
         "<a class=\"internal-link\" href=\"programming/c++/c++ package managers.md\"> c++ package managers </a>",
         "<a class=\"internal-link\" href=\"software/linux/Linux directory Structure.md\"> Linux directory Structure </a>",
@@ -1089,8 +1090,7 @@
         "<a class=\"internal-link\" href=\"programming/python/DJango quick reference.md\"> DJango quick reference </a>",
         "<a class=\"internal-link\" href=\"programming/python/DJango quick reference.md\"> DJango quick reference </a>",
         "<a class=\"internal-link\" href=\"programming/python/DJango quick reference.md\"> DJango quick reference </a>",
-        "<a class=\"internal-link\" href=\"programming/python/DJango quick reference.md\"> DJango quick reference </a>",
-        "<a class=\"internal-link\" href=\"programming/python/django container.md\"> django container </a>"
+        "<a class=\"internal-link\" href=\"programming/python/DJango quick reference.md\"> DJango quick reference </a>"
       ],
       "Created": [
         "<a class=\"internal-link\" href=\"software/linux/Untitled.md\"> Untitled </a>",

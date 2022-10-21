@@ -1,8 +1,8 @@
 # Create linux superuser
 
 ```
-sudo useradd <username> -p <password>
-sudo adduser <username> sudo
+sudo useradd <username>
+sudo usermod -a -G wheel <username> # For sudo user
 ```
 
 ## useradd
