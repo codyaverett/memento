@@ -7,8 +7,13 @@
         "id": "533decdb08a1e6b4",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "software/containers/buildah/create basic OCI image with buildah.md",
+            "mode": "source",
+            "backlinks": false,
+            "source": false
+          }
         }
       }
     ],
@@ -65,6 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "software/containers/buildah/create basic OCI image with buildah.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -80,7 +86,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "software/containers/buildah/create basic OCI image with buildah.md"
+              }
             }
           },
           {
@@ -111,15 +119,15 @@
   },
   "active": "533decdb08a1e6b4",
   "lastOpenFiles": [
+    "software/data ETL/apache airflow/Airflow Deployments.md",
+    "software/data ETL/apache airflow/apache airflow quickstart.md",
+    "software/data ETL/apache airflow/apache airflow.md",
+    "software/data ETL/apache airflow/airflow limitations.md",
     "software/git/git reflog.md",
     "software/git/setting up git.md",
-    "software/docker/run docker commands without sudo.md",
+    "software/containers/docker/run docker commands without sudo.md",
     "programming/authentication/JSON Web Token.md",
     "software/linux/create linux superuser.md",
-    "cryptocurrency/networks/milkomeda/milkomeda network.md",
-    "cryptocurrency/networks/milkomeda/milkomeda smart contracts.md",
-    "programming/javascript/Javascript oddities.md",
-    "programming/javascript/Javascript Programming Language.md",
-    "personal/job-hunting/data etl project.md"
+    "cryptocurrency/networks/milkomeda/milkomeda network.md"
   ]
 }
