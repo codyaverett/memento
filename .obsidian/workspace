@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "cryptocurrency/networks/milkomeda/milkomeda smart contracts.md",
+            "file": "software/linux/create linux superuser.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "cryptocurrency/networks/milkomeda/milkomeda smart contracts.md",
+                "file": "software/linux/create linux superuser.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,7 +87,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "cryptocurrency/networks/milkomeda/milkomeda smart contracts.md"
+                "file": "software/linux/create linux superuser.md"
               }
             }
           },
@@ -119,11 +119,11 @@
   },
   "active": "dee6a1f0625a5f4b",
   "lastOpenFiles": [
+    "cryptocurrency/networks/milkomeda/milkomeda network.md",
+    "cryptocurrency/networks/milkomeda/milkomeda smart contracts.md",
     "programming/javascript/Javascript oddities.md",
     "programming/javascript/Javascript Programming Language.md",
     "personal/job-hunting/data etl project.md",
-    "cryptocurrency/networks/milkomeda/milkomeda smart contracts.md",
-    "cryptocurrency/networks/milkomeda/milkomeda network.md",
     "crypto/Ethereum/Untitled.md",
     "personal/job-hunting/chainlink-labs.md",
     "Backlog.md",
