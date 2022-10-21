@@ -4,16 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "082ead63f0521168",
+        "id": "533decdb08a1e6b4",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "software/docker/run docker commands without sudo.md",
-            "mode": "source",
-            "backlinks": false,
-            "source": false
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -70,7 +65,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "software/docker/run docker commands without sudo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,9 +80,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "software/docker/run docker commands without sudo.md"
-              }
+              "state": {}
             }
           },
           {
@@ -117,17 +109,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "082ead63f0521168",
+  "active": "533decdb08a1e6b4",
   "lastOpenFiles": [
+    "software/git/git reflog.md",
+    "software/git/setting up git.md",
+    "software/docker/run docker commands without sudo.md",
     "programming/authentication/JSON Web Token.md",
     "software/linux/create linux superuser.md",
     "cryptocurrency/networks/milkomeda/milkomeda network.md",
     "cryptocurrency/networks/milkomeda/milkomeda smart contracts.md",
     "programming/javascript/Javascript oddities.md",
     "programming/javascript/Javascript Programming Language.md",
-    "personal/job-hunting/data etl project.md",
-    "crypto/Ethereum/Untitled.md",
-    "personal/job-hunting/chainlink-labs.md",
-    "Backlog.md"
+    "personal/job-hunting/data etl project.md"
   ]
 }
