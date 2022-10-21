@@ -2,8 +2,8 @@
 
 ## Install
 ```shell
-```sh
-curl -sSL https://raw.githubusercontent.com/python-poetry/poetry/master/get-poetry.py | python
+```bash
+curl -sSL https://install.python-poetry.org | python3 -
 ```
 
 ## Initialize your Python project:
