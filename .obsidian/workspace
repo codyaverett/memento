@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "software/containers/buildah/buildah example lighttpd.md",
+            "file": "programming/python/pyenv.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "software/containers/buildah/buildah example lighttpd.md",
+                "file": "programming/python/pyenv.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,7 +87,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "software/containers/buildah/buildah example lighttpd.md"
+                "file": "programming/python/pyenv.md"
               }
             }
           },
@@ -119,15 +119,15 @@
   },
   "active": "533decdb08a1e6b4",
   "lastOpenFiles": [
+    "software/git/setting up git.md",
+    "software/containers/buildah/buildah example lighttpd.md",
     "software/containers/buildah/create basic OCI image with buildah.md",
     "software/data ETL/apache airflow/Airflow Deployments.md",
     "software/data ETL/apache airflow/apache airflow quickstart.md",
     "software/data ETL/apache airflow/apache airflow.md",
     "software/data ETL/apache airflow/airflow limitations.md",
     "software/git/git reflog.md",
-    "software/git/setting up git.md",
     "software/containers/docker/run docker commands without sudo.md",
-    "programming/authentication/JSON Web Token.md",
-    "software/linux/create linux superuser.md"
+    "programming/authentication/JSON Web Token.md"
   ]
 }
