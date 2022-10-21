@@ -993,12 +993,22 @@
       "size": 0,
       "tags": 0,
       "links": 1
+    },
+    "software/docker/run docker commands without sudo.md": {
+      "size": 0,
+      "tags": 0,
+      "links": 0
+    },
+    "software/git/setting up git.md": {
+      "size": 0,
+      "tags": 0,
+      "links": 0
     }
   },
   "commitTypes": {
     "/": {
       "Refactor": 148,
-      "Create": 168,
+      "Create": 170,
       "Link": 54,
       "Expand": 70
     }
@@ -1018,7 +1028,7 @@
       "10": 12,
       "11": 10,
       "12": 6,
-      "13": 25,
+      "13": 27,
       "14": 13,
       "15": 27,
       "16": 46,
@@ -1037,7 +1047,7 @@
       "Tue": 72,
       "Wed": 90,
       "Thu": 88,
-      "Fri": 86,
+      "Fri": 88,
       "Sat": 0,
       "Sun": 46
     }
@@ -1098,6 +1108,8 @@
         "<a class=\"internal-link\" href=\"programming/python/DJango quick reference.md\"> DJango quick reference </a>"
       ],
       "Created": [
+        "<a class=\"internal-link\" href=\"software/git/Untitled.md\"> Untitled </a>",
+        "<a class=\"internal-link\" href=\"software/docker/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"programming/authentication/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"software/linux/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"programming/javascript/Untitled.md\"> Untitled </a>",
@@ -1146,9 +1158,7 @@
         "<a class=\"internal-link\" href=\"programming/data models/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"personal/job-hunting/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"programming/machine learning/Untitled.md\"> Untitled </a>",
-        "<a class=\"internal-link\" href=\"programming/machine learning/Untitled.md\"> Untitled </a>",
-        "<a class=\"internal-link\" href=\"programming/rust/Untitled.md\"> Untitled </a>",
-        "<a class=\"internal-link\" href=\"programming/rust/Untitled.md\"> Untitled </a>"
+        "<a class=\"internal-link\" href=\"programming/machine learning/Untitled.md\"> Untitled </a>"
       ],
       "Renamed": [
         "<a class=\"internal-link\" href=\"cryptocurrency/NFTs/Anyone could use any of the assets for any of the NFT collections.md\"> Anyone could use any of the assets for any of the NFT collections </a>",
