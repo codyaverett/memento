@@ -11,12 +11,12 @@ We expect you to work on the full process from backend to frontend in this proje
 - Design [[OLAP data models]] 
 - Build dashboards in Power BI/Retool/Superset or other providing insights on the amount of token transferred, fees, number of transactions, balance to date, run rate etc by address, dates 
 - Prepare a solution that is easy to demonstrate and discuss the work you have done during the next scheduled call There are some considerations for this project: 
-- Always keep in mind that your solution should be easy to scale, extend to other blockchains and processes many more input addresses 
-- Feel free to use any tool or library that you think is helpful on this project 
-- Please publish your solution to a github (or similar source-control platform) and include the instructions on your project in README.md 
-- The target addresses we are interested in will be sent via slack (or you can suggest a list of addresses of your interest) 
-- The data should be stored in a relational database
-- The pipeline should be scheduled on a daily/ hourly/ minutely basis, whichever you think is the best for the analysis 
+	- Always keep in mind that your solution should be easy to scale, extend to other blockchains and processes many more input addresses 
+	- Feel free to use any tool or library that you think is helpful on this project 
+	- Please publish your solution to a github (or similar source-control platform) and include the instructions on your project in README.md 
+	- The target addresses we are interested in will be sent via slack (or you can suggest a list of addresses of your interest) 
+	- The data should be stored in a relational database
+	- The pipeline should be scheduled on a daily/ hourly/ minutely basis, whichever you think is the best for the analysis 
 
 Please apply best practices from your previous experiences that you think make sense and can impress us, we value different perspectives 
 
