@@ -1033,13 +1033,28 @@
       "size": 0,
       "tags": 0,
       "links": 0
+    },
+    "software/nginx/nginx webserver.md": {
+      "size": 0,
+      "tags": 0,
+      "links": 0
+    },
+    "software/nginx/nginx reverse proxy.md": {
+      "size": 0,
+      "tags": 0,
+      "links": 0
+    },
+    "software/data ETL/databend.md": {
+      "size": 0,
+      "tags": 0,
+      "links": 1
     }
   },
   "commitTypes": {
     "/": {
       "Refactor": 151,
-      "Create": 176,
-      "Link": 56,
+      "Create": 179,
+      "Link": 57,
       "Expand": 74
     }
   },
@@ -1047,7 +1062,7 @@
     "/": {
       "0": 23,
       "1": 24,
-      "2": 14,
+      "2": 18,
       "3": 32,
       "4": 2,
       "5": 2,
@@ -1079,7 +1094,7 @@
       "Thu": 88,
       "Fri": 103,
       "Sat": 0,
-      "Sun": 46
+      "Sun": 50
     }
   },
   "recentCommits": {
@@ -1138,6 +1153,9 @@
         "<a class=\"internal-link\" href=\"programming/python/DJango quick reference.md\"> DJango quick reference </a>"
       ],
       "Created": [
+        "<a class=\"internal-link\" href=\"software/data ETL/Untitled.md\"> Untitled </a>",
+        "<a class=\"internal-link\" href=\"software/nginx/Untitled.md\"> Untitled </a>",
+        "<a class=\"internal-link\" href=\"software/nginx/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"programming/python/ansible/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"programming/python/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"programming/python/Untitled.md\"> Untitled </a>",
@@ -1185,10 +1203,7 @@
         "<a class=\"internal-link\" href=\"personal/lifehacks/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"programming/data ETL/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"programming/data ETL/Untitled.md\"> Untitled </a>",
-        "<a class=\"internal-link\" href=\"programming/data ETL/Untitled.md\"> Untitled </a>",
-        "<a class=\"internal-link\" href=\"programming/data models/Untitled.md\"> Untitled </a>",
-        "<a class=\"internal-link\" href=\"templates/Untitled.md\"> Untitled </a>",
-        "<a class=\"internal-link\" href=\"templates/Untitled.md\"> Untitled </a>"
+        "<a class=\"internal-link\" href=\"programming/data ETL/Untitled.md\"> Untitled </a>"
       ],
       "Renamed": [
         "<a class=\"internal-link\" href=\"programming/python/python Caching.md\"> python Caching </a>",
@@ -1271,6 +1286,7 @@
         "<a class=\"internal-link\" href=\"crypto/Ethereum/Untitled.md\"> Untitled </a>"
       ],
       "Linked": [
+        "<a class=\"internal-link\" href=\"software/data ETL/databend.md\"> databend </a>",
         "<a class=\"internal-link\" href=\"programming/python/python poetry.md\"> python poetry </a>",
         "<a class=\"internal-link\" href=\"programming/haskell/working with lists.md\"> working with lists </a>",
         "<a class=\"internal-link\" href=\"programming/python/python extensions.md\"> python extensions </a>",
@@ -1320,8 +1336,7 @@
         "<a class=\"internal-link\" href=\"programming/c and c++/opencv.md\"> opencv </a>",
         "<a class=\"internal-link\" href=\"Backlog.md\"> Backlog </a>",
         "<a class=\"internal-link\" href=\"personal/job-hunting/data etl project.md\"> data etl project </a>",
-        "<a class=\"internal-link\" href=\"programming/javascript/Javascript oddities.md\"> Javascript oddities </a>",
-        "<a class=\"internal-link\" href=\"programming/authentication/JSON Web Token.md\"> JSON Web Token </a>"
+        "<a class=\"internal-link\" href=\"programming/javascript/Javascript oddities.md\"> Javascript oddities </a>"
       ],
       "Removed Tags from": [],
       "Removed Links from": [
