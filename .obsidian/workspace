@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "personal/job-hunting/data etl project.md",
+            "file": "programming/databases/postgres/postgres materialized views.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "personal/job-hunting/data etl project.md",
+                "file": "programming/databases/postgres/postgres materialized views.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,7 +87,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "personal/job-hunting/data etl project.md"
+                "file": "programming/databases/postgres/postgres materialized views.md"
               }
             }
           },
@@ -119,6 +119,8 @@
   },
   "active": "400263977884d89b",
   "lastOpenFiles": [
+    "personal/software/programming languages you must know.md",
+    "personal/job-hunting/data etl project.md",
     "software/data ETL/databend.md",
     "software/nginx/nginx reverse proxy.md",
     "software/nginx/nginx webserver.md",
@@ -126,8 +128,6 @@
     "software/containers/docker/run docker commands without sudo.md",
     "programming/python/python poetry.md",
     "programming/python/python Caching.md",
-    "programming/python/python pyenv.md",
-    "software/git/setting up git.md",
-    "software/containers/buildah/buildah example lighttpd.md"
+    "programming/python/python pyenv.md"
   ]
 }

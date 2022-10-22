@@ -1048,12 +1048,17 @@
       "size": 0,
       "tags": 0,
       "links": 1
+    },
+    "programming/databases/postgres/postgres materialized views.md": {
+      "size": 0,
+      "tags": 0,
+      "links": 0
     }
   },
   "commitTypes": {
     "/": {
       "Refactor": 151,
-      "Create": 179,
+      "Create": 180,
       "Link": 57,
       "Expand": 74
     }
@@ -1064,7 +1069,7 @@
       "1": 24,
       "2": 18,
       "3": 32,
-      "4": 2,
+      "4": 3,
       "5": 2,
       "6": 5,
       "7": 0,
@@ -1094,7 +1099,7 @@
       "Thu": 88,
       "Fri": 103,
       "Sat": 0,
-      "Sun": 50
+      "Sun": 51
     }
   },
   "recentCommits": {
@@ -1153,6 +1158,7 @@
         "<a class=\"internal-link\" href=\"programming/python/DJango quick reference.md\"> DJango quick reference </a>"
       ],
       "Created": [
+        "<a class=\"internal-link\" href=\"programming/databases/postgres/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"software/data ETL/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"software/nginx/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"software/nginx/Untitled.md\"> Untitled </a>",
@@ -1201,7 +1207,6 @@
         "<a class=\"internal-link\" href=\"personal/money/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"programming/python/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"personal/lifehacks/Untitled.md\"> Untitled </a>",
-        "<a class=\"internal-link\" href=\"programming/data ETL/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"programming/data ETL/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"programming/data ETL/Untitled.md\"> Untitled </a>"
       ],
