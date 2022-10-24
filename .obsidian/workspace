@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "programming/python/python pyenv.md",
+            "file": "software/letsencrypt/letsencrypt.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -50,8 +50,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -71,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "programming/python/python pyenv.md",
+                "file": "software/letsencrypt/letsencrypt.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,7 +87,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "programming/python/python pyenv.md"
+                "file": "software/letsencrypt/letsencrypt.md"
               }
             }
           },
@@ -120,6 +119,7 @@
   },
   "active": "400263977884d89b",
   "lastOpenFiles": [
+    "programming/python/python pyenv.md",
     "programming/databases/postgres/postgres materialized views.md",
     "personal/software/programming languages you must know.md",
     "personal/job-hunting/data etl project.md",
@@ -128,7 +128,6 @@
     "software/nginx/nginx webserver.md",
     "programming/python/ansible/use ansible_runner from python module.md",
     "software/containers/docker/run docker commands without sudo.md",
-    "programming/python/python poetry.md",
-    "programming/python/python Caching.md"
+    "programming/python/python poetry.md"
   ]
 }

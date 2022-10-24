@@ -11,6 +11,7 @@ sudo apt install certbot python3-certbot-nginx
 
 # For rhel/fedora systems
 sudo dnf install certbot python3-certbot-nginx
+# sudo dnf install certbot certbot-nginx
 ```
 
 ## Configure Nginx
