@@ -31,3 +31,18 @@ The order of transactions matters a lot.
 ## FSS: Phase One
 - Secure causal ordering (atomic broadcast)
 - Intuition: No node sees tx payload before tx is ordered.
+
+- Txns are submitted to the committee in an encrypted way
+- Committee orders the transactions before the transactions are decrypted
+
+### Secure causal ordering (atomic broadcast)
+- Hard to front-run what you can't see!
+- Works well, but some limitations:
+	- Exploits based on metadata
+	- Blind front-running
+- Note: Secure causal ordering doesn't actually specify ordering.
+
+## FSS: Phase Two +Aequitas
+- Aequitas ordering (consensus) protocols
+	- [Kelkar et al. '20] + forthcoming work
+- Aequitas
