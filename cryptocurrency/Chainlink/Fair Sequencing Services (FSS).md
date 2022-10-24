@@ -58,3 +58,7 @@ The order of transactions matters a lot.
 	- Specific smart contracts can be FSS-enabled.
 - Ordering is increasingly off chain in L2 (e.g., in rollups).
 - FSS works equally well for L2 systems.
+
+## Reference 
+- https://blog.chain.link/chainlink-fair-sequencing-services-enabling-a-provably-fair-defi-ecosystem/
+- 
