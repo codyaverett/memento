@@ -45,4 +45,16 @@ The order of transactions matters a lot.
 ## FSS: Phase Two +Aequitas
 - Aequitas ordering (consensus) protocols
 	- [Kelkar et al. '20] + forthcoming work
-- Aequitas
+- Aequitas intuition: Order txs by (super-)majority receive time.
+	- More complicated, but that's the idea...
+
+- Aequitas prevents metadata-based and blind front-running
+	- Potentially stronger than secure causal ordering, but...
+	- Sensitive to network adversary and more complicated.
+- Aequitas and secure causal ordering nicely complementary.
+
+## Where can FSS be used?
+- FSS works well as preprocessing stage for L1.
+	- Specific smart contracts can be FSS-enabled.
+- Ordering is increasingly off chain in L2 (e.g., in rollups).
+- FSS works equally well for L2 systems.
