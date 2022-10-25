@@ -7,13 +7,8 @@
         "id": "400263977884d89b",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "cryptocurrency/Chainlink/Fair Sequencing Services (FSS).md",
-            "mode": "source",
-            "backlinks": false,
-            "source": false
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -70,7 +65,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "cryptocurrency/Chainlink/Fair Sequencing Services (FSS).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,9 +80,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "cryptocurrency/Chainlink/Fair Sequencing Services (FSS).md"
-              }
+              "state": {}
             }
           },
           {
@@ -117,17 +109,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "400263977884d89b",
+  "active": "33a2bab88d111215",
   "lastOpenFiles": [
+    "templates/related list.md",
+    "templates/new topic.md",
+    "templates/decline accepted job offer.md",
+    "cryptocurrency/Chainlink/Fair Sequencing Services (FSS).md",
     "software/data ETL/dbt.md",
     "personal/job-hunting/data etl project.md",
     "personal/job-hunting/chainlink-labs.md",
     "software/letsencrypt/letsencrypt.md",
     "programming/python/python pyenv.md",
-    "programming/databases/postgres/postgres materialized views.md",
-    "personal/software/programming languages you must know.md",
-    "software/data ETL/databend.md",
-    "software/nginx/nginx reverse proxy.md",
-    "software/nginx/nginx webserver.md"
+    "programming/databases/postgres/postgres materialized views.md"
   ]
 }
