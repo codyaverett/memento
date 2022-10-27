@@ -9,3 +9,12 @@
 - Events whose value increases when you add time field (example: logins)
 - Uses: pattern recognition, forecasting (trends, seasonality), anomaly detection
 
+## Why timescaleDB
+- 260% higher insert performance, up to 54x faster queries, simpler implementation when using TimescaleDB vs MongoDB for time-series data
+	- https://blog.timescale.com/blog/how-to-store-time-series-data-mongodb-vs-timescaledb-postgresql-a73939734016/
+- Better Data Model, Query Language, and Reliability
+	- https://blog.timescale.com/blog/timescaledb-vs-influxdb-for-time-series-data-timescale-influx-sql-nosql-36489299877/
+- Embraces SQL, not a SQL-like language
+- One database for both relational and time-series data
+- Built on top of PostgreSQL, open source for 25 years
+
