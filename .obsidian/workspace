@@ -7,8 +7,13 @@
         "id": "400263977884d89b",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "software/data ETL/apache airflow/airflow grid view.md",
+            "mode": "source",
+            "backlinks": false,
+            "source": false
+          }
         }
       }
     ],
@@ -65,6 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "software/data ETL/apache airflow/airflow grid view.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -80,7 +86,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "software/data ETL/apache airflow/airflow grid view.md"
+              }
             }
           },
           {
@@ -109,10 +117,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "33a2bab88d111215",
+  "active": "400263977884d89b",
   "lastOpenFiles": [
-    "templates/related list.md",
     "templates/new topic.md",
+    "templates/related list.md",
     "templates/decline accepted job offer.md",
     "cryptocurrency/Chainlink/Fair Sequencing Services (FSS).md",
     "software/data ETL/dbt.md",
