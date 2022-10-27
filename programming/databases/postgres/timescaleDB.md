@@ -25,6 +25,7 @@
 	- interpolate()
 	- last()
 	- time_bucket()
+	- locf()
 - Continuous Aggregates
 	- rolling up data into time based data sticks (daily, weekly candles, etc.)
 - Data retention policies
