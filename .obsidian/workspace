@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "programming/databases/postgres/timescaleDB.md",
+            "file": "software/nginx/nginx reverse proxy.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "programming/databases/postgres/timescaleDB.md",
+                "file": "software/nginx/nginx reverse proxy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,7 +87,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "programming/databases/postgres/timescaleDB.md"
+                "file": "software/nginx/nginx reverse proxy.md"
               }
             }
           },
@@ -119,6 +119,7 @@
   },
   "active": "400263977884d89b",
   "lastOpenFiles": [
+    "programming/databases/postgres/timescaleDB.md",
     "personal/job-hunting/data etl project.md",
     "software/data ETL/apache airflow/airflow CLI.md",
     "software/data ETL/apache airflow/Airflow Deployments.md",
@@ -127,7 +128,6 @@
     "templates/new topic.md",
     "templates/related list.md",
     "templates/decline accepted job offer.md",
-    "cryptocurrency/Chainlink/Fair Sequencing Services (FSS).md",
-    "software/data ETL/dbt.md"
+    "cryptocurrency/Chainlink/Fair Sequencing Services (FSS).md"
   ]
 }
