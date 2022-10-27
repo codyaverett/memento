@@ -31,3 +31,12 @@
 - Compression and Jobs
 - Availability of PostgreSQL tools and ecosystem
 
+## Why Postgres
+- Battle-tested, scalable, fast, store anything
+- Power of SQL, Aggregation, JOIN on existing business data, triggers, stored procedures, relations
+- Tooling - SQLAlchemy, Django ORM
+- PostgreSQL extensions (postgis lat/long geometric shapes)
+- Can store JSON documents (e.g. API response)
+- Fully open-source, not owned by publicly traded company
+- Used by many of the most successful companies
+
