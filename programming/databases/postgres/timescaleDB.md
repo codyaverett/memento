@@ -18,3 +18,16 @@
 - One database for both relational and time-series data
 - Built on top of PostgreSQL, open source for 25 years
 
+## Features
+- Fast ingestion of time-series data
+- Time-oriented Analytics functions
+	- histogram()
+	- interpolate()
+	- last()
+	- time_bucket()
+- Continuous Aggregates
+	- rolling up data into time based data sticks (daily, weekly candles, etc.)
+- Data retention policies
+- Compression and Jobs
+- Availability of PostgreSQL tools and ecosystem
+
