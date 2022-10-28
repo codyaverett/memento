@@ -1048,14 +1048,29 @@
       "size": 0,
       "tags": 0,
       "links": 0
+    },
+    "programming/data ETL/data modeling.md": {
+      "size": 0,
+      "tags": 0,
+      "links": 0
+    },
+    "software/data ETL/apache airflow/airflow module management.md": {
+      "size": 6950,
+      "tags": 0,
+      "links": 0
+    },
+    "software/data ETL/apache airflow/when are airflow plugins reloaded.md": {
+      "size": 0,
+      "tags": 0,
+      "links": 0
     }
   },
   "commitTypes": {
     "/": {
       "Refactor": 157,
-      "Create": 185,
+      "Create": 188,
       "Link": 57,
-      "Expand": 77
+      "Expand": 78
     }
   },
   "dailyCommits": {
@@ -1078,9 +1093,9 @@
       "15": 30,
       "16": 55,
       "17": 29,
-      "18": 23,
+      "18": 24,
       "19": 16,
-      "20": 14,
+      "20": 17,
       "21": 70,
       "22": 29,
       "23": 22
@@ -1091,7 +1106,7 @@
       "Mon": 61,
       "Tue": 75,
       "Wed": 90,
-      "Thu": 96,
+      "Thu": 100,
       "Fri": 103,
       "Sat": 0,
       "Sun": 51
@@ -1100,6 +1115,7 @@
   "recentCommits": {
     "/": {
       "Expanded": [
+        "<a class=\"internal-link\" href=\"software/data ETL/apache airflow/airflow module management.md\"> airflow module management </a>",
         "<a class=\"internal-link\" href=\"software/nginx/nginx reverse proxy.md\"> nginx reverse proxy </a>",
         "<a class=\"internal-link\" href=\"software/nginx/nginx reverse proxy.md\"> nginx reverse proxy </a>",
         "<a class=\"internal-link\" href=\"cryptocurrency/Chainlink/Fair Sequencing Services (FSS).md\"> Fair Sequencing Services (FSS) </a>",
@@ -1149,10 +1165,12 @@
         "<a class=\"internal-link\" href=\"programming/python/python basics.md\"> python basics </a>",
         "<a class=\"internal-link\" href=\"programming/python/python basics.md\"> python basics </a>",
         "<a class=\"internal-link\" href=\"programming/python/python basics.md\"> python basics </a>",
-        "<a class=\"internal-link\" href=\"programming/python/python basics.md\"> python basics </a>",
         "<a class=\"internal-link\" href=\"programming/python/python basics.md\"> python basics </a>"
       ],
       "Created": [
+        "<a class=\"internal-link\" href=\"software/data ETL/apache airflow/Untitled.md\"> Untitled </a>",
+        "<a class=\"internal-link\" href=\"software/data ETL/apache airflow/Untitled.md\"> Untitled </a>",
+        "<a class=\"internal-link\" href=\"programming/data ETL/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"programming/databases/postgres/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"software/data ETL/apache airflow/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"templates/Untitled.md\"> Untitled </a>",
@@ -1200,10 +1218,7 @@
         "<a class=\"internal-link\" href=\"personal/health/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"personal/lists/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"programming/python/tips/Untitled.md\"> Untitled </a>",
-        "<a class=\"internal-link\" href=\"programming/general/beginner project ideas/Untitled.md\"> Untitled </a>",
-        "<a class=\"internal-link\" href=\"programming/cli/Untitled.md\"> Untitled </a>",
-        "<a class=\"internal-link\" href=\"personal/music/theory/Untitled.md\"> Untitled </a>",
-        "<a class=\"internal-link\" href=\"programming/javascript/Untitled.md\"> Untitled </a>"
+        "<a class=\"internal-link\" href=\"programming/general/beginner project ideas/Untitled.md\"> Untitled </a>"
       ],
       "Renamed": [
         "<a class=\"internal-link\" href=\"programming/python/python Caching.md\"> python Caching </a>",
