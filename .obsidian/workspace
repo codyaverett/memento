@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "programming/data ETL/data modeling.md",
+            "file": "software/data ETL/apache airflow/when are airflow plugins reloaded.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "programming/data ETL/data modeling.md",
+                "file": "software/data ETL/apache airflow/when are airflow plugins reloaded.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,7 +87,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "programming/data ETL/data modeling.md"
+                "file": "software/data ETL/apache airflow/when are airflow plugins reloaded.md"
               }
             }
           },
@@ -119,6 +119,8 @@
   },
   "active": "400263977884d89b",
   "lastOpenFiles": [
+    "software/data ETL/apache airflow/airflow module management.md",
+    "programming/data ETL/data modeling.md",
     "software/nginx/nginx reverse proxy.md",
     "programming/databases/postgres/timescaleDB.md",
     "personal/job-hunting/data etl project.md",
@@ -126,8 +128,6 @@
     "software/data ETL/apache airflow/Airflow Deployments.md",
     "software/data ETL/apache airflow/airflow limitations.md",
     "software/data ETL/apache airflow/airflow grid view.md",
-    "templates/new topic.md",
-    "templates/related list.md",
-    "templates/decline accepted job offer.md"
+    "templates/new topic.md"
   ]
 }
