@@ -1068,12 +1068,17 @@
       "size": 0,
       "tags": 0,
       "links": 0
+    },
+    "software/data ETL/apache airflow/airflow configuration.md": {
+      "size": 0,
+      "tags": 0,
+      "links": 0
     }
   },
   "commitTypes": {
     "/": {
       "Refactor": 157,
-      "Create": 189,
+      "Create": 190,
       "Link": 57,
       "Expand": 78
     }
@@ -1102,7 +1107,7 @@
       "19": 16,
       "20": 17,
       "21": 71,
-      "22": 29,
+      "22": 30,
       "23": 22
     }
   },
@@ -1111,7 +1116,7 @@
       "Mon": 61,
       "Tue": 75,
       "Wed": 90,
-      "Thu": 101,
+      "Thu": 102,
       "Fri": 103,
       "Sat": 0,
       "Sun": 51
@@ -1176,6 +1181,7 @@
         "<a class=\"internal-link\" href=\"software/data ETL/apache airflow/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"software/data ETL/apache airflow/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"software/data ETL/apache airflow/Untitled.md\"> Untitled </a>",
+        "<a class=\"internal-link\" href=\"software/data ETL/apache airflow/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"programming/data ETL/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"programming/databases/postgres/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"software/data ETL/apache airflow/Untitled.md\"> Untitled </a>",
@@ -1222,8 +1228,7 @@
         "<a class=\"internal-link\" href=\"software/data ETL/apache airflow/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"programming/python/tips/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"personal/health/Untitled.md\"> Untitled </a>",
-        "<a class=\"internal-link\" href=\"personal/lists/Untitled.md\"> Untitled </a>",
-        "<a class=\"internal-link\" href=\"programming/python/tips/Untitled.md\"> Untitled </a>"
+        "<a class=\"internal-link\" href=\"personal/lists/Untitled.md\"> Untitled </a>"
       ],
       "Renamed": [
         "<a class=\"internal-link\" href=\"programming/python/python Caching.md\"> python Caching </a>",
