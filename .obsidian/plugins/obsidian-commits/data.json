@@ -1083,12 +1083,17 @@
       "size": 0,
       "tags": 0,
       "links": 0
+    },
+    "software/data ETL/apache airflow/airflow DAGs.md": {
+      "size": 0,
+      "tags": 0,
+      "links": 0
     }
   },
   "commitTypes": {
     "/": {
       "Refactor": 159,
-      "Create": 193,
+      "Create": 194,
       "Link": 57,
       "Expand": 78
     }
@@ -1118,7 +1123,7 @@
       "20": 17,
       "21": 71,
       "22": 31,
-      "23": 26
+      "23": 27
     }
   },
   "weeklyCommits": {
@@ -1126,7 +1131,7 @@
       "Mon": 61,
       "Tue": 75,
       "Wed": 90,
-      "Thu": 107,
+      "Thu": 108,
       "Fri": 103,
       "Sat": 0,
       "Sun": 51
@@ -1189,6 +1194,7 @@
       ],
       "Created": [
         "<a class=\"internal-link\" href=\"software/data ETL/apache airflow/Untitled.md\"> Untitled </a>",
+        "<a class=\"internal-link\" href=\"software/data ETL/apache airflow/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"cryptocurrency/Ethereum/Etherscan/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"software/data ETL/apache airflow/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"software/data ETL/apache airflow/Untitled.md\"> Untitled </a>",
@@ -1237,8 +1243,7 @@
         "<a class=\"internal-link\" href=\"programming/deno/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"software/data ETL/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"software/data ETL/Untitled.md\"> Untitled </a>",
-        "<a class=\"internal-link\" href=\"software/data ETL/Untitled.md\"> Untitled </a>",
-        "<a class=\"internal-link\" href=\"software/data ETL/apache airflow/Untitled.md\"> Untitled </a>"
+        "<a class=\"internal-link\" href=\"software/data ETL/Untitled.md\"> Untitled </a>"
       ],
       "Renamed": [
         "<a class=\"internal-link\" href=\"cryptocurrency/Ethereum/Ethereum.md\"> Ethereum </a>",
