@@ -1085,7 +1085,7 @@
       "links": 0
     },
     "software/data ETL/apache airflow/airflow DAGs.md": {
-      "size": 0,
+      "size": 2430,
       "tags": 0,
       "links": 0
     }
@@ -1095,7 +1095,7 @@
       "Refactor": 159,
       "Create": 194,
       "Link": 57,
-      "Expand": 78
+      "Expand": 79
     }
   },
   "dailyCommits": {
@@ -1123,7 +1123,7 @@
       "20": 17,
       "21": 71,
       "22": 31,
-      "23": 27
+      "23": 28
     }
   },
   "weeklyCommits": {
@@ -1131,7 +1131,7 @@
       "Mon": 61,
       "Tue": 75,
       "Wed": 90,
-      "Thu": 108,
+      "Thu": 109,
       "Fri": 103,
       "Sat": 0,
       "Sun": 51
@@ -1140,6 +1140,7 @@
   "recentCommits": {
     "/": {
       "Expanded": [
+        "<a class=\"internal-link\" href=\"software/data ETL/apache airflow/airflow DAGs.md\"> airflow DAGs </a>",
         "<a class=\"internal-link\" href=\"software/data ETL/apache airflow/airflow module management.md\"> airflow module management </a>",
         "<a class=\"internal-link\" href=\"software/nginx/nginx reverse proxy.md\"> nginx reverse proxy </a>",
         "<a class=\"internal-link\" href=\"software/nginx/nginx reverse proxy.md\"> nginx reverse proxy </a>",
@@ -1185,7 +1186,6 @@
         "<a class=\"internal-link\" href=\"personal/job-hunting/Federal-reserve-bank-topics.md\"> Federal-reserve-bank-topics </a>",
         "<a class=\"internal-link\" href=\"personal/job-hunting/Federal-reserve-bank-topics.md\"> Federal-reserve-bank-topics </a>",
         "<a class=\"internal-link\" href=\"personal/job-hunting/Federal-reserve-bank-topics.md\"> Federal-reserve-bank-topics </a>",
-        "<a class=\"internal-link\" href=\"programming/python/python basics.md\"> python basics </a>",
         "<a class=\"internal-link\" href=\"programming/python/python basics.md\"> python basics </a>",
         "<a class=\"internal-link\" href=\"programming/python/python basics.md\"> python basics </a>",
         "<a class=\"internal-link\" href=\"programming/python/python basics.md\"> python basics </a>",
