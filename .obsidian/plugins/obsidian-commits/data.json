@@ -854,11 +854,6 @@
       "tags": 0,
       "links": 1
     },
-    "cryptocurrency/Ethereum.md": {
-      "size": 1154,
-      "tags": 0,
-      "links": 0
-    },
     "cryptocurrency/FantomList.md": {
       "size": 587,
       "tags": 0,
@@ -1073,12 +1068,27 @@
       "size": 0,
       "tags": 0,
       "links": 0
+    },
+    "software/data ETL/apache airflow/airflow flower.md": {
+      "size": 0,
+      "tags": 0,
+      "links": 0
+    },
+    "cryptocurrency/Ethereum/Ethereum.md": {
+      "size": 1154,
+      "tags": 0,
+      "links": 0
+    },
+    "software/data ETL/apache airflow/Untitled.md": {
+      "size": 0,
+      "tags": 0,
+      "links": 0
     }
   },
   "commitTypes": {
     "/": {
-      "Refactor": 157,
-      "Create": 190,
+      "Refactor": 159,
+      "Create": 193,
       "Link": 57,
       "Expand": 78
     }
@@ -1107,8 +1117,8 @@
       "19": 16,
       "20": 17,
       "21": 71,
-      "22": 30,
-      "23": 22
+      "22": 31,
+      "23": 26
     }
   },
   "weeklyCommits": {
@@ -1116,7 +1126,7 @@
       "Mon": 61,
       "Tue": 75,
       "Wed": 90,
-      "Thu": 102,
+      "Thu": 107,
       "Fri": 103,
       "Sat": 0,
       "Sun": 51
@@ -1179,6 +1189,9 @@
       ],
       "Created": [
         "<a class=\"internal-link\" href=\"software/data ETL/apache airflow/Untitled.md\"> Untitled </a>",
+        "<a class=\"internal-link\" href=\"cryptocurrency/Ethereum/Etherscan/Untitled.md\"> Untitled </a>",
+        "<a class=\"internal-link\" href=\"software/data ETL/apache airflow/Untitled.md\"> Untitled </a>",
+        "<a class=\"internal-link\" href=\"software/data ETL/apache airflow/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"software/data ETL/apache airflow/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"software/data ETL/apache airflow/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"software/data ETL/apache airflow/Untitled.md\"> Untitled </a>",
@@ -1225,12 +1238,10 @@
         "<a class=\"internal-link\" href=\"software/data ETL/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"software/data ETL/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"software/data ETL/Untitled.md\"> Untitled </a>",
-        "<a class=\"internal-link\" href=\"software/data ETL/apache airflow/Untitled.md\"> Untitled </a>",
-        "<a class=\"internal-link\" href=\"programming/python/tips/Untitled.md\"> Untitled </a>",
-        "<a class=\"internal-link\" href=\"personal/health/Untitled.md\"> Untitled </a>",
-        "<a class=\"internal-link\" href=\"personal/lists/Untitled.md\"> Untitled </a>"
+        "<a class=\"internal-link\" href=\"software/data ETL/apache airflow/Untitled.md\"> Untitled </a>"
       ],
       "Renamed": [
+        "<a class=\"internal-link\" href=\"cryptocurrency/Ethereum/Ethereum.md\"> Ethereum </a>",
         "<a class=\"internal-link\" href=\"programming/python/python Caching.md\"> python Caching </a>",
         "<a class=\"internal-link\" href=\"programming/python/python pyenv.md\"> python pyenv </a>",
         "<a class=\"internal-link\" href=\"software/containers/docker/run docker commands without sudo.md\"> run docker commands without sudo </a>",
@@ -1280,8 +1291,7 @@
         "<a class=\"internal-link\" href=\"cryptocurrencies/Ergo.md\"> Ergo </a>",
         "<a class=\"internal-link\" href=\"cryptocurrencies/Elrond.md\"> Elrond </a>",
         "<a class=\"internal-link\" href=\"cryptocurrencies/DecentralizedTools.md\"> DecentralizedTools </a>",
-        "<a class=\"internal-link\" href=\"cryptocurrencies/CryptoPlatforms.md\"> CryptoPlatforms </a>",
-        "<a class=\"internal-link\" href=\"cryptocurrencies/Cardano_marlowe_pioneer.md\"> Cardano_marlowe_pioneer </a>"
+        "<a class=\"internal-link\" href=\"cryptocurrencies/CryptoPlatforms.md\"> CryptoPlatforms </a>"
       ],
       "Tagged": [
         "<a class=\"internal-link\" href=\"personal/job-hunting/jb-hunt-topics.md\"> jb-hunt-topics </a>",
@@ -1314,7 +1324,8 @@
         "<a class=\"internal-link\" href=\"daily/08-11-22.md\"> 08-11-22 </a>",
         "<a class=\"internal-link\" href=\"daily/08-18-22.md\"> 08-18-22 </a>",
         "<a class=\"internal-link\" href=\"daily/08-19-22.md\"> 08-19-22 </a>",
-        "<a class=\"internal-link\" href=\"daily/08-22-22.md\"> 08-22-22 </a>"
+        "<a class=\"internal-link\" href=\"daily/08-22-22.md\"> 08-22-22 </a>",
+        "<a class=\"internal-link\" href=\"cryptocurrency/Ethereum/Etherscan/Untitled.md\"> Untitled </a>"
       ],
       "Linked": [
         "<a class=\"internal-link\" href=\"software/data ETL/databend.md\"> databend </a>",

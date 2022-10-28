@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "software/data ETL/apache airflow/airflow flower.md",
+            "file": "software/data ETL/apache airflow/airflow secret variables.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "software/data ETL/apache airflow/airflow flower.md",
+                "file": "software/data ETL/apache airflow/airflow secret variables.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,7 +87,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "software/data ETL/apache airflow/airflow flower.md"
+                "file": "software/data ETL/apache airflow/airflow secret variables.md"
               }
             }
           },
@@ -119,15 +119,15 @@
   },
   "active": "400263977884d89b",
   "lastOpenFiles": [
+    "cryptocurrency/Ethereum/Ethereum.md",
+    "cryptocurrency/Ethereum/Etherscan/Untitled.md",
+    "software/data ETL/apache airflow/airflow flower.md",
     "software/data ETL/apache airflow/airflow configuration.md",
     "software/data ETL/apache airflow/create airflow user.md",
     "software/data ETL/apache airflow/airflow module management.md",
     "software/data ETL/apache airflow/apache airflow quickstart.md",
     "software/data ETL/apache airflow/when are airflow plugins reloaded.md",
     "software/data ETL/apache airflow/airflow CLI.md",
-    "software/data ETL/apache airflow/airflow grid view.md",
-    "software/data ETL/apache airflow/Airflow Deployments.md",
-    "software/data ETL/dbt.md",
-    "software/data ETL/apache NiFi.md"
+    "software/data ETL/apache airflow/airflow grid view.md"
   ]
 }
