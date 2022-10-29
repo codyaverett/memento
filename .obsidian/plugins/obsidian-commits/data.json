@@ -1088,12 +1088,22 @@
       "size": 2430,
       "tags": 0,
       "links": 0
+    },
+    "software/data ETL/apache airflow/airflow hooks.md": {
+      "size": 0,
+      "tags": 0,
+      "links": 0
+    },
+    "software/data ETL/apache airflow/airflow operators.md": {
+      "size": 0,
+      "tags": 0,
+      "links": 0
     }
   },
   "commitTypes": {
     "/": {
-      "Refactor": 159,
-      "Create": 194,
+      "Refactor": 160,
+      "Create": 196,
       "Link": 57,
       "Expand": 79
     }
@@ -1114,7 +1124,7 @@
       "11": 10,
       "12": 6,
       "13": 27,
-      "14": 21,
+      "14": 24,
       "15": 30,
       "16": 55,
       "17": 29,
@@ -1134,7 +1144,7 @@
       "Thu": 109,
       "Fri": 103,
       "Sat": 0,
-      "Sun": 51
+      "Sun": 54
     }
   },
   "recentCommits": {
@@ -1195,6 +1205,8 @@
       "Created": [
         "<a class=\"internal-link\" href=\"software/data ETL/apache airflow/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"software/data ETL/apache airflow/Untitled.md\"> Untitled </a>",
+        "<a class=\"internal-link\" href=\"software/data ETL/apache airflow/Untitled.md\"> Untitled </a>",
+        "<a class=\"internal-link\" href=\"software/data ETL/apache airflow/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"cryptocurrency/Ethereum/Etherscan/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"software/data ETL/apache airflow/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"software/data ETL/apache airflow/Untitled.md\"> Untitled </a>",
@@ -1241,11 +1253,10 @@
         "<a class=\"internal-link\" href=\"software/letsencrypt/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"software/data ETL/apache airflow/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"programming/deno/Untitled.md\"> Untitled </a>",
-        "<a class=\"internal-link\" href=\"software/data ETL/Untitled.md\"> Untitled </a>",
-        "<a class=\"internal-link\" href=\"software/data ETL/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"software/data ETL/Untitled.md\"> Untitled </a>"
       ],
       "Renamed": [
+        "<a class=\"internal-link\" href=\"software/data ETL/apache airflow/airflow operators.md\"> airflow operators </a>",
         "<a class=\"internal-link\" href=\"cryptocurrency/Ethereum/Ethereum.md\"> Ethereum </a>",
         "<a class=\"internal-link\" href=\"programming/python/python Caching.md\"> python Caching </a>",
         "<a class=\"internal-link\" href=\"programming/python/python pyenv.md\"> python pyenv </a>",
@@ -1295,8 +1306,7 @@
         "<a class=\"internal-link\" href=\"cryptocurrencies/Ethereum.md\"> Ethereum </a>",
         "<a class=\"internal-link\" href=\"cryptocurrencies/Ergo.md\"> Ergo </a>",
         "<a class=\"internal-link\" href=\"cryptocurrencies/Elrond.md\"> Elrond </a>",
-        "<a class=\"internal-link\" href=\"cryptocurrencies/DecentralizedTools.md\"> DecentralizedTools </a>",
-        "<a class=\"internal-link\" href=\"cryptocurrencies/CryptoPlatforms.md\"> CryptoPlatforms </a>"
+        "<a class=\"internal-link\" href=\"cryptocurrencies/DecentralizedTools.md\"> DecentralizedTools </a>"
       ],
       "Tagged": [
         "<a class=\"internal-link\" href=\"personal/job-hunting/jb-hunt-topics.md\"> jb-hunt-topics </a>",
