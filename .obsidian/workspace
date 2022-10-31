@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "software/containers/docker-compose/create compose from multiple dockerfiles.md",
+            "file": "personal/lifehacks/forgetting what you read after you read it.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "software/containers/docker-compose/create compose from multiple dockerfiles.md",
+                "file": "personal/lifehacks/forgetting what you read after you read it.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,7 +87,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "software/containers/docker-compose/create compose from multiple dockerfiles.md"
+                "file": "personal/lifehacks/forgetting what you read after you read it.md"
               }
             }
           },
@@ -119,6 +119,7 @@
   },
   "active": "400263977884d89b",
   "lastOpenFiles": [
+    "software/containers/docker-compose/create compose from multiple dockerfiles.md",
     "software/data ETL/apache airflow/airflow operators.md",
     "software/data ETL/apache airflow/airflow hooks.md",
     "software/data ETL/apache airflow/airflow secret variables.md",
@@ -127,7 +128,6 @@
     "cryptocurrency/Ethereum/Etherscan/Untitled.md",
     "software/data ETL/apache airflow/airflow flower.md",
     "software/data ETL/apache airflow/airflow configuration.md",
-    "software/data ETL/apache airflow/create airflow user.md",
-    "software/data ETL/apache airflow/airflow module management.md"
+    "software/data ETL/apache airflow/create airflow user.md"
   ]
 }
