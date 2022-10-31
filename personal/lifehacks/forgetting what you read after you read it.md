@@ -1,14 +1,10 @@
 # forgetting what you read after you read it
 
-Procrastinating - If there is a gap between your head and your hands look in the middle at your heart.
+Procrastinating - If there is a gap between your head and your hands look in the middle at your heart.  Humans are emotional beings.
 
-Eyes, information
-Podcasts, information but no 
-Implementation, Integration
-
-## Flow states
-- being in the zone
-- 
+"Reasons reap results"
+"Genius leaves clues"
+"Names you remember you remember because there is some intention behind it"
 
 ## 3 questions to ask about what you are reading
 1. How can I use this? 
