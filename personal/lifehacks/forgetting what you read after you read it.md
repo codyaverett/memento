@@ -6,6 +6,9 @@ Procrastinating - If there is a gap between your head and your hands look in the
 "Genius leaves clues"
 "Names you remember you remember because there is some intention behind it"
 
+Reading slow impacts reading comprehension.
+Reading quickly improves your focus.
+
 ## 3 questions to ask about what you are reading
 1. How can I use this? 
 	- The key to reading comprehension is asking questions.
