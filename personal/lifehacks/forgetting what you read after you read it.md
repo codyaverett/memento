@@ -31,3 +31,5 @@ Reading quickly improves your focus.
 	- Remember: self-care and self-love are not selfish.
 	- Look after yourself first so you're not seeking validation from others, so you can generate this internally and don't need outside stimulus to do what you want to do --- if you can generate your motivation on your own, you'll start doing it because it's who you are.
 
+## Reference
+- https://youtu.be/Y1e38mkTfRA
