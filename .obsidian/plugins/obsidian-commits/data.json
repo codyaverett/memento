@@ -1105,7 +1105,7 @@
       "links": 1
     },
     "personal/lifehacks/forgetting what you read after you read it.md": {
-      "size": 0,
+      "size": 2074,
       "tags": 0,
       "links": 0
     }
@@ -1115,7 +1115,7 @@
       "Refactor": 160,
       "Create": 198,
       "Link": 58,
-      "Expand": 79
+      "Expand": 80
     }
   },
   "dailyCommits": {
@@ -1140,7 +1140,7 @@
       "17": 29,
       "18": 24,
       "19": 16,
-      "20": 18,
+      "20": 19,
       "21": 71,
       "22": 31,
       "23": 28
@@ -1154,12 +1154,13 @@
       "Thu": 109,
       "Fri": 103,
       "Sat": 0,
-      "Sun": 57
+      "Sun": 58
     }
   },
   "recentCommits": {
     "/": {
       "Expanded": [
+        "<a class=\"internal-link\" href=\"personal/lifehacks/forgetting what you read after you read it.md\"> forgetting what you read after you read it </a>",
         "<a class=\"internal-link\" href=\"software/data ETL/apache airflow/airflow DAGs.md\"> airflow DAGs </a>",
         "<a class=\"internal-link\" href=\"software/data ETL/apache airflow/airflow module management.md\"> airflow module management </a>",
         "<a class=\"internal-link\" href=\"software/nginx/nginx reverse proxy.md\"> nginx reverse proxy </a>",
@@ -1206,7 +1207,6 @@
         "<a class=\"internal-link\" href=\"personal/job-hunting/Federal-reserve-bank-topics.md\"> Federal-reserve-bank-topics </a>",
         "<a class=\"internal-link\" href=\"personal/job-hunting/Federal-reserve-bank-topics.md\"> Federal-reserve-bank-topics </a>",
         "<a class=\"internal-link\" href=\"personal/job-hunting/Federal-reserve-bank-topics.md\"> Federal-reserve-bank-topics </a>",
-        "<a class=\"internal-link\" href=\"programming/python/python basics.md\"> python basics </a>",
         "<a class=\"internal-link\" href=\"programming/python/python basics.md\"> python basics </a>",
         "<a class=\"internal-link\" href=\"programming/python/python basics.md\"> python basics </a>",
         "<a class=\"internal-link\" href=\"programming/python/python basics.md\"> python basics </a>",
