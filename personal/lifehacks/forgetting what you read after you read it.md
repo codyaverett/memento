@@ -19,5 +19,10 @@ Reading quickly improves your focus.
 	- Books on shelves aren't useful innately. 
 	- Apply what you learn.
 
-3. 
+3. When will I use this?
+	- Doesn't become real until you put it in your calendar
+	- Your calendar is an incredible productivity tool!
+	- Treat it as time incredibly well invested, and protect that time like you would time with your boss or family --- things you wouldn't compromise on.
+	- Remember: self-care and self-love are not selfish.
+	- 
 
