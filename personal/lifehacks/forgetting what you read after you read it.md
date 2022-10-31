@@ -2,6 +2,7 @@
 "Reasons reap results"
 "Genius leaves clues"
 "Names you remember; you remember because there is some intention behind it"
+"All behavior is belief driven"
 
 Reading slow impacts reading comprehension.
 Reading quickly improves your focus.
