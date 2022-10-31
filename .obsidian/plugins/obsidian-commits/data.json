@@ -1102,14 +1102,19 @@
     "software/containers/docker-compose/create compose from multiple dockerfiles.md": {
       "size": 0,
       "tags": 0,
+      "links": 1
+    },
+    "personal/lifehacks/forgetting what you read after you read it.md": {
+      "size": 0,
+      "tags": 0,
       "links": 0
     }
   },
   "commitTypes": {
     "/": {
       "Refactor": 160,
-      "Create": 197,
-      "Link": 57,
+      "Create": 198,
+      "Link": 58,
       "Expand": 79
     }
   },
@@ -1120,7 +1125,7 @@
       "2": 18,
       "3": 32,
       "4": 3,
-      "5": 2,
+      "5": 3,
       "6": 5,
       "7": 0,
       "8": 1,
@@ -1135,7 +1140,7 @@
       "17": 29,
       "18": 24,
       "19": 16,
-      "20": 17,
+      "20": 18,
       "21": 71,
       "22": 31,
       "23": 28
@@ -1149,7 +1154,7 @@
       "Thu": 109,
       "Fri": 103,
       "Sat": 0,
-      "Sun": 55
+      "Sun": 57
     }
   },
   "recentCommits": {
@@ -1208,6 +1213,7 @@
         "<a class=\"internal-link\" href=\"programming/python/python basics.md\"> python basics </a>"
       ],
       "Created": [
+        "<a class=\"internal-link\" href=\"personal/lifehacks/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"software/containers/docker-compose/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"software/data ETL/apache airflow/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"software/data ETL/apache airflow/Untitled.md\"> Untitled </a>",
@@ -1257,8 +1263,7 @@
         "<a class=\"internal-link\" href=\"software/linux/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"software/CICD/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"software/letsencrypt/Untitled.md\"> Untitled </a>",
-        "<a class=\"internal-link\" href=\"software/data ETL/apache airflow/Untitled.md\"> Untitled </a>",
-        "<a class=\"internal-link\" href=\"programming/deno/Untitled.md\"> Untitled </a>"
+        "<a class=\"internal-link\" href=\"software/data ETL/apache airflow/Untitled.md\"> Untitled </a>"
       ],
       "Renamed": [
         "<a class=\"internal-link\" href=\"software/data ETL/apache airflow/airflow operators.md\"> airflow operators </a>",
@@ -1348,6 +1353,7 @@
         "<a class=\"internal-link\" href=\"cryptocurrency/Ethereum/Etherscan/Untitled.md\"> Untitled </a>"
       ],
       "Linked": [
+        "<a class=\"internal-link\" href=\"software/containers/docker-compose/create compose from multiple dockerfiles.md\"> create compose from multiple dockerfiles </a>",
         "<a class=\"internal-link\" href=\"software/data ETL/databend.md\"> databend </a>",
         "<a class=\"internal-link\" href=\"programming/python/python poetry.md\"> python poetry </a>",
         "<a class=\"internal-link\" href=\"programming/haskell/working with lists.md\"> working with lists </a>",
@@ -1397,8 +1403,7 @@
         "<a class=\"internal-link\" href=\"programming/python/python cheatsheet.md\"> python cheatsheet </a>",
         "<a class=\"internal-link\" href=\"programming/c and c++/opencv.md\"> opencv </a>",
         "<a class=\"internal-link\" href=\"Backlog.md\"> Backlog </a>",
-        "<a class=\"internal-link\" href=\"personal/job-hunting/data etl project.md\"> data etl project </a>",
-        "<a class=\"internal-link\" href=\"programming/javascript/Javascript oddities.md\"> Javascript oddities </a>"
+        "<a class=\"internal-link\" href=\"personal/job-hunting/data etl project.md\"> data etl project </a>"
       ],
       "Removed Tags from": [],
       "Removed Links from": [
