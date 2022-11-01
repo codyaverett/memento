@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "personal/lifehacks/forgetting what you read after you read it.md",
+            "file": "personal/job-hunting/staff engineer.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "personal/lifehacks/forgetting what you read after you read it.md",
+                "file": "personal/job-hunting/staff engineer.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,7 +87,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "personal/lifehacks/forgetting what you read after you read it.md"
+                "file": "personal/job-hunting/staff engineer.md"
               }
             }
           },
@@ -119,6 +119,8 @@
   },
   "active": "400263977884d89b",
   "lastOpenFiles": [
+    "programming/SQL/SQL order of execution.md",
+    "personal/lifehacks/forgetting what you read after you read it.md",
     "software/containers/docker-compose/create compose from multiple dockerfiles.md",
     "software/data ETL/apache airflow/airflow operators.md",
     "software/data ETL/apache airflow/airflow hooks.md",
@@ -126,8 +128,6 @@
     "software/data ETL/apache airflow/airflow DAGs.md",
     "cryptocurrency/Ethereum/Ethereum.md",
     "cryptocurrency/Ethereum/Etherscan/Untitled.md",
-    "software/data ETL/apache airflow/airflow flower.md",
-    "software/data ETL/apache airflow/airflow configuration.md",
-    "software/data ETL/apache airflow/create airflow user.md"
+    "software/data ETL/apache airflow/airflow flower.md"
   ]
 }
