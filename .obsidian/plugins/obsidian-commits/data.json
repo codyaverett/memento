@@ -1108,12 +1108,17 @@
       "size": 2074,
       "tags": 0,
       "links": 0
+    },
+    "personal/job-hunting/staff engineer.md": {
+      "size": 0,
+      "tags": 0,
+      "links": 0
     }
   },
   "commitTypes": {
     "/": {
       "Refactor": 160,
-      "Create": 198,
+      "Create": 199,
       "Link": 58,
       "Expand": 80
     }
@@ -1136,7 +1141,7 @@
       "13": 27,
       "14": 25,
       "15": 30,
-      "16": 55,
+      "16": 56,
       "17": 29,
       "18": 24,
       "19": 16,
@@ -1149,7 +1154,7 @@
   "weeklyCommits": {
     "/": {
       "Mon": 61,
-      "Tue": 75,
+      "Tue": 76,
       "Wed": 90,
       "Thu": 109,
       "Fri": 103,
@@ -1213,6 +1218,7 @@
         "<a class=\"internal-link\" href=\"programming/python/python basics.md\"> python basics </a>"
       ],
       "Created": [
+        "<a class=\"internal-link\" href=\"personal/job-hunting/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"personal/lifehacks/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"software/containers/docker-compose/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"software/data ETL/apache airflow/Untitled.md\"> Untitled </a>",
@@ -1262,8 +1268,7 @@
         "<a class=\"internal-link\" href=\"software/linux/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"software/linux/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"software/CICD/Untitled.md\"> Untitled </a>",
-        "<a class=\"internal-link\" href=\"software/letsencrypt/Untitled.md\"> Untitled </a>",
-        "<a class=\"internal-link\" href=\"software/data ETL/apache airflow/Untitled.md\"> Untitled </a>"
+        "<a class=\"internal-link\" href=\"software/letsencrypt/Untitled.md\"> Untitled </a>"
       ],
       "Renamed": [
         "<a class=\"internal-link\" href=\"software/data ETL/apache airflow/airflow operators.md\"> airflow operators </a>",
