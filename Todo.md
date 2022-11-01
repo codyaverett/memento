@@ -6,5 +6,7 @@ I relate other documents I need to work on more to this document so I can keep t
 - https://obsidian.md/
 - [plugins](https://obsidian.md/plugins)
 
-## WGU college
+## Course Work
 - My [[computer science degree at WGU]]
+- [data engineer google cloud certification](https://www.cloudskillsboost.google/paths/16)
+-
