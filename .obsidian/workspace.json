@@ -1,0 +1,155 @@
+{
+  "main": {
+    "id": "c9264bb1d27b0ec3",
+    "type": "split",
+    "children": [
+      {
+        "id": "9df74527f8668d4d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "400263977884d89b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "personal/job-hunting/staff engineer.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "586a4bec317fb573",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "daily/11-04-22.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "77e109c171b1c061",
+    "type": "split",
+    "children": [
+      {
+        "id": "5bbce78dd45033e4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "33a2bab88d111215",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "ae726e6606676848",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "pyenv",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 283.50235176086426
+  },
+  "right": {
+    "id": "27aa3db891e6815a",
+    "type": "split",
+    "children": [
+      {
+        "id": "e27edad1fa3dec75",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "dceca7c594a21c28",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "daily/11-04-22.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "81e320e71a1d6dbf",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "daily/11-04-22.md"
+              }
+            }
+          },
+          {
+            "id": "248b535a1fe3476e",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "3d8bc9f56a966cf6",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "586a4bec317fb573",
+  "lastOpenFiles": [
+    "programming/SQL/SQL order of execution.md",
+    "personal/lifehacks/forgetting what you read after you read it.md",
+    "software/containers/docker-compose/create compose from multiple dockerfiles.md",
+    "software/data ETL/apache airflow/airflow operators.md",
+    "software/data ETL/apache airflow/airflow hooks.md",
+    "software/data ETL/apache airflow/airflow secret variables.md",
+    "software/data ETL/apache airflow/airflow DAGs.md",
+    "cryptocurrency/Ethereum/Ethereum.md",
+    "cryptocurrency/Ethereum/Etherscan/Untitled.md",
+    "software/data ETL/apache airflow/airflow flower.md"
+  ]
+}
