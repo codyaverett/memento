@@ -94,11 +94,6 @@
       "tags": 0,
       "links": 1
     },
-    "daily/08-16-22.md": {
-      "size": 0,
-      "tags": 0,
-      "links": 0
-    },
     "programming/python/convert an image to ASCII art.md": {
       "size": 0,
       "tags": 0,
@@ -133,11 +128,6 @@
       "size": 8035,
       "tags": 1,
       "links": 2
-    },
-    "daily/09-12-22.md": {
-      "size": 0,
-      "tags": 0,
-      "links": 0
     },
     "programming/python/useful python standard library modules.md": {
       "size": 2628,
@@ -284,11 +274,6 @@
       "tags": 0,
       "links": 0
     },
-    "personal/college/WGU/about wgu.md": {
-      "size": 0,
-      "tags": 0,
-      "links": 0
-    },
     "personal/college/WGU/computer science degree at WGU.md": {
       "size": 0,
       "tags": 0,
@@ -355,11 +340,6 @@
       "links": 0
     },
     "personal/lifehacks/reading quickly.md": {
-      "size": 0,
-      "tags": 0,
-      "links": 0
-    },
-    "personal/job-hunting/chainlink-labs.md": {
       "size": 0,
       "tags": 0,
       "links": 0
@@ -705,11 +685,6 @@
       "links": 0
     },
     "software/data ETL/databricks.md": {
-      "size": 0,
-      "tags": 0,
-      "links": 0
-    },
-    "software/data ETL/kettle.md": {
       "size": 0,
       "tags": 0,
       "links": 0
@@ -1114,16 +1089,6 @@
       "tags": 0,
       "links": 0
     },
-    "daily/11-04-22.md": {
-      "size": 0,
-      "tags": 0,
-      "links": 0
-    },
-    "personal/lifehacks/Untitled.md": {
-      "size": 0,
-      "tags": 0,
-      "links": 0
-    },
     "personal/books/Make It Stick.md": {
       "size": 0,
       "tags": 0,
@@ -1132,7 +1097,7 @@
   },
   "commitTypes": {
     "/": {
-      "Refactor": 160,
+      "Refactor": 167,
       "Create": 202,
       "Link": 58,
       "Expand": 80
@@ -1160,7 +1125,7 @@
       "17": 29,
       "18": 24,
       "19": 16,
-      "20": 21,
+      "20": 28,
       "21": 71,
       "22": 31,
       "23": 28
@@ -1172,7 +1137,7 @@
       "Tue": 76,
       "Wed": 90,
       "Thu": 109,
-      "Fri": 106,
+      "Fri": 113,
       "Sat": 0,
       "Sun": 58
     }
@@ -1370,7 +1335,14 @@
         "<a class=\"internal-link\" href=\"daily/08-18-22.md\"> 08-18-22 </a>",
         "<a class=\"internal-link\" href=\"daily/08-19-22.md\"> 08-19-22 </a>",
         "<a class=\"internal-link\" href=\"daily/08-22-22.md\"> 08-22-22 </a>",
-        "<a class=\"internal-link\" href=\"cryptocurrency/Ethereum/Etherscan/Untitled.md\"> Untitled </a>"
+        "<a class=\"internal-link\" href=\"cryptocurrency/Ethereum/Etherscan/Untitled.md\"> Untitled </a>",
+        "<a class=\"internal-link\" href=\"personal/lifehacks/Untitled.md\"> Untitled </a>",
+        "<a class=\"internal-link\" href=\"personal/job-hunting/chainlink-labs.md\"> chainlink-labs </a>",
+        "<a class=\"internal-link\" href=\"software/data ETL/kettle.md\"> kettle </a>",
+        "<a class=\"internal-link\" href=\"personal/college/WGU/about wgu.md\"> about wgu </a>",
+        "<a class=\"internal-link\" href=\"daily/11-04-22.md\"> 11-04-22 </a>",
+        "<a class=\"internal-link\" href=\"daily/08-16-22.md\"> 08-16-22 </a>",
+        "<a class=\"internal-link\" href=\"daily/09-12-22.md\"> 09-12-22 </a>"
       ],
       "Linked": [
         "<a class=\"internal-link\" href=\"software/containers/docker-compose/create compose from multiple dockerfiles.md\"> create compose from multiple dockerfiles </a>",

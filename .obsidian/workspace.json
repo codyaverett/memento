@@ -24,13 +24,8 @@
             "id": "670ee13bb980d692",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "personal/books/Make It Stick.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ],
@@ -92,7 +87,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "personal/books/Make It Stick.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,9 +102,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "personal/books/Make It Stick.md"
-              }
+              "state": {}
             }
           },
           {
@@ -139,17 +131,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "670ee13bb980d692",
+  "active": "33a2bab88d111215",
   "lastOpenFiles": [
-    "software/nginx/nginx reverse proxy.md",
+    "personal/job-hunting/data etl project.md",
+    "personal/job-hunting/chainlink-labs.md",
     "personal/lifehacks/Untitled.md",
+    "personal/books/Make It Stick.md",
+    "software/nginx/nginx reverse proxy.md",
     "programming/python/django/django container.md",
     "software/letsencrypt/letsencrypt.md",
     "personal/job-hunting/staff engineer.md",
     "daily/11-04-22.md",
-    "programming/SQL/SQL order of execution.md",
-    "personal/lifehacks/forgetting what you read after you read it.md",
-    "software/containers/docker-compose/create compose from multiple dockerfiles.md",
-    "software/data ETL/apache airflow/airflow operators.md"
+    "programming/SQL/SQL order of execution.md"
   ]
 }
