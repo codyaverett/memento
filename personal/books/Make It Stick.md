@@ -10,4 +10,5 @@
 - All new learning requires a foundation of prior knowledge.
 - Elaboration is the process of giving new material meaning by expressing it in your own words and connecting it with what you already know.
 - People who learn to extract the key ideas from new material and organize them into a mental model and connect that model to prior knowledge show an advantage in learning complex mastery.
-- A mental model is a mental respresentation of some external reality
+- A mental model is a mental representation of some external reality
+- Every-time you learn something new, you change your brain
