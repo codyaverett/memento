@@ -12,3 +12,5 @@
 - People who learn to extract the key ideas from new material and organize them into a mental model and connect that model to prior knowledge show an advantage in learning complex mastery.
 - A mental model is a mental representation of some external reality
 - Every-time you learn something new, you change your brain
+- Failure is a badge of effort and a source of useful information --- the need to understand that when learning is hard, you're doing important work.
+- Making mistakes and correcting them builds the bridges to advanced 
