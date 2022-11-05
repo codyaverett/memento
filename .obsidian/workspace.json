@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "personal/job-hunting/staff engineer.md",
+                "file": "software/nginx/nginx reverse proxy.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -21,12 +21,12 @@
             }
           },
           {
-            "id": "586a4bec317fb573",
+            "id": "670ee13bb980d692",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "daily/11-04-22.md",
+                "file": "personal/books/Make It Stick.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -63,7 +63,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "pyenv",
+                "query": "stream",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -92,7 +92,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "daily/11-04-22.md",
+                "file": "personal/books/Make It Stick.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,7 +109,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "daily/11-04-22.md"
+                "file": "personal/books/Make It Stick.md"
               }
             }
           },
@@ -139,17 +139,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "586a4bec317fb573",
+  "active": "670ee13bb980d692",
   "lastOpenFiles": [
+    "software/nginx/nginx reverse proxy.md",
+    "personal/lifehacks/Untitled.md",
+    "programming/python/django/django container.md",
+    "software/letsencrypt/letsencrypt.md",
+    "personal/job-hunting/staff engineer.md",
+    "daily/11-04-22.md",
     "programming/SQL/SQL order of execution.md",
     "personal/lifehacks/forgetting what you read after you read it.md",
     "software/containers/docker-compose/create compose from multiple dockerfiles.md",
-    "software/data ETL/apache airflow/airflow operators.md",
-    "software/data ETL/apache airflow/airflow hooks.md",
-    "software/data ETL/apache airflow/airflow secret variables.md",
-    "software/data ETL/apache airflow/airflow DAGs.md",
-    "cryptocurrency/Ethereum/Ethereum.md",
-    "cryptocurrency/Ethereum/Etherscan/Untitled.md",
-    "software/data ETL/apache airflow/airflow flower.md"
+    "software/data ETL/apache airflow/airflow operators.md"
   ]
 }
