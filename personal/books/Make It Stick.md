@@ -1,3 +1,9 @@
-| Notes | Ideas | 
-| ----- | ----- |
-|       |       |
+1. Learning requires memory
+2. We need to keep learning and remembering all of our lives 
+3. Learning is an acquired skill and the most effective strategies are often counterintuitive 
+
+## Claims made in the book
+
+We are poor judges of when we are learning well and when we're not.
+Rereading text is one of the least productive learning methods
+Retrieval practice - 
