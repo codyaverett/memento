@@ -9,8 +9,10 @@
 
 
 ## Reimplementation
+
 Steps I'd take differently
 - Start with a simpler standardized datasource 
-	- Kafka and JSON RCP connector to various blockchains
-	- Sourcing data from the blocks directly would allow for checking data consistency and a simpler time backfilling data from missing blocks
+	- Kafka or PubSub and JSON RCP connector to various blockchains
+	- Sourcing data from the blocks directly would allow for checking data integrity 
+	- simpler time backfilling data from any missing blocks
 - 
