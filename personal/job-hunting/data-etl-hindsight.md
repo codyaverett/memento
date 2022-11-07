@@ -5,14 +5,8 @@
 - Api layer was an unnecessary step for the purpose of this demo
 - Slither smart contract static analysis could have been fruitful, but would require more hours than I had to truly understand the framework's outputs.
 - When managing your own infrastructure, make frequent backups
-- 
-
-
-## Reimplementation
 
 Steps I'd take differently
-- Start with a simpler standardized datasource 
-	- Kafka or PubSub and JSON RCP connector to various blockchains
+- Start with a simpler standardized datasource through json rcp connections
 	- Sourcing data from the blocks directly would allow for checking data integrity 
 	- simpler time backfilling data from any missing blocks
-- 
