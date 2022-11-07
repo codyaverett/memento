@@ -9,4 +9,5 @@
 Steps I'd take differently
 - Start with a simpler standardized datasource through json rcp connections
 	- Sourcing data from the blocks directly would allow for checking data integrity 
-	- simpler time backfilling data from any missing blocks
+	- Would have also been simpler for backfilling any data missing from blocks
+- Wouldn't have used airflow integrity checks and triggering backfills instead of orchestrating data movement directly
