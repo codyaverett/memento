@@ -39,7 +39,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "personal/job-hunting/Lessons Learned.md",
+                "file": "personal/job-hunting/Hindsight.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -105,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "personal/job-hunting/Lessons Learned.md",
+                "file": "personal/job-hunting/Hindsight.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +122,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "personal/job-hunting/Lessons Learned.md"
+                "file": "personal/job-hunting/Hindsight.md"
               }
             }
           },

@@ -1,8 +1,8 @@
 
 - I spread myself too thin
 	- attempted to use technologies you all already used and are more familiar with.
-- The etherscan style apis were not suitable for backfilling data incase of flow failure and would result in eventual data loss.  Would need 
-- Too many moving pieces in my solution
+- The etherscan style apis were not suitable for backfilling data incase of flow failure and would result in eventual data loss.
+- Too many moving pieces in my solution, api
 - I wanted to find interesting data and went down the rabbit hole with slither's smart contract static analysis.
 - Should have backed up my db/cloud instances 
 

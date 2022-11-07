@@ -1094,7 +1094,7 @@
       "tags": 0,
       "links": 0
     },
-    "personal/job-hunting/Lessons Learned.md": {
+    "personal/job-hunting/Hindsight.md": {
       "size": 0,
       "tags": 0,
       "links": 0
@@ -1102,7 +1102,7 @@
   },
   "commitTypes": {
     "/": {
-      "Refactor": 167,
+      "Refactor": 168,
       "Create": 203,
       "Link": 58,
       "Expand": 80
@@ -1125,7 +1125,7 @@
       "12": 6,
       "13": 27,
       "14": 25,
-      "15": 31,
+      "15": 32,
       "16": 56,
       "17": 29,
       "18": 24,
@@ -1138,7 +1138,7 @@
   },
   "weeklyCommits": {
     "/": {
-      "Mon": 62,
+      "Mon": 63,
       "Tue": 76,
       "Wed": 90,
       "Thu": 109,
@@ -1256,6 +1256,7 @@
         "<a class=\"internal-link\" href=\"software/DNS/Untitled.md\"> Untitled </a>"
       ],
       "Renamed": [
+        "<a class=\"internal-link\" href=\"personal/job-hunting/Hindsight.md\"> Hindsight </a>",
         "<a class=\"internal-link\" href=\"software/data ETL/apache airflow/airflow operators.md\"> airflow operators </a>",
         "<a class=\"internal-link\" href=\"cryptocurrency/Ethereum/Ethereum.md\"> Ethereum </a>",
         "<a class=\"internal-link\" href=\"programming/python/python Caching.md\"> python Caching </a>",
@@ -1305,8 +1306,7 @@
         "<a class=\"internal-link\" href=\"cryptocurrencies/FantomList.md\"> FantomList </a>",
         "<a class=\"internal-link\" href=\"cryptocurrencies/Ethereum.md\"> Ethereum </a>",
         "<a class=\"internal-link\" href=\"cryptocurrencies/Ergo.md\"> Ergo </a>",
-        "<a class=\"internal-link\" href=\"cryptocurrencies/Elrond.md\"> Elrond </a>",
-        "<a class=\"internal-link\" href=\"cryptocurrencies/DecentralizedTools.md\"> DecentralizedTools </a>"
+        "<a class=\"internal-link\" href=\"cryptocurrencies/Elrond.md\"> Elrond </a>"
       ],
       "Tagged": [
         "<a class=\"internal-link\" href=\"personal/job-hunting/jb-hunt-topics.md\"> jb-hunt-topics </a>",
