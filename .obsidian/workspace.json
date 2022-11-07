@@ -37,12 +37,9 @@
             "id": "dfe9ee205841c816",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "personal/job-hunting/Hindsight.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
+                "file": "personal/job-hunting/Drawing 2022-11-07 15.59.02.excalidraw.md"
               }
             }
           }
@@ -89,7 +86,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 283.50235176086426
+    "width": 283.50235176086426,
+    "collapsed": true
   },
   "right": {
     "id": "27aa3db891e6815a",
@@ -105,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "personal/job-hunting/Hindsight.md",
+                "file": "personal/job-hunting/Drawing 2022-11-07 15.59.02.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +120,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "personal/job-hunting/Hindsight.md"
+                "file": "personal/job-hunting/Drawing 2022-11-07 15.59.02.excalidraw.md"
               }
             }
           },
@@ -152,8 +150,9 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "dfe9ee205841c816",
+  "active": "33a2bab88d111215",
   "lastOpenFiles": [
+    "personal/job-hunting/Hindsight.md",
     "personal/books/Make It Stick.md",
     "personal/clothing/make your own t-shirt.md",
     "personal/lifehacks/productivity tips.md",
@@ -162,7 +161,6 @@
     "personal/lifehacks/forgetting what you read after you read it.md",
     "personal/job-hunting/chainlink-labs.md",
     "personal/job-hunting/data etl project.md",
-    "personal/lifehacks/Untitled.md",
-    "software/nginx/nginx reverse proxy.md"
+    "personal/lifehacks/Untitled.md"
   ]
 }
