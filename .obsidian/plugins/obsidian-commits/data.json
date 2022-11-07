@@ -1093,12 +1093,17 @@
       "size": 0,
       "tags": 0,
       "links": 0
+    },
+    "personal/job-hunting/Lessons Learned.md": {
+      "size": 0,
+      "tags": 0,
+      "links": 0
     }
   },
   "commitTypes": {
     "/": {
       "Refactor": 167,
-      "Create": 202,
+      "Create": 203,
       "Link": 58,
       "Expand": 80
     }
@@ -1120,7 +1125,7 @@
       "12": 6,
       "13": 27,
       "14": 25,
-      "15": 30,
+      "15": 31,
       "16": 56,
       "17": 29,
       "18": 24,
@@ -1133,7 +1138,7 @@
   },
   "weeklyCommits": {
     "/": {
-      "Mon": 61,
+      "Mon": 62,
       "Tue": 76,
       "Wed": 90,
       "Thu": 109,
@@ -1198,6 +1203,7 @@
         "<a class=\"internal-link\" href=\"programming/python/python basics.md\"> python basics </a>"
       ],
       "Created": [
+        "<a class=\"internal-link\" href=\"personal/job-hunting/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"personal/books/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"personal/lifehacks/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"daily/11-04-22.md\"> 11-04-22 </a>",
@@ -1247,8 +1253,7 @@
         "<a class=\"internal-link\" href=\"programming/c++/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"programming/c_plus_plus/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"software/CICD/Untitled.md\"> Untitled </a>",
-        "<a class=\"internal-link\" href=\"software/DNS/Untitled.md\"> Untitled </a>",
-        "<a class=\"internal-link\" href=\"software/linux/Untitled.md\"> Untitled </a>"
+        "<a class=\"internal-link\" href=\"software/DNS/Untitled.md\"> Untitled </a>"
       ],
       "Renamed": [
         "<a class=\"internal-link\" href=\"software/data ETL/apache airflow/airflow operators.md\"> airflow operators </a>",
