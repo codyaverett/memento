@@ -26,25 +26,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "personal/books/Make It Stick.md",
+                "file": "personal/job-hunting/data-etl-hindsight.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               }
             }
-          },
-          {
-            "id": "dfe9ee205841c816",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "personal/job-hunting/Drawing 2022-11-07 15.59.02.excalidraw.md"
-              }
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -86,8 +76,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 283.50235176086426,
-    "collapsed": true
+    "width": 283.50235176086426
   },
   "right": {
     "id": "27aa3db891e6815a",
@@ -103,7 +92,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "personal/job-hunting/Drawing 2022-11-07 15.59.02.excalidraw.md",
+                "file": "personal/job-hunting/data-etl-hindsight.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +109,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "personal/job-hunting/Drawing 2022-11-07 15.59.02.excalidraw.md"
+                "file": "personal/job-hunting/data-etl-hindsight.md"
               }
             }
           },
@@ -152,15 +141,15 @@
   },
   "active": "33a2bab88d111215",
   "lastOpenFiles": [
-    "personal/job-hunting/Hindsight.md",
     "personal/books/Make It Stick.md",
+    "personal/job-hunting/Drawing 2022-11-07 15.59.02.excalidraw.md",
+    "personal/job-hunting/data-etl-hindsight.md",
     "personal/clothing/make your own t-shirt.md",
     "personal/lifehacks/productivity tips.md",
     "personal/lifehacks/reading quickly.md",
     "personal/lifehacks/transporting lumber with a roof rack.md",
     "personal/lifehacks/forgetting what you read after you read it.md",
     "personal/job-hunting/chainlink-labs.md",
-    "personal/job-hunting/data etl project.md",
-    "personal/lifehacks/Untitled.md"
+    "personal/job-hunting/data etl project.md"
   ]
 }

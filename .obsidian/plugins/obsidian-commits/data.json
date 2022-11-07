@@ -1094,7 +1094,12 @@
       "tags": 0,
       "links": 0
     },
-    "personal/job-hunting/Hindsight.md": {
+    "personal/job-hunting/Drawing 2022-11-07 15.59.02.excalidraw.md": {
+      "size": 2270,
+      "tags": 1,
+      "links": 0
+    },
+    "personal/job-hunting/data-etl-hindsight.md": {
       "size": 0,
       "tags": 0,
       "links": 0
@@ -1102,10 +1107,10 @@
   },
   "commitTypes": {
     "/": {
-      "Refactor": 168,
-      "Create": 203,
-      "Link": 58,
-      "Expand": 80
+      "Refactor": 169,
+      "Create": 204,
+      "Link": 59,
+      "Expand": 81
     }
   },
   "dailyCommits": {
@@ -1125,8 +1130,8 @@
       "12": 6,
       "13": 27,
       "14": 25,
-      "15": 32,
-      "16": 56,
+      "15": 33,
+      "16": 59,
       "17": 29,
       "18": 24,
       "19": 16,
@@ -1138,7 +1143,7 @@
   },
   "weeklyCommits": {
     "/": {
-      "Mon": 63,
+      "Mon": 67,
       "Tue": 76,
       "Wed": 90,
       "Thu": 109,
@@ -1150,6 +1155,7 @@
   "recentCommits": {
     "/": {
       "Expanded": [
+        "<a class=\"internal-link\" href=\"personal/job-hunting/Drawing 2022-11-07 15.59.02.excalidraw.md\"> Drawing 2022-11-07 15.59.02.excalidraw </a>",
         "<a class=\"internal-link\" href=\"personal/lifehacks/forgetting what you read after you read it.md\"> forgetting what you read after you read it </a>",
         "<a class=\"internal-link\" href=\"software/data ETL/apache airflow/airflow DAGs.md\"> airflow DAGs </a>",
         "<a class=\"internal-link\" href=\"software/data ETL/apache airflow/airflow module management.md\"> airflow module management </a>",
@@ -1199,10 +1205,10 @@
         "<a class=\"internal-link\" href=\"personal/job-hunting/Federal-reserve-bank-topics.md\"> Federal-reserve-bank-topics </a>",
         "<a class=\"internal-link\" href=\"programming/python/python basics.md\"> python basics </a>",
         "<a class=\"internal-link\" href=\"programming/python/python basics.md\"> python basics </a>",
-        "<a class=\"internal-link\" href=\"programming/python/python basics.md\"> python basics </a>",
         "<a class=\"internal-link\" href=\"programming/python/python basics.md\"> python basics </a>"
       ],
       "Created": [
+        "<a class=\"internal-link\" href=\"personal/job-hunting/Drawing 2022-11-07 15.59.02.excalidraw.md\"> Drawing 2022-11-07 15.59.02.excalidraw </a>",
         "<a class=\"internal-link\" href=\"personal/job-hunting/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"personal/books/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"personal/lifehacks/Untitled.md\"> Untitled </a>",
@@ -1252,10 +1258,10 @@
         "<a class=\"internal-link\" href=\"programming/python/image manipulation/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"programming/c++/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"programming/c_plus_plus/Untitled.md\"> Untitled </a>",
-        "<a class=\"internal-link\" href=\"software/CICD/Untitled.md\"> Untitled </a>",
-        "<a class=\"internal-link\" href=\"software/DNS/Untitled.md\"> Untitled </a>"
+        "<a class=\"internal-link\" href=\"software/CICD/Untitled.md\"> Untitled </a>"
       ],
       "Renamed": [
+        "<a class=\"internal-link\" href=\"personal/job-hunting/data-etl-hindsight.md\"> data-etl-hindsight </a>",
         "<a class=\"internal-link\" href=\"personal/job-hunting/Hindsight.md\"> Hindsight </a>",
         "<a class=\"internal-link\" href=\"software/data ETL/apache airflow/airflow operators.md\"> airflow operators </a>",
         "<a class=\"internal-link\" href=\"cryptocurrency/Ethereum/Ethereum.md\"> Ethereum </a>",
@@ -1305,14 +1311,14 @@
         "<a class=\"internal-link\" href=\"cryptocurrencies/GeneralLinks.md\"> GeneralLinks </a>",
         "<a class=\"internal-link\" href=\"cryptocurrencies/FantomList.md\"> FantomList </a>",
         "<a class=\"internal-link\" href=\"cryptocurrencies/Ethereum.md\"> Ethereum </a>",
-        "<a class=\"internal-link\" href=\"cryptocurrencies/Ergo.md\"> Ergo </a>",
-        "<a class=\"internal-link\" href=\"cryptocurrencies/Elrond.md\"> Elrond </a>"
+        "<a class=\"internal-link\" href=\"cryptocurrencies/Ergo.md\"> Ergo </a>"
       ],
       "Tagged": [
         "<a class=\"internal-link\" href=\"personal/job-hunting/jb-hunt-topics.md\"> jb-hunt-topics </a>",
         "<a class=\"internal-link\" href=\"programming/python/python extensions.md\"> python extensions </a>",
         "<a class=\"internal-link\" href=\"programming/python/python cheatsheet.md\"> python cheatsheet </a>",
-        "<a class=\"internal-link\" href=\"programming/python/reading python bools from a .env file.md\"> reading python bools from a .env file </a>"
+        "<a class=\"internal-link\" href=\"programming/python/reading python bools from a .env file.md\"> reading python bools from a .env file </a>",
+        "<a class=\"internal-link\" href=\"personal/job-hunting/Drawing 2022-11-07 15.59.02.excalidraw.md\"> Drawing 2022-11-07 15.59.02.excalidraw </a>"
       ],
       "Refactored": [],
       "Deleted": [
