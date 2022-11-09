@@ -33,8 +33,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -92,7 +91,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "software/data ETL/apache kafka.md",
+                "file": "personal/books/Make It Stick.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,7 +108,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "software/data ETL/apache kafka.md"
+                "file": "personal/books/Make It Stick.md"
               }
             }
           },
@@ -139,8 +138,9 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "08ecaffd29727a5b",
+  "active": "670ee13bb980d692",
   "lastOpenFiles": [
+    "software/data ETL/apache kafka.md",
     "personal/books/Make It Stick.md",
     "software/nginx/nginx reverse proxy.md",
     "hardware/memory controllers.md",
@@ -149,7 +149,6 @@
     "personal/job-hunting/RevUnit.md",
     "personal/job-hunting/data-etl-hindsight.md",
     "personal/job-hunting/Drawing 2022-11-07 15.59.02.excalidraw.md",
-    "personal/clothing/make your own t-shirt.md",
-    "personal/lifehacks/productivity tips.md"
+    "personal/clothing/make your own t-shirt.md"
   ]
 }
