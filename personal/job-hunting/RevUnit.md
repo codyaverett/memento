@@ -13,3 +13,4 @@ They present each study as:
 		- Reduced time to market
 		- Reducing manual planning
 
+Companies hire revunit to simplify their problems or to invent new solutions

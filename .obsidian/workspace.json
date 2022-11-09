@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "personal/books/Make It Stick.md",
+                "file": "personal/job-hunting/RevUnit.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -91,7 +91,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "personal/books/Make It Stick.md",
+                "file": "personal/job-hunting/RevUnit.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,7 +108,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "personal/books/Make It Stick.md"
+                "file": "personal/job-hunting/RevUnit.md"
               }
             }
           },
@@ -140,8 +140,8 @@
   },
   "active": "670ee13bb980d692",
   "lastOpenFiles": [
-    "software/data ETL/apache kafka.md",
     "personal/books/Make It Stick.md",
+    "software/data ETL/apache kafka.md",
     "software/nginx/nginx reverse proxy.md",
     "hardware/memory controllers.md",
     "templates/accept job offer.md",
