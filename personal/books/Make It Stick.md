@@ -16,4 +16,4 @@
 - Making mistakes and correcting them builds the bridges to advanced
 - The best empirical studies are experimental in nature - p.9
 - When learning is harder, it's stronger and lasts longer
-- 
+- Rereading is time consuming.  It doesn't result in durable memory.  And it often involves a kind of unwitting self-deception, as growing familiarity with the text comes to feel like mastery of the content
