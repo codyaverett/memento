@@ -32,9 +32,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "66ab35e52e470b0c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "personal/job-hunting/RevUnit.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -92,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "personal/books/Make It Stick.md",
+                "file": "personal/job-hunting/RevUnit.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,7 +122,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "personal/books/Make It Stick.md"
+                "file": "personal/job-hunting/RevUnit.md"
               }
             }
           },
@@ -139,10 +152,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "670ee13bb980d692",
+  "active": "66ab35e52e470b0c",
   "lastOpenFiles": [
-    "personal/job-hunting/data-etl-hindsight.md",
     "personal/books/Make It Stick.md",
+    "personal/job-hunting/data-etl-hindsight.md",
     "personal/job-hunting/Drawing 2022-11-07 15.59.02.excalidraw.md",
     "personal/clothing/make your own t-shirt.md",
     "personal/lifehacks/productivity tips.md",
