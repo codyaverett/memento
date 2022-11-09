@@ -16,3 +16,4 @@
 - Making mistakes and correcting them builds the bridges to advanced
 - The best empirical studies are experimental in nature - p.9
 - When learning is harder, it's stronger and lasts longer
+- 

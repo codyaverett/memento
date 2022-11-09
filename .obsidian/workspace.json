@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "personal/job-hunting/data-etl-hindsight.md",
+                "file": "personal/books/Make It Stick.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -92,7 +92,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "personal/job-hunting/data-etl-hindsight.md",
+                "file": "personal/books/Make It Stick.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,7 +109,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "personal/job-hunting/data-etl-hindsight.md"
+                "file": "personal/books/Make It Stick.md"
               }
             }
           },
@@ -139,11 +139,11 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "33a2bab88d111215",
+  "active": "670ee13bb980d692",
   "lastOpenFiles": [
+    "personal/job-hunting/data-etl-hindsight.md",
     "personal/books/Make It Stick.md",
     "personal/job-hunting/Drawing 2022-11-07 15.59.02.excalidraw.md",
-    "personal/job-hunting/data-etl-hindsight.md",
     "personal/clothing/make your own t-shirt.md",
     "personal/lifehacks/productivity tips.md",
     "personal/lifehacks/reading quickly.md",
