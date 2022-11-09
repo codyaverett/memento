@@ -1103,12 +1103,17 @@
       "size": 0,
       "tags": 0,
       "links": 0
+    },
+    "personal/job-hunting/RevUnit.md": {
+      "size": 0,
+      "tags": 0,
+      "links": 0
     }
   },
   "commitTypes": {
     "/": {
       "Refactor": 169,
-      "Create": 204,
+      "Create": 205,
       "Link": 59,
       "Expand": 81
     }
@@ -1132,7 +1137,7 @@
       "14": 25,
       "15": 33,
       "16": 59,
-      "17": 29,
+      "17": 30,
       "18": 24,
       "19": 16,
       "20": 28,
@@ -1145,7 +1150,7 @@
     "/": {
       "Mon": 67,
       "Tue": 76,
-      "Wed": 90,
+      "Wed": 91,
       "Thu": 109,
       "Fri": 113,
       "Sat": 0,
@@ -1208,6 +1213,7 @@
         "<a class=\"internal-link\" href=\"programming/python/python basics.md\"> python basics </a>"
       ],
       "Created": [
+        "<a class=\"internal-link\" href=\"personal/job-hunting/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"personal/job-hunting/Drawing 2022-11-07 15.59.02.excalidraw.md\"> Drawing 2022-11-07 15.59.02.excalidraw </a>",
         "<a class=\"internal-link\" href=\"personal/job-hunting/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"personal/books/Untitled.md\"> Untitled </a>",
@@ -1257,8 +1263,7 @@
         "<a class=\"internal-link\" href=\"programming/c++/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"programming/python/image manipulation/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"programming/c++/Untitled.md\"> Untitled </a>",
-        "<a class=\"internal-link\" href=\"programming/c_plus_plus/Untitled.md\"> Untitled </a>",
-        "<a class=\"internal-link\" href=\"software/CICD/Untitled.md\"> Untitled </a>"
+        "<a class=\"internal-link\" href=\"programming/c_plus_plus/Untitled.md\"> Untitled </a>"
       ],
       "Renamed": [
         "<a class=\"internal-link\" href=\"personal/job-hunting/data-etl-hindsight.md\"> data-etl-hindsight </a>",
