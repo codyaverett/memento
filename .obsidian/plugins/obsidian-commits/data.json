@@ -1103,12 +1103,17 @@
       "size": 0,
       "tags": 0,
       "links": 0
+    },
+    "software/data ETL/apache kafka.md": {
+      "size": 0,
+      "tags": 0,
+      "links": 0
     }
   },
   "commitTypes": {
     "/": {
       "Refactor": 171,
-      "Create": 206,
+      "Create": 207,
       "Link": 59,
       "Expand": 81
     }
@@ -1132,7 +1137,7 @@
       "14": 25,
       "15": 33,
       "16": 59,
-      "17": 33,
+      "17": 34,
       "18": 24,
       "19": 16,
       "20": 28,
@@ -1145,7 +1150,7 @@
     "/": {
       "Mon": 67,
       "Tue": 76,
-      "Wed": 94,
+      "Wed": 95,
       "Thu": 109,
       "Fri": 113,
       "Sat": 0,
@@ -1208,6 +1213,7 @@
         "<a class=\"internal-link\" href=\"programming/python/python basics.md\"> python basics </a>"
       ],
       "Created": [
+        "<a class=\"internal-link\" href=\"software/data ETL/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"templates/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"personal/job-hunting/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"personal/job-hunting/Drawing 2022-11-07 15.59.02.excalidraw.md\"> Drawing 2022-11-07 15.59.02.excalidraw </a>",
@@ -1257,8 +1263,7 @@
         "<a class=\"internal-link\" href=\"programming/c and c++/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"programming/c and c++/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"programming/c++/Untitled.md\"> Untitled </a>",
-        "<a class=\"internal-link\" href=\"programming/python/image manipulation/Untitled.md\"> Untitled </a>",
-        "<a class=\"internal-link\" href=\"programming/c++/Untitled.md\"> Untitled </a>"
+        "<a class=\"internal-link\" href=\"programming/python/image manipulation/Untitled.md\"> Untitled </a>"
       ],
       "Renamed": [
         "<a class=\"internal-link\" href=\"personal/job-hunting/data-etl-hindsight.md\"> data-etl-hindsight </a>",
