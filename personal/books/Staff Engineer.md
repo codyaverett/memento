@@ -24,6 +24,8 @@ Staff Engineer job functions typically overlap with engineer director roles.
 - To write an engineering vision:
 	- Write five engineering strategies, and forecast their implications two years into the future.
 - Leave all your "most brilliant" ideas out of these documents
+- Great vision is usually so obvious that it bores more than it excites
+- The core audience for your vision is the folks writing strategies
 
 ### When and why?
 When and why should you actually have a strategy?
