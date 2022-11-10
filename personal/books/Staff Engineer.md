@@ -24,3 +24,39 @@ Staff Engineer job functions typically overlap with engineer director roles.
 - To write an engineering vision:
 	- Write five engineering strategies, and forecast their implications two years into the future.
 - Leave all your "most brilliant" ideas out of these documents
+
+### When and why?
+When and why should you actually have a strategy?
+
+- Strategies are tools of proactive alignment that empower teams to move quickly and with confidence.
+- Empower others to make quick confident decisions
+- Strategies narrow your many possible futures down enough so it's possible to derive a realistic vision
+- Rehashing conversations a few times in a week is an indicator that a strategy needs to be written up
+- When the future is too hazy to identify investments worth taking, that calls for another vision to be written.
+
+### Write five design docs
+- Describe decisions and tradeoffs you've made in specific projects
+- A good design doc
+	- describes a specific problem
+	- surveys possible solutions
+	- explains the selected approach's details
+- A general rule of thumb is that you will want a design doc when multiple future projects will depend on the one you are working on now.
+- Write them for projects that meaningfully impact your users
+- Write them for any work taking more than a month of engineering time
+- Recommendations as you write:
+	- Start from the problem
+		- The clearer the problem, the clearer the solutions
+		- If solutions don't immediately come to mind clarify the problem
+		- If you are stuck articulating the problem, ask a group of peers what is missing
+	- Keep the template simple
+		- Prefer minimal templates
+		- Let people choose the sections that make the most sense for their project
+		- Only require exhaustive details for the riskiest projects
+	- Gather and review together, write alone
+		- Most people are better writers than editors
+		- Don't fall in love with what you've written until after people have reviewed it
+	- Prefer good over perfect
+		- Better to get a good document in front of people sooner instead of a marginally better document
+		- Focus on pushing design documents to be good rather than setting a high bar others may not be able to reach yet
+
+Reread your documents after you are finished implementing them and see where the implementation deviated from the plan.  This will help you improve your future design docs.
