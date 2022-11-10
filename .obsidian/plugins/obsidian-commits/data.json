@@ -1110,7 +1110,7 @@
       "links": 0
     },
     "personal/books/Staff Engineer.md": {
-      "size": 4131,
+      "size": 4972,
       "tags": 0,
       "links": 0
     }
@@ -1120,7 +1120,7 @@
       "Refactor": 171,
       "Create": 208,
       "Link": 59,
-      "Expand": 85
+      "Expand": 86
     }
   },
   "dailyCommits": {
@@ -1145,7 +1145,7 @@
       "17": 34,
       "18": 24,
       "19": 17,
-      "20": 32,
+      "20": 33,
       "21": 71,
       "22": 31,
       "23": 28
@@ -1155,7 +1155,7 @@
     "/": {
       "Mon": 67,
       "Tue": 76,
-      "Wed": 100,
+      "Wed": 101,
       "Thu": 109,
       "Fri": 113,
       "Sat": 0,
@@ -1165,6 +1165,7 @@
   "recentCommits": {
     "/": {
       "Expanded": [
+        "<a class=\"internal-link\" href=\"personal/books/Staff Engineer.md\"> Staff Engineer </a>",
         "<a class=\"internal-link\" href=\"personal/books/Staff Engineer.md\"> Staff Engineer </a>",
         "<a class=\"internal-link\" href=\"personal/books/Staff Engineer.md\"> Staff Engineer </a>",
         "<a class=\"internal-link\" href=\"personal/books/Staff Engineer.md\"> Staff Engineer </a>",
@@ -1211,7 +1212,6 @@
         "<a class=\"internal-link\" href=\"personal/job-hunting/jb-hunt-topics.md\"> jb-hunt-topics </a>",
         "<a class=\"internal-link\" href=\"personal/job-hunting/jb-hunt-topics.md\"> jb-hunt-topics </a>",
         "<a class=\"internal-link\" href=\"daily/09-02-22.md\"> 09-02-22 </a>",
-        "<a class=\"internal-link\" href=\"personal/job-hunting/Federal-reserve-bank-topics.md\"> Federal-reserve-bank-topics </a>",
         "<a class=\"internal-link\" href=\"personal/job-hunting/Federal-reserve-bank-topics.md\"> Federal-reserve-bank-topics </a>",
         "<a class=\"internal-link\" href=\"personal/job-hunting/Federal-reserve-bank-topics.md\"> Federal-reserve-bank-topics </a>",
         "<a class=\"internal-link\" href=\"personal/job-hunting/Federal-reserve-bank-topics.md\"> Federal-reserve-bank-topics </a>",

@@ -81,4 +81,21 @@ Reread your documents after you are finished implementing them and see where the
 		- Show why your decisions are good tradeoffs, etc.
 
 ### Extrapolate five strategies into a vision
-Having a lot of strategies might make it difficult to reason about how they will interact.
+Having a lot of strategies might make it difficult to reason about how they will interact.  But it is necessary to weave them together to form an effective strategy.
+
+- Write two to three years out
+	- Technologies change quickly
+	- Try to focus 2-3 years out unless you are a fairly established company
+- Ground in your business and in your users
+	- Avoid a view that clashes with your business leadership
+- Be optimistic rather than audacious
+	- Visions should be ambitious, but should also be possible
+	- Do write what you could do if everything goes to plan
+	- Don't write what you think would be possible with infinite resources
+- Stay concrete and specific
+	- generic statements are easy to agree with but don't help reconcile conflicting strategies.
+	- details in visions are illustrative rather than declarative
+	- give a taste of the future's flavor rather than offering a binding commitment
+- Keep it one to two pages long
+	- Most people don't read long documents
+	- Force yourself to write something compact, reference extra context by linking external documents for those that want further context
