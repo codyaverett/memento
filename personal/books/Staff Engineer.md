@@ -79,3 +79,6 @@ Reread your documents after you are finished implementing them and see where the
 	- Show your work
 		- Show why you chose specific frameworks
 		- Show why your decisions are good tradeoffs, etc.
+
+### Extrapolate five strategies into a vision
+Having a lot of strategies might make it difficult to reason about how they will interact.
