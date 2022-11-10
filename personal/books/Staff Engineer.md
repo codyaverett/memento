@@ -101,3 +101,4 @@ Having a lot of strategies might make it difficult to reason about how they will
 - Keep it one to two pages long
 	- Most people don't read long documents
 	- Force yourself to write something compact, reference extra context by linking external documents for those that want further context
+- 
