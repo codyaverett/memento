@@ -23,3 +23,4 @@ Staff Engineer job functions typically overlap with engineer director roles.
 	- Write five design documents, and pull the similarities out.
 - To write an engineering vision:
 	- Write five engineering strategies, and forecast their implications two years into the future.
+- Leave all your "most brilliant" ideas out of these documents
