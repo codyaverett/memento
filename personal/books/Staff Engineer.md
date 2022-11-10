@@ -60,3 +60,22 @@ When and why should you actually have a strategy?
 		- Focus on pushing design documents to be good rather than setting a high bar others may not be able to reach yet
 
 Reread your documents after you are finished implementing them and see where the implementation deviated from the plan.  This will help you improve your future design docs.
+
+### Synthesize those five design docs into a strategy
+- Good strategies guide tradeoffs and explain the rationale behind them
+- Bad strategies state a policy without explaining
+	- decoupled from context
+	- more and more difficult to understand
+	- Read "A Framework for Responsible Innovation"
+	- Read "How Big Technical Changes happen at Slack"
+- Advice for writing a strategy document:
+	- Start where you are
+		- Don't overthink the problem, you will need to revisit and rewrite bad sections
+	- Write the specifics
+		- Write until you start to generalize, then stop
+		- Specific statements create alignment; generic statements create the illusion of alignment
+	- Be opinionated
+		- Opinions provide clarity on decision making
+	- Show your work
+		- Show why you chose specific frameworks
+		- Show why your decisions are good tradeoffs, etc.

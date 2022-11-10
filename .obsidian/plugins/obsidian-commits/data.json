@@ -1110,7 +1110,7 @@
       "links": 0
     },
     "personal/books/Staff Engineer.md": {
-      "size": 2979,
+      "size": 4131,
       "tags": 0,
       "links": 0
     }
@@ -1120,7 +1120,7 @@
       "Refactor": 171,
       "Create": 208,
       "Link": 59,
-      "Expand": 83
+      "Expand": 85
     }
   },
   "dailyCommits": {
@@ -1145,7 +1145,7 @@
       "17": 34,
       "18": 24,
       "19": 17,
-      "20": 30,
+      "20": 32,
       "21": 71,
       "22": 31,
       "23": 28
@@ -1155,7 +1155,7 @@
     "/": {
       "Mon": 67,
       "Tue": 76,
-      "Wed": 98,
+      "Wed": 100,
       "Thu": 109,
       "Fri": 113,
       "Sat": 0,
@@ -1165,6 +1165,8 @@
   "recentCommits": {
     "/": {
       "Expanded": [
+        "<a class=\"internal-link\" href=\"personal/books/Staff Engineer.md\"> Staff Engineer </a>",
+        "<a class=\"internal-link\" href=\"personal/books/Staff Engineer.md\"> Staff Engineer </a>",
         "<a class=\"internal-link\" href=\"personal/books/Staff Engineer.md\"> Staff Engineer </a>",
         "<a class=\"internal-link\" href=\"personal/books/Staff Engineer.md\"> Staff Engineer </a>",
         "<a class=\"internal-link\" href=\"personal/job-hunting/Drawing 2022-11-07 15.59.02.excalidraw.md\"> Drawing 2022-11-07 15.59.02.excalidraw </a>",
@@ -1213,9 +1215,7 @@
         "<a class=\"internal-link\" href=\"personal/job-hunting/Federal-reserve-bank-topics.md\"> Federal-reserve-bank-topics </a>",
         "<a class=\"internal-link\" href=\"personal/job-hunting/Federal-reserve-bank-topics.md\"> Federal-reserve-bank-topics </a>",
         "<a class=\"internal-link\" href=\"personal/job-hunting/Federal-reserve-bank-topics.md\"> Federal-reserve-bank-topics </a>",
-        "<a class=\"internal-link\" href=\"personal/job-hunting/Federal-reserve-bank-topics.md\"> Federal-reserve-bank-topics </a>",
-        "<a class=\"internal-link\" href=\"personal/job-hunting/Federal-reserve-bank-topics.md\"> Federal-reserve-bank-topics </a>",
-        "<a class=\"internal-link\" href=\"programming/python/python basics.md\"> python basics </a>"
+        "<a class=\"internal-link\" href=\"personal/job-hunting/Federal-reserve-bank-topics.md\"> Federal-reserve-bank-topics </a>"
       ],
       "Created": [
         "<a class=\"internal-link\" href=\"personal/books/Untitled.md\"> Untitled </a>",
