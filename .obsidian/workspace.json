@@ -8,19 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "670ee13bb980d692",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "personal/job-hunting/RevUnit.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
             "id": "08ecaffd29727a5b",
             "type": "leaf",
             "state": {
@@ -32,8 +19,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "23c368a924bab33f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "personal/books/Staff Engineer.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -91,7 +92,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "personal/job-hunting/RevUnit.md",
+                "file": "personal/books/Staff Engineer.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,7 +109,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "personal/job-hunting/RevUnit.md"
+                "file": "personal/books/Staff Engineer.md"
               }
             }
           },
@@ -138,17 +139,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "670ee13bb980d692",
+  "active": "23c368a924bab33f",
   "lastOpenFiles": [
+    "personal/lifehacks/forgetting what you read after you read it.md",
+    "personal/job-hunting/RevUnit.md",
     "personal/books/Make It Stick.md",
     "software/data ETL/apache kafka.md",
     "software/nginx/nginx reverse proxy.md",
     "hardware/memory controllers.md",
     "templates/accept job offer.md",
     "templates/decline accepted job offer.md",
-    "personal/job-hunting/RevUnit.md",
     "personal/job-hunting/data-etl-hindsight.md",
-    "personal/job-hunting/Drawing 2022-11-07 15.59.02.excalidraw.md",
-    "personal/clothing/make your own t-shirt.md"
+    "personal/job-hunting/Drawing 2022-11-07 15.59.02.excalidraw.md"
   ]
 }
