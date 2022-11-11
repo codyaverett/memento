@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "software/data ETL/apache kafka.md",
+                "file": "personal/books/Make It Stick.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -91,7 +91,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "software/data ETL/apache kafka.md",
+                "file": "personal/books/Make It Stick.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,7 +108,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "software/data ETL/apache kafka.md"
+                "file": "personal/books/Make It Stick.md"
               }
             }
           },
@@ -141,10 +141,10 @@
   "active": "08ecaffd29727a5b",
   "lastOpenFiles": [
     "personal/books/Staff Engineer.md",
+    "software/data ETL/apache kafka.md",
     "personal/lifehacks/forgetting what you read after you read it.md",
     "personal/job-hunting/RevUnit.md",
     "personal/books/Make It Stick.md",
-    "software/data ETL/apache kafka.md",
     "software/nginx/nginx reverse proxy.md",
     "hardware/memory controllers.md",
     "templates/accept job offer.md",
