@@ -4,6 +4,13 @@ Reading sheet music
 
 Memonics suck
 
+Landmark notes
+C F & G
+
+Trebble and base cleffs are just a fancy G and F respectively 
+![[Pasted image 20221112175151.png]]
+
+Use landmarks
 
 
 ## Reference
