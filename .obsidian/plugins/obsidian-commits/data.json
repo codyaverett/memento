@@ -1123,12 +1123,17 @@
       "size": 0,
       "tags": 0,
       "links": 0
+    },
+    "personal/job-hunting/Cody Averett.md": {
+      "size": 0,
+      "tags": 0,
+      "links": 0
     }
   },
   "commitTypes": {
     "/": {
-      "Refactor": 171,
-      "Create": 210,
+      "Refactor": 172,
+      "Create": 211,
       "Link": 59,
       "Expand": 86
     }
@@ -1150,7 +1155,7 @@
       "12": 6,
       "13": 27,
       "14": 26,
-      "15": 33,
+      "15": 35,
       "16": 59,
       "17": 34,
       "18": 24,
@@ -1169,7 +1174,7 @@
       "Thu": 109,
       "Fri": 114,
       "Sat": 0,
-      "Sun": 59
+      "Sun": 61
     }
   },
   "recentCommits": {
@@ -1228,6 +1233,7 @@
         "<a class=\"internal-link\" href=\"personal/job-hunting/Federal-reserve-bank-topics.md\"> Federal-reserve-bank-topics </a>"
       ],
       "Created": [
+        "<a class=\"internal-link\" href=\"personal/job-hunting/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"daily/11-12-22.md\"> 11-12-22 </a>",
         "<a class=\"internal-link\" href=\"daily/11-11-22.md\"> 11-11-22 </a>",
         "<a class=\"internal-link\" href=\"personal/books/Untitled.md\"> Untitled </a>",
@@ -1277,10 +1283,10 @@
         "<a class=\"internal-link\" href=\"cryptocurrency/networks/milkomeda/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"crypto/Ethereum/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"programming/machine learning/Untitled.md\"> Untitled </a>",
-        "<a class=\"internal-link\" href=\"hardware/Untitled.md\"> Untitled </a>",
-        "<a class=\"internal-link\" href=\"programming/c and c++/Untitled.md\"> Untitled </a>"
+        "<a class=\"internal-link\" href=\"hardware/Untitled.md\"> Untitled </a>"
       ],
       "Renamed": [
+        "<a class=\"internal-link\" href=\"personal/job-hunting/Cody Averett.md\"> Cody Averett </a>",
         "<a class=\"internal-link\" href=\"personal/job-hunting/data-etl-hindsight.md\"> data-etl-hindsight </a>",
         "<a class=\"internal-link\" href=\"personal/job-hunting/Hindsight.md\"> Hindsight </a>",
         "<a class=\"internal-link\" href=\"software/data ETL/apache airflow/airflow operators.md\"> airflow operators </a>",
@@ -1330,8 +1336,7 @@
         "<a class=\"internal-link\" href=\"cryptocurrencies/CardanoWhaleWatching.md\"> CardanoWhaleWatching </a>",
         "<a class=\"internal-link\" href=\"cryptocurrencies/GeneralLinks.md\"> GeneralLinks </a>",
         "<a class=\"internal-link\" href=\"cryptocurrencies/FantomList.md\"> FantomList </a>",
-        "<a class=\"internal-link\" href=\"cryptocurrencies/Ethereum.md\"> Ethereum </a>",
-        "<a class=\"internal-link\" href=\"cryptocurrencies/Ergo.md\"> Ergo </a>"
+        "<a class=\"internal-link\" href=\"cryptocurrencies/Ethereum.md\"> Ethereum </a>"
       ],
       "Tagged": [
         "<a class=\"internal-link\" href=\"personal/job-hunting/jb-hunt-topics.md\"> jb-hunt-topics </a>",
