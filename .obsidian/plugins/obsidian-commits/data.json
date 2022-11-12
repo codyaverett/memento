@@ -1128,13 +1128,18 @@
       "size": 0,
       "tags": 0,
       "links": 0
+    },
+    "personal/music/Sheet music.md": {
+      "size": 0,
+      "tags": 0,
+      "links": 1
     }
   },
   "commitTypes": {
     "/": {
       "Refactor": 175,
-      "Create": 211,
-      "Link": 59,
+      "Create": 212,
+      "Link": 60,
       "Expand": 86
     }
   },
@@ -1157,7 +1162,7 @@
       "14": 26,
       "15": 38,
       "16": 59,
-      "17": 34,
+      "17": 36,
       "18": 24,
       "19": 17,
       "20": 33,
@@ -1174,7 +1179,7 @@
       "Thu": 109,
       "Fri": 114,
       "Sat": 0,
-      "Sun": 64
+      "Sun": 66
     }
   },
   "recentCommits": {
@@ -1233,6 +1238,7 @@
         "<a class=\"internal-link\" href=\"personal/job-hunting/Federal-reserve-bank-topics.md\"> Federal-reserve-bank-topics </a>"
       ],
       "Created": [
+        "<a class=\"internal-link\" href=\"personal/music/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"personal/job-hunting/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"daily/11-12-22.md\"> 11-12-22 </a>",
         "<a class=\"internal-link\" href=\"daily/11-11-22.md\"> 11-11-22 </a>",
@@ -1282,8 +1288,7 @@
         "<a class=\"internal-link\" href=\"cryptocurrency/networks/milkomeda/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"cryptocurrency/networks/milkomeda/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"crypto/Ethereum/Untitled.md\"> Untitled </a>",
-        "<a class=\"internal-link\" href=\"programming/machine learning/Untitled.md\"> Untitled </a>",
-        "<a class=\"internal-link\" href=\"hardware/Untitled.md\"> Untitled </a>"
+        "<a class=\"internal-link\" href=\"programming/machine learning/Untitled.md\"> Untitled </a>"
       ],
       "Renamed": [
         "<a class=\"internal-link\" href=\"personal/job-hunting/Cover Letters/Systems Engineering Manager @ HomeDepot.md\"> Systems Engineering Manager @ HomeDepot </a>",
@@ -1383,6 +1388,7 @@
         "<a class=\"internal-link\" href=\"templates/decline accepted job offer.md\"> decline accepted job offer </a>"
       ],
       "Linked": [
+        "<a class=\"internal-link\" href=\"personal/music/Sheet music.md\"> Sheet music </a>",
         "<a class=\"internal-link\" href=\"software/containers/docker-compose/create compose from multiple dockerfiles.md\"> create compose from multiple dockerfiles </a>",
         "<a class=\"internal-link\" href=\"software/data ETL/databend.md\"> databend </a>",
         "<a class=\"internal-link\" href=\"programming/python/python poetry.md\"> python poetry </a>",
@@ -1432,8 +1438,7 @@
         "<a class=\"internal-link\" href=\"software/linux/Linux DNS.md\"> Linux DNS </a>",
         "<a class=\"internal-link\" href=\"programming/python/python cheatsheet.md\"> python cheatsheet </a>",
         "<a class=\"internal-link\" href=\"programming/c and c++/opencv.md\"> opencv </a>",
-        "<a class=\"internal-link\" href=\"Backlog.md\"> Backlog </a>",
-        "<a class=\"internal-link\" href=\"personal/job-hunting/data etl project.md\"> data etl project </a>"
+        "<a class=\"internal-link\" href=\"Backlog.md\"> Backlog </a>"
       ],
       "Removed Tags from": [],
       "Removed Links from": [
