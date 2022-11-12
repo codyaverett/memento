@@ -21,6 +21,19 @@
             }
           },
           {
+            "id": "f7eaf835dac37138",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "personal/job-hunting/Cody Averett.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
             "id": "23c368a924bab33f",
             "type": "leaf",
             "state": {
@@ -33,7 +46,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -91,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "daily/11-12-22.md",
+                "file": "personal/job-hunting/Cody Averett.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,7 +122,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "daily/11-12-22.md"
+                "file": "personal/job-hunting/Cody Averett.md"
               }
             }
           },
@@ -138,8 +152,9 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "08ecaffd29727a5b",
+  "active": "f7eaf835dac37138",
   "lastOpenFiles": [
+    "daily/11-12-22.md",
     "daily/11-11-22.md",
     "personal/books/Make It Stick.md",
     "personal/books/Staff Engineer.md",
@@ -148,7 +163,6 @@
     "personal/job-hunting/RevUnit.md",
     "software/nginx/nginx reverse proxy.md",
     "hardware/memory controllers.md",
-    "templates/accept job offer.md",
-    "templates/decline accepted job offer.md"
+    "templates/accept job offer.md"
   ]
 }
