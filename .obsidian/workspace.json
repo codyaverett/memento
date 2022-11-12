@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "daily/11-11-22.md",
+                "file": "daily/11-12-22.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -91,7 +91,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "daily/11-11-22.md",
+                "file": "daily/11-12-22.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,7 +108,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "daily/11-11-22.md"
+                "file": "daily/11-12-22.md"
               }
             }
           },
@@ -140,6 +140,7 @@
   },
   "active": "08ecaffd29727a5b",
   "lastOpenFiles": [
+    "daily/11-11-22.md",
     "personal/books/Make It Stick.md",
     "personal/books/Staff Engineer.md",
     "software/data ETL/apache kafka.md",
@@ -148,7 +149,6 @@
     "software/nginx/nginx reverse proxy.md",
     "hardware/memory controllers.md",
     "templates/accept job offer.md",
-    "templates/decline accepted job offer.md",
-    "personal/job-hunting/data-etl-hindsight.md"
+    "templates/decline accepted job offer.md"
   ]
 }

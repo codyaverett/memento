@@ -1113,12 +1113,22 @@
       "size": 4972,
       "tags": 0,
       "links": 0
+    },
+    "daily/11-11-22.md": {
+      "size": 0,
+      "tags": 0,
+      "links": 0
+    },
+    "daily/11-12-22.md": {
+      "size": 0,
+      "tags": 0,
+      "links": 0
     }
   },
   "commitTypes": {
     "/": {
       "Refactor": 171,
-      "Create": 208,
+      "Create": 210,
       "Link": 59,
       "Expand": 86
     }
@@ -1139,7 +1149,7 @@
       "11": 10,
       "12": 6,
       "13": 27,
-      "14": 25,
+      "14": 26,
       "15": 33,
       "16": 59,
       "17": 34,
@@ -1147,7 +1157,7 @@
       "19": 17,
       "20": 33,
       "21": 71,
-      "22": 31,
+      "22": 32,
       "23": 28
     }
   },
@@ -1157,9 +1167,9 @@
       "Tue": 76,
       "Wed": 101,
       "Thu": 109,
-      "Fri": 113,
+      "Fri": 114,
       "Sat": 0,
-      "Sun": 58
+      "Sun": 59
     }
   },
   "recentCommits": {
@@ -1218,6 +1228,8 @@
         "<a class=\"internal-link\" href=\"personal/job-hunting/Federal-reserve-bank-topics.md\"> Federal-reserve-bank-topics </a>"
       ],
       "Created": [
+        "<a class=\"internal-link\" href=\"daily/11-12-22.md\"> 11-12-22 </a>",
+        "<a class=\"internal-link\" href=\"daily/11-11-22.md\"> 11-11-22 </a>",
         "<a class=\"internal-link\" href=\"personal/books/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"software/data ETL/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"templates/Untitled.md\"> Untitled </a>",
@@ -1266,9 +1278,7 @@
         "<a class=\"internal-link\" href=\"crypto/Ethereum/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"programming/machine learning/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"hardware/Untitled.md\"> Untitled </a>",
-        "<a class=\"internal-link\" href=\"programming/c and c++/Untitled.md\"> Untitled </a>",
-        "<a class=\"internal-link\" href=\"programming/c and c++/Untitled.md\"> Untitled </a>",
-        "<a class=\"internal-link\" href=\"programming/c++/Untitled.md\"> Untitled </a>"
+        "<a class=\"internal-link\" href=\"programming/c and c++/Untitled.md\"> Untitled </a>"
       ],
       "Renamed": [
         "<a class=\"internal-link\" href=\"personal/job-hunting/data-etl-hindsight.md\"> data-etl-hindsight </a>",
