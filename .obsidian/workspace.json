@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "personal/books/Make It Stick.md",
+                "file": "daily/11-11-22.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -91,7 +91,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "personal/books/Make It Stick.md",
+                "file": "daily/11-11-22.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,7 +108,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "personal/books/Make It Stick.md"
+                "file": "daily/11-11-22.md"
               }
             }
           },
@@ -140,11 +140,11 @@
   },
   "active": "08ecaffd29727a5b",
   "lastOpenFiles": [
+    "personal/books/Make It Stick.md",
     "personal/books/Staff Engineer.md",
     "software/data ETL/apache kafka.md",
     "personal/lifehacks/forgetting what you read after you read it.md",
     "personal/job-hunting/RevUnit.md",
-    "personal/books/Make It Stick.md",
     "software/nginx/nginx reverse proxy.md",
     "hardware/memory controllers.md",
     "templates/accept job offer.md",
