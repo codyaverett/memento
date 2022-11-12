@@ -1124,7 +1124,7 @@
       "tags": 0,
       "links": 0
     },
-    "personal/job-hunting/Cody Averett.md": {
+    "personal/job-hunting/Cover Letters/Systems Engineering Manager @ HomeDepot.md": {
       "size": 0,
       "tags": 0,
       "links": 0
@@ -1132,7 +1132,7 @@
   },
   "commitTypes": {
     "/": {
-      "Refactor": 172,
+      "Refactor": 175,
       "Create": 211,
       "Link": 59,
       "Expand": 86
@@ -1155,7 +1155,7 @@
       "12": 6,
       "13": 27,
       "14": 26,
-      "15": 35,
+      "15": 38,
       "16": 59,
       "17": 34,
       "18": 24,
@@ -1174,7 +1174,7 @@
       "Thu": 109,
       "Fri": 114,
       "Sat": 0,
-      "Sun": 61
+      "Sun": 64
     }
   },
   "recentCommits": {
@@ -1286,6 +1286,9 @@
         "<a class=\"internal-link\" href=\"hardware/Untitled.md\"> Untitled </a>"
       ],
       "Renamed": [
+        "<a class=\"internal-link\" href=\"personal/job-hunting/Cover Letters/Systems Engineering Manager @ HomeDepot.md\"> Systems Engineering Manager @ HomeDepot </a>",
+        "<a class=\"internal-link\" href=\"personal/job-hunting/Cover Letters/Cody Averett - Systems Engineering Manager @ HomeDepot.md\"> Cody Averett - Systems Engineering Manager @ HomeDepot </a>",
+        "<a class=\"internal-link\" href=\"personal/job-hunting/Cody Averett - Systems Engineering Manager @ HomeDepot.md\"> Cody Averett - Systems Engineering Manager @ HomeDepot </a>",
         "<a class=\"internal-link\" href=\"personal/job-hunting/Cody Averett.md\"> Cody Averett </a>",
         "<a class=\"internal-link\" href=\"personal/job-hunting/data-etl-hindsight.md\"> data-etl-hindsight </a>",
         "<a class=\"internal-link\" href=\"personal/job-hunting/Hindsight.md\"> Hindsight </a>",
@@ -1333,10 +1336,7 @@
         "<a class=\"internal-link\" href=\"cryptocurrencies/MoonRiver.md\"> MoonRiver </a>",
         "<a class=\"internal-link\" href=\"cryptocurrencies/MetamaskNetworks.md\"> MetamaskNetworks </a>",
         "<a class=\"internal-link\" href=\"cryptocurrencies/Handshake.md\"> Handshake </a>",
-        "<a class=\"internal-link\" href=\"cryptocurrencies/CardanoWhaleWatching.md\"> CardanoWhaleWatching </a>",
-        "<a class=\"internal-link\" href=\"cryptocurrencies/GeneralLinks.md\"> GeneralLinks </a>",
-        "<a class=\"internal-link\" href=\"cryptocurrencies/FantomList.md\"> FantomList </a>",
-        "<a class=\"internal-link\" href=\"cryptocurrencies/Ethereum.md\"> Ethereum </a>"
+        "<a class=\"internal-link\" href=\"cryptocurrencies/CardanoWhaleWatching.md\"> CardanoWhaleWatching </a>"
       ],
       "Tagged": [
         "<a class=\"internal-link\" href=\"personal/job-hunting/jb-hunt-topics.md\"> jb-hunt-topics </a>",

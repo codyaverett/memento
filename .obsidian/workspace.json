@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "personal/job-hunting/Cody Averett.md",
+                "file": "daily/11-12-22.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -105,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "personal/job-hunting/Cody Averett.md",
+                "file": "daily/11-12-22.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +122,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "personal/job-hunting/Cody Averett.md"
+                "file": "daily/11-12-22.md"
               }
             }
           },
@@ -154,6 +154,7 @@
   },
   "active": "f7eaf835dac37138",
   "lastOpenFiles": [
+    "personal/job-hunting/Cover Letters/Systems Engineering Manager @ HomeDepot.md",
     "daily/11-12-22.md",
     "daily/11-11-22.md",
     "personal/books/Make It Stick.md",
@@ -162,7 +163,6 @@
     "personal/lifehacks/forgetting what you read after you read it.md",
     "personal/job-hunting/RevUnit.md",
     "software/nginx/nginx reverse proxy.md",
-    "hardware/memory controllers.md",
-    "templates/accept job offer.md"
+    "hardware/memory controllers.md"
   ]
 }
