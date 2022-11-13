@@ -47,6 +47,19 @@
             }
           },
           {
+            "id": "63feb5818898d803",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "personal/lifehacks/how to have time for everything.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
             "id": "23c368a924bab33f",
             "type": "leaf",
             "state": {
@@ -60,7 +73,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -118,7 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "personal/music/Sheet music.md",
+                "file": "personal/lifehacks/how to have time for everything.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "personal/music/Sheet music.md"
+                "file": "personal/lifehacks/how to have time for everything.md"
               }
             }
           },
@@ -165,8 +178,9 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "4fdc7fa797519b55",
+  "active": "63feb5818898d803",
   "lastOpenFiles": [
+    "personal/music/Sheet music.md",
     "daily/11-12-22.md",
     "personal/job-hunting/Cover Letters/Systems Engineering Manager @ HomeDepot.md",
     "daily/11-11-22.md",
@@ -175,7 +189,6 @@
     "software/data ETL/apache kafka.md",
     "personal/lifehacks/forgetting what you read after you read it.md",
     "personal/job-hunting/RevUnit.md",
-    "software/nginx/nginx reverse proxy.md",
-    "hardware/memory controllers.md"
+    "software/nginx/nginx reverse proxy.md"
   ]
 }

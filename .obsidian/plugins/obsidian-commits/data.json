@@ -1132,14 +1132,19 @@
     "personal/music/Sheet music.md": {
       "size": 0,
       "tags": 0,
-      "links": 2
+      "links": 4
+    },
+    "personal/lifehacks/how to have time for everything.md": {
+      "size": 0,
+      "tags": 0,
+      "links": 0
     }
   },
   "commitTypes": {
     "/": {
-      "Refactor": 175,
-      "Create": 212,
-      "Link": 61,
+      "Refactor": 176,
+      "Create": 213,
+      "Link": 62,
       "Expand": 86
     }
   },
@@ -1163,7 +1168,7 @@
       "15": 38,
       "16": 59,
       "17": 37,
-      "18": 24,
+      "18": 27,
       "19": 17,
       "20": 33,
       "21": 71,
@@ -1179,7 +1184,7 @@
       "Thu": 109,
       "Fri": 114,
       "Sat": 0,
-      "Sun": 67
+      "Sun": 70
     }
   },
   "recentCommits": {
@@ -1238,6 +1243,7 @@
         "<a class=\"internal-link\" href=\"personal/job-hunting/Federal-reserve-bank-topics.md\"> Federal-reserve-bank-topics </a>"
       ],
       "Created": [
+        "<a class=\"internal-link\" href=\"personal/lifehacks/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"personal/music/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"personal/job-hunting/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"daily/11-12-22.md\"> 11-12-22 </a>",
@@ -1287,10 +1293,10 @@
         "<a class=\"internal-link\" href=\"programming/javascript/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"cryptocurrency/networks/milkomeda/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"cryptocurrency/networks/milkomeda/Untitled.md\"> Untitled </a>",
-        "<a class=\"internal-link\" href=\"crypto/Ethereum/Untitled.md\"> Untitled </a>",
-        "<a class=\"internal-link\" href=\"programming/machine learning/Untitled.md\"> Untitled </a>"
+        "<a class=\"internal-link\" href=\"crypto/Ethereum/Untitled.md\"> Untitled </a>"
       ],
       "Renamed": [
+        "<a class=\"internal-link\" href=\"personal/lifehacks/how to have time for everything.md\"> how to have time for everything </a>",
         "<a class=\"internal-link\" href=\"personal/job-hunting/Cover Letters/Systems Engineering Manager @ HomeDepot.md\"> Systems Engineering Manager @ HomeDepot </a>",
         "<a class=\"internal-link\" href=\"personal/job-hunting/Cover Letters/Cody Averett - Systems Engineering Manager @ HomeDepot.md\"> Cody Averett - Systems Engineering Manager @ HomeDepot </a>",
         "<a class=\"internal-link\" href=\"personal/job-hunting/Cody Averett - Systems Engineering Manager @ HomeDepot.md\"> Cody Averett - Systems Engineering Manager @ HomeDepot </a>",
@@ -1340,8 +1346,7 @@
         "<a class=\"internal-link\" href=\"cryptocurrencies/NFTQuickLinks.md\"> NFTQuickLinks </a>",
         "<a class=\"internal-link\" href=\"cryptocurrencies/MoonRiver.md\"> MoonRiver </a>",
         "<a class=\"internal-link\" href=\"cryptocurrencies/MetamaskNetworks.md\"> MetamaskNetworks </a>",
-        "<a class=\"internal-link\" href=\"cryptocurrencies/Handshake.md\"> Handshake </a>",
-        "<a class=\"internal-link\" href=\"cryptocurrencies/CardanoWhaleWatching.md\"> CardanoWhaleWatching </a>"
+        "<a class=\"internal-link\" href=\"cryptocurrencies/Handshake.md\"> Handshake </a>"
       ],
       "Tagged": [
         "<a class=\"internal-link\" href=\"personal/job-hunting/jb-hunt-topics.md\"> jb-hunt-topics </a>",
@@ -1388,6 +1393,7 @@
         "<a class=\"internal-link\" href=\"templates/decline accepted job offer.md\"> decline accepted job offer </a>"
       ],
       "Linked": [
+        "<a class=\"internal-link\" href=\"personal/music/Sheet music.md\"> Sheet music </a>",
         "<a class=\"internal-link\" href=\"personal/music/Sheet music.md\"> Sheet music </a>",
         "<a class=\"internal-link\" href=\"personal/music/Sheet music.md\"> Sheet music </a>",
         "<a class=\"internal-link\" href=\"software/containers/docker-compose/create compose from multiple dockerfiles.md\"> create compose from multiple dockerfiles </a>",
@@ -1437,8 +1443,7 @@
         "<a class=\"internal-link\" href=\"programming/python/tips/Getting values from a python dictionary.md\"> Getting values from a python dictionary </a>",
         "<a class=\"internal-link\" href=\"software/letsencrypt/letsencrypt.md\"> letsencrypt </a>",
         "<a class=\"internal-link\" href=\"software/linux/Linux DNS.md\"> Linux DNS </a>",
-        "<a class=\"internal-link\" href=\"programming/python/python cheatsheet.md\"> python cheatsheet </a>",
-        "<a class=\"internal-link\" href=\"programming/c and c++/opencv.md\"> opencv </a>"
+        "<a class=\"internal-link\" href=\"programming/python/python cheatsheet.md\"> python cheatsheet </a>"
       ],
       "Removed Tags from": [],
       "Removed Links from": [
