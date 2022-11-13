@@ -52,7 +52,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "personal/lifehacks/how to have time for everything.md",
+                "file": "daily/11-12-22.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -131,7 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "personal/lifehacks/how to have time for everything.md",
+                "file": "daily/11-12-22.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -148,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "personal/lifehacks/how to have time for everything.md"
+                "file": "daily/11-12-22.md"
               }
             }
           },
@@ -180,6 +180,7 @@
   },
   "active": "63feb5818898d803",
   "lastOpenFiles": [
+    "personal/lifehacks/how to have time for everything.md",
     "personal/music/Sheet music.md",
     "daily/11-12-22.md",
     "personal/job-hunting/Cover Letters/Systems Engineering Manager @ HomeDepot.md",
@@ -188,7 +189,6 @@
     "personal/books/Staff Engineer.md",
     "software/data ETL/apache kafka.md",
     "personal/lifehacks/forgetting what you read after you read it.md",
-    "personal/job-hunting/RevUnit.md",
-    "software/nginx/nginx reverse proxy.md"
+    "personal/job-hunting/RevUnit.md"
   ]
 }
