@@ -8,64 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "08ecaffd29727a5b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "daily/11-12-22.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
             "id": "f7eaf835dac37138",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "daily/11-12-22.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4fdc7fa797519b55",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "personal/music/Sheet music.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b6d7c983e7b54eb1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "programming/shell/sed/sed examples to print lines from a file.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4812f17e3d790ea2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "programming/shell/simple curl script.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -99,7 +47,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -157,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "programming/shell/shell declare.md",
+                "file": "programming/shell/sed/sed examples to print lines from a file.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -174,7 +122,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "programming/shell/shell declare.md"
+                "file": "programming/shell/sed/sed examples to print lines from a file.md"
               }
             }
           },
@@ -204,17 +152,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "c6d8ba4421616bce",
+  "active": "03e4ef2727b836cd",
   "lastOpenFiles": [
-    "programming/shell/simple curl script.md",
-    "programming/shell/shell looping through lines in a variable.md",
-    "programming/shell/sed/sed examples to print lines from a file.md",
-    "personal/music/Sheet music.md",
     "daily/11-12-22.md",
+    "personal/music/Sheet music.md",
+    "programming/shell/sed/sed examples to print lines from a file.md",
+    "programming/shell/simple curl script.md",
+    "programming/shell/shell declare.md",
+    "programming/shell/shell looping through lines in a variable.md",
     "personal/books/Staff Engineer.md",
     "software/jupyter notebooks/run any shell command in jupyter notebooks.md",
     "templates/shell snippet.md",
-    "personal/lifehacks/how to have time for everything.md",
-    "personal/job-hunting/Cover Letters/Systems Engineering Manager @ HomeDepot.md"
+    "personal/lifehacks/how to have time for everything.md"
   ]
 }
