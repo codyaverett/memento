@@ -1,4 +1,3 @@
-# simple curl script
 Script used to automate using curl to request some resources
 
 ```bash

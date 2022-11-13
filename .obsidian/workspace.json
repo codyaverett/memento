@@ -52,7 +52,20 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "software/sed/sed examples to print lines from a file.md",
+                "file": "programming/shell/sed/sed examples to print lines from a file.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4812f17e3d790ea2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "programming/shell/simple curl script.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -65,7 +78,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "software/sed/sed examples to print lines from a file.md",
+                "file": "programming/shell/sed/sed examples to print lines from a file.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -73,7 +86,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -131,7 +144,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "software/sed/sed examples to print lines from a file.md",
+                "file": "programming/shell/simple curl script.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -148,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "software/sed/sed examples to print lines from a file.md"
+                "file": "programming/shell/simple curl script.md"
               }
             }
           },
@@ -178,17 +191,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "b6d7c983e7b54eb1",
+  "active": "4812f17e3d790ea2",
   "lastOpenFiles": [
+    "programming/shell/shell looping through lines in a variable.md",
+    "programming/shell/sed/sed examples to print lines from a file.md",
     "personal/music/Sheet music.md",
     "daily/11-12-22.md",
-    "software/sed/sed examples to print lines from a file.md",
     "personal/books/Staff Engineer.md",
     "software/jupyter notebooks/run any shell command in jupyter notebooks.md",
     "templates/shell snippet.md",
     "personal/lifehacks/how to have time for everything.md",
     "personal/job-hunting/Cover Letters/Systems Engineering Manager @ HomeDepot.md",
-    "daily/11-11-22.md",
-    "personal/books/Make It Stick.md"
+    "daily/11-11-22.md"
   ]
 }

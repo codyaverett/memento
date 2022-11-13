@@ -1139,12 +1139,22 @@
       "tags": 0,
       "links": 0
     },
-    "software/sed/sed examples to print lines from a file.md": {
+    "templates/shell snippet.md": {
+      "size": 0,
+      "tags": 0,
+      "links": 0
+    },
+    "software/jupyter notebooks/run any shell command in jupyter notebooks.md": {
+      "size": 0,
+      "tags": 0,
+      "links": 1
+    },
+    "programming/shell/sed/sed examples to print lines from a file.md": {
       "size": 2954,
       "tags": 0,
       "links": 0
     },
-    "templates/shell snippet.md": {
+    "programming/shell/shell looping through lines in a variable.md": {
       "size": 0,
       "tags": 0,
       "links": 0
@@ -1152,9 +1162,9 @@
   },
   "commitTypes": {
     "/": {
-      "Refactor": 176,
-      "Create": 215,
-      "Link": 62,
+      "Refactor": 178,
+      "Create": 217,
+      "Link": 63,
       "Expand": 87
     }
   },
@@ -1179,7 +1189,7 @@
       "16": 59,
       "17": 37,
       "18": 28,
-      "19": 19,
+      "19": 24,
       "20": 33,
       "21": 71,
       "22": 32,
@@ -1194,7 +1204,7 @@
       "Thu": 109,
       "Fri": 114,
       "Sat": 0,
-      "Sun": 73
+      "Sun": 78
     }
   },
   "recentCommits": {
@@ -1253,6 +1263,8 @@
         "<a class=\"internal-link\" href=\"personal/job-hunting/Federal-reserve-bank-topics.md\"> Federal-reserve-bank-topics </a>"
       ],
       "Created": [
+        "<a class=\"internal-link\" href=\"programming/shell/Untitled.md\"> Untitled </a>",
+        "<a class=\"internal-link\" href=\"software/jupyter notebooks/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"templates/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"software/sed/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"personal/lifehacks/Untitled.md\"> Untitled </a>",
@@ -1301,11 +1313,11 @@
         "<a class=\"internal-link\" href=\"software/git/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"software/docker/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"programming/authentication/Untitled.md\"> Untitled </a>",
-        "<a class=\"internal-link\" href=\"software/linux/Untitled.md\"> Untitled </a>",
-        "<a class=\"internal-link\" href=\"programming/javascript/Untitled.md\"> Untitled </a>",
-        "<a class=\"internal-link\" href=\"cryptocurrency/networks/milkomeda/Untitled.md\"> Untitled </a>"
+        "<a class=\"internal-link\" href=\"software/linux/Untitled.md\"> Untitled </a>"
       ],
       "Renamed": [
+        "<a class=\"internal-link\" href=\"programming/shell/shell looping through lines in a variable.md\"> shell looping through lines in a variable </a>",
+        "<a class=\"internal-link\" href=\"programming/shell/sed/sed examples to print lines from a file.md\"> sed examples to print lines from a file </a>",
         "<a class=\"internal-link\" href=\"personal/lifehacks/how to have time for everything.md\"> how to have time for everything </a>",
         "<a class=\"internal-link\" href=\"personal/job-hunting/Cover Letters/Systems Engineering Manager @ HomeDepot.md\"> Systems Engineering Manager @ HomeDepot </a>",
         "<a class=\"internal-link\" href=\"personal/job-hunting/Cover Letters/Cody Averett - Systems Engineering Manager @ HomeDepot.md\"> Cody Averett - Systems Engineering Manager @ HomeDepot </a>",
@@ -1354,9 +1366,7 @@
         "<a class=\"internal-link\" href=\"cryptocurrencies/SolanaList.md\"> SolanaList </a>",
         "<a class=\"internal-link\" href=\"cryptocurrencies/OasisNetworkList.md\"> OasisNetworkList </a>",
         "<a class=\"internal-link\" href=\"cryptocurrencies/NFTQuickLinks.md\"> NFTQuickLinks </a>",
-        "<a class=\"internal-link\" href=\"cryptocurrencies/MoonRiver.md\"> MoonRiver </a>",
-        "<a class=\"internal-link\" href=\"cryptocurrencies/MetamaskNetworks.md\"> MetamaskNetworks </a>",
-        "<a class=\"internal-link\" href=\"cryptocurrencies/Handshake.md\"> Handshake </a>"
+        "<a class=\"internal-link\" href=\"cryptocurrencies/MoonRiver.md\"> MoonRiver </a>"
       ],
       "Tagged": [
         "<a class=\"internal-link\" href=\"personal/job-hunting/jb-hunt-topics.md\"> jb-hunt-topics </a>",
@@ -1403,6 +1413,7 @@
         "<a class=\"internal-link\" href=\"templates/decline accepted job offer.md\"> decline accepted job offer </a>"
       ],
       "Linked": [
+        "<a class=\"internal-link\" href=\"software/jupyter notebooks/run any shell command in jupyter notebooks.md\"> run any shell command in jupyter notebooks </a>",
         "<a class=\"internal-link\" href=\"personal/music/Sheet music.md\"> Sheet music </a>",
         "<a class=\"internal-link\" href=\"personal/music/Sheet music.md\"> Sheet music </a>",
         "<a class=\"internal-link\" href=\"personal/music/Sheet music.md\"> Sheet music </a>",
@@ -1452,8 +1463,7 @@
         "<a class=\"internal-link\" href=\"programming/data ETL/OLTP vs OLAP.md\"> OLTP vs OLAP </a>",
         "<a class=\"internal-link\" href=\"programming/python/tips/Getting values from a python dictionary.md\"> Getting values from a python dictionary </a>",
         "<a class=\"internal-link\" href=\"software/letsencrypt/letsencrypt.md\"> letsencrypt </a>",
-        "<a class=\"internal-link\" href=\"software/linux/Linux DNS.md\"> Linux DNS </a>",
-        "<a class=\"internal-link\" href=\"programming/python/python cheatsheet.md\"> python cheatsheet </a>"
+        "<a class=\"internal-link\" href=\"software/linux/Linux DNS.md\"> Linux DNS </a>"
       ],
       "Removed Tags from": [],
       "Removed Links from": [
