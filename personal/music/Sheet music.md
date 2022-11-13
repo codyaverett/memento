@@ -12,6 +12,8 @@ Trebble and base cleffs are just a fancy G and F respectively
 
 Use landmarks
 
+Use Colors to represent various notes!!!
+
 
 ## Reference
 
