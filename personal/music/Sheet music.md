@@ -13,7 +13,13 @@ Trebble and base cleffs are just a fancy G and F respectively
 Use landmarks
 
 Use Colors to represent various notes!!!
+If you are color blind, get creative with shapes!
 
+![[Pasted image 20221112182349.png]]
+
+Dragons around the D's
+
+![[Pasted image 20221112182424.png]]
 
 ## Reference
 
