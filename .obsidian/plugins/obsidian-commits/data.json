@@ -1138,14 +1138,19 @@
       "size": 0,
       "tags": 0,
       "links": 0
+    },
+    "software/sed/sed examples to print lines from a file.md": {
+      "size": 2954,
+      "tags": 0,
+      "links": 0
     }
   },
   "commitTypes": {
     "/": {
       "Refactor": 176,
-      "Create": 213,
+      "Create": 214,
       "Link": 62,
-      "Expand": 86
+      "Expand": 87
     }
   },
   "dailyCommits": {
@@ -1168,8 +1173,8 @@
       "15": 38,
       "16": 59,
       "17": 37,
-      "18": 27,
-      "19": 17,
+      "18": 28,
+      "19": 18,
       "20": 33,
       "21": 71,
       "22": 32,
@@ -1184,12 +1189,13 @@
       "Thu": 109,
       "Fri": 114,
       "Sat": 0,
-      "Sun": 70
+      "Sun": 72
     }
   },
   "recentCommits": {
     "/": {
       "Expanded": [
+        "<a class=\"internal-link\" href=\"software/sed/sed examples to print lines from a file.md\"> sed examples to print lines from a file </a>",
         "<a class=\"internal-link\" href=\"personal/books/Staff Engineer.md\"> Staff Engineer </a>",
         "<a class=\"internal-link\" href=\"personal/books/Staff Engineer.md\"> Staff Engineer </a>",
         "<a class=\"internal-link\" href=\"personal/books/Staff Engineer.md\"> Staff Engineer </a>",
@@ -1239,10 +1245,10 @@
         "<a class=\"internal-link\" href=\"daily/09-02-22.md\"> 09-02-22 </a>",
         "<a class=\"internal-link\" href=\"personal/job-hunting/Federal-reserve-bank-topics.md\"> Federal-reserve-bank-topics </a>",
         "<a class=\"internal-link\" href=\"personal/job-hunting/Federal-reserve-bank-topics.md\"> Federal-reserve-bank-topics </a>",
-        "<a class=\"internal-link\" href=\"personal/job-hunting/Federal-reserve-bank-topics.md\"> Federal-reserve-bank-topics </a>",
         "<a class=\"internal-link\" href=\"personal/job-hunting/Federal-reserve-bank-topics.md\"> Federal-reserve-bank-topics </a>"
       ],
       "Created": [
+        "<a class=\"internal-link\" href=\"software/sed/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"personal/lifehacks/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"personal/music/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"personal/job-hunting/Untitled.md\"> Untitled </a>",
@@ -1292,8 +1298,7 @@
         "<a class=\"internal-link\" href=\"software/linux/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"programming/javascript/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"cryptocurrency/networks/milkomeda/Untitled.md\"> Untitled </a>",
-        "<a class=\"internal-link\" href=\"cryptocurrency/networks/milkomeda/Untitled.md\"> Untitled </a>",
-        "<a class=\"internal-link\" href=\"crypto/Ethereum/Untitled.md\"> Untitled </a>"
+        "<a class=\"internal-link\" href=\"cryptocurrency/networks/milkomeda/Untitled.md\"> Untitled </a>"
       ],
       "Renamed": [
         "<a class=\"internal-link\" href=\"personal/lifehacks/how to have time for everything.md\"> how to have time for everything </a>",
