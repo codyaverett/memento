@@ -73,6 +73,19 @@
             }
           },
           {
+            "id": "c6d8ba4421616bce",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "programming/shell/shell declare.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
             "id": "03e4ef2727b836cd",
             "type": "leaf",
             "state": {
@@ -86,7 +99,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -144,7 +157,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "programming/shell/simple curl script.md",
+                "file": "programming/shell/shell declare.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -161,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "programming/shell/simple curl script.md"
+                "file": "programming/shell/shell declare.md"
               }
             }
           },
@@ -191,8 +204,9 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "4812f17e3d790ea2",
+  "active": "c6d8ba4421616bce",
   "lastOpenFiles": [
+    "programming/shell/simple curl script.md",
     "programming/shell/shell looping through lines in a variable.md",
     "programming/shell/sed/sed examples to print lines from a file.md",
     "personal/music/Sheet music.md",
@@ -201,7 +215,6 @@
     "software/jupyter notebooks/run any shell command in jupyter notebooks.md",
     "templates/shell snippet.md",
     "personal/lifehacks/how to have time for everything.md",
-    "personal/job-hunting/Cover Letters/Systems Engineering Manager @ HomeDepot.md",
-    "daily/11-11-22.md"
+    "personal/job-hunting/Cover Letters/Systems Engineering Manager @ HomeDepot.md"
   ]
 }
