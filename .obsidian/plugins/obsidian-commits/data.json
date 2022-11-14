@@ -1104,11 +1104,6 @@
       "tags": 0,
       "links": 0
     },
-    "software/data ETL/apache kafka.md": {
-      "size": 0,
-      "tags": 0,
-      "links": 0
-    },
     "personal/books/Staff Engineer.md": {
       "size": 4972,
       "tags": 0,
@@ -1158,12 +1153,22 @@
       "size": 0,
       "tags": 0,
       "links": 0
+    },
+    "programming/shell/shell declare.md": {
+      "size": 0,
+      "tags": 0,
+      "links": 0
+    },
+    "software/apache kafka/apache kafka.md": {
+      "size": 0,
+      "tags": 0,
+      "links": 0
     }
   },
   "commitTypes": {
     "/": {
-      "Refactor": 178,
-      "Create": 217,
+      "Refactor": 179,
+      "Create": 218,
       "Link": 63,
       "Expand": 87
     }
@@ -1184,12 +1189,12 @@
       "11": 10,
       "12": 6,
       "13": 27,
-      "14": 26,
+      "14": 27,
       "15": 38,
       "16": 59,
       "17": 37,
       "18": 28,
-      "19": 24,
+      "19": 25,
       "20": 33,
       "21": 71,
       "22": 32,
@@ -1198,13 +1203,13 @@
   },
   "weeklyCommits": {
     "/": {
-      "Mon": 67,
+      "Mon": 68,
       "Tue": 76,
       "Wed": 101,
       "Thu": 109,
       "Fri": 114,
       "Sat": 0,
-      "Sun": 78
+      "Sun": 79
     }
   },
   "recentCommits": {
@@ -1264,6 +1269,7 @@
       ],
       "Created": [
         "<a class=\"internal-link\" href=\"programming/shell/Untitled.md\"> Untitled </a>",
+        "<a class=\"internal-link\" href=\"programming/shell/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"software/jupyter notebooks/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"templates/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"software/sed/Untitled.md\"> Untitled </a>",
@@ -1312,10 +1318,10 @@
         "<a class=\"internal-link\" href=\"software/git/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"software/git/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"software/docker/Untitled.md\"> Untitled </a>",
-        "<a class=\"internal-link\" href=\"programming/authentication/Untitled.md\"> Untitled </a>",
-        "<a class=\"internal-link\" href=\"software/linux/Untitled.md\"> Untitled </a>"
+        "<a class=\"internal-link\" href=\"programming/authentication/Untitled.md\"> Untitled </a>"
       ],
       "Renamed": [
+        "<a class=\"internal-link\" href=\"software/apache kafka/apache kafka.md\"> apache kafka </a>",
         "<a class=\"internal-link\" href=\"programming/shell/shell looping through lines in a variable.md\"> shell looping through lines in a variable </a>",
         "<a class=\"internal-link\" href=\"programming/shell/sed/sed examples to print lines from a file.md\"> sed examples to print lines from a file </a>",
         "<a class=\"internal-link\" href=\"personal/lifehacks/how to have time for everything.md\"> how to have time for everything </a>",
@@ -1365,8 +1371,7 @@
         "<a class=\"internal-link\" href=\"cryptocurrencies/Songbird.md\"> Songbird </a>",
         "<a class=\"internal-link\" href=\"cryptocurrencies/SolanaList.md\"> SolanaList </a>",
         "<a class=\"internal-link\" href=\"cryptocurrencies/OasisNetworkList.md\"> OasisNetworkList </a>",
-        "<a class=\"internal-link\" href=\"cryptocurrencies/NFTQuickLinks.md\"> NFTQuickLinks </a>",
-        "<a class=\"internal-link\" href=\"cryptocurrencies/MoonRiver.md\"> MoonRiver </a>"
+        "<a class=\"internal-link\" href=\"cryptocurrencies/NFTQuickLinks.md\"> NFTQuickLinks </a>"
       ],
       "Tagged": [
         "<a class=\"internal-link\" href=\"personal/job-hunting/jb-hunt-topics.md\"> jb-hunt-topics </a>",
