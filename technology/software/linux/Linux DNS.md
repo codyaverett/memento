@@ -10,4 +10,4 @@ nameserver 8.8.4.4 # Also google
 
 
 ## Related
-[[DNS]]
+[[dns]]

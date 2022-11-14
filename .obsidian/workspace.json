@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "software/linux/create home directory for already existing user.md",
+                "file": "technology/software/linux/create home directory for already existing user.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -39,7 +39,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "programming/shell/shell declare.md",
+                "file": "technology/programming/shell/shell declare.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -52,7 +52,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "cryptocurrency/L1 networks/Nervos.md",
+                "file": "technology/cryptocurrency/L1 networks/Nervos.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -118,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "cryptocurrency/L1 networks/Nervos.md",
+                "file": "technology/cryptocurrency/L1 networks/Nervos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "cryptocurrency/L1 networks/Nervos.md"
+                "file": "technology/cryptocurrency/L1 networks/Nervos.md"
               }
             }
           },
@@ -167,15 +167,15 @@
   },
   "active": "33a2bab88d111215",
   "lastOpenFiles": [
-    "software/apache kafka/apache kafka.md",
+    "technology/software/apache kafka/apache kafka.md",
     "daily/11-14-22.md",
-    "software/linux/create home directory for already existing user.md",
+    "technology/software/linux/create home directory for already existing user.md",
     "daily/11-12-22.md",
-    "software/linux/create linux superuser.md",
-    "programming/shell/sed/sed examples to print lines from a file.md",
+    "technology/software/linux/create linux superuser.md",
+    "technology/programming/shell/sed/sed examples to print lines from a file.md",
     "personal/music/Sheet music.md",
-    "programming/shell/simple curl script.md",
-    "programming/shell/shell declare.md",
-    "programming/shell/shell looping through lines in a variable.md"
+    "technology/programming/shell/simple curl script.md",
+    "technology/programming/shell/shell declare.md",
+    "technology/programming/shell/shell looping through lines in a variable.md"
   ]
 }
