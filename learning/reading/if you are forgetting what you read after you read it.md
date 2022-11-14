@@ -1,4 +1,3 @@
-# forgetting what you read after you read it
 "Reasons reap results"
 "Genius leaves clues"
 "Names you remember; you remember because there is some intention behind it"

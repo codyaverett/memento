@@ -14,1155 +14,1155 @@
       "tags": 0,
       "links": 0
     },
-    "technology/cryptocurrency/CommunityBuilding.md": {
-      "size": 886,
-      "tags": 0,
-      "links": 0
-    },
-    "technology/cryptocurrency/CryptoPlatforms.md": {
-      "size": 63,
-      "tags": 0,
-      "links": 0
-    },
-    "technology/cryptocurrency/DecentralizedTools.md": {
-      "size": 99,
-      "tags": 0,
-      "links": 0
-    },
-    "technology/cryptocurrency/GeneralLinks.md": {
-      "size": 143,
-      "tags": 0,
-      "links": 0
-    },
-    "technology/cryptocurrency/MetamaskNetworks.md": {
-      "size": 289,
-      "tags": 0,
-      "links": 0
-    },
-    "technology/cryptocurrency/Handshake.md": {
-      "size": 50,
-      "tags": 0,
-      "links": 0
-    },
-    "technology/cryptocurrency/NFTQuickLinks.md": {
-      "size": 227,
-      "tags": 0,
-      "links": 0
-    },
-    "technology/cryptocurrency/tradingTools.md": {
-      "size": 790,
-      "tags": 0,
-      "links": 0
-    },
-    "technology/cryptocurrency/NFTs/Anyone could use any of the assets for any of the NFT collections.md": {
-      "size": 548,
-      "tags": 0,
-      "links": 0
-    },
-    "technology/cryptocurrency/L2 networks/milkomeda/milkomeda network.md": {
-      "size": 0,
-      "tags": 0,
-      "links": 0
-    },
-    "technology/cryptocurrency/L2 networks/milkomeda/milkomeda smart contracts.md": {
-      "size": 0,
-      "tags": 0,
-      "links": 0
-    },
-    "technology/cryptocurrency/L1 networks/Ethereum/Ethereum.md": {
-      "size": 1154,
-      "tags": 0,
-      "links": 0
-    },
-    "technology/cryptocurrency/Oracles/Chainlink/Fair Sequencing Services (FSS).md": {
-      "size": 2186,
-      "tags": 0,
-      "links": 0
-    },
-    "technology/cryptocurrency/L1 networks/Solana/SolanaList.md": {
-      "size": 142,
-      "tags": 0,
-      "links": 0
-    },
-    "technology/cryptocurrency/L1 networks/Cardano/Cardano_marlowe_pioneer.md": {
-      "size": 1233,
-      "tags": 0,
-      "links": 0
-    },
-    "technology/cryptocurrency/L1 networks/BinanceSmartChain.md": {
-      "size": 220,
-      "tags": 0,
-      "links": 0
-    },
-    "technology/cryptocurrency/L1 networks/BitcoinList.md": {
-      "size": 217,
-      "tags": 0,
-      "links": 0
-    },
-    "technology/cryptocurrency/L1 networks/Cardano/Cardano 1.md": {
-      "size": 4498,
-      "tags": 0,
-      "links": 0
-    },
-    "technology/cryptocurrency/L1 networks/Cardano/Cardano_marlowe_pioneer 1.md": {
-      "size": 1233,
-      "tags": 0,
-      "links": 0
-    },
-    "technology/cryptocurrency/L1 networks/Cardano/CardanoAssetIds.md": {
-      "size": 128,
-      "tags": 0,
-      "links": 0
-    },
-    "technology/cryptocurrency/L1 networks/Cardano/CardanoWhaleWatching.md": {
-      "size": 395,
-      "tags": 0,
-      "links": 0
-    },
-    "technology/cryptocurrency/L1 networks/Elrond.md": {
-      "size": 64,
-      "tags": 0,
-      "links": 0
-    },
-    "technology/cryptocurrency/L1 networks/Ergo/Ergo.md": {
-      "size": 750,
-      "tags": 0,
-      "links": 1
-    },
-    "technology/cryptocurrency/L2 networks/Songbird.md": {
-      "size": 59,
-      "tags": 0,
-      "links": 0
-    },
-    "technology/cryptocurrency/L1 networks/Nervos.md": {
-      "size": 746,
-      "tags": 0,
-      "links": 0
-    },
-    "technology/cryptocurrency/L2 networks/MoonRiver.md": {
-      "size": 84,
-      "tags": 0,
-      "links": 0
-    },
-    "technology/cryptocurrency/L1 networks/Tron.md": {
-      "size": 87,
-      "tags": 0,
-      "links": 0
-    },
-    "technology/cryptocurrency/L1 networks/OasisNetwork.md": {
-      "size": 116,
-      "tags": 0,
-      "links": 0
-    },
-    "technology/cryptocurrency/L1 networks/Fantom.md": {
-      "size": 587,
-      "tags": 0,
-      "links": 0
-    },
-    "technology/cryptocurrency/L1 networks/Avalanche.md": {
-      "size": 104,
-      "tags": 0,
-      "links": 0
-    },
-    "technology/programming/algorithms/algorithms.md": {
-      "size": 0,
-      "tags": 0,
-      "links": 0
-    },
-    "technology/programming/authentication/JSON Web Token.md": {
-      "size": 0,
-      "tags": 0,
-      "links": 1
-    },
-    "technology/programming/data ETL/OLAP data models.md": {
-      "size": 0,
-      "tags": 0,
-      "links": 1
-    },
-    "technology/programming/data ETL/OLTP data models.md": {
-      "size": 0,
-      "tags": 0,
-      "links": 1
-    },
-    "technology/programming/data ETL/OLTP vs OLAP.md": {
-      "size": 0,
-      "tags": 0,
-      "links": 1
-    },
-    "technology/programming/data ETL/ETL basics.md": {
-      "size": 0,
-      "tags": 0,
-      "links": 0
-    },
-    "technology/programming/SQL/SQL order of execution.md": {
-      "size": 0,
-      "tags": 0,
-      "links": 0
-    },
-    "technology/programming/data ETL/data warehouse.md": {
-      "size": 0,
-      "tags": 0,
-      "links": 0
-    },
-    "technology/programming/data ETL/data modeling.md": {
-      "size": 0,
-      "tags": 0,
-      "links": 0
-    },
-    "technology/programming/general/30 seconds of code.md": {
-      "size": 0,
-      "tags": 0,
-      "links": 0
-    },
-    "technology/programming/general/pointers.md": {
-      "size": 0,
-      "tags": 0,
-      "links": 0
-    },
-    "technology/programming/general/polymorphism.md": {
-      "size": 0,
-      "tags": 0,
-      "links": 0
-    },
-    "technology/programming/javascript/Javascript oddities.md": {
-      "size": 0,
-      "tags": 0,
-      "links": 1
-    },
-    "technology/programming/general/catamorphism.md": {
-      "size": 0,
-      "tags": 0,
-      "links": 0
-    },
-    "technology/programming/data streams/Data streams vs buffers.md": {
-      "size": 0,
-      "tags": 0,
-      "links": 0
-    },
-    "technology/programming/frontend/list of dope websites.md": {
-      "size": 0,
-      "tags": 0,
-      "links": 0
-    },
-    "technology/programming/javascript/Javascript Programming Language.md": {
-      "size": 0,
-      "tags": 0,
-      "links": 0
-    },
-    "technology/programming/haskell/haskell list functions.md": {
-      "size": 2507,
-      "tags": 0,
-      "links": 1
-    },
-    "technology/programming/cli/python cli hide user input.md": {
-      "size": 0,
-      "tags": 0,
-      "links": 0
-    },
-    "technology/programming/machine learning/machine learning.md": {
-      "size": 0,
-      "tags": 0,
-      "links": 0
-    },
-    "technology/programming/machine learning/ml example.md": {
-      "size": 0,
-      "tags": 0,
-      "links": 1
-    },
-    "technology/programming/c and c++/Glut graphics framework.md": {
-      "size": 0,
-      "tags": 0,
-      "links": 0
-    },
-    "technology/programming/c and c++/c++ package managers.md": {
-      "size": 7133,
-      "tags": 0,
-      "links": 0
-    },
-    "technology/programming/general/backtracking.md": {
-      "size": 0,
-      "tags": 0,
-      "links": 0
-    },
-    "technology/programming/c and c++/opencv.md": {
-      "size": 0,
-      "tags": 0,
-      "links": 3
-    },
-    "technology/programming/c and c++/c++ programming language.md": {
-      "size": 0,
-      "tags": 0,
-      "links": 0
-    },
-    "technology/programming/machine learning/interesting ml and ai products.md": {
-      "size": 0,
-      "tags": 0,
-      "links": 0
-    },
-    "technology/programming/c and c++/c programming language.md": {
-      "size": 0,
-      "tags": 0,
-      "links": 0
-    },
-    "technology/programming/rust/rust programming language.md": {
-      "size": 0,
-      "tags": 0,
-      "links": 0
-    },
-    "technology/programming/neural networks/different types of neural networks.md": {
-      "size": 0,
-      "tags": 0,
-      "links": 1
-    },
-    "technology/programming/rust/rust types.md": {
-      "size": 0,
-      "tags": 0,
-      "links": 0
-    },
-    "technology/programming/deno/A fresh look at Deno - Brian Barrow.md": {
-      "size": 2730,
-      "tags": 0,
-      "links": 0
-    },
-    "technology/programming/python/building python extensions with Rust.md": {
-      "size": 0,
-      "tags": 0,
-      "links": 0
-    },
-    "technology/programming/python/clean python sorting.md": {
-      "size": 0,
-      "tags": 0,
-      "links": 0
-    },
-    "technology/programming/python/convert an image to ASCII art.md": {
-      "size": 0,
-      "tags": 0,
-      "links": 0
-    },
-    "technology/programming/python/concurrency in python.md": {
-      "size": 2045,
-      "tags": 0,
-      "links": 0
-    },
-    "technology/programming/python/common python programming errors.md": {
-      "size": 0,
-      "tags": 0,
-      "links": 0
-    },
-    "technology/programming/python/create a minimal python package.md": {
-      "size": 2743,
-      "tags": 0,
-      "links": 1
-    },
-    "technology/programming/python/documenting python code with sphinx.md": {
-      "size": 0,
-      "tags": 0,
-      "links": 0
-    },
-    "technology/programming/python/doctest.md": {
-      "size": 3495,
-      "tags": 0,
-      "links": 0
-    },
-    "technology/programming/python/functional python programming.md": {
-      "size": 0,
-      "tags": 0,
-      "links": 0
-    },
-    "technology/programming/python/handle SIGTERM events in python.md": {
-      "size": 3373,
-      "tags": 0,
-      "links": 0
-    },
-    "technology/programming/python/jupyter notebooks.md": {
-      "size": 0,
-      "tags": 0,
-      "links": 0
-    },
-    "technology/programming/python/pipenv cleanup.md": {
-      "size": 0,
-      "tags": 0,
-      "links": 1
-    },
-    "technology/programming/python/python Caching.md": {
-      "size": 0,
-      "tags": 0,
-      "links": 2
-    },
-    "technology/programming/python/python cached property.md": {
-      "size": 0,
-      "tags": 0,
-      "links": 1
-    },
-    "technology/programming/python/python cheatsheet.md": {
-      "size": 8035,
-      "tags": 1,
-      "links": 2
-    },
-    "technology/programming/python/python decorators primer.md": {
-      "size": 3081,
-      "tags": 0,
-      "links": 0
-    },
-    "technology/programming/python/python code formatters.md": {
-      "size": 0,
-      "tags": 0,
-      "links": 0
-    },
-    "technology/programming/python/python extensions with rust.md": {
-      "size": 2877,
-      "tags": 0,
-      "links": 0
-    },
-    "technology/programming/python/python extensions.md": {
-      "size": 0,
-      "tags": 1,
-      "links": 1
-    },
-    "technology/programming/python/python module search path.md": {
-      "size": 2017,
-      "tags": 0,
-      "links": 0
-    },
-    "technology/programming/python/python package name collisions.md": {
-      "size": 2457,
-      "tags": 0,
-      "links": 0
-    },
-    "technology/programming/python/python classes.md": {
-      "size": 7916,
-      "tags": 0,
-      "links": 1
-    },
-    "technology/programming/python/python os module.md": {
-      "size": 0,
-      "tags": 0,
-      "links": 1
-    },
-    "technology/programming/python/python package managers.md": {
-      "size": 0,
-      "tags": 0,
-      "links": 0
-    },
-    "technology/programming/python/python pyenv.md": {
-      "size": 2484,
-      "tags": 0,
-      "links": 0
-    },
-    "technology/programming/python/python packaging.md": {
-      "size": 0,
-      "tags": 0,
-      "links": 0
-    },
-    "technology/programming/python/python poetry.md": {
-      "size": 5038,
-      "tags": 0,
-      "links": 1
-    },
-    "technology/programming/python/the zen of python.md": {
-      "size": 0,
-      "tags": 0,
-      "links": 0
-    },
-    "technology/programming/python/python programming language.md": {
-      "size": 0,
-      "tags": 0,
-      "links": 8
-    },
-    "technology/programming/python/python special strings.md": {
-      "size": 0,
-      "tags": 0,
-      "links": 2
-    },
-    "technology/programming/python/reading python bools from a .env file.md": {
-      "size": 0,
-      "tags": 1,
-      "links": 0
-    },
-    "technology/programming/python/useful python standard library modules.md": {
-      "size": 2628,
-      "tags": 0,
-      "links": 0
-    },
-    "technology/programming/shell/simple curl script.md": {
-      "size": 0,
-      "tags": 0,
-      "links": 0
-    },
-    "technology/programming/security/Sybil attacks.md": {
-      "size": 0,
-      "tags": 0,
-      "links": 0
-    },
-    "technology/programming/algorithms/data-structures/left-leaning red black trees.md": {
-      "size": 0,
-      "tags": 0,
-      "links": 0
-    },
-    "technology/programming/databases/postgres/timescaleDB.md": {
-      "size": 0,
-      "tags": 0,
-      "links": 0
-    },
-    "technology/programming/general/beginner project ideas/Build a user interface wrapper for a CLI tool.md": {
-      "size": 0,
-      "tags": 0,
-      "links": 0
-    },
-    "technology/programming/cli/loading/loading spinners and representing updates in a CLI application.md": {
-      "size": 0,
-      "tags": 0,
-      "links": 1
-    },
-    "technology/programming/python/ansible/use ansible_runner from python module.md": {
-      "size": 0,
-      "tags": 0,
-      "links": 0
-    },
-    "technology/programming/databases/postgres/postgres materialized views.md": {
-      "size": 0,
-      "tags": 0,
-      "links": 0
-    },
-    "technology/programming/python/ansible/ansible for network automation.md": {
-      "size": 0,
-      "tags": 0,
-      "links": 0
-    },
-    "technology/programming/python/cli/building and distributing a CLI app with python.md": {
-      "size": 0,
-      "tags": 0,
-      "links": 0
-    },
-    "technology/programming/python/image manipulation/PyMuPDF.md": {
-      "size": 0,
-      "tags": 0,
-      "links": 0
-    },
-    "technology/programming/python/django/Untitled.md": {
-      "size": 0,
-      "tags": 0,
-      "links": 0
-    },
-    "technology/programming/python/django/django class models.md": {
-      "size": 0,
-      "tags": 0,
-      "links": 1
-    },
-    "technology/programming/python/django/django data migrations.md": {
-      "size": 8832,
-      "tags": 0,
-      "links": 0
-    },
-    "technology/programming/python/django/DJango quick reference.md": {
-      "size": 7852,
-      "tags": 0,
-      "links": 1
-    },
-    "technology/programming/python/django/django extensions.md": {
-      "size": 0,
-      "tags": 0,
-      "links": 0
-    },
-    "technology/programming/python/django/django middleware.md": {
-      "size": 0,
-      "tags": 0,
-      "links": 0
-    },
-    "technology/programming/python/django/django container.md": {
-      "size": 7999,
-      "tags": 0,
-      "links": 0
-    },
-    "technology/programming/python/pandas/pandas.md": {
-      "size": 0,
-      "tags": 0,
-      "links": 0
-    },
-    "technology/programming/python/django/django testing.md": {
-      "size": 0,
-      "tags": 0,
-      "links": 0
-    },
-    "technology/programming/python/tips/Getting values from a python dictionary.md": {
-      "size": 0,
-      "tags": 0,
-      "links": 2
-    },
-    "technology/programming/python/django/django migrations with custom sql.md": {
-      "size": 0,
-      "tags": 0,
-      "links": 1
-    },
-    "technology/programming/python/django/django models.md": {
-      "size": 0,
-      "tags": 0,
-      "links": 3
-    },
-    "technology/programming/python/django/django revert migrations.md": {
-      "size": 0,
-      "tags": 0,
-      "links": 0
-    },
-    "technology/programming/python/package management/pipenv usage.md": {
-      "size": 0,
-      "tags": 0,
-      "links": 0
-    },
-    "technology/programming/python/tips/Reserved slots in python formatted strings.md": {
-      "size": 0,
-      "tags": 0,
-      "links": 0
-    },
-    "technology/programming/python/pyspark/pyspark reference.md": {
-      "size": 0,
-      "tags": 0,
-      "links": 1
-    },
-    "technology/programming/python/pyspark/pyspark dataframes.md": {
-      "size": 0,
-      "tags": 0,
-      "links": 0
-    },
-    "technology/programming/python/package management/python virtual environments.md": {
-      "size": 4910,
-      "tags": 0,
-      "links": 0
-    },
-    "technology/programming/python/pyspark/python basics.md": {
-      "size": 8448,
-      "tags": 0,
-      "links": 1
-    },
-    "technology/programming/python/django/Authentication Systems/django authentication system.md": {
-      "size": 0,
-      "tags": 0,
-      "links": 0
-    },
-    "technology/programming/shell/sed/sed examples to print lines from a file.md": {
-      "size": 2954,
-      "tags": 0,
-      "links": 0
-    },
-    "technology/programming/shell/shell looping through lines in a variable.md": {
-      "size": 0,
-      "tags": 0,
-      "links": 0
-    },
-    "technology/programming/shell/shell declare.md": {
-      "size": 0,
-      "tags": 0,
-      "links": 0
-    },
-    "technology/software/CICD/concord.md": {
-      "size": 0,
-      "tags": 0,
-      "links": 0
-    },
-    "technology/software/CICD/github actions.md": {
-      "size": 0,
-      "tags": 0,
-      "links": 0
-    },
-    "technology/software/DNS/dns.md": {
-      "size": 0,
-      "tags": 0,
-      "links": 0
-    },
-    "technology/software/blender/Interesting plugins.md": {
-      "size": 341,
-      "tags": 0,
-      "links": 1
-    },
-    "technology/software/git/git reflog.md": {
-      "size": 0,
-      "tags": 0,
-      "links": 1
-    },
-    "technology/software/git/setting up git.md": {
-      "size": 0,
-      "tags": 0,
-      "links": 0
-    },
-    "technology/software/github actions/github actions for a django project.md": {
-      "size": 0,
-      "tags": 0,
-      "links": 0
-    },
-    "technology/software/letsencrypt/letsencrypt.md": {
-      "size": 0,
-      "tags": 0,
-      "links": 1
-    },
-    "technology/software/LDAP/finding ldap servers with nslookup.md": {
-      "size": 0,
-      "tags": 0,
-      "links": 0
-    },
-    "technology/software/linux/Linux DNS.md": {
-      "size": 0,
-      "tags": 0,
-      "links": 1
-    },
-    "technology/software/linux/Linux directory Structure.md": {
-      "size": 6261,
-      "tags": 0,
-      "links": 0
-    },
-    "technology/software/nginx/nginx reverse proxy.md": {
-      "size": 4487,
-      "tags": 0,
-      "links": 0
-    },
-    "technology/software/nginx/nginx webserver.md": {
-      "size": 0,
-      "tags": 0,
-      "links": 0
-    },
-    "technology/software/obsidian/first-impressions.md": {
-      "size": 415,
-      "tags": 0,
-      "links": 1
-    },
-    "technology/software/linux/create linux superuser.md": {
-      "size": 4415,
-      "tags": 0,
-      "links": 0
-    },
-    "technology/software/data ETL/apache paraquet.md": {
-      "size": 0,
-      "tags": 0,
-      "links": 1
-    },
-    "technology/software/data ETL/databend.md": {
-      "size": 0,
-      "tags": 0,
-      "links": 1
-    },
-    "technology/software/data ETL/dbt.md": {
-      "size": 0,
-      "tags": 0,
-      "links": 0
-    },
-    "technology/software/data ETL/apache NiFi.md": {
-      "size": 0,
-      "tags": 0,
-      "links": 0
-    },
-    "technology/software/data ETL/databricks.md": {
-      "size": 0,
-      "tags": 0,
-      "links": 0
-    },
-    "technology/software/data ETL/snowflake.md": {
-      "size": 0,
-      "tags": 0,
-      "links": 1
-    },
-    "technology/software/data ETL/trino.md": {
-      "size": 0,
-      "tags": 0,
-      "links": 1
-    },
-    "technology/software/containers/docker/run docker commands without sudo.md": {
-      "size": 0,
-      "tags": 0,
-      "links": 0
-    },
-    "technology/software/containers/docker-compose/create compose from multiple dockerfiles.md": {
-      "size": 0,
-      "tags": 0,
-      "links": 1
-    },
-    "technology/software/containers/buildah/create basic OCI image with buildah.md": {
-      "size": 5840,
-      "tags": 0,
-      "links": 0
-    },
-    "technology/software/containers/buildah/buildah example lighttpd.md": {
-      "size": 0,
-      "tags": 0,
-      "links": 0
-    },
-    "technology/software/data ETL/apache airflow/airflow DAGs.md": {
-      "size": 2430,
-      "tags": 0,
-      "links": 0
-    },
-    "technology/software/data ETL/apache airflow/Airflow Deployments.md": {
-      "size": 0,
-      "tags": 0,
-      "links": 0
-    },
-    "technology/software/data ETL/apache airflow/airflow CLI.md": {
-      "size": 9108,
-      "tags": 0,
-      "links": 2
-    },
-    "technology/software/data ETL/apache airflow/airflow configuration.md": {
-      "size": 0,
-      "tags": 0,
-      "links": 0
-    },
-    "technology/software/data ETL/apache airflow/airflow flower.md": {
-      "size": 0,
-      "tags": 0,
-      "links": 0
-    },
-    "technology/software/data ETL/apache airflow/airflow grid view.md": {
-      "size": 0,
-      "tags": 0,
-      "links": 0
-    },
-    "technology/software/data ETL/apache airflow/airflow hooks.md": {
-      "size": 0,
-      "tags": 0,
-      "links": 0
-    },
-    "technology/software/data ETL/apache airflow/airflow operators.md": {
-      "size": 0,
-      "tags": 0,
-      "links": 0
-    },
-    "technology/software/data ETL/apache airflow/airflow secret variables.md": {
-      "size": 0,
-      "tags": 0,
-      "links": 0
-    },
-    "technology/software/data ETL/apache airflow/airflow limitations.md": {
-      "size": 0,
-      "tags": 0,
-      "links": 0
-    },
-    "technology/software/data ETL/apache airflow/airflow module management.md": {
-      "size": 6950,
-      "tags": 0,
-      "links": 0
-    },
-    "technology/software/data ETL/apache airflow/when are airflow plugins reloaded.md": {
-      "size": 0,
-      "tags": 0,
-      "links": 0
-    },
-    "technology/software/data ETL/apache airflow/apache airflow quickstart.md": {
-      "size": 2082,
-      "tags": 0,
-      "links": 1
-    },
-    "technology/software/data ETL/apache airflow/apache airflow.md": {
-      "size": 2453,
-      "tags": 0,
-      "links": 0
-    },
-    "technology/software/data ETL/apache airflow/create airflow user.md": {
-      "size": 0,
-      "tags": 0,
-      "links": 0
-    },
-    "technology/software/jupyter notebooks/run any shell command in jupyter notebooks.md": {
-      "size": 0,
-      "tags": 0,
-      "links": 1
-    },
-    "technology/software/apache kafka/apache kafka.md": {
-      "size": 0,
-      "tags": 0,
-      "links": 0
-    },
-    "technology/software/linux/create home directory for already existing user.md": {
-      "size": 0,
-      "tags": 0,
-      "links": 0
-    },
-    "technology/hardware/memory controllers.md": {
-      "size": 0,
-      "tags": 0,
-      "links": 0
-    },
-    "technology/farming/Compost has four ingredients.md": {
+    "learning/farming/Compost has four ingredients.md": {
       "size": 765,
       "tags": 0,
       "links": 0
     },
-    "technology/cloud/AWS/AWS quiz.md": {
-      "size": 2835,
+    "learning/computing/software/CICD/concord.md": {
+      "size": 0,
       "tags": 0,
       "links": 0
     },
-    "technology/programming/programming languages you must know.md": {
+    "learning/computing/software/CICD/github actions.md": {
+      "size": 0,
+      "tags": 0,
+      "links": 0
+    },
+    "learning/computing/software/DNS/dns.md": {
+      "size": 0,
+      "tags": 0,
+      "links": 0
+    },
+    "learning/computing/software/blender/Interesting plugins.md": {
+      "size": 341,
+      "tags": 0,
+      "links": 1
+    },
+    "learning/computing/software/git/git reflog.md": {
+      "size": 0,
+      "tags": 0,
+      "links": 1
+    },
+    "learning/computing/software/git/setting up git.md": {
+      "size": 0,
+      "tags": 0,
+      "links": 0
+    },
+    "learning/computing/software/github actions/github actions for a django project.md": {
+      "size": 0,
+      "tags": 0,
+      "links": 0
+    },
+    "learning/computing/software/letsencrypt/letsencrypt.md": {
+      "size": 0,
+      "tags": 0,
+      "links": 1
+    },
+    "learning/computing/software/LDAP/finding ldap servers with nslookup.md": {
+      "size": 0,
+      "tags": 0,
+      "links": 0
+    },
+    "learning/computing/software/linux/Linux DNS.md": {
+      "size": 0,
+      "tags": 0,
+      "links": 1
+    },
+    "learning/computing/software/linux/Linux directory Structure.md": {
+      "size": 6261,
+      "tags": 0,
+      "links": 0
+    },
+    "learning/computing/software/nginx/nginx reverse proxy.md": {
+      "size": 4487,
+      "tags": 0,
+      "links": 0
+    },
+    "learning/computing/software/nginx/nginx webserver.md": {
+      "size": 0,
+      "tags": 0,
+      "links": 0
+    },
+    "learning/computing/software/obsidian/first-impressions.md": {
+      "size": 415,
+      "tags": 0,
+      "links": 1
+    },
+    "learning/computing/software/linux/create linux superuser.md": {
+      "size": 4415,
+      "tags": 0,
+      "links": 0
+    },
+    "learning/computing/software/data ETL/apache paraquet.md": {
+      "size": 0,
+      "tags": 0,
+      "links": 1
+    },
+    "learning/computing/software/data ETL/databend.md": {
+      "size": 0,
+      "tags": 0,
+      "links": 1
+    },
+    "learning/computing/software/data ETL/dbt.md": {
+      "size": 0,
+      "tags": 0,
+      "links": 0
+    },
+    "learning/computing/software/data ETL/apache NiFi.md": {
+      "size": 0,
+      "tags": 0,
+      "links": 0
+    },
+    "learning/computing/software/data ETL/databricks.md": {
+      "size": 0,
+      "tags": 0,
+      "links": 0
+    },
+    "learning/computing/software/data ETL/snowflake.md": {
+      "size": 0,
+      "tags": 0,
+      "links": 1
+    },
+    "learning/computing/software/data ETL/trino.md": {
+      "size": 0,
+      "tags": 0,
+      "links": 1
+    },
+    "learning/computing/software/containers/docker/run docker commands without sudo.md": {
+      "size": 0,
+      "tags": 0,
+      "links": 0
+    },
+    "learning/computing/software/containers/docker-compose/create compose from multiple dockerfiles.md": {
+      "size": 0,
+      "tags": 0,
+      "links": 1
+    },
+    "learning/computing/software/containers/buildah/create basic OCI image with buildah.md": {
+      "size": 5840,
+      "tags": 0,
+      "links": 0
+    },
+    "learning/computing/software/containers/buildah/buildah example lighttpd.md": {
+      "size": 0,
+      "tags": 0,
+      "links": 0
+    },
+    "learning/computing/software/data ETL/apache airflow/airflow DAGs.md": {
+      "size": 2430,
+      "tags": 0,
+      "links": 0
+    },
+    "learning/computing/software/data ETL/apache airflow/Airflow Deployments.md": {
+      "size": 0,
+      "tags": 0,
+      "links": 0
+    },
+    "learning/computing/software/data ETL/apache airflow/airflow CLI.md": {
+      "size": 9108,
+      "tags": 0,
+      "links": 2
+    },
+    "learning/computing/software/data ETL/apache airflow/airflow configuration.md": {
+      "size": 0,
+      "tags": 0,
+      "links": 0
+    },
+    "learning/computing/software/data ETL/apache airflow/airflow flower.md": {
+      "size": 0,
+      "tags": 0,
+      "links": 0
+    },
+    "learning/computing/software/data ETL/apache airflow/airflow grid view.md": {
+      "size": 0,
+      "tags": 0,
+      "links": 0
+    },
+    "learning/computing/software/data ETL/apache airflow/airflow hooks.md": {
+      "size": 0,
+      "tags": 0,
+      "links": 0
+    },
+    "learning/computing/software/data ETL/apache airflow/airflow operators.md": {
+      "size": 0,
+      "tags": 0,
+      "links": 0
+    },
+    "learning/computing/software/data ETL/apache airflow/airflow secret variables.md": {
+      "size": 0,
+      "tags": 0,
+      "links": 0
+    },
+    "learning/computing/software/data ETL/apache airflow/airflow limitations.md": {
+      "size": 0,
+      "tags": 0,
+      "links": 0
+    },
+    "learning/computing/software/data ETL/apache airflow/airflow module management.md": {
+      "size": 6950,
+      "tags": 0,
+      "links": 0
+    },
+    "learning/computing/software/data ETL/apache airflow/when are airflow plugins reloaded.md": {
+      "size": 0,
+      "tags": 0,
+      "links": 0
+    },
+    "learning/computing/software/data ETL/apache airflow/apache airflow quickstart.md": {
+      "size": 2082,
+      "tags": 0,
+      "links": 1
+    },
+    "learning/computing/software/data ETL/apache airflow/apache airflow.md": {
+      "size": 2453,
+      "tags": 0,
+      "links": 0
+    },
+    "learning/computing/software/data ETL/apache airflow/create airflow user.md": {
+      "size": 0,
+      "tags": 0,
+      "links": 0
+    },
+    "learning/computing/software/jupyter notebooks/run any shell command in jupyter notebooks.md": {
+      "size": 0,
+      "tags": 0,
+      "links": 1
+    },
+    "learning/computing/software/apache kafka/apache kafka.md": {
+      "size": 0,
+      "tags": 0,
+      "links": 0
+    },
+    "learning/computing/software/linux/create home directory for already existing user.md": {
+      "size": 0,
+      "tags": 0,
+      "links": 0
+    },
+    "learning/computing/programming/algorithms/algorithms.md": {
+      "size": 0,
+      "tags": 0,
+      "links": 0
+    },
+    "learning/computing/programming/authentication/JSON Web Token.md": {
+      "size": 0,
+      "tags": 0,
+      "links": 1
+    },
+    "learning/computing/programming/data ETL/OLAP data models.md": {
+      "size": 0,
+      "tags": 0,
+      "links": 1
+    },
+    "learning/computing/programming/data ETL/OLTP data models.md": {
+      "size": 0,
+      "tags": 0,
+      "links": 1
+    },
+    "learning/computing/programming/data ETL/OLTP vs OLAP.md": {
+      "size": 0,
+      "tags": 0,
+      "links": 1
+    },
+    "learning/computing/programming/data ETL/ETL basics.md": {
+      "size": 0,
+      "tags": 0,
+      "links": 0
+    },
+    "learning/computing/programming/SQL/SQL order of execution.md": {
+      "size": 0,
+      "tags": 0,
+      "links": 0
+    },
+    "learning/computing/programming/data ETL/data warehouse.md": {
+      "size": 0,
+      "tags": 0,
+      "links": 0
+    },
+    "learning/computing/programming/data ETL/data modeling.md": {
+      "size": 0,
+      "tags": 0,
+      "links": 0
+    },
+    "learning/computing/programming/general/30 seconds of code.md": {
+      "size": 0,
+      "tags": 0,
+      "links": 0
+    },
+    "learning/computing/programming/general/pointers.md": {
+      "size": 0,
+      "tags": 0,
+      "links": 0
+    },
+    "learning/computing/programming/general/polymorphism.md": {
+      "size": 0,
+      "tags": 0,
+      "links": 0
+    },
+    "learning/computing/programming/javascript/Javascript oddities.md": {
+      "size": 0,
+      "tags": 0,
+      "links": 1
+    },
+    "learning/computing/programming/general/catamorphism.md": {
+      "size": 0,
+      "tags": 0,
+      "links": 0
+    },
+    "learning/computing/programming/data streams/Data streams vs buffers.md": {
+      "size": 0,
+      "tags": 0,
+      "links": 0
+    },
+    "learning/computing/programming/frontend/list of dope websites.md": {
+      "size": 0,
+      "tags": 0,
+      "links": 0
+    },
+    "learning/computing/programming/javascript/Javascript Programming Language.md": {
+      "size": 0,
+      "tags": 0,
+      "links": 0
+    },
+    "learning/computing/programming/haskell/haskell list functions.md": {
+      "size": 2507,
+      "tags": 0,
+      "links": 1
+    },
+    "learning/computing/programming/cli/python cli hide user input.md": {
+      "size": 0,
+      "tags": 0,
+      "links": 0
+    },
+    "learning/computing/programming/machine learning/machine learning.md": {
+      "size": 0,
+      "tags": 0,
+      "links": 0
+    },
+    "learning/computing/programming/machine learning/ml example.md": {
+      "size": 0,
+      "tags": 0,
+      "links": 1
+    },
+    "learning/computing/programming/c and c++/Glut graphics framework.md": {
+      "size": 0,
+      "tags": 0,
+      "links": 0
+    },
+    "learning/computing/programming/c and c++/c++ package managers.md": {
+      "size": 7133,
+      "tags": 0,
+      "links": 0
+    },
+    "learning/computing/programming/general/backtracking.md": {
+      "size": 0,
+      "tags": 0,
+      "links": 0
+    },
+    "learning/computing/programming/c and c++/opencv.md": {
+      "size": 0,
+      "tags": 0,
+      "links": 3
+    },
+    "learning/computing/programming/c and c++/c++ programming language.md": {
+      "size": 0,
+      "tags": 0,
+      "links": 0
+    },
+    "learning/computing/programming/machine learning/interesting ml and ai products.md": {
+      "size": 0,
+      "tags": 0,
+      "links": 0
+    },
+    "learning/computing/programming/c and c++/c programming language.md": {
+      "size": 0,
+      "tags": 0,
+      "links": 0
+    },
+    "learning/computing/programming/rust/rust programming language.md": {
+      "size": 0,
+      "tags": 0,
+      "links": 0
+    },
+    "learning/computing/programming/neural networks/different types of neural networks.md": {
+      "size": 0,
+      "tags": 0,
+      "links": 1
+    },
+    "learning/computing/programming/rust/rust types.md": {
+      "size": 0,
+      "tags": 0,
+      "links": 0
+    },
+    "learning/computing/programming/deno/A fresh look at Deno - Brian Barrow.md": {
+      "size": 2730,
+      "tags": 0,
+      "links": 0
+    },
+    "learning/computing/programming/python/building python extensions with Rust.md": {
+      "size": 0,
+      "tags": 0,
+      "links": 0
+    },
+    "learning/computing/programming/python/clean python sorting.md": {
+      "size": 0,
+      "tags": 0,
+      "links": 0
+    },
+    "learning/computing/programming/python/convert an image to ASCII art.md": {
+      "size": 0,
+      "tags": 0,
+      "links": 0
+    },
+    "learning/computing/programming/python/concurrency in python.md": {
+      "size": 2045,
+      "tags": 0,
+      "links": 0
+    },
+    "learning/computing/programming/python/common python programming errors.md": {
+      "size": 0,
+      "tags": 0,
+      "links": 0
+    },
+    "learning/computing/programming/python/create a minimal python package.md": {
+      "size": 2743,
+      "tags": 0,
+      "links": 1
+    },
+    "learning/computing/programming/python/documenting python code with sphinx.md": {
+      "size": 0,
+      "tags": 0,
+      "links": 0
+    },
+    "learning/computing/programming/python/doctest.md": {
+      "size": 3495,
+      "tags": 0,
+      "links": 0
+    },
+    "learning/computing/programming/python/functional python programming.md": {
+      "size": 0,
+      "tags": 0,
+      "links": 0
+    },
+    "learning/computing/programming/python/handle SIGTERM events in python.md": {
+      "size": 3373,
+      "tags": 0,
+      "links": 0
+    },
+    "learning/computing/programming/python/jupyter notebooks.md": {
+      "size": 0,
+      "tags": 0,
+      "links": 0
+    },
+    "learning/computing/programming/python/pipenv cleanup.md": {
+      "size": 0,
+      "tags": 0,
+      "links": 1
+    },
+    "learning/computing/programming/python/python Caching.md": {
+      "size": 0,
+      "tags": 0,
+      "links": 2
+    },
+    "learning/computing/programming/python/python cached property.md": {
+      "size": 0,
+      "tags": 0,
+      "links": 1
+    },
+    "learning/computing/programming/python/python cheatsheet.md": {
+      "size": 8035,
+      "tags": 1,
+      "links": 2
+    },
+    "learning/computing/programming/python/python decorators primer.md": {
+      "size": 3081,
+      "tags": 0,
+      "links": 0
+    },
+    "learning/computing/programming/python/python code formatters.md": {
+      "size": 0,
+      "tags": 0,
+      "links": 0
+    },
+    "learning/computing/programming/python/python extensions with rust.md": {
+      "size": 2877,
+      "tags": 0,
+      "links": 0
+    },
+    "learning/computing/programming/python/python extensions.md": {
+      "size": 0,
+      "tags": 1,
+      "links": 1
+    },
+    "learning/computing/programming/python/python module search path.md": {
+      "size": 2017,
+      "tags": 0,
+      "links": 0
+    },
+    "learning/computing/programming/python/python package name collisions.md": {
+      "size": 2457,
+      "tags": 0,
+      "links": 0
+    },
+    "learning/computing/programming/python/python classes.md": {
+      "size": 7916,
+      "tags": 0,
+      "links": 1
+    },
+    "learning/computing/programming/python/python os module.md": {
+      "size": 0,
+      "tags": 0,
+      "links": 1
+    },
+    "learning/computing/programming/python/python package managers.md": {
+      "size": 0,
+      "tags": 0,
+      "links": 0
+    },
+    "learning/computing/programming/python/python pyenv.md": {
+      "size": 2484,
+      "tags": 0,
+      "links": 0
+    },
+    "learning/computing/programming/python/python packaging.md": {
+      "size": 0,
+      "tags": 0,
+      "links": 0
+    },
+    "learning/computing/programming/python/python poetry.md": {
+      "size": 5038,
+      "tags": 0,
+      "links": 1
+    },
+    "learning/computing/programming/python/the zen of python.md": {
+      "size": 0,
+      "tags": 0,
+      "links": 0
+    },
+    "learning/computing/programming/python/python programming language.md": {
+      "size": 0,
+      "tags": 0,
+      "links": 8
+    },
+    "learning/computing/programming/python/python special strings.md": {
+      "size": 0,
+      "tags": 0,
+      "links": 2
+    },
+    "learning/computing/programming/python/reading python bools from a .env file.md": {
+      "size": 0,
+      "tags": 1,
+      "links": 0
+    },
+    "learning/computing/programming/python/useful python standard library modules.md": {
+      "size": 2628,
+      "tags": 0,
+      "links": 0
+    },
+    "learning/computing/programming/shell/simple curl script.md": {
+      "size": 0,
+      "tags": 0,
+      "links": 0
+    },
+    "learning/computing/programming/security/Sybil attacks.md": {
+      "size": 0,
+      "tags": 0,
+      "links": 0
+    },
+    "learning/computing/programming/algorithms/data-structures/left-leaning red black trees.md": {
+      "size": 0,
+      "tags": 0,
+      "links": 0
+    },
+    "learning/computing/programming/databases/postgres/timescaleDB.md": {
+      "size": 0,
+      "tags": 0,
+      "links": 0
+    },
+    "learning/computing/programming/general/beginner project ideas/Build a user interface wrapper for a CLI tool.md": {
+      "size": 0,
+      "tags": 0,
+      "links": 0
+    },
+    "learning/computing/programming/cli/loading/loading spinners and representing updates in a CLI application.md": {
+      "size": 0,
+      "tags": 0,
+      "links": 1
+    },
+    "learning/computing/programming/python/ansible/use ansible_runner from python module.md": {
+      "size": 0,
+      "tags": 0,
+      "links": 0
+    },
+    "learning/computing/programming/databases/postgres/postgres materialized views.md": {
+      "size": 0,
+      "tags": 0,
+      "links": 0
+    },
+    "learning/computing/programming/python/ansible/ansible for network automation.md": {
+      "size": 0,
+      "tags": 0,
+      "links": 0
+    },
+    "learning/computing/programming/python/cli/building and distributing a CLI app with python.md": {
+      "size": 0,
+      "tags": 0,
+      "links": 0
+    },
+    "learning/computing/programming/python/image manipulation/PyMuPDF.md": {
+      "size": 0,
+      "tags": 0,
+      "links": 0
+    },
+    "learning/computing/programming/python/django/Untitled.md": {
+      "size": 0,
+      "tags": 0,
+      "links": 0
+    },
+    "learning/computing/programming/python/django/django class models.md": {
+      "size": 0,
+      "tags": 0,
+      "links": 1
+    },
+    "learning/computing/programming/python/django/django data migrations.md": {
+      "size": 8832,
+      "tags": 0,
+      "links": 0
+    },
+    "learning/computing/programming/python/django/DJango quick reference.md": {
+      "size": 7852,
+      "tags": 0,
+      "links": 1
+    },
+    "learning/computing/programming/python/django/django extensions.md": {
+      "size": 0,
+      "tags": 0,
+      "links": 0
+    },
+    "learning/computing/programming/python/django/django middleware.md": {
+      "size": 0,
+      "tags": 0,
+      "links": 0
+    },
+    "learning/computing/programming/python/django/django container.md": {
+      "size": 7999,
+      "tags": 0,
+      "links": 0
+    },
+    "learning/computing/programming/python/pandas/pandas.md": {
+      "size": 0,
+      "tags": 0,
+      "links": 0
+    },
+    "learning/computing/programming/python/django/django testing.md": {
+      "size": 0,
+      "tags": 0,
+      "links": 0
+    },
+    "learning/computing/programming/python/tips/Getting values from a python dictionary.md": {
+      "size": 0,
+      "tags": 0,
+      "links": 2
+    },
+    "learning/computing/programming/python/django/django migrations with custom sql.md": {
+      "size": 0,
+      "tags": 0,
+      "links": 1
+    },
+    "learning/computing/programming/python/django/django models.md": {
+      "size": 0,
+      "tags": 0,
+      "links": 3
+    },
+    "learning/computing/programming/python/django/django revert migrations.md": {
+      "size": 0,
+      "tags": 0,
+      "links": 0
+    },
+    "learning/computing/programming/python/package management/pipenv usage.md": {
+      "size": 0,
+      "tags": 0,
+      "links": 0
+    },
+    "learning/computing/programming/python/tips/Reserved slots in python formatted strings.md": {
+      "size": 0,
+      "tags": 0,
+      "links": 0
+    },
+    "learning/computing/programming/python/pyspark/pyspark reference.md": {
+      "size": 0,
+      "tags": 0,
+      "links": 1
+    },
+    "learning/computing/programming/python/pyspark/pyspark dataframes.md": {
+      "size": 0,
+      "tags": 0,
+      "links": 0
+    },
+    "learning/computing/programming/python/package management/python virtual environments.md": {
+      "size": 4910,
+      "tags": 0,
+      "links": 0
+    },
+    "learning/computing/programming/python/pyspark/python basics.md": {
+      "size": 8448,
+      "tags": 0,
+      "links": 1
+    },
+    "learning/computing/programming/python/django/Authentication Systems/django authentication system.md": {
+      "size": 0,
+      "tags": 0,
+      "links": 0
+    },
+    "learning/computing/programming/shell/sed/sed examples to print lines from a file.md": {
+      "size": 2954,
+      "tags": 0,
+      "links": 0
+    },
+    "learning/computing/programming/shell/shell looping through lines in a variable.md": {
+      "size": 0,
+      "tags": 0,
+      "links": 0
+    },
+    "learning/computing/programming/shell/shell declare.md": {
+      "size": 0,
+      "tags": 0,
+      "links": 0
+    },
+    "learning/computing/programming/programming languages you must know.md": {
       "size": 198,
       "tags": 0,
       "links": 0
     },
-    "technology/math/Kepler.md": {
+    "learning/computing/cloud/AWS/AWS quiz.md": {
+      "size": 2835,
+      "tags": 0,
+      "links": 0
+    },
+    "learning/computing/hardware/memory controllers.md": {
+      "size": 0,
+      "tags": 0,
+      "links": 0
+    },
+    "learning/computing/cryptocurrency/CommunityBuilding.md": {
+      "size": 886,
+      "tags": 0,
+      "links": 0
+    },
+    "learning/computing/cryptocurrency/CryptoPlatforms.md": {
+      "size": 63,
+      "tags": 0,
+      "links": 0
+    },
+    "learning/computing/cryptocurrency/DecentralizedTools.md": {
+      "size": 99,
+      "tags": 0,
+      "links": 0
+    },
+    "learning/computing/cryptocurrency/GeneralLinks.md": {
+      "size": 143,
+      "tags": 0,
+      "links": 0
+    },
+    "learning/computing/cryptocurrency/MetamaskNetworks.md": {
+      "size": 289,
+      "tags": 0,
+      "links": 0
+    },
+    "learning/computing/cryptocurrency/Handshake.md": {
+      "size": 50,
+      "tags": 0,
+      "links": 0
+    },
+    "learning/computing/cryptocurrency/NFTQuickLinks.md": {
+      "size": 227,
+      "tags": 0,
+      "links": 0
+    },
+    "learning/computing/cryptocurrency/tradingTools.md": {
+      "size": 790,
+      "tags": 0,
+      "links": 0
+    },
+    "learning/computing/cryptocurrency/NFTs/Anyone could use any of the assets for any of the NFT collections.md": {
+      "size": 548,
+      "tags": 0,
+      "links": 0
+    },
+    "learning/computing/cryptocurrency/L2 networks/milkomeda/milkomeda network.md": {
+      "size": 0,
+      "tags": 0,
+      "links": 0
+    },
+    "learning/computing/cryptocurrency/L2 networks/milkomeda/milkomeda smart contracts.md": {
+      "size": 0,
+      "tags": 0,
+      "links": 0
+    },
+    "learning/computing/cryptocurrency/L1 networks/Ethereum/Ethereum.md": {
+      "size": 1154,
+      "tags": 0,
+      "links": 0
+    },
+    "learning/computing/cryptocurrency/Oracles/Chainlink/Fair Sequencing Services (FSS).md": {
+      "size": 2186,
+      "tags": 0,
+      "links": 0
+    },
+    "learning/computing/cryptocurrency/L1 networks/Solana/SolanaList.md": {
+      "size": 142,
+      "tags": 0,
+      "links": 0
+    },
+    "learning/computing/cryptocurrency/L1 networks/Cardano/Cardano_marlowe_pioneer.md": {
+      "size": 1233,
+      "tags": 0,
+      "links": 0
+    },
+    "learning/computing/cryptocurrency/L1 networks/BinanceSmartChain.md": {
+      "size": 220,
+      "tags": 0,
+      "links": 0
+    },
+    "learning/computing/cryptocurrency/L1 networks/BitcoinList.md": {
+      "size": 217,
+      "tags": 0,
+      "links": 0
+    },
+    "learning/computing/cryptocurrency/L1 networks/Cardano/Cardano 1.md": {
+      "size": 4498,
+      "tags": 0,
+      "links": 0
+    },
+    "learning/computing/cryptocurrency/L1 networks/Cardano/Cardano_marlowe_pioneer 1.md": {
+      "size": 1233,
+      "tags": 0,
+      "links": 0
+    },
+    "learning/computing/cryptocurrency/L1 networks/Cardano/CardanoAssetIds.md": {
+      "size": 128,
+      "tags": 0,
+      "links": 0
+    },
+    "learning/computing/cryptocurrency/L1 networks/Cardano/CardanoWhaleWatching.md": {
+      "size": 395,
+      "tags": 0,
+      "links": 0
+    },
+    "learning/computing/cryptocurrency/L1 networks/Elrond.md": {
+      "size": 64,
+      "tags": 0,
+      "links": 0
+    },
+    "learning/computing/cryptocurrency/L1 networks/Ergo/Ergo.md": {
+      "size": 750,
+      "tags": 0,
+      "links": 1
+    },
+    "learning/computing/cryptocurrency/L2 networks/Songbird.md": {
+      "size": 59,
+      "tags": 0,
+      "links": 0
+    },
+    "learning/computing/cryptocurrency/L1 networks/Nervos.md": {
+      "size": 746,
+      "tags": 0,
+      "links": 0
+    },
+    "learning/computing/cryptocurrency/L2 networks/MoonRiver.md": {
+      "size": 84,
+      "tags": 0,
+      "links": 0
+    },
+    "learning/computing/cryptocurrency/L1 networks/Tron.md": {
+      "size": 87,
+      "tags": 0,
+      "links": 0
+    },
+    "learning/computing/cryptocurrency/L1 networks/OasisNetwork.md": {
+      "size": 116,
+      "tags": 0,
+      "links": 0
+    },
+    "learning/computing/cryptocurrency/L1 networks/Fantom.md": {
+      "size": 587,
+      "tags": 0,
+      "links": 0
+    },
+    "learning/computing/cryptocurrency/L1 networks/Avalanche.md": {
+      "size": 104,
+      "tags": 0,
+      "links": 0
+    },
+    "learning/mathematics/Kepler.md": {
       "size": 113,
       "tags": 0,
       "links": 0
     },
-    "technology/math/linear interpolation.md": {
+    "learning/mathematics/linear interpolation.md": {
       "size": 0,
       "tags": 0,
       "links": 1
     },
-    "self/Backlog.md": {
-      "size": 0,
-      "tags": 0,
-      "links": 1
-    },
-    "self/Todo.md": {
-      "size": 0,
-      "tags": 0,
-      "links": 2
-    },
-    "self/school/WGU/computer science degree at WGU.md": {
-      "size": 0,
-      "tags": 0,
-      "links": 0
-    },
-    "self/school/WGU/student accessibility services.md": {
-      "size": 10338,
-      "tags": 0,
-      "links": 0
-    },
-    "self/hobby/biking/how to wrap handlebars for road bikes.md": {
-      "size": 460,
-      "tags": 0,
-      "links": 0
-    },
-    "self/hobby/crafting/make your own t-shirt.md": {
+    "learning/crafting/make your own t-shirt.md": {
       "size": 541,
       "tags": 0,
       "links": 0
     },
-    "self/hobby/music/theory/Try only using major 7th chords to create a chord progression.md": {
+    "learning/music/theory/Try only using major 7th chords to create a chord progression.md": {
       "size": 0,
       "tags": 0,
       "links": 0
     },
-    "self/hobby/music/Sheet music.md": {
+    "learning/music/Sheet music.md": {
       "size": 0,
       "tags": 0,
       "links": 4
     },
-    "self/hobby/food/vegan stocking your pantry tips.md": {
+    "learning/music/Tunings.md": {
+      "size": 0,
+      "tags": 0,
+      "links": 0
+    },
+    "learning/cooking/vegan stocking your pantry tips.md": {
       "size": 1149,
       "tags": 0,
       "links": 0
     },
-    "self/hobby/music/Tunings.md": {
-      "size": 0,
+    "learning/hobby/biking/how to wrap handlebars for road bikes.md": {
+      "size": 460,
       "tags": 0,
       "links": 0
     },
-    "self/hobby/games/stardew valley/stardew valley item codes.md": {
+    "learning/hobby/games/stardew valley/stardew valley item codes.md": {
       "size": 63890,
       "tags": 0,
       "links": 0
     },
-    "self/random/bugs/brown recluse spider.md": {
-      "size": 328,
-      "tags": 0,
-      "links": 0
-    },
-    "self/random/being impaled by a javelin.md": {
+    "learning/financial/money/Money facts.md": {
       "size": 0,
       "tags": 0,
       "links": 0
     },
-    "self/random/lists/really useful websites.md": {
-      "size": 0,
-      "tags": 0,
-      "links": 0
-    },
-    "self/random/lifehacks/productivity tips.md": {
-      "size": 0,
-      "tags": 0,
-      "links": 0
-    },
-    "self/random/lifehacks/transporting lumber with a roof rack.md": {
-      "size": 301,
-      "tags": 0,
-      "links": 0
-    },
-    "self/random/lifehacks/forgetting what you read after you read it.md": {
-      "size": 2074,
-      "tags": 0,
-      "links": 0
-    },
-    "self/random/lifehacks/reading quickly.md": {
-      "size": 0,
-      "tags": 0,
-      "links": 0
-    },
-    "self/random/lifehacks/how to have time for everything.md": {
-      "size": 0,
-      "tags": 0,
-      "links": 0
-    },
-    "self/books/Make It Stick.md": {
-      "size": 0,
-      "tags": 0,
-      "links": 0
-    },
-    "self/books/Staff Engineer.md": {
-      "size": 4972,
-      "tags": 0,
-      "links": 0
-    },
-    "self/career/people-management/transitioning from dev to manager.md": {
+    "learning/financial/career/people-management/transitioning from dev to manager.md": {
       "size": 210,
       "tags": 0,
       "links": 0
     },
-    "self/career/job-hunting/all failures are learning opportunities.md": {
+    "learning/financial/career/job-hunting/all failures are learning opportunities.md": {
       "size": 0,
       "tags": 0,
       "links": 0
     },
-    "self/career/job-hunting/data etl project.md": {
+    "learning/financial/career/job-hunting/data etl project.md": {
       "size": 3431,
       "tags": 0,
       "links": 2
     },
-    "self/career/job-hunting/staff engineer.md": {
+    "learning/financial/career/job-hunting/staff engineer.md": {
       "size": 0,
       "tags": 0,
       "links": 0
     },
-    "self/career/job-hunting/buf.build.md": {
+    "learning/financial/career/job-hunting/buf.build.md": {
       "size": 0,
       "tags": 0,
       "links": 0
     },
-    "self/career/job-hunting/Drawing 2022-11-07 15.59.02.excalidraw.md": {
+    "learning/financial/career/job-hunting/Drawing 2022-11-07 15.59.02.excalidraw.md": {
       "size": 2270,
       "tags": 1,
       "links": 0
     },
-    "self/career/job-hunting/data-etl-hindsight.md": {
+    "learning/financial/career/job-hunting/data-etl-hindsight.md": {
       "size": 0,
       "tags": 0,
       "links": 0
     },
-    "self/career/job-hunting/RevUnit.md": {
+    "learning/financial/career/job-hunting/RevUnit.md": {
       "size": 0,
       "tags": 0,
       "links": 0
     },
-    "self/career/job-hunting/Cover Letters/Systems Engineering Manager @ HomeDepot.md": {
+    "learning/financial/career/job-hunting/Cover Letters/Systems Engineering Manager @ HomeDepot.md": {
       "size": 0,
       "tags": 0,
       "links": 0
     },
-    "self/career/social/two traits necessary to seem confident.md": {
+    "learning/financial/career/social/two traits necessary to seem confident.md": {
       "size": 324,
       "tags": 0,
       "links": 0
     },
-    "self/career/social/Harvard principles of negotiation.md": {
+    "learning/financial/career/social/Harvard principles of negotiation.md": {
       "size": 0,
       "tags": 0,
       "links": 0
     },
-    "self/career/social/Charisma.md": {
+    "learning/financial/career/social/Charisma.md": {
       "size": 2393,
       "tags": 0,
       "links": 0
     },
-    "self/career/money/Money facts.md": {
-      "size": 0,
-      "tags": 0,
-      "links": 0
-    },
-    "self/daily/2022/06-09-22.md": {
-      "size": 1659,
-      "tags": 0,
-      "links": 2
-    },
-    "self/daily/2022/06-10-22.md": {
-      "size": 905,
-      "tags": 0,
-      "links": 0
-    },
-    "self/daily/2022/09-02-22.md": {
-      "size": 2057,
-      "tags": 0,
-      "links": 0
-    },
-    "self/daily/2022/09-15-22.md": {
-      "size": 0,
-      "tags": 0,
-      "links": 0
-    },
-    "self/daily/2022/09-22-22.md": {
-      "size": 0,
-      "tags": 0,
-      "links": 0
-    },
-    "self/daily/2022/09-26-22.md": {
-      "size": 0,
-      "tags": 0,
-      "links": 0
-    },
-    "self/daily/2022/09-27-22.md": {
-      "size": 0,
-      "tags": 0,
-      "links": 0
-    },
-    "self/daily/2022/09-28-22.md": {
-      "size": 0,
-      "tags": 0,
-      "links": 0
-    },
-    "self/daily/2022/09-30-22.md": {
-      "size": 0,
-      "tags": 0,
-      "links": 0
-    },
-    "self/daily/2022/10-01-22.md": {
-      "size": 0,
-      "tags": 0,
-      "links": 0
-    },
-    "self/daily/2022/10-05-22.md": {
+    "personal/Backlog.md": {
       "size": 0,
       "tags": 0,
       "links": 1
     },
-    "self/daily/2022/10-06-22.md": {
+    "personal/Todo.md": {
+      "size": 0,
+      "tags": 0,
+      "links": 2
+    },
+    "personal/school/WGU/computer science degree at WGU.md": {
       "size": 0,
       "tags": 0,
       "links": 0
     },
-    "self/daily/2022/10-07-22.md": {
+    "personal/school/WGU/student accessibility services.md": {
+      "size": 10338,
+      "tags": 0,
+      "links": 0
+    },
+    "personal/daily/2022/06-09-22.md": {
+      "size": 1659,
+      "tags": 0,
+      "links": 2
+    },
+    "personal/daily/2022/06-10-22.md": {
+      "size": 905,
+      "tags": 0,
+      "links": 0
+    },
+    "personal/daily/2022/09-02-22.md": {
+      "size": 2057,
+      "tags": 0,
+      "links": 0
+    },
+    "personal/daily/2022/09-15-22.md": {
       "size": 0,
       "tags": 0,
       "links": 0
     },
-    "self/daily/2022/10-10-22.md": {
+    "personal/daily/2022/09-22-22.md": {
       "size": 0,
       "tags": 0,
       "links": 0
     },
-    "self/daily/2022/11-11-22.md": {
+    "personal/daily/2022/09-26-22.md": {
       "size": 0,
       "tags": 0,
       "links": 0
     },
-    "self/daily/2022/11-12-22.md": {
+    "personal/daily/2022/09-27-22.md": {
       "size": 0,
       "tags": 0,
       "links": 0
     },
-    "self/daily/2022/22-11-14.md": {
+    "personal/daily/2022/09-28-22.md": {
       "size": 0,
+      "tags": 0,
+      "links": 0
+    },
+    "personal/daily/2022/09-30-22.md": {
+      "size": 0,
+      "tags": 0,
+      "links": 0
+    },
+    "personal/daily/2022/10-01-22.md": {
+      "size": 0,
+      "tags": 0,
+      "links": 0
+    },
+    "personal/daily/2022/10-05-22.md": {
+      "size": 0,
+      "tags": 0,
+      "links": 1
+    },
+    "personal/daily/2022/10-06-22.md": {
+      "size": 0,
+      "tags": 0,
+      "links": 0
+    },
+    "personal/daily/2022/10-07-22.md": {
+      "size": 0,
+      "tags": 0,
+      "links": 0
+    },
+    "personal/daily/2022/10-10-22.md": {
+      "size": 0,
+      "tags": 0,
+      "links": 0
+    },
+    "personal/daily/2022/11-11-22.md": {
+      "size": 0,
+      "tags": 0,
+      "links": 0
+    },
+    "personal/daily/2022/11-12-22.md": {
+      "size": 0,
+      "tags": 0,
+      "links": 0
+    },
+    "personal/daily/2022/22-11-14.md": {
+      "size": 0,
+      "tags": 0,
+      "links": 0
+    },
+    "random/being impaled by a javelin.md": {
+      "size": 0,
+      "tags": 0,
+      "links": 0
+    },
+    "random/really useful websites.md": {
+      "size": 0,
+      "tags": 0,
+      "links": 0
+    },
+    "learning/reading/notes/Make It Stick.md": {
+      "size": 0,
+      "tags": 0,
+      "links": 0
+    },
+    "learning/reading/notes/Staff Engineer.md": {
+      "size": 4972,
+      "tags": 0,
+      "links": 0
+    },
+    "learning/reading/if you are forgetting what you read after you read it.md": {
+      "size": 2074,
+      "tags": 0,
+      "links": 0
+    },
+    "learning/productivity/how to have time for everything.md": {
+      "size": 0,
+      "tags": 0,
+      "links": 0
+    },
+    "learning/productivity/general productivity tips.md": {
+      "size": 0,
+      "tags": 0,
+      "links": 0
+    },
+    "learning/reading/tips for reading quickly.md": {
+      "size": 0,
+      "tags": 0,
+      "links": 0
+    },
+    "learning/hobby/transporting lumber with a roof rack.md": {
+      "size": 301,
+      "tags": 0,
+      "links": 0
+    },
+    "learning/bugs/brown recluse spider.md": {
+      "size": 328,
       "tags": 0,
       "links": 0
     }
   },
   "commitTypes": {
     "/": {
-      "Refactor": 498,
+      "Refactor": 1316,
       "Create": 221,
       "Link": 63,
       "Expand": 87
@@ -1186,8 +1186,8 @@
       "13": 27,
       "14": 27,
       "15": 39,
-      "16": 380,
-      "17": 37,
+      "16": 1187,
+      "17": 48,
       "18": 28,
       "19": 25,
       "20": 33,
@@ -1198,7 +1198,7 @@
   },
   "weeklyCommits": {
     "/": {
-      "Mon": 390,
+      "Mon": 1208,
       "Tue": 76,
       "Wed": 101,
       "Thu": 109,
@@ -1316,57 +1316,57 @@
         "<a class=\"internal-link\" href=\"software/git/Untitled.md\"> Untitled </a>"
       ],
       "Renamed": [
-        "<a class=\"internal-link\" href=\"self/daily/2022/22-11-14.md\"> 22-11-14 </a>",
-        "<a class=\"internal-link\" href=\"self/daily/2022/11-12-22.md\"> 11-12-22 </a>",
-        "<a class=\"internal-link\" href=\"self/daily/2022/11-11-22.md\"> 11-11-22 </a>",
-        "<a class=\"internal-link\" href=\"self/daily/2022/10-10-22.md\"> 10-10-22 </a>",
-        "<a class=\"internal-link\" href=\"self/daily/2022/10-07-22.md\"> 10-07-22 </a>",
-        "<a class=\"internal-link\" href=\"self/daily/2022/10-06-22.md\"> 10-06-22 </a>",
-        "<a class=\"internal-link\" href=\"self/daily/2022/10-05-22.md\"> 10-05-22 </a>",
-        "<a class=\"internal-link\" href=\"self/daily/2022/10-01-22.md\"> 10-01-22 </a>",
-        "<a class=\"internal-link\" href=\"self/daily/2022/09-30-22.md\"> 09-30-22 </a>",
-        "<a class=\"internal-link\" href=\"self/daily/2022/09-28-22.md\"> 09-28-22 </a>",
-        "<a class=\"internal-link\" href=\"self/daily/2022/09-27-22.md\"> 09-27-22 </a>",
-        "<a class=\"internal-link\" href=\"self/daily/2022/09-26-22.md\"> 09-26-22 </a>",
-        "<a class=\"internal-link\" href=\"self/daily/2022/09-22-22.md\"> 09-22-22 </a>",
-        "<a class=\"internal-link\" href=\"self/daily/2022/09-15-22.md\"> 09-15-22 </a>",
-        "<a class=\"internal-link\" href=\"self/daily/2022/09-02-22.md\"> 09-02-22 </a>",
-        "<a class=\"internal-link\" href=\"self/daily/2022/06-10-22.md\"> 06-10-22 </a>",
-        "<a class=\"internal-link\" href=\"self/daily/2022/06-09-22.md\"> 06-09-22 </a>",
-        "<a class=\"internal-link\" href=\"self/daily/old/2022/11-14-22.md\"> 11-14-22 </a>",
-        "<a class=\"internal-link\" href=\"self/daily/old/2022/11-12-22.md\"> 11-12-22 </a>",
-        "<a class=\"internal-link\" href=\"self/daily/old/2022/11-11-22.md\"> 11-11-22 </a>",
-        "<a class=\"internal-link\" href=\"self/daily/old/2022/10-10-22.md\"> 10-10-22 </a>",
-        "<a class=\"internal-link\" href=\"self/daily/old/2022/10-07-22.md\"> 10-07-22 </a>",
-        "<a class=\"internal-link\" href=\"self/daily/old/2022/10-06-22.md\"> 10-06-22 </a>",
-        "<a class=\"internal-link\" href=\"self/daily/old/2022/10-05-22.md\"> 10-05-22 </a>",
-        "<a class=\"internal-link\" href=\"self/daily/old/2022/10-01-22.md\"> 10-01-22 </a>",
-        "<a class=\"internal-link\" href=\"self/daily/old/2022/09-30-22.md\"> 09-30-22 </a>",
-        "<a class=\"internal-link\" href=\"self/daily/old/2022/09-28-22.md\"> 09-28-22 </a>",
-        "<a class=\"internal-link\" href=\"self/daily/old/2022/09-27-22.md\"> 09-27-22 </a>",
-        "<a class=\"internal-link\" href=\"self/daily/old/2022/09-26-22.md\"> 09-26-22 </a>",
-        "<a class=\"internal-link\" href=\"self/daily/old/2022/09-22-22.md\"> 09-22-22 </a>",
-        "<a class=\"internal-link\" href=\"self/daily/old/2022/09-15-22.md\"> 09-15-22 </a>",
-        "<a class=\"internal-link\" href=\"self/daily/old/2022/09-02-22.md\"> 09-02-22 </a>",
-        "<a class=\"internal-link\" href=\"self/daily/old/2022/06-10-22.md\"> 06-10-22 </a>",
-        "<a class=\"internal-link\" href=\"self/daily/old/2022/06-09-22.md\"> 06-09-22 </a>",
-        "<a class=\"internal-link\" href=\"self/career/money/Money facts.md\"> Money facts </a>",
-        "<a class=\"internal-link\" href=\"self/career/social/Charisma.md\"> Charisma </a>",
-        "<a class=\"internal-link\" href=\"self/career/social/Harvard principles of negotiation.md\"> Harvard principles of negotiation </a>",
-        "<a class=\"internal-link\" href=\"self/career/social/two traits necessary to seem confident.md\"> two traits necessary to seem confident </a>",
-        "<a class=\"internal-link\" href=\"self/career/job-hunting/Cover Letters/Systems Engineering Manager @ HomeDepot.md\"> Systems Engineering Manager @ HomeDepot </a>",
-        "<a class=\"internal-link\" href=\"self/career/job-hunting/RevUnit.md\"> RevUnit </a>",
-        "<a class=\"internal-link\" href=\"self/career/job-hunting/data-etl-hindsight.md\"> data-etl-hindsight </a>",
-        "<a class=\"internal-link\" href=\"self/career/job-hunting/Drawing 2022-11-07 15.59.02.excalidraw.md\"> Drawing 2022-11-07 15.59.02.excalidraw </a>",
-        "<a class=\"internal-link\" href=\"self/career/job-hunting/buf.build.md\"> buf.build </a>",
-        "<a class=\"internal-link\" href=\"self/career/job-hunting/staff engineer.md\"> staff engineer </a>",
-        "<a class=\"internal-link\" href=\"self/career/job-hunting/data etl project.md\"> data etl project </a>",
-        "<a class=\"internal-link\" href=\"self/career/job-hunting/all failures are learning opportunities.md\"> all failures are learning opportunities </a>",
-        "<a class=\"internal-link\" href=\"self/career/people-management/transitioning from dev to manager.md\"> transitioning from dev to manager </a>",
-        "<a class=\"internal-link\" href=\"self/books/Staff Engineer.md\"> Staff Engineer </a>",
-        "<a class=\"internal-link\" href=\"self/books/Make It Stick.md\"> Make It Stick </a>",
-        "<a class=\"internal-link\" href=\"self/random/lifehacks/how to have time for everything.md\"> how to have time for everything </a>",
-        "<a class=\"internal-link\" href=\"self/random/lifehacks/reading quickly.md\"> reading quickly </a>"
+        "<a class=\"internal-link\" href=\"learning/bugs/brown recluse spider.md\"> brown recluse spider </a>",
+        "<a class=\"internal-link\" href=\"learning/hobby/transporting lumber with a roof rack.md\"> transporting lumber with a roof rack </a>",
+        "<a class=\"internal-link\" href=\"learning/reading/tips for reading quickly.md\"> tips for reading quickly </a>",
+        "<a class=\"internal-link\" href=\"learning/reading/reading quickly.md\"> reading quickly </a>",
+        "<a class=\"internal-link\" href=\"learning/productivity/general productivity tips.md\"> general productivity tips </a>",
+        "<a class=\"internal-link\" href=\"learning/productivity/productivity tips.md\"> productivity tips </a>",
+        "<a class=\"internal-link\" href=\"learning/productivity/how to have time for everything.md\"> how to have time for everything </a>",
+        "<a class=\"internal-link\" href=\"learning/reading/if you are forgetting what you read after you read it.md\"> if you are forgetting what you read after you read it </a>",
+        "<a class=\"internal-link\" href=\"learning/reading/forgetting what you read after you read it.md\"> forgetting what you read after you read it </a>",
+        "<a class=\"internal-link\" href=\"learning/reading/notes/Staff Engineer.md\"> Staff Engineer </a>",
+        "<a class=\"internal-link\" href=\"learning/reading/notes/Make It Stick.md\"> Make It Stick </a>",
+        "<a class=\"internal-link\" href=\"random/really useful websites.md\"> really useful websites </a>",
+        "<a class=\"internal-link\" href=\"random/being impaled by a javelin.md\"> being impaled by a javelin </a>",
+        "<a class=\"internal-link\" href=\"random/bugs/brown recluse spider.md\"> brown recluse spider </a>",
+        "<a class=\"internal-link\" href=\"personal/lists/really useful websites.md\"> really useful websites </a>",
+        "<a class=\"internal-link\" href=\"personal/life/hacks/how to have time for everything.md\"> how to have time for everything </a>",
+        "<a class=\"internal-link\" href=\"personal/life/hacks/reading quickly.md\"> reading quickly </a>",
+        "<a class=\"internal-link\" href=\"personal/life/hacks/forgetting what you read after you read it.md\"> forgetting what you read after you read it </a>",
+        "<a class=\"internal-link\" href=\"personal/life/hacks/transporting lumber with a roof rack.md\"> transporting lumber with a roof rack </a>",
+        "<a class=\"internal-link\" href=\"personal/life/hacks/productivity tips.md\"> productivity tips </a>",
+        "<a class=\"internal-link\" href=\"personal/random/hacks/how to have time for everything.md\"> how to have time for everything </a>",
+        "<a class=\"internal-link\" href=\"personal/random/hacks/reading quickly.md\"> reading quickly </a>",
+        "<a class=\"internal-link\" href=\"personal/random/hacks/forgetting what you read after you read it.md\"> forgetting what you read after you read it </a>",
+        "<a class=\"internal-link\" href=\"personal/random/hacks/transporting lumber with a roof rack.md\"> transporting lumber with a roof rack </a>",
+        "<a class=\"internal-link\" href=\"personal/random/hacks/productivity tips.md\"> productivity tips </a>",
+        "<a class=\"internal-link\" href=\"personal/daily/2022/22-11-14.md\"> 22-11-14 </a>",
+        "<a class=\"internal-link\" href=\"personal/daily/2022/11-12-22.md\"> 11-12-22 </a>",
+        "<a class=\"internal-link\" href=\"personal/daily/2022/11-11-22.md\"> 11-11-22 </a>",
+        "<a class=\"internal-link\" href=\"personal/daily/2022/10-10-22.md\"> 10-10-22 </a>",
+        "<a class=\"internal-link\" href=\"personal/daily/2022/10-07-22.md\"> 10-07-22 </a>",
+        "<a class=\"internal-link\" href=\"personal/daily/2022/10-06-22.md\"> 10-06-22 </a>",
+        "<a class=\"internal-link\" href=\"personal/daily/2022/10-05-22.md\"> 10-05-22 </a>",
+        "<a class=\"internal-link\" href=\"personal/daily/2022/10-01-22.md\"> 10-01-22 </a>",
+        "<a class=\"internal-link\" href=\"personal/daily/2022/09-30-22.md\"> 09-30-22 </a>",
+        "<a class=\"internal-link\" href=\"personal/daily/2022/09-28-22.md\"> 09-28-22 </a>",
+        "<a class=\"internal-link\" href=\"personal/daily/2022/09-27-22.md\"> 09-27-22 </a>",
+        "<a class=\"internal-link\" href=\"personal/daily/2022/09-26-22.md\"> 09-26-22 </a>",
+        "<a class=\"internal-link\" href=\"personal/daily/2022/09-22-22.md\"> 09-22-22 </a>",
+        "<a class=\"internal-link\" href=\"personal/daily/2022/09-15-22.md\"> 09-15-22 </a>",
+        "<a class=\"internal-link\" href=\"personal/daily/2022/09-02-22.md\"> 09-02-22 </a>",
+        "<a class=\"internal-link\" href=\"personal/daily/2022/06-10-22.md\"> 06-10-22 </a>",
+        "<a class=\"internal-link\" href=\"personal/daily/2022/06-09-22.md\"> 06-09-22 </a>",
+        "<a class=\"internal-link\" href=\"personal/random/lifehacks/how to have time for everything.md\"> how to have time for everything </a>",
+        "<a class=\"internal-link\" href=\"personal/random/lifehacks/reading quickly.md\"> reading quickly </a>",
+        "<a class=\"internal-link\" href=\"personal/random/lifehacks/forgetting what you read after you read it.md\"> forgetting what you read after you read it </a>",
+        "<a class=\"internal-link\" href=\"personal/random/lifehacks/transporting lumber with a roof rack.md\"> transporting lumber with a roof rack </a>",
+        "<a class=\"internal-link\" href=\"personal/random/lifehacks/productivity tips.md\"> productivity tips </a>",
+        "<a class=\"internal-link\" href=\"personal/random/lists/really useful websites.md\"> really useful websites </a>",
+        "<a class=\"internal-link\" href=\"personal/random/being impaled by a javelin.md\"> being impaled by a javelin </a>",
+        "<a class=\"internal-link\" href=\"personal/random/bugs/brown recluse spider.md\"> brown recluse spider </a>",
+        "<a class=\"internal-link\" href=\"personal/school/WGU/student accessibility services.md\"> student accessibility services </a>"
       ],
       "Tagged": [
         "<a class=\"internal-link\" href=\"personal/job-hunting/jb-hunt-topics.md\"> jb-hunt-topics </a>",

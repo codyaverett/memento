@@ -1,5 +1,3 @@
-# Productivity Tips
-
 1. Ask people that are productive, what makes them productive
 2. Always ask, "is this task essential?"
 3. Don't put so much pressure on the future you.  The tomorrow you might not want to do the thing yesterday you said they were gonna do.

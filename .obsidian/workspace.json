@@ -4,32 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "9df74527f8668d4d",
+        "id": "ad020361e183ada6",
         "type": "tabs",
         "children": [
           {
-            "id": "f7eaf835dac37138",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "03e4ef2727b836cd",
+            "id": "1584c6067ff55af2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "self/daily/2022/22-11-14.md",
+                "file": "learning/hobby/transporting lumber with a roof rack.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -87,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "self/daily/2022/22-11-14.md",
+                "file": "learning/hobby/transporting lumber with a roof rack.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +95,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "self/daily/2022/22-11-14.md"
+                "file": "learning/hobby/transporting lumber with a roof rack.md"
               }
             }
           },
@@ -136,15 +127,15 @@
   },
   "active": "33a2bab88d111215",
   "lastOpenFiles": [
+    "learning/reading/tips for reading quickly.md",
+    "learning/productivity/general productivity tips.md",
+    "learning/productivity/how to have time for everything.md",
+    "learning/reading/if you are forgetting what you read after you read it.md",
+    "personal/Backlog.md",
+    "personal/Todo.md",
+    "personal/daily/2022/22-11-14.md",
     "self/daily/old/2022/11-14-22.md",
-    "self/daily/2022/22-11-14.md",
-    "self/daily/2022/06-09-22.md",
-    "templates/shell snippet.md",
-    "self/Todo.md",
-    "self/Backlog.md",
-    "WIP.md",
-    "README.md",
-    "personal/Cody_Averett.md",
-    "technology/programming/shell/shell declare.md"
+    "personal/daily/2022/06-09-22.md",
+    "templates/shell snippet.md"
   ]
 }
