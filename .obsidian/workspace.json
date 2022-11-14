@@ -11,13 +11,8 @@
             "id": "f7eaf835dac37138",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "daily/11-14-22.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           },
           {
@@ -26,7 +21,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "self/daily/2022/22-11-14.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -92,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "self/daily/2022/22-11-14.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,7 +104,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "self/daily/2022/22-11-14.md"
               }
             }
           },
@@ -139,17 +134,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "03e4ef2727b836cd",
+  "active": "33a2bab88d111215",
   "lastOpenFiles": [
-    "daily/11-14-22.md",
-    "technology/programming/shell/shell declare.md",
-    "technology/software/linux/create home directory for already existing user.md",
+    "self/daily/old/2022/11-14-22.md",
+    "self/daily/2022/22-11-14.md",
+    "self/daily/2022/06-09-22.md",
+    "templates/shell snippet.md",
+    "self/Todo.md",
+    "self/Backlog.md",
+    "WIP.md",
     "README.md",
     "personal/Cody_Averett.md",
-    "hobby/music/Tunings.md",
-    "Todo.md",
-    "WIP.md",
-    "Backlog.md",
-    "lists/really useful websites.md"
+    "technology/programming/shell/shell declare.md"
   ]
 }
