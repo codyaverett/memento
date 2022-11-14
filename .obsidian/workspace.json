@@ -39,7 +39,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "programming/shell/sed/sed examples to print lines from a file.md",
+                "file": "software/apache kafka/apache kafka.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -76,7 +76,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "stream",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -105,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "programming/shell/sed/sed examples to print lines from a file.md",
+                "file": "software/apache kafka/apache kafka.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +122,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "programming/shell/sed/sed examples to print lines from a file.md"
+                "file": "software/apache kafka/apache kafka.md"
               }
             }
           },
@@ -154,15 +154,15 @@
   },
   "active": "03e4ef2727b836cd",
   "lastOpenFiles": [
+    "software/linux/create linux superuser.md",
+    "programming/shell/sed/sed examples to print lines from a file.md",
     "daily/11-12-22.md",
     "personal/music/Sheet music.md",
-    "programming/shell/sed/sed examples to print lines from a file.md",
     "programming/shell/simple curl script.md",
     "programming/shell/shell declare.md",
     "programming/shell/shell looping through lines in a variable.md",
     "personal/books/Staff Engineer.md",
     "software/jupyter notebooks/run any shell command in jupyter notebooks.md",
-    "templates/shell snippet.md",
-    "personal/lifehacks/how to have time for everything.md"
+    "templates/shell snippet.md"
   ]
 }

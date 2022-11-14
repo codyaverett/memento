@@ -3,6 +3,10 @@
 - Pub/Sub
 - Producers push data to topics on a Kafka cluster and consumers pull data from 
 
+## Use cases
+
+- Streaming data as soon as it is generated to extract the most value from the data
+- 
 
 ## Reference 
 
