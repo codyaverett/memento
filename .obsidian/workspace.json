@@ -21,6 +21,19 @@
             }
           },
           {
+            "id": "de94b24084c6d8f2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "software/linux/create home directory for already existing user.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
             "id": "c6d8ba4421616bce",
             "type": "leaf",
             "state": {
@@ -46,7 +59,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -104,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "daily/11-14-22.md",
+                "file": "software/linux/create home directory for already existing user.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "daily/11-14-22.md"
+                "file": "software/linux/create home directory for already existing user.md"
               }
             }
           },
@@ -151,8 +165,9 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "f7eaf835dac37138",
+  "active": "de94b24084c6d8f2",
   "lastOpenFiles": [
+    "daily/11-14-22.md",
     "daily/11-12-22.md",
     "software/apache kafka/apache kafka.md",
     "software/linux/create linux superuser.md",
@@ -161,7 +176,6 @@
     "programming/shell/simple curl script.md",
     "programming/shell/shell declare.md",
     "programming/shell/shell looping through lines in a variable.md",
-    "personal/books/Staff Engineer.md",
-    "software/jupyter notebooks/run any shell command in jupyter notebooks.md"
+    "personal/books/Staff Engineer.md"
   ]
 }
