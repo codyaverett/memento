@@ -2,7 +2,7 @@
 I relate other documents I need to work on more to this document so I can keep track of things I need to do more research on.
 
 ## Obsidian note taking
-- [First Impressions](software/obsidian/first-impressions)
+- [First Impressions](first-impressions.md)
 - https://obsidian.md/
 - [plugins](https://obsidian.md/plugins)
 
