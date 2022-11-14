@@ -4,117 +4,12 @@
     "/"
   ],
   "filesCheckpoint": {
-    "personal/Cody_Averett.md": {
-      "size": 86,
-      "tags": 0,
-      "links": 0
-    },
-    "daily/06-09-22.md": {
-      "size": 1659,
-      "tags": 0,
-      "links": 2
-    },
-    "daily/06-10-22.md": {
-      "size": 905,
-      "tags": 0,
-      "links": 0
-    },
     "README.md": {
       "size": 29,
       "tags": 0,
       "links": 0
     },
-    "daily/09-02-22.md": {
-      "size": 2057,
-      "tags": 0,
-      "links": 0
-    },
-    "daily/09-15-22.md": {
-      "size": 0,
-      "tags": 0,
-      "links": 0
-    },
-    "daily/09-22-22.md": {
-      "size": 0,
-      "tags": 0,
-      "links": 0
-    },
-    "daily/09-26-22.md": {
-      "size": 0,
-      "tags": 0,
-      "links": 0
-    },
-    "daily/09-27-22.md": {
-      "size": 0,
-      "tags": 0,
-      "links": 0
-    },
-    "daily/09-28-22.md": {
-      "size": 0,
-      "tags": 0,
-      "links": 0
-    },
-    "daily/09-30-22.md": {
-      "size": 0,
-      "tags": 0,
-      "links": 0
-    },
-    "daily/10-01-22.md": {
-      "size": 0,
-      "tags": 0,
-      "links": 0
-    },
-    "daily/10-05-22.md": {
-      "size": 0,
-      "tags": 0,
-      "links": 1
-    },
-    "daily/10-06-22.md": {
-      "size": 0,
-      "tags": 0,
-      "links": 0
-    },
-    "daily/10-07-22.md": {
-      "size": 0,
-      "tags": 0,
-      "links": 0
-    },
-    "Todo.md": {
-      "size": 0,
-      "tags": 0,
-      "links": 2
-    },
-    "daily/10-10-22.md": {
-      "size": 0,
-      "tags": 0,
-      "links": 0
-    },
-    "Backlog.md": {
-      "size": 0,
-      "tags": 0,
-      "links": 1
-    },
-    "WIP.md": {
-      "size": 787,
-      "tags": 0,
-      "links": 0
-    },
-    "daily/11-11-22.md": {
-      "size": 0,
-      "tags": 0,
-      "links": 0
-    },
-    "daily/11-12-22.md": {
-      "size": 0,
-      "tags": 0,
-      "links": 0
-    },
     "templates/shell snippet.md": {
-      "size": 0,
-      "tags": 0,
-      "links": 0
-    },
-    "daily/11-14-22.md": {
       "size": 0,
       "tags": 0,
       "links": 0
@@ -979,81 +874,6 @@
       "tags": 0,
       "links": 0
     },
-    "hobby/biking/how to wrap handlebars for road bikes.md": {
-      "size": 460,
-      "tags": 0,
-      "links": 0
-    },
-    "hobby/crafting/make your own t-shirt.md": {
-      "size": 541,
-      "tags": 0,
-      "links": 0
-    },
-    "hobby/music/theory/Try only using major 7th chords to create a chord progression.md": {
-      "size": 0,
-      "tags": 0,
-      "links": 0
-    },
-    "hobby/music/Sheet music.md": {
-      "size": 0,
-      "tags": 0,
-      "links": 4
-    },
-    "random/bugs/brown recluse spider.md": {
-      "size": 328,
-      "tags": 0,
-      "links": 0
-    },
-    "random/being impaled by a javelin.md": {
-      "size": 0,
-      "tags": 0,
-      "links": 0
-    },
-    "career/people-management/transitioning from dev to manager.md": {
-      "size": 210,
-      "tags": 0,
-      "links": 0
-    },
-    "career/job-hunting/all failures are learning opportunities.md": {
-      "size": 0,
-      "tags": 0,
-      "links": 0
-    },
-    "career/job-hunting/data etl project.md": {
-      "size": 3431,
-      "tags": 0,
-      "links": 2
-    },
-    "career/job-hunting/staff engineer.md": {
-      "size": 0,
-      "tags": 0,
-      "links": 0
-    },
-    "career/job-hunting/buf.build.md": {
-      "size": 0,
-      "tags": 0,
-      "links": 0
-    },
-    "career/job-hunting/Drawing 2022-11-07 15.59.02.excalidraw.md": {
-      "size": 2270,
-      "tags": 1,
-      "links": 0
-    },
-    "career/job-hunting/data-etl-hindsight.md": {
-      "size": 0,
-      "tags": 0,
-      "links": 0
-    },
-    "career/job-hunting/RevUnit.md": {
-      "size": 0,
-      "tags": 0,
-      "links": 0
-    },
-    "career/job-hunting/Cover Letters/Systems Engineering Manager @ HomeDepot.md": {
-      "size": 0,
-      "tags": 0,
-      "links": 0
-    },
     "technology/hardware/memory controllers.md": {
       "size": 0,
       "tags": 0,
@@ -1061,11 +881,6 @@
     },
     "technology/farming/Compost has four ingredients.md": {
       "size": 765,
-      "tags": 0,
-      "links": 0
-    },
-    "hobby/food/vegan stocking your pantry tips.md": {
-      "size": 1149,
       "tags": 0,
       "links": 0
     },
@@ -1079,31 +894,6 @@
       "tags": 0,
       "links": 0
     },
-    "career/social/two traits necessary to seem confident.md": {
-      "size": 324,
-      "tags": 0,
-      "links": 0
-    },
-    "career/social/Harvard principles of negotiation.md": {
-      "size": 0,
-      "tags": 0,
-      "links": 0
-    },
-    "career/social/Charisma.md": {
-      "size": 2393,
-      "tags": 0,
-      "links": 0
-    },
-    "career/money/Money facts.md": {
-      "size": 0,
-      "tags": 0,
-      "links": 0
-    },
-    "hobby/music/Tunings.md": {
-      "size": 0,
-      "tags": 0,
-      "links": 0
-    },
     "technology/math/Kepler.md": {
       "size": 113,
       "tags": 0,
@@ -1114,57 +904,257 @@
       "tags": 0,
       "links": 1
     },
-    "hobby/games/stardew valley/stardew valley item codes.md": {
-      "size": 63890,
+    "self/Backlog.md": {
+      "size": 0,
       "tags": 0,
-      "links": 0
+      "links": 1
     },
-    "life/lifehacks/productivity tips.md": {
+    "self/Todo.md": {
+      "size": 0,
+      "tags": 0,
+      "links": 2
+    },
+    "self/school/WGU/computer science degree at WGU.md": {
       "size": 0,
       "tags": 0,
       "links": 0
     },
-    "life/lifehacks/transporting lumber with a roof rack.md": {
-      "size": 301,
-      "tags": 0,
-      "links": 0
-    },
-    "life/lifehacks/forgetting what you read after you read it.md": {
-      "size": 2074,
-      "tags": 0,
-      "links": 0
-    },
-    "life/lifehacks/reading quickly.md": {
-      "size": 0,
-      "tags": 0,
-      "links": 0
-    },
-    "life/lifehacks/how to have time for everything.md": {
-      "size": 0,
-      "tags": 0,
-      "links": 0
-    },
-    "school/WGU/computer science degree at WGU.md": {
-      "size": 0,
-      "tags": 0,
-      "links": 0
-    },
-    "school/WGU/student accessibility services.md": {
+    "self/school/WGU/student accessibility services.md": {
       "size": 10338,
       "tags": 0,
       "links": 0
     },
-    "books/Make It Stick.md": {
+    "self/hobby/biking/how to wrap handlebars for road bikes.md": {
+      "size": 460,
+      "tags": 0,
+      "links": 0
+    },
+    "self/hobby/crafting/make your own t-shirt.md": {
+      "size": 541,
+      "tags": 0,
+      "links": 0
+    },
+    "self/hobby/music/theory/Try only using major 7th chords to create a chord progression.md": {
       "size": 0,
       "tags": 0,
       "links": 0
     },
-    "books/Staff Engineer.md": {
+    "self/hobby/music/Sheet music.md": {
+      "size": 0,
+      "tags": 0,
+      "links": 4
+    },
+    "self/hobby/food/vegan stocking your pantry tips.md": {
+      "size": 1149,
+      "tags": 0,
+      "links": 0
+    },
+    "self/hobby/music/Tunings.md": {
+      "size": 0,
+      "tags": 0,
+      "links": 0
+    },
+    "self/hobby/games/stardew valley/stardew valley item codes.md": {
+      "size": 63890,
+      "tags": 0,
+      "links": 0
+    },
+    "self/random/bugs/brown recluse spider.md": {
+      "size": 328,
+      "tags": 0,
+      "links": 0
+    },
+    "self/random/being impaled by a javelin.md": {
+      "size": 0,
+      "tags": 0,
+      "links": 0
+    },
+    "self/random/lists/really useful websites.md": {
+      "size": 0,
+      "tags": 0,
+      "links": 0
+    },
+    "self/random/lifehacks/productivity tips.md": {
+      "size": 0,
+      "tags": 0,
+      "links": 0
+    },
+    "self/random/lifehacks/transporting lumber with a roof rack.md": {
+      "size": 301,
+      "tags": 0,
+      "links": 0
+    },
+    "self/random/lifehacks/forgetting what you read after you read it.md": {
+      "size": 2074,
+      "tags": 0,
+      "links": 0
+    },
+    "self/random/lifehacks/reading quickly.md": {
+      "size": 0,
+      "tags": 0,
+      "links": 0
+    },
+    "self/random/lifehacks/how to have time for everything.md": {
+      "size": 0,
+      "tags": 0,
+      "links": 0
+    },
+    "self/books/Make It Stick.md": {
+      "size": 0,
+      "tags": 0,
+      "links": 0
+    },
+    "self/books/Staff Engineer.md": {
       "size": 4972,
       "tags": 0,
       "links": 0
     },
-    "lists/really useful websites.md": {
+    "self/career/people-management/transitioning from dev to manager.md": {
+      "size": 210,
+      "tags": 0,
+      "links": 0
+    },
+    "self/career/job-hunting/all failures are learning opportunities.md": {
+      "size": 0,
+      "tags": 0,
+      "links": 0
+    },
+    "self/career/job-hunting/data etl project.md": {
+      "size": 3431,
+      "tags": 0,
+      "links": 2
+    },
+    "self/career/job-hunting/staff engineer.md": {
+      "size": 0,
+      "tags": 0,
+      "links": 0
+    },
+    "self/career/job-hunting/buf.build.md": {
+      "size": 0,
+      "tags": 0,
+      "links": 0
+    },
+    "self/career/job-hunting/Drawing 2022-11-07 15.59.02.excalidraw.md": {
+      "size": 2270,
+      "tags": 1,
+      "links": 0
+    },
+    "self/career/job-hunting/data-etl-hindsight.md": {
+      "size": 0,
+      "tags": 0,
+      "links": 0
+    },
+    "self/career/job-hunting/RevUnit.md": {
+      "size": 0,
+      "tags": 0,
+      "links": 0
+    },
+    "self/career/job-hunting/Cover Letters/Systems Engineering Manager @ HomeDepot.md": {
+      "size": 0,
+      "tags": 0,
+      "links": 0
+    },
+    "self/career/social/two traits necessary to seem confident.md": {
+      "size": 324,
+      "tags": 0,
+      "links": 0
+    },
+    "self/career/social/Harvard principles of negotiation.md": {
+      "size": 0,
+      "tags": 0,
+      "links": 0
+    },
+    "self/career/social/Charisma.md": {
+      "size": 2393,
+      "tags": 0,
+      "links": 0
+    },
+    "self/career/money/Money facts.md": {
+      "size": 0,
+      "tags": 0,
+      "links": 0
+    },
+    "self/daily/2022/06-09-22.md": {
+      "size": 1659,
+      "tags": 0,
+      "links": 2
+    },
+    "self/daily/2022/06-10-22.md": {
+      "size": 905,
+      "tags": 0,
+      "links": 0
+    },
+    "self/daily/2022/09-02-22.md": {
+      "size": 2057,
+      "tags": 0,
+      "links": 0
+    },
+    "self/daily/2022/09-15-22.md": {
+      "size": 0,
+      "tags": 0,
+      "links": 0
+    },
+    "self/daily/2022/09-22-22.md": {
+      "size": 0,
+      "tags": 0,
+      "links": 0
+    },
+    "self/daily/2022/09-26-22.md": {
+      "size": 0,
+      "tags": 0,
+      "links": 0
+    },
+    "self/daily/2022/09-27-22.md": {
+      "size": 0,
+      "tags": 0,
+      "links": 0
+    },
+    "self/daily/2022/09-28-22.md": {
+      "size": 0,
+      "tags": 0,
+      "links": 0
+    },
+    "self/daily/2022/09-30-22.md": {
+      "size": 0,
+      "tags": 0,
+      "links": 0
+    },
+    "self/daily/2022/10-01-22.md": {
+      "size": 0,
+      "tags": 0,
+      "links": 0
+    },
+    "self/daily/2022/10-05-22.md": {
+      "size": 0,
+      "tags": 0,
+      "links": 1
+    },
+    "self/daily/2022/10-06-22.md": {
+      "size": 0,
+      "tags": 0,
+      "links": 0
+    },
+    "self/daily/2022/10-07-22.md": {
+      "size": 0,
+      "tags": 0,
+      "links": 0
+    },
+    "self/daily/2022/10-10-22.md": {
+      "size": 0,
+      "tags": 0,
+      "links": 0
+    },
+    "self/daily/2022/11-11-22.md": {
+      "size": 0,
+      "tags": 0,
+      "links": 0
+    },
+    "self/daily/2022/11-12-22.md": {
+      "size": 0,
+      "tags": 0,
+      "links": 0
+    },
+    "self/daily/2022/22-11-14.md": {
       "size": 0,
       "tags": 0,
       "links": 0
@@ -1172,8 +1162,8 @@
   },
   "commitTypes": {
     "/": {
-      "Refactor": 421,
-      "Create": 220,
+      "Refactor": 498,
+      "Create": 221,
       "Link": 63,
       "Expand": 87
     }
@@ -1196,7 +1186,7 @@
       "13": 27,
       "14": 27,
       "15": 39,
-      "16": 302,
+      "16": 380,
       "17": 37,
       "18": 28,
       "19": 25,
@@ -1208,7 +1198,7 @@
   },
   "weeklyCommits": {
     "/": {
-      "Mon": 312,
+      "Mon": 390,
       "Tue": 76,
       "Wed": 101,
       "Thu": 109,
@@ -1273,6 +1263,7 @@
         "<a class=\"internal-link\" href=\"personal/job-hunting/Federal-reserve-bank-topics.md\"> Federal-reserve-bank-topics </a>"
       ],
       "Created": [
+        "<a class=\"internal-link\" href=\"self/daily/22-11-14.md\"> 22-11-14 </a>",
         "<a class=\"internal-link\" href=\"software/linux/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"daily/11-14-22.md\"> 11-14-22 </a>",
         "<a class=\"internal-link\" href=\"programming/shell/Untitled.md\"> Untitled </a>",
@@ -1322,61 +1313,60 @@
         "<a class=\"internal-link\" href=\"programming/python/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"software/containers/buildah/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"software/containers/buildah/Untitled.md\"> Untitled </a>",
-        "<a class=\"internal-link\" href=\"software/git/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"software/git/Untitled.md\"> Untitled </a>"
       ],
       "Renamed": [
-        "<a class=\"internal-link\" href=\"lists/really useful websites.md\"> really useful websites </a>",
-        "<a class=\"internal-link\" href=\"books/Staff Engineer.md\"> Staff Engineer </a>",
-        "<a class=\"internal-link\" href=\"books/Make It Stick.md\"> Make It Stick </a>",
-        "<a class=\"internal-link\" href=\"school/WGU/student accessibility services.md\"> student accessibility services </a>",
-        "<a class=\"internal-link\" href=\"school/WGU/computer science degree at WGU.md\"> computer science degree at WGU </a>",
-        "<a class=\"internal-link\" href=\"life/lifehacks/how to have time for everything.md\"> how to have time for everything </a>",
-        "<a class=\"internal-link\" href=\"life/lifehacks/reading quickly.md\"> reading quickly </a>",
-        "<a class=\"internal-link\" href=\"life/lifehacks/forgetting what you read after you read it.md\"> forgetting what you read after you read it </a>",
-        "<a class=\"internal-link\" href=\"life/lifehacks/transporting lumber with a roof rack.md\"> transporting lumber with a roof rack </a>",
-        "<a class=\"internal-link\" href=\"life/lifehacks/productivity tips.md\"> productivity tips </a>",
-        "<a class=\"internal-link\" href=\"hobby/games/stardew valley/stardew valley item codes.md\"> stardew valley item codes </a>",
-        "<a class=\"internal-link\" href=\"technology/math/linear interpolation.md\"> linear interpolation </a>",
-        "<a class=\"internal-link\" href=\"technology/math/Kepler.md\"> Kepler </a>",
-        "<a class=\"internal-link\" href=\"hobby/music/Tunings.md\"> Tunings </a>",
-        "<a class=\"internal-link\" href=\"hobby/Tunings.md\"> Tunings </a>",
-        "<a class=\"internal-link\" href=\"career/money/Money facts.md\"> Money facts </a>",
-        "<a class=\"internal-link\" href=\"career/social/Charisma.md\"> Charisma </a>",
-        "<a class=\"internal-link\" href=\"career/social/Harvard principles of negotiation.md\"> Harvard principles of negotiation </a>",
-        "<a class=\"internal-link\" href=\"career/social/two traits necessary to seem confident.md\"> two traits necessary to seem confident </a>",
-        "<a class=\"internal-link\" href=\"technology/programming/programming languages you must know.md\"> programming languages you must know </a>",
-        "<a class=\"internal-link\" href=\"technology/cloud/AWS/AWS quiz.md\"> AWS quiz </a>",
-        "<a class=\"internal-link\" href=\"hobby/food/vegan stocking your pantry tips.md\"> vegan stocking your pantry tips </a>",
-        "<a class=\"internal-link\" href=\"technology/farming/Compost has four ingredients.md\"> Compost has four ingredients </a>",
-        "<a class=\"internal-link\" href=\"technology/hardware/memory controllers.md\"> memory controllers </a>",
-        "<a class=\"internal-link\" href=\"career/job-hunting/Cover Letters/Systems Engineering Manager @ HomeDepot.md\"> Systems Engineering Manager @ HomeDepot </a>",
-        "<a class=\"internal-link\" href=\"career/job-hunting/RevUnit.md\"> RevUnit </a>",
-        "<a class=\"internal-link\" href=\"career/job-hunting/data-etl-hindsight.md\"> data-etl-hindsight </a>",
-        "<a class=\"internal-link\" href=\"career/job-hunting/Drawing 2022-11-07 15.59.02.excalidraw.md\"> Drawing 2022-11-07 15.59.02.excalidraw </a>",
-        "<a class=\"internal-link\" href=\"career/job-hunting/buf.build.md\"> buf.build </a>",
-        "<a class=\"internal-link\" href=\"career/job-hunting/staff engineer.md\"> staff engineer </a>",
-        "<a class=\"internal-link\" href=\"career/job-hunting/data etl project.md\"> data etl project </a>",
-        "<a class=\"internal-link\" href=\"career/job-hunting/all failures are learning opportunities.md\"> all failures are learning opportunities </a>",
-        "<a class=\"internal-link\" href=\"career/people-management/transitioning from dev to manager.md\"> transitioning from dev to manager </a>",
-        "<a class=\"internal-link\" href=\"random/being impaled by a javelin.md\"> being impaled by a javelin </a>",
-        "<a class=\"internal-link\" href=\"random/bugs/brown recluse spider.md\"> brown recluse spider </a>",
-        "<a class=\"internal-link\" href=\"hobby/music/Sheet music.md\"> Sheet music </a>",
-        "<a class=\"internal-link\" href=\"hobby/music/theory/Try only using major 7th chords to create a chord progression.md\"> Try only using major 7th chords to create a chord progression </a>",
-        "<a class=\"internal-link\" href=\"hobby/farming/Compost has four ingredients.md\"> Compost has four ingredients </a>",
-        "<a class=\"internal-link\" href=\"hobby/crafting/make your own t-shirt.md\"> make your own t-shirt </a>",
-        "<a class=\"internal-link\" href=\"personal/crafting/make your own t-shirt.md\"> make your own t-shirt </a>",
-        "<a class=\"internal-link\" href=\"hobby/biking/how to wrap handlebars for road bikes.md\"> how to wrap handlebars for road bikes </a>",
-        "<a class=\"internal-link\" href=\"technology/software/linux/create home directory for already existing user.md\"> create home directory for already existing user </a>",
-        "<a class=\"internal-link\" href=\"technology/software/apache kafka/apache kafka.md\"> apache kafka </a>",
-        "<a class=\"internal-link\" href=\"technology/software/jupyter notebooks/run any shell command in jupyter notebooks.md\"> run any shell command in jupyter notebooks </a>",
-        "<a class=\"internal-link\" href=\"technology/software/data ETL/apache airflow/create airflow user.md\"> create airflow user </a>",
-        "<a class=\"internal-link\" href=\"technology/software/data ETL/apache airflow/apache airflow.md\"> apache airflow </a>",
-        "<a class=\"internal-link\" href=\"technology/software/data ETL/apache airflow/apache airflow quickstart.md\"> apache airflow quickstart </a>",
-        "<a class=\"internal-link\" href=\"technology/software/data ETL/apache airflow/when are airflow plugins reloaded.md\"> when are airflow plugins reloaded </a>",
-        "<a class=\"internal-link\" href=\"technology/software/data ETL/apache airflow/airflow module management.md\"> airflow module management </a>",
-        "<a class=\"internal-link\" href=\"technology/software/data ETL/apache airflow/airflow limitations.md\"> airflow limitations </a>",
-        "<a class=\"internal-link\" href=\"technology/software/data ETL/apache airflow/airflow secret variables.md\"> airflow secret variables </a>"
+        "<a class=\"internal-link\" href=\"self/daily/2022/22-11-14.md\"> 22-11-14 </a>",
+        "<a class=\"internal-link\" href=\"self/daily/2022/11-12-22.md\"> 11-12-22 </a>",
+        "<a class=\"internal-link\" href=\"self/daily/2022/11-11-22.md\"> 11-11-22 </a>",
+        "<a class=\"internal-link\" href=\"self/daily/2022/10-10-22.md\"> 10-10-22 </a>",
+        "<a class=\"internal-link\" href=\"self/daily/2022/10-07-22.md\"> 10-07-22 </a>",
+        "<a class=\"internal-link\" href=\"self/daily/2022/10-06-22.md\"> 10-06-22 </a>",
+        "<a class=\"internal-link\" href=\"self/daily/2022/10-05-22.md\"> 10-05-22 </a>",
+        "<a class=\"internal-link\" href=\"self/daily/2022/10-01-22.md\"> 10-01-22 </a>",
+        "<a class=\"internal-link\" href=\"self/daily/2022/09-30-22.md\"> 09-30-22 </a>",
+        "<a class=\"internal-link\" href=\"self/daily/2022/09-28-22.md\"> 09-28-22 </a>",
+        "<a class=\"internal-link\" href=\"self/daily/2022/09-27-22.md\"> 09-27-22 </a>",
+        "<a class=\"internal-link\" href=\"self/daily/2022/09-26-22.md\"> 09-26-22 </a>",
+        "<a class=\"internal-link\" href=\"self/daily/2022/09-22-22.md\"> 09-22-22 </a>",
+        "<a class=\"internal-link\" href=\"self/daily/2022/09-15-22.md\"> 09-15-22 </a>",
+        "<a class=\"internal-link\" href=\"self/daily/2022/09-02-22.md\"> 09-02-22 </a>",
+        "<a class=\"internal-link\" href=\"self/daily/2022/06-10-22.md\"> 06-10-22 </a>",
+        "<a class=\"internal-link\" href=\"self/daily/2022/06-09-22.md\"> 06-09-22 </a>",
+        "<a class=\"internal-link\" href=\"self/daily/old/2022/11-14-22.md\"> 11-14-22 </a>",
+        "<a class=\"internal-link\" href=\"self/daily/old/2022/11-12-22.md\"> 11-12-22 </a>",
+        "<a class=\"internal-link\" href=\"self/daily/old/2022/11-11-22.md\"> 11-11-22 </a>",
+        "<a class=\"internal-link\" href=\"self/daily/old/2022/10-10-22.md\"> 10-10-22 </a>",
+        "<a class=\"internal-link\" href=\"self/daily/old/2022/10-07-22.md\"> 10-07-22 </a>",
+        "<a class=\"internal-link\" href=\"self/daily/old/2022/10-06-22.md\"> 10-06-22 </a>",
+        "<a class=\"internal-link\" href=\"self/daily/old/2022/10-05-22.md\"> 10-05-22 </a>",
+        "<a class=\"internal-link\" href=\"self/daily/old/2022/10-01-22.md\"> 10-01-22 </a>",
+        "<a class=\"internal-link\" href=\"self/daily/old/2022/09-30-22.md\"> 09-30-22 </a>",
+        "<a class=\"internal-link\" href=\"self/daily/old/2022/09-28-22.md\"> 09-28-22 </a>",
+        "<a class=\"internal-link\" href=\"self/daily/old/2022/09-27-22.md\"> 09-27-22 </a>",
+        "<a class=\"internal-link\" href=\"self/daily/old/2022/09-26-22.md\"> 09-26-22 </a>",
+        "<a class=\"internal-link\" href=\"self/daily/old/2022/09-22-22.md\"> 09-22-22 </a>",
+        "<a class=\"internal-link\" href=\"self/daily/old/2022/09-15-22.md\"> 09-15-22 </a>",
+        "<a class=\"internal-link\" href=\"self/daily/old/2022/09-02-22.md\"> 09-02-22 </a>",
+        "<a class=\"internal-link\" href=\"self/daily/old/2022/06-10-22.md\"> 06-10-22 </a>",
+        "<a class=\"internal-link\" href=\"self/daily/old/2022/06-09-22.md\"> 06-09-22 </a>",
+        "<a class=\"internal-link\" href=\"self/career/money/Money facts.md\"> Money facts </a>",
+        "<a class=\"internal-link\" href=\"self/career/social/Charisma.md\"> Charisma </a>",
+        "<a class=\"internal-link\" href=\"self/career/social/Harvard principles of negotiation.md\"> Harvard principles of negotiation </a>",
+        "<a class=\"internal-link\" href=\"self/career/social/two traits necessary to seem confident.md\"> two traits necessary to seem confident </a>",
+        "<a class=\"internal-link\" href=\"self/career/job-hunting/Cover Letters/Systems Engineering Manager @ HomeDepot.md\"> Systems Engineering Manager @ HomeDepot </a>",
+        "<a class=\"internal-link\" href=\"self/career/job-hunting/RevUnit.md\"> RevUnit </a>",
+        "<a class=\"internal-link\" href=\"self/career/job-hunting/data-etl-hindsight.md\"> data-etl-hindsight </a>",
+        "<a class=\"internal-link\" href=\"self/career/job-hunting/Drawing 2022-11-07 15.59.02.excalidraw.md\"> Drawing 2022-11-07 15.59.02.excalidraw </a>",
+        "<a class=\"internal-link\" href=\"self/career/job-hunting/buf.build.md\"> buf.build </a>",
+        "<a class=\"internal-link\" href=\"self/career/job-hunting/staff engineer.md\"> staff engineer </a>",
+        "<a class=\"internal-link\" href=\"self/career/job-hunting/data etl project.md\"> data etl project </a>",
+        "<a class=\"internal-link\" href=\"self/career/job-hunting/all failures are learning opportunities.md\"> all failures are learning opportunities </a>",
+        "<a class=\"internal-link\" href=\"self/career/people-management/transitioning from dev to manager.md\"> transitioning from dev to manager </a>",
+        "<a class=\"internal-link\" href=\"self/books/Staff Engineer.md\"> Staff Engineer </a>",
+        "<a class=\"internal-link\" href=\"self/books/Make It Stick.md\"> Make It Stick </a>",
+        "<a class=\"internal-link\" href=\"self/random/lifehacks/how to have time for everything.md\"> how to have time for everything </a>",
+        "<a class=\"internal-link\" href=\"self/random/lifehacks/reading quickly.md\"> reading quickly </a>"
       ],
       "Tagged": [
         "<a class=\"internal-link\" href=\"personal/job-hunting/jb-hunt-topics.md\"> jb-hunt-topics </a>",
@@ -1421,7 +1411,10 @@
         "<a class=\"internal-link\" href=\"daily/09-12-22.md\"> 09-12-22 </a>",
         "<a class=\"internal-link\" href=\"templates/accept job offer.md\"> accept job offer </a>",
         "<a class=\"internal-link\" href=\"templates/decline accepted job offer.md\"> decline accepted job offer </a>",
-        "<a class=\"internal-link\" href=\"personal/work/Site for Oasis Landscaping.md\"> Site for Oasis Landscaping </a>"
+        "<a class=\"internal-link\" href=\"personal/work/Site for Oasis Landscaping.md\"> Site for Oasis Landscaping </a>",
+        "<a class=\"internal-link\" href=\"personal/Cody_Averett.md\"> Cody_Averett </a>",
+        "<a class=\"internal-link\" href=\"WIP.md\"> WIP </a>",
+        "<a class=\"internal-link\" href=\"self/daily/old/2022/11-14-22.md\"> 11-14-22 </a>"
       ],
       "Linked": [
         "<a class=\"internal-link\" href=\"software/jupyter notebooks/run any shell command in jupyter notebooks.md\"> run any shell command in jupyter notebooks </a>",
