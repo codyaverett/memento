@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "random/really useful websites.md",
-                "mode": "source",
+                "file": "README.md",
+                "mode": "preview",
                 "backlinks": false,
                 "source": false
               }
@@ -78,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "random/really useful websites.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,7 +95,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "random/really useful websites.md"
+                "file": "README.md"
               }
             }
           },
@@ -127,6 +127,7 @@
   },
   "active": "1584c6067ff55af2",
   "lastOpenFiles": [
+    "random/really useful websites.md",
     "random/being impaled by a javelin.md",
     "learning/hobby/transporting lumber with a roof rack.md",
     "learning/reading/tips for reading quickly.md",
@@ -135,7 +136,6 @@
     "learning/reading/if you are forgetting what you read after you read it.md",
     "personal/Backlog.md",
     "personal/Todo.md",
-    "personal/daily/2022/22-11-14.md",
-    "self/daily/old/2022/11-14-22.md"
+    "personal/daily/2022/22-11-14.md"
   ]
 }
