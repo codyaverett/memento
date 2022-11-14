@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "daily/11-12-22.md",
+                "file": "daily/11-14-22.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -46,8 +46,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -105,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "software/apache kafka/apache kafka.md",
+                "file": "daily/11-14-22.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +121,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "software/apache kafka/apache kafka.md"
+                "file": "daily/11-14-22.md"
               }
             }
           },
@@ -152,17 +151,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "03e4ef2727b836cd",
+  "active": "f7eaf835dac37138",
   "lastOpenFiles": [
+    "daily/11-12-22.md",
+    "software/apache kafka/apache kafka.md",
     "software/linux/create linux superuser.md",
     "programming/shell/sed/sed examples to print lines from a file.md",
-    "daily/11-12-22.md",
     "personal/music/Sheet music.md",
     "programming/shell/simple curl script.md",
     "programming/shell/shell declare.md",
     "programming/shell/shell looping through lines in a variable.md",
     "personal/books/Staff Engineer.md",
-    "software/jupyter notebooks/run any shell command in jupyter notebooks.md",
-    "templates/shell snippet.md"
+    "software/jupyter notebooks/run any shell command in jupyter notebooks.md"
   ]
 }
