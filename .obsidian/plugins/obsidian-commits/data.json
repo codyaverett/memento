@@ -1163,12 +1163,17 @@
       "size": 0,
       "tags": 0,
       "links": 0
+    },
+    "daily/11-14-22.md": {
+      "size": 0,
+      "tags": 0,
+      "links": 0
     }
   },
   "commitTypes": {
     "/": {
       "Refactor": 179,
-      "Create": 218,
+      "Create": 219,
       "Link": 63,
       "Expand": 87
     }
@@ -1190,7 +1195,7 @@
       "12": 6,
       "13": 27,
       "14": 27,
-      "15": 38,
+      "15": 39,
       "16": 59,
       "17": 37,
       "18": 28,
@@ -1203,7 +1208,7 @@
   },
   "weeklyCommits": {
     "/": {
-      "Mon": 68,
+      "Mon": 69,
       "Tue": 76,
       "Wed": 101,
       "Thu": 109,
@@ -1268,6 +1273,7 @@
         "<a class=\"internal-link\" href=\"personal/job-hunting/Federal-reserve-bank-topics.md\"> Federal-reserve-bank-topics </a>"
       ],
       "Created": [
+        "<a class=\"internal-link\" href=\"daily/11-14-22.md\"> 11-14-22 </a>",
         "<a class=\"internal-link\" href=\"programming/shell/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"programming/shell/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"software/jupyter notebooks/Untitled.md\"> Untitled </a>",
@@ -1317,8 +1323,7 @@
         "<a class=\"internal-link\" href=\"software/containers/buildah/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"software/git/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"software/git/Untitled.md\"> Untitled </a>",
-        "<a class=\"internal-link\" href=\"software/docker/Untitled.md\"> Untitled </a>",
-        "<a class=\"internal-link\" href=\"programming/authentication/Untitled.md\"> Untitled </a>"
+        "<a class=\"internal-link\" href=\"software/docker/Untitled.md\"> Untitled </a>"
       ],
       "Renamed": [
         "<a class=\"internal-link\" href=\"software/apache kafka/apache kafka.md\"> apache kafka </a>",
