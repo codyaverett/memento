@@ -1,5 +1,3 @@
-# Really useful websites
-
 ## Products
 - [importyeti.com](https://importyeti.com)
 	- Find the suppliers for various brands, learn about all their shipments

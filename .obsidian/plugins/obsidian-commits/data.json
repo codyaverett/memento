@@ -1109,11 +1109,6 @@
       "tags": 0,
       "links": 0
     },
-    "random/being impaled by a javelin.md": {
-      "size": 0,
-      "tags": 0,
-      "links": 0
-    },
     "random/really useful websites.md": {
       "size": 0,
       "tags": 0,
@@ -1154,7 +1149,7 @@
       "tags": 0,
       "links": 0
     },
-    "learning/bugs/brown recluse spider.md": {
+    "learning/nature/insects/brown recluse spider.md": {
       "size": 328,
       "tags": 0,
       "links": 0
@@ -1162,7 +1157,7 @@
   },
   "commitTypes": {
     "/": {
-      "Refactor": 1316,
+      "Refactor": 1319,
       "Create": 221,
       "Link": 63,
       "Expand": 87
@@ -1187,7 +1182,7 @@
       "14": 27,
       "15": 39,
       "16": 1187,
-      "17": 48,
+      "17": 51,
       "18": 28,
       "19": 25,
       "20": 33,
@@ -1198,7 +1193,7 @@
   },
   "weeklyCommits": {
     "/": {
-      "Mon": 1208,
+      "Mon": 1211,
       "Tue": 76,
       "Wed": 101,
       "Thu": 109,
@@ -1316,6 +1311,8 @@
         "<a class=\"internal-link\" href=\"software/git/Untitled.md\"> Untitled </a>"
       ],
       "Renamed": [
+        "<a class=\"internal-link\" href=\"learning/nature/insects/brown recluse spider.md\"> brown recluse spider </a>",
+        "<a class=\"internal-link\" href=\"learning/insects/brown recluse spider.md\"> brown recluse spider </a>",
         "<a class=\"internal-link\" href=\"learning/bugs/brown recluse spider.md\"> brown recluse spider </a>",
         "<a class=\"internal-link\" href=\"learning/hobby/transporting lumber with a roof rack.md\"> transporting lumber with a roof rack </a>",
         "<a class=\"internal-link\" href=\"learning/reading/tips for reading quickly.md\"> tips for reading quickly </a>",
@@ -1364,9 +1361,7 @@
         "<a class=\"internal-link\" href=\"personal/random/lifehacks/transporting lumber with a roof rack.md\"> transporting lumber with a roof rack </a>",
         "<a class=\"internal-link\" href=\"personal/random/lifehacks/productivity tips.md\"> productivity tips </a>",
         "<a class=\"internal-link\" href=\"personal/random/lists/really useful websites.md\"> really useful websites </a>",
-        "<a class=\"internal-link\" href=\"personal/random/being impaled by a javelin.md\"> being impaled by a javelin </a>",
-        "<a class=\"internal-link\" href=\"personal/random/bugs/brown recluse spider.md\"> brown recluse spider </a>",
-        "<a class=\"internal-link\" href=\"personal/school/WGU/student accessibility services.md\"> student accessibility services </a>"
+        "<a class=\"internal-link\" href=\"personal/random/being impaled by a javelin.md\"> being impaled by a javelin </a>"
       ],
       "Tagged": [
         "<a class=\"internal-link\" href=\"personal/job-hunting/jb-hunt-topics.md\"> jb-hunt-topics </a>",
@@ -1414,7 +1409,8 @@
         "<a class=\"internal-link\" href=\"personal/work/Site for Oasis Landscaping.md\"> Site for Oasis Landscaping </a>",
         "<a class=\"internal-link\" href=\"personal/Cody_Averett.md\"> Cody_Averett </a>",
         "<a class=\"internal-link\" href=\"WIP.md\"> WIP </a>",
-        "<a class=\"internal-link\" href=\"self/daily/old/2022/11-14-22.md\"> 11-14-22 </a>"
+        "<a class=\"internal-link\" href=\"self/daily/old/2022/11-14-22.md\"> 11-14-22 </a>",
+        "<a class=\"internal-link\" href=\"random/being impaled by a javelin.md\"> being impaled by a javelin </a>"
       ],
       "Linked": [
         "<a class=\"internal-link\" href=\"software/jupyter notebooks/run any shell command in jupyter notebooks.md\"> run any shell command in jupyter notebooks </a>",

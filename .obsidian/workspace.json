@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "learning/hobby/transporting lumber with a roof rack.md",
+                "file": "random/really useful websites.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -78,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "learning/hobby/transporting lumber with a roof rack.md",
+                "file": "random/really useful websites.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,7 +95,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "learning/hobby/transporting lumber with a roof rack.md"
+                "file": "random/really useful websites.md"
               }
             }
           },
@@ -125,8 +125,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "33a2bab88d111215",
+  "active": "1584c6067ff55af2",
   "lastOpenFiles": [
+    "random/being impaled by a javelin.md",
+    "learning/hobby/transporting lumber with a roof rack.md",
     "learning/reading/tips for reading quickly.md",
     "learning/productivity/general productivity tips.md",
     "learning/productivity/how to have time for everything.md",
@@ -134,8 +136,6 @@
     "personal/Backlog.md",
     "personal/Todo.md",
     "personal/daily/2022/22-11-14.md",
-    "self/daily/old/2022/11-14-22.md",
-    "personal/daily/2022/06-09-22.md",
-    "templates/shell snippet.md"
+    "self/daily/old/2022/11-14-22.md"
   ]
 }
