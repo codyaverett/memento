@@ -52,7 +52,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "software/apache kafka/apache kafka.md",
+                "file": "cryptocurrency/L1 networks/Nervos.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -118,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "software/apache kafka/apache kafka.md",
+                "file": "cryptocurrency/L1 networks/Nervos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "software/apache kafka/apache kafka.md"
+                "file": "cryptocurrency/L1 networks/Nervos.md"
               }
             }
           },
@@ -165,10 +165,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "03e4ef2727b836cd",
+  "active": "33a2bab88d111215",
   "lastOpenFiles": [
-    "daily/11-14-22.md",
     "software/apache kafka/apache kafka.md",
+    "daily/11-14-22.md",
     "software/linux/create home directory for already existing user.md",
     "daily/11-12-22.md",
     "software/linux/create linux superuser.md",
