@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "ad020361e183ada6",
+        "id": "9af1ecb461f88627",
         "type": "tabs",
         "children": [
           {
-            "id": "1584c6067ff55af2",
+            "id": "9ea5128899e374cb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
-                "mode": "preview",
+                "file": "personal/daily/2022/22-11-14.md",
+                "mode": "source",
                 "backlinks": false,
                 "source": false
               }
@@ -78,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "personal/daily/2022/22-11-14.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,7 +95,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "personal/daily/2022/22-11-14.md"
               }
             }
           },
@@ -118,15 +118,16 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
-  "active": "1584c6067ff55af2",
+  "active": "9ea5128899e374cb",
   "lastOpenFiles": [
+    "README.md",
     "random/really useful websites.md",
     "random/being impaled by a javelin.md",
     "learning/hobby/transporting lumber with a roof rack.md",
@@ -135,7 +136,6 @@
     "learning/productivity/how to have time for everything.md",
     "learning/reading/if you are forgetting what you read after you read it.md",
     "personal/Backlog.md",
-    "personal/Todo.md",
-    "personal/daily/2022/22-11-14.md"
+    "personal/Todo.md"
   ]
 }

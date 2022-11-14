@@ -7,6 +7,9 @@
   "theme": "dark",
   "baseTheme": "{\"name\": \"default\", \"modes\": [\"dark\"]}",
   "faviconPath": "",
+  "showRibbonIcon": true,
+  "noteSettingsIsInitialized": true,
+  "siteName": "Digital Garden",
   "defaultNoteSettings": {
     "dgHomeLink": true,
     "dgPassFrontmatter": false
