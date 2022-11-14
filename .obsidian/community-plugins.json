@@ -1,5 +1,4 @@
 [
-  "obsidian-timelines",
   "obsidian-dynamic-toc",
   "calendar",
   "obsidian-git",
@@ -7,7 +6,5 @@
   "obsidian-qrcode-plugin",
   "obsidian-code-block-enhancer",
   "obsidian-file-cleaner",
-  "digitalgarden",
-  "table-editor-obsidian",
-  "obsidian-excalidraw-plugin"
+  "digitalgarden"
 ]

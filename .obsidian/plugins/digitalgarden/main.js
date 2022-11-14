@@ -1798,6 +1798,25 @@ var require_sha1 = __commonJS({
   }
 });
 
+// node_modules/obsidian-dataview/lib/index.js
+var require_lib = __commonJS({
+  "node_modules/obsidian-dataview/lib/index.js"(exports) {
+    "use strict";
+    Object.defineProperty(exports, "__esModule", { value: true });
+    require("obsidian");
+    var getAPI2 = (app) => {
+      var _a;
+      if (app)
+        return (_a = app.plugins.plugins.dataview) === null || _a === void 0 ? void 0 : _a.api;
+      else
+        return window.DataviewAPI;
+    };
+    var isPluginEnabled = (app) => app.plugins.enabledPlugins.has("dataview");
+    exports.getAPI = getAPI2;
+    exports.isPluginEnabled = isPluginEnabled;
+  }
+});
+
 // node_modules/axios/lib/helpers/bind.js
 var require_bind = __commonJS({
   "node_modules/axios/lib/helpers/bind.js"(exports, module2) {
@@ -3862,7 +3881,7 @@ var createTokenAuth = function createTokenAuth2(token) {
 };
 
 // node_modules/@octokit/core/dist-web/index.js
-var VERSION5 = "3.5.1";
+var VERSION5 = "3.6.0";
 var Octokit = class {
   constructor(options = {}) {
     const hook2 = new import_before_after_hook.Collection();
@@ -4008,14 +4027,17 @@ var excaliDrawBundle = `<style>
 .excalidraw .App-menu_top .buttonList { display: flex;}
 .excalidraw-wrapper { height: 800px; margin: 50px; position: relative;}
 :root[dir="ltr"] .excalidraw .layer-ui__wrapper .zen-mode-transition.App-menu_bottom--transition-left {transform: none;}
-</style><script src="https://unpkg.com/react@17/umd/react.production.min.js"><\/script><script src="https://unpkg.com/react-dom@17/umd/react-dom.production.min.js"><\/script><script type="text/javascript" src="https://unpkg.com/@excalidraw/excalidraw/dist/excalidraw.production.min.js"><\/script>`;
-var excalidraw = (excaliDrawJson, drawingId) => `<div id="${drawingId}"></div><script>(function(){const InitialData=${excaliDrawJson};InitialData.scrollToContent=true;App=()=>{const e=React.useRef(null),t=React.useRef(null),[n,i]=React.useState({width:void 0,height:void 0});return React.useEffect(()=>{i({width:t.current.getBoundingClientRect().width,height:t.current.getBoundingClientRect().height});const e=()=>{i({width:t.current.getBoundingClientRect().width,height:t.current.getBoundingClientRect().height})};return window.addEventListener("resize",e),()=>window.removeEventListener("resize",e)},[t]),React.createElement(React.Fragment,null,React.createElement("div",{className:"excalidraw-wrapper",ref:t},React.createElement(Excalidraw.default,{ref:e,width:n.width,height:n.height,initialData:InitialData,viewModeEnabled:!0,zenModeEnabled:!0,gridModeEnabled:!1})))},excalidrawWrapper=document.getElementById("${drawingId}");ReactDOM.render(React.createElement(App),excalidrawWrapper);})();<\/script>`;
+</style><script src="https://unpkg.com/react@17/umd/react.production.min.js"><\/script><script src="https://unpkg.com/react-dom@17/umd/react-dom.production.min.js"><\/script><script type="text/javascript" src="https://unpkg.com/@excalidraw/excalidraw@0.12.0/dist/excalidraw.production.min.js"><\/script>`;
+var excalidraw = (excaliDrawJson, drawingId) => `<div id="${drawingId}"></div><script>(function(){const InitialData=${excaliDrawJson};InitialData.scrollToContent=true;App=()=>{const e=React.useRef(null),t=React.useRef(null),[n,i]=React.useState({width:void 0,height:void 0});return React.useEffect(()=>{i({width:t.current.getBoundingClientRect().width,height:t.current.getBoundingClientRect().height});const e=()=>{i({width:t.current.getBoundingClientRect().width,height:t.current.getBoundingClientRect().height})};return window.addEventListener("resize",e),()=>window.removeEventListener("resize",e)},[t]),React.createElement(React.Fragment,null,React.createElement("div",{className:"excalidraw-wrapper",ref:t},React.createElement(ExcalidrawLib.Excalidraw,{ref:e,width:n.width,height:n.height,initialData:InitialData,viewModeEnabled:!0,zenModeEnabled:!0,gridModeEnabled:!1})))},excalidrawWrapper=document.getElementById("${drawingId}");ReactDOM.render(React.createElement(App),excalidrawWrapper);})();<\/script>`;
 
 // src/Publisher.ts
+var import_obsidian_dataview = __toModule(require_lib());
 var Publisher = class {
   constructor(vault, metadataCache, settings) {
     this.frontmatterRegex = /^\s*?---\n([\s\S]*?)\n---/g;
-    this.obsidianCommentsRegex = /%%.+?%%/gms;
+    this.codeFenceRegex = /`(.*?)`/g;
+    this.codeBlockRegex = /```.*?\n[\s\S]+?```/g;
+    this.excaliDrawRegex = /:\[\[(\d*?,\d*?)\],.*?\]\]/g;
     this.vault = vault;
     this.metadataCache = metadataCache;
     this.settings = settings;
@@ -4103,9 +4125,11 @@ var Publisher = class {
       let text = yield this.vault.cachedRead(file);
       text = yield this.convertFrontMatter(text, file.path);
       text = yield this.createTranscludedText(text, file.path, 0);
+      text = yield this.convertDataViews(text, file.path);
       text = yield this.convertLinksToFullPath(text, file.path);
-      text = yield this.createBase64Images(text, file.path);
       text = yield this.removeObsidianComments(text);
+      text = yield this.createSvgEmbeds(text, file.path);
+      text = yield this.createBase64Images(text, file.path);
       return text;
     });
   }
@@ -4150,9 +4174,24 @@ var Publisher = class {
       yield octokit.request("PUT /repos/{owner}/{repo}/contents/{path}", payload);
     });
   }
+  stripAwayCodeFences(text) {
+    let textToBeProcessed = text;
+    textToBeProcessed = textToBeProcessed.replace(this.excaliDrawRegex, "");
+    textToBeProcessed = textToBeProcessed.replace(this.codeBlockRegex, "");
+    textToBeProcessed = textToBeProcessed.replace(this.codeFenceRegex, "");
+    return textToBeProcessed;
+  }
   removeObsidianComments(text) {
     return __async(this, null, function* () {
-      return text.replace(this.obsidianCommentsRegex, "");
+      const textToBeProcessed = this.stripAwayCodeFences(text);
+      const obsidianCommentsRegex = /%%.+?%%/gms;
+      const obsidianCommentsMatches = textToBeProcessed.match(obsidianCommentsRegex);
+      if (obsidianCommentsMatches) {
+        for (const commentMatch of obsidianCommentsMatches) {
+          text = text.replace(commentMatch, "");
+        }
+      }
+      return text;
     });
   }
   convertFrontMatter(text, path) {
@@ -4162,6 +4201,29 @@ var Publisher = class {
         return publishedFrontMatter;
       });
       return replaced;
+    });
+  }
+  convertDataViews(text, path) {
+    return __async(this, null, function* () {
+      let replacedText = text;
+      const dataViewRegex = /```dataview(.+?)```/gsm;
+      const dvApi = (0, import_obsidian_dataview.getAPI)();
+      const matches = text.matchAll(dataViewRegex);
+      if (!matches)
+        return;
+      for (const queryBlock of matches) {
+        try {
+          const block = queryBlock[0];
+          const query = queryBlock[1];
+          const markdown = yield dvApi.tryQueryMarkdown(query, path);
+          replacedText = replacedText.replace(block, markdown);
+        } catch (e) {
+          console.log(e);
+          new import_obsidian2.Notice("Unable to render dataview query. Please update the dataview plugin to the latest version.");
+          return queryBlock[0];
+        }
+      }
+      return replacedText;
     });
   }
   getProcessedFrontMatter(filePath) {
@@ -4219,43 +4281,27 @@ ${frontMatterString}
     for (const key of Object.keys(this.settings.defaultNoteSettings)) {
       if (baseFrontMatter[kebabize(key)] !== void 0) {
         publishedFrontMatter[key] = baseFrontMatter[kebabize(key)];
-      } else {
-        publishedFrontMatter[key] = this.settings.defaultNoteSettings[key];
       }
+    }
+    if (this.settings.defaultNoteSettings.dgPassFrontmatter) {
+      publishedFrontMatter.dgPassFrontmatter = this.settings.defaultNoteSettings.dgPassFrontmatter;
     }
     return publishedFrontMatter;
   }
   convertLinksToFullPath(text, filePath) {
     return __async(this, null, function* () {
       let convertedText = text;
+      const textToBeProcessed = this.stripAwayCodeFences(text);
       const linkedFileRegex = /\[\[(.*?)\]\]/g;
-      const linkedFileMatches = text.match(linkedFileRegex);
-      const codeFenceRegex = /`(.*?)`/g;
-      const codeFences = text.match(codeFenceRegex);
-      const codeBlockRegex = /```.*?\n[\s\S]+?```/g;
-      const codeBlocks = text.match(codeBlockRegex);
-      const excaliDrawRegex = /:\[\[(\d*?,\d*?)\],.*?\]\]/g;
-      const excalidrawings = text.match(excaliDrawRegex);
+      const linkedFileMatches = textToBeProcessed.match(linkedFileRegex);
       if (linkedFileMatches) {
         for (const linkMatch of linkedFileMatches) {
           try {
-            const insideCodeBlockIndex = codeBlocks ? codeBlocks.findIndex((codeBlock) => codeBlock.includes(linkMatch)) : -1;
-            if (insideCodeBlockIndex > -1) {
-              codeBlocks.splice(insideCodeBlockIndex, 1);
-              continue;
-            }
-            const insideCodeFenceIndex = codeFences ? codeFences.findIndex((codeFence) => codeFence.includes(linkMatch)) : -1;
-            if (insideCodeFenceIndex > -1) {
-              codeFences.splice(insideCodeFenceIndex, 1);
-              continue;
-            }
-            const excalidrawIndex = excalidrawings ? excalidrawings.findIndex((excalidraw2) => excalidraw2.includes(linkMatch)) : -1;
-            if (excalidrawIndex > -1) {
-              excalidrawings.splice(excalidrawIndex, 1);
-              continue;
-            }
             const textInsideBrackets = linkMatch.substring(linkMatch.indexOf("[") + 2, linkMatch.lastIndexOf("]") - 1);
             let [linkedFileName, prettyName] = textInsideBrackets.split("|");
+            if (linkedFileName.endsWith("\\")) {
+              linkedFileName = linkedFileName.substring(0, linkedFileName.length - 1);
+            }
             prettyName = prettyName || linkedFileName;
             let headerPath = "";
             if (linkedFileName.includes("#")) {
@@ -4266,11 +4312,11 @@ ${frontMatterString}
             const fullLinkedFilePath = (0, import_obsidian2.getLinkpath)(linkedFileName);
             const linkedFile = this.metadataCache.getFirstLinkpathDest(fullLinkedFilePath, filePath);
             if (!linkedFile) {
-              convertedText = convertedText.replace(linkMatch, `[[${linkedFileName}${headerPath}|${prettyName}]]`);
+              convertedText = convertedText.replace(linkMatch, `[[${linkedFileName}${headerPath}\\|${prettyName}]]`);
             }
             if ((linkedFile == null ? void 0 : linkedFile.extension) === "md") {
               const extensionlessPath = linkedFile.path.substring(0, linkedFile.path.lastIndexOf("."));
-              convertedText = convertedText.replace(linkMatch, `[[${extensionlessPath}${headerPath}|${prettyName}]]`);
+              convertedText = convertedText.replace(linkMatch, `[[${extensionlessPath}${headerPath}\\|${prettyName}]]`);
             }
           } catch (e) {
             console.log(e);
@@ -4283,6 +4329,7 @@ ${frontMatterString}
   }
   createTranscludedText(text, filePath, currentDepth) {
     return __async(this, null, function* () {
+      var _a, _b, _c;
       if (currentDepth >= 4) {
         return text;
       }
@@ -4303,18 +4350,28 @@ ${frontMatterString}
               transcludedText = transcludedText.replace(transclusionMatch, excaliDrawCode);
             } else if (linkedFile.extension === "md") {
               let fileText = yield this.vault.cachedRead(linkedFile);
+              if (tranclusionFileName.includes("#")) {
+                const metadata = this.metadataCache.getFileCache(linkedFile);
+                const refHeader = tranclusionFileName.split("#")[1];
+                const headerInFile = (_a = metadata.headings) == null ? void 0 : _a.find((header2) => header2.heading === refHeader);
+                if (headerInFile) {
+                  const cutTo = metadata.headings[metadata.headings.indexOf(headerInFile) + 1];
+                  const cutToLine = (_c = (_b = cutTo == null ? void 0 : cutTo.position) == null ? void 0 : _b.start) == null ? void 0 : _c.line;
+                  fileText = fileText.split("\n").slice(headerInFile.position.start.line, cutToLine).join("\n");
+                }
+              }
               fileText = fileText.replace(this.frontmatterRegex, "");
               const header = this.generateTransclusionHeader(headerName, linkedFile);
-              const headerSection = header ? `${header}
+              const headerSection = header ? `$<div class="markdown-embed-title">
+
+${header}
+
+</div>
 ` : "";
               fileText = `
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
-<div class="markdown-embed-title">
-
 ${headerSection}
-
-</div>
 
 ` + fileText + "\n\n</div></div>\n";
               if (fileText.match(transcludedRegex)) {
@@ -4330,8 +4387,52 @@ ${headerSection}
       return transcludedText;
     });
   }
+  createSvgEmbeds(text, filePath) {
+    return __async(this, null, function* () {
+      const transcludedSvgRegex = /!\[\[(.*?)(\.(svg))\|(.*?)\]\]|!\[\[(.*?)(\.(svg))\]\]/g;
+      const transcludedSvgs = text.match(transcludedSvgRegex);
+      if (transcludedSvgs) {
+        for (const svg of transcludedSvgs) {
+          try {
+            let [imageName, size] = svg.substring(svg.indexOf("[") + 2, svg.indexOf("]")).split("|");
+            const imagePath = (0, import_obsidian2.getLinkpath)(imageName);
+            const linkedFile = this.metadataCache.getFirstLinkpathDest(imagePath, filePath);
+            const svgText = yield this.vault.read(linkedFile);
+            text = text.replace(svg, svgText);
+          } catch (e) {
+            continue;
+          }
+        }
+      }
+      const linkedSvgRegex = /!\[(.*?)\]\((.*?)(\.(svg))\)/g;
+      const linkedSvgMatches = text.match(linkedSvgRegex);
+      if (linkedSvgMatches) {
+        for (const svg of linkedSvgMatches) {
+          try {
+            let pathStart = svg.lastIndexOf("(") + 1;
+            let pathEnd = svg.lastIndexOf(")");
+            let imagePath = svg.substring(pathStart, pathEnd);
+            if (imagePath.startsWith("http")) {
+              continue;
+            }
+            const linkedFile = this.metadataCache.getFirstLinkpathDest(imagePath, filePath);
+            const svgText = yield this.vault.read(linkedFile);
+            text = text.replace(svg, svgText);
+          } catch (e) {
+            continue;
+          }
+        }
+      }
+      return text;
+    });
+  }
   createBase64Images(text, filePath) {
     return __async(this, null, function* () {
+      function getExtension(linkedFile) {
+        if (linkedFile.extension === "jpg" || linkedFile.extension === "jpeg")
+          return "png";
+        return linkedFile.extension;
+      }
       let imageText = text;
       const transcludedImageRegex = /!\[\[(.*?)(\.(png|jpg|jpeg|gif))\|(.*?)\]\]|!\[\[(.*?)(\.(png|jpg|jpeg|gif))\]\]/g;
       const transcludedImageMatches = text.match(transcludedImageRegex);
@@ -4345,7 +4446,7 @@ ${headerSection}
             const image = yield this.vault.readBinary(linkedFile);
             const imageBase64 = arrayBufferToBase64(image);
             const name = size ? `${imageName}|${size}` : imageName;
-            const imageMarkdown = `![${name}](data:image/${linkedFile.extension};base64,${imageBase64})`;
+            const imageMarkdown = `![${name}](data:image/${getExtension(linkedFile)};base64,${imageBase64})`;
             imageText = imageText.replace(imageMatch, imageMarkdown);
           } catch (e) {
             continue;
@@ -4370,7 +4471,7 @@ ${headerSection}
             const linkedFile = this.metadataCache.getFirstLinkpathDest(imagePath, filePath);
             const image = yield this.vault.readBinary(linkedFile);
             const imageBase64 = arrayBufferToBase64(image);
-            const imageMarkdown = `![${imageName}](data:image/${linkedFile.extension};base64,${imageBase64})`;
+            const imageMarkdown = `![${imageName}](data:image/${getExtension(linkedFile)};base64,${imageBase64})`;
             imageText = imageText.replace(imageMatch, imageMarkdown);
           } catch (e) {
             continue;
@@ -4423,6 +4524,46 @@ var DigitalGardenSiteManager = class {
   constructor(metadataCache, settings) {
     this.settings = settings;
     this.metadataCache = metadataCache;
+  }
+  updateEnv() {
+    return __async(this, null, function* () {
+      const octokit = new Octokit({ auth: this.settings.githubToken });
+      const theme = JSON.parse(this.settings.theme);
+      const baseTheme = this.settings.baseTheme;
+      const siteName = this.settings.siteName;
+      let envSettings = "";
+      if (theme.name !== "default") {
+        envSettings = `THEME=${theme.cssUrl}
+BASE_THEME=${baseTheme}`;
+      }
+      envSettings += `
+SITE_NAME_HEADER=${siteName}`;
+      const defaultNoteSettings = __spreadValues({}, this.settings.defaultNoteSettings);
+      for (const key of Object.keys(defaultNoteSettings)) {
+        envSettings += `
+${key}=${defaultNoteSettings[key]}`;
+      }
+      const base64Settings = gBase64.encode(envSettings);
+      let fileExists = true;
+      let currentFile = null;
+      try {
+        currentFile = yield octokit.request("GET /repos/{owner}/{repo}/contents/{path}", {
+          owner: this.settings.githubUserName,
+          repo: this.settings.githubRepo,
+          path: ".env"
+        });
+      } catch (error) {
+        fileExists = false;
+      }
+      yield octokit.request("PUT /repos/{owner}/{repo}/contents/{path}", {
+        owner: this.settings.githubUserName,
+        repo: this.settings.githubRepo,
+        path: ".env",
+        message: `Update settings`,
+        content: base64Settings,
+        sha: fileExists ? currentFile.data.sha : null
+      });
+    });
   }
   getNoteUrl(file) {
     const baseUrl = this.settings.gardenBaseUrl ? `https://${extractBaseUrl(this.settings.gardenBaseUrl)}` : `https://${this.settings.githubRepo}.netlify.app`;
@@ -4526,25 +4667,40 @@ var DigitalGardenSiteManager = class {
       var _a;
       const filesToModify = [
         ".eleventy.js",
+        ".eleventyignore",
         "README.md",
         "netlify.toml",
         "package-lock.json",
         "package.json",
         "src/site/404.njk",
         "src/site/index.njk",
-        "src/site/versionednote.njk",
+        "src/site/index.11tydata.js",
         "src/site/versionednote.njk",
         "src/site/styles/style.scss",
         "src/site/styles/digital-garden-base.scss",
         "src/site/styles/obsidian-base.scss",
         "src/site/notes/notes.json",
+        "src/site/notes/notes.11tydata.js",
         "src/site/_includes/layouts/note.njk",
         "src/site/_includes/layouts/versionednote.njk",
         "src/site/_includes/components/notegrowthhistory.njk",
         "src/site/_includes/components/pageheader.njk",
+        "src/site/_includes/components/sidebar.njk",
+        "src/site/_includes/components/graphScript.njk",
+        "src/site/_includes/components/filetree.njk",
+        "src/site/_includes/components/filetreeNavbar.njk",
+        "src/site/_includes/components/navbar.njk",
+        "src/site/_includes/components/searchButton.njk",
+        "src/site/_includes/components/searchContainer.njk",
+        "src/site/_includes/components/searchScript.njk",
+        "src/site/lunr-index.js",
+        "src/site/lunr.njk",
         "src/site/_data/versionednotes.js",
         "src/site/_data/meta.js",
-        "src/site/img/outgoing.svg"
+        "src/site/_data/filetree.js",
+        "src/site/img/outgoing.svg",
+        "src/helpers/constants.js",
+        "netlify/functions/search/search.js"
       ];
       for (const file of filesToModify) {
         const latestFile = yield octokit.request("GET /repos/{owner}/{repo}/contents/{path}", {
@@ -4647,6 +4803,7 @@ var SettingView = class {
       this.initializeGitHubUserNameSetting();
       this.initializeGitHubTokenSetting();
       this.initializeGitHubBaseURLSetting();
+      this.initializeRibbonIconSetting();
       this.initializeDefaultNoteSettings();
       this.initializeThemesSettings();
       prModal.titleEl.createEl("h1", "Site template settings");
@@ -4656,8 +4813,7 @@ var SettingView = class {
     return __async(this, null, function* () {
       const noteSettingsModal = new import_obsidian3.Modal(this.app);
       noteSettingsModal.titleEl.createEl("h1", { text: "Note Settings" });
-      new import_obsidian3.Setting(this.settingsRootElement).setName("Note Settings").setDesc(`Default settings for each published note. These can be overwritten per note via frontmatter. 
-            Note: After changing any of these settings, you must re-publish notes for it to take effect. They will appear in the "Changed" list in the publication center.`).addButton((cb) => {
+      new import_obsidian3.Setting(this.settingsRootElement).setName("Note Settings").setDesc(`Default settings for each published note. These can be overwritten per note via frontmatter.`).addButton((cb) => {
         cb.setButtonText("Edit");
         cb.onClick(() => __async(this, null, function* () {
           noteSettingsModal.open();
@@ -4667,14 +4823,49 @@ var SettingView = class {
         t.setValue(this.settings.defaultNoteSettings.dgHomeLink);
         t.onChange((val) => {
           this.settings.defaultNoteSettings.dgHomeLink = val;
-          this.saveSettings();
+          this.saveNoteSettingsAndUpdateEnv();
         });
       });
       new import_obsidian3.Setting(noteSettingsModal.contentEl).setName("Let all frontmatter through (dg-pass-frontmatter)").setDesc("Determines whether to let all frontmatter data through to the site template. Be aware that this could break your site if you have data in a format not recognized by the template engine, 11ty.").addToggle((t) => {
         t.setValue(this.settings.defaultNoteSettings.dgPassFrontmatter);
         t.onChange((val) => {
           this.settings.defaultNoteSettings.dgPassFrontmatter = val;
-          this.saveSettings();
+          this.saveNoteSettingsAndUpdateEnv();
+        });
+      });
+      new import_obsidian3.Setting(noteSettingsModal.contentEl).setName("Show backlinks for notes (dg-show-backlinks)").setDesc("When turned on, notes will show backlinks in a sidebar on desktop and at the bottom of the page on mobile.").addToggle((t) => {
+        t.setValue(this.settings.defaultNoteSettings.dgShowBacklinks);
+        t.onChange((val) => {
+          this.settings.defaultNoteSettings.dgShowBacklinks = val;
+          this.saveNoteSettingsAndUpdateEnv();
+        });
+      });
+      new import_obsidian3.Setting(noteSettingsModal.contentEl).setName("Show local graph for notes (dg-show-local-graph)").setDesc("When turned on, notes will show its local graph on desktop. It will not be shown on mobile devices.").addToggle((t) => {
+        t.setValue(this.settings.defaultNoteSettings.dgShowLocalGraph);
+        t.onChange((val) => {
+          this.settings.defaultNoteSettings.dgShowLocalGraph = val;
+          this.saveNoteSettingsAndUpdateEnv();
+        });
+      });
+      new import_obsidian3.Setting(noteSettingsModal.contentEl).setName("Show inline title (dg-show-inline-title)").setDesc("When turned on, the title of the note will show on top of the page.").addToggle((t) => {
+        t.setValue(this.settings.defaultNoteSettings.dgShowInlineTitle);
+        t.onChange((val) => {
+          this.settings.defaultNoteSettings.dgShowInlineTitle = val;
+          this.saveNoteSettingsAndUpdateEnv();
+        });
+      });
+      new import_obsidian3.Setting(noteSettingsModal.contentEl).setName("Show filetree sidebar (dg-show-file-tree)").setDesc("When turned on, a filetree will be shown on your site.").addToggle((t) => {
+        t.setValue(this.settings.defaultNoteSettings.dgShowFileTree);
+        t.onChange((val) => {
+          this.settings.defaultNoteSettings.dgShowFileTree = val;
+          this.saveNoteSettingsAndUpdateEnv();
+        });
+      });
+      new import_obsidian3.Setting(noteSettingsModal.contentEl).setName("Enable search (dg-enable-search)").setDesc("When turned on, users will be able to search through the content of your site.").addToggle((t) => {
+        t.setValue(this.settings.defaultNoteSettings.dgEnableSearch);
+        t.onChange((val) => {
+          this.settings.defaultNoteSettings.dgEnableSearch = val;
+          this.saveNoteSettingsAndUpdateEnv();
         });
       });
     });
@@ -4683,7 +4874,7 @@ var SettingView = class {
     return __async(this, null, function* () {
       const themeModal = new import_obsidian3.Modal(this.app);
       themeModal.titleEl.createEl("h1", { text: "Appearance Settings" });
-      new import_obsidian3.Setting(this.settingsRootElement).setName("Appearance").setDesc("Manage themes and favicons on your site").addButton((cb) => {
+      new import_obsidian3.Setting(this.settingsRootElement).setName("Appearance").setDesc("Manage themes, sitename and favicons on your site").addButton((cb) => {
         cb.setButtonText("Manage");
         cb.onClick(() => __async(this, null, function* () {
           themeModal.open();
@@ -4694,7 +4885,7 @@ var SettingView = class {
         dd.addOption('{"name": "default", "modes": ["dark"]}', "Default");
         const sortedThemes = themesListResponse.data.sort((a, b) => a.name.localeCompare(b.name));
         sortedThemes.map((x) => {
-          dd.addOption(JSON.stringify(__spreadProps(__spreadValues({}, x), { cssUrl: `https://raw.githubusercontent.com/${x.repo}/${x.branch || "master"}/obsidian.css` })), x.name);
+          dd.addOption(JSON.stringify(__spreadProps(__spreadValues({}, x), { cssUrl: `https://raw.githubusercontent.com/${x.repo}/${x.branch || "HEAD"}/${x.legacy ? "obsidian.css" : "theme.css"}` })), x.name);
           dd.setValue(this.settings.theme);
           dd.onChange((val) => __async(this, null, function* () {
             this.settings.theme = val;
@@ -4711,6 +4902,10 @@ var SettingView = class {
           yield this.saveSettings();
         }));
       });
+      new import_obsidian3.Setting(themeModal.contentEl).setName("Sitename").setDesc("The name of your site. This will be displayed as the site header.").addText((text) => text.setValue(this.settings.siteName).onChange((value) => __async(this, null, function* () {
+        this.settings.siteName = value;
+        yield this.saveSettings();
+      })));
       new import_obsidian3.Setting(themeModal.contentEl).setName("Favicon").setDesc("Path to an svg in your vault you wish to use as a favicon. Leave blank to use default.").addText((tc) => {
         tc.setPlaceholder("myfavicon.svg");
         tc.setValue(this.settings.faviconPath);
@@ -4723,13 +4918,13 @@ var SettingView = class {
         cb.setButtonText("Apply settings to site");
         cb.onClick((ev) => __async(this, null, function* () {
           const octokit = new Octokit({ auth: this.settings.githubToken });
-          yield this.updateEnv(octokit);
+          yield this.saveThemeAndUpdateEnv();
           yield this.addFavicon(octokit);
         }));
       });
     });
   }
-  updateEnv(octokit) {
+  saveThemeAndUpdateEnv() {
     return __async(this, null, function* () {
       const theme = JSON.parse(this.settings.theme);
       const baseTheme = this.settings.baseTheme;
@@ -4737,32 +4932,26 @@ var SettingView = class {
         new import_obsidian3.Notice(`The ${theme.name} theme doesn't support ${baseTheme} mode.`);
         return;
       }
-      let envSettings = "";
-      if (theme.name !== "default") {
-        envSettings = `THEME=${theme.cssUrl}
-BASE_THEME=${baseTheme}`;
-      }
-      const base64Settings = gBase64.encode(envSettings);
-      let fileExists = true;
-      let currentFile = null;
-      try {
-        currentFile = yield octokit.request("GET /repos/{owner}/{repo}/contents/{path}", {
-          owner: this.settings.githubUserName,
-          repo: this.settings.githubRepo,
-          path: ".env"
-        });
-      } catch (error) {
-        fileExists = false;
-      }
-      yield octokit.request("PUT /repos/{owner}/{repo}/contents/{path}", {
-        owner: this.settings.githubUserName,
-        repo: this.settings.githubRepo,
-        path: ".env",
-        message: `Update theme`,
-        content: base64Settings,
-        sha: fileExists ? currentFile.data.sha : null
-      });
+      const gardenManager = new DigitalGardenSiteManager(this.app.metadataCache, this.settings);
+      yield gardenManager.updateEnv();
       new import_obsidian3.Notice("Successfully applied theme");
+      new import_obsidian3.Notice("Successfully set sitename");
+    });
+  }
+  saveNoteSettingsAndUpdateEnv() {
+    return __async(this, null, function* () {
+      const octokit = new Octokit({ auth: this.settings.githubToken });
+      let updateFailed = false;
+      try {
+        const gardenManager = new DigitalGardenSiteManager(this.app.metadataCache, this.settings);
+        yield gardenManager.updateEnv();
+      } catch (e) {
+        new import_obsidian3.Notice("Failed to update settings. Make sure you have an internet connection.");
+        updateFailed = true;
+      }
+      if (!updateFailed) {
+        yield this.saveSettings();
+      }
     });
   }
   addFavicon(octokit) {
@@ -4806,7 +4995,7 @@ BASE_THEME=${baseTheme}`;
           content: base64SettingsFaviconContent,
           sha: faviconExists ? currentFaviconOnSite.data.sha : null
         });
-        new import_obsidian3.Notice(`Successfully set new favicon`);
+        new import_obsidian3.Notice(`Successfully set favicon`);
       }
     });
   }
@@ -4842,6 +5031,12 @@ BASE_THEME=${baseTheme}`;
             If you leave it blank, the plugin will try to guess it from the repo name.
             `).addText((text) => text.setPlaceholder("my-garden.netlify.app").setValue(this.settings.gardenBaseUrl).onChange((value) => __async(this, null, function* () {
       this.settings.gardenBaseUrl = value;
+      yield this.saveSettings();
+    })));
+  }
+  initializeRibbonIconSetting() {
+    new import_obsidian3.Setting(this.settingsRootElement).setName("Show ribbon icon").setDesc("Show ribbon icon in the Obsidian sidebar. You need to reload Obsdian for changes to take effect.").addToggle((toggle) => toggle.setValue(this.settings.showRibbonIcon).onChange((value) => __async(this, null, function* () {
+      this.settings.showRibbonIcon = value;
       yield this.saveSettings();
     })));
   }
@@ -4892,7 +5087,7 @@ BASE_THEME=${baseTheme}`;
   renderLoading() {
     this.loading.show();
     const text = "Creating PR. This should take less than 1 minute";
-    const loadingText = this.loading.createEl("h2", { text });
+    const loadingText = this.loading.createEl("h4", { text });
     this.loadingInterval = setInterval(() => {
       if (loadingText.innerText === `${text}`) {
         loadingText.innerText = `${text}.`;
@@ -5098,7 +5293,9 @@ var PublishStatusManager = class {
     const deletedNotePaths = [];
     Object.keys(remoteNoteHashes).forEach((key) => {
       if (!marked.find((f) => f.path === key)) {
-        deletedNotePaths.push(key);
+        if (!key.endsWith(".js")) {
+          deletedNotePaths.push(key);
+        }
       }
     });
     return deletedNotePaths;
@@ -5132,6 +5329,68 @@ var PublishStatusManager = class {
   }
 };
 
+// src/ObsidianFrontMatterEngine.ts
+var ObsidianFrontMatterEngine = class {
+  constructor(vault, metadataCache, file) {
+    this.generatedFrontMatter = {};
+    this.metadataCache = metadataCache;
+    this.vault = vault;
+    this.file = file;
+  }
+  set(key, value) {
+    this.generatedFrontMatter[key] = value;
+    return this;
+  }
+  remove(key) {
+    this.generatedFrontMatter[key] = void 0;
+    return this;
+  }
+  get(key) {
+    return this.getFrontMatterSnapshot()[key];
+  }
+  apply() {
+    return __async(this, null, function* () {
+      const newFrontMatter = this.getFrontMatterSnapshot();
+      const content = yield this.vault.cachedRead(this.file);
+      const frontmatterRegex = /^\s*?---\n([\s\S]*?)\n---/g;
+      const yaml = this.frontMatterToYaml(newFrontMatter);
+      let newContent = "";
+      if (content.match(frontmatterRegex)) {
+        newContent = content.replace(frontmatterRegex, (match) => {
+          return yaml;
+        });
+      } else {
+        newContent = `${yaml}
+${content}`;
+      }
+      yield this.vault.modify(this.file, newContent);
+    });
+  }
+  frontMatterToYaml(frontMatter) {
+    for (const key of Object.keys(frontMatter)) {
+      if (frontMatter[key] === void 0) {
+        delete frontMatter[key];
+      }
+    }
+    if (Object.keys(frontMatter).length === 0) {
+      return "";
+    }
+    let yaml = "---\n";
+    for (const key of Object.keys(frontMatter)) {
+      yaml += `${key}: ${frontMatter[key]}
+`;
+    }
+    yaml += "---";
+    return yaml;
+  }
+  getFrontMatterSnapshot() {
+    var _a, _b;
+    const cachedFrontMatter = __spreadValues({}, (_b = this.metadataCache.getCache((_a = this.file) == null ? void 0 : _a.path)) == null ? void 0 : _b.frontmatter);
+    delete cachedFrontMatter["position"];
+    return __spreadValues(__spreadValues({}, cachedFrontMatter), this.generatedFrontMatter);
+  }
+};
+
 // main.ts
 var DEFAULT_SETTINGS = {
   githubRepo: "",
@@ -5142,9 +5401,17 @@ var DEFAULT_SETTINGS = {
   theme: "dark",
   baseTheme: '{"name": "default", "modes": ["dark"]}',
   faviconPath: "",
+  showRibbonIcon: true,
+  noteSettingsIsInitialized: false,
+  siteName: "Digital Garden",
   defaultNoteSettings: {
     dgHomeLink: true,
-    dgPassFrontmatter: false
+    dgPassFrontmatter: false,
+    dgShowBacklinks: false,
+    dgShowLocalGraph: false,
+    dgShowInlineTitle: false,
+    dgShowFileTree: false,
+    dgEnableSearch: false
   }
 };
 var DigitalGarden = class extends import_obsidian5.Plugin {
@@ -5156,9 +5423,11 @@ var DigitalGarden = class extends import_obsidian5.Plugin {
       this.addSettingTab(new DigitalGardenSettingTab(this.app, this));
       yield this.addCommands();
       (0, import_obsidian5.addIcon)("digital-garden-icon", seedling);
-      this.addRibbonIcon("digital-garden-icon", "Digital Garden Publication Center", () => __async(this, null, function* () {
-        this.openPublishModal();
-      }));
+      if (this.settings.showRibbonIcon) {
+        this.addRibbonIcon("digital-garden-icon", "Digital Garden Publication Center", () => __async(this, null, function* () {
+          this.openPublishModal();
+        }));
+      }
     });
   }
   onunload() {
@@ -5276,6 +5545,14 @@ var DigitalGarden = class extends import_obsidian5.Plugin {
           this.openPublishModal();
         })
       });
+      this.addCommand({
+        id: "dg-mark-note-for-publish",
+        name: "Add publish flag",
+        callback: () => __async(this, null, function* () {
+          const engine = new ObsidianFrontMatterEngine(this.app.vault, this.app.metadataCache, this.app.workspace.getActiveFile());
+          engine.set("dg-publish", true).apply();
+        })
+      });
     });
   }
   openPublishModal() {
@@ -5292,6 +5569,12 @@ var DigitalGardenSettingTab = class extends import_obsidian5.PluginSettingTab {
   constructor(app, plugin) {
     super(app, plugin);
     this.plugin = plugin;
+    if (!this.plugin.settings.noteSettingsIsInitialized) {
+      const siteManager = new DigitalGardenSiteManager(this.app.metadataCache, this.plugin.settings);
+      siteManager.updateEnv();
+      this.plugin.settings.noteSettingsIsInitialized = true;
+      this.plugin.saveData(this.plugin.settings);
+    }
   }
   display() {
     return __async(this, null, function* () {
@@ -5328,5 +5611,7 @@ var DigitalGardenSettingTab = class extends import_obsidian5.PluginSettingTab {
  * Copyright (c) 2014-2017, Jon Schlinkert.
  * Released under the MIT License.
  */
+//!()[image.svg]
 //![[image.png]]
+//![[image.svg]]
 //![](image.png)
