@@ -216,3 +216,37 @@ foreach (string movie in MyMovies)
 	Console.WriteLine(movie);
 }
 ```
+
+# Exceptions, Methods & Classes
+
+## Try Catch Blocks
+Used to catch any exceptions that are likely to occur.
+
+### Syntax
+```C#
+try
+{
+
+}
+catch (Exception)
+{
+	throw;
+}
+```
+
+### Example
+```C#
+try
+{
+	string result = "ok";
+	/* The following line will throw an exception
+		because strings can't be converted to numbers 
+		like this */
+	Console.WriteLine(Convert.ToInt32(result) + 10);
+}
+catch (Exception ex)
+{
+	Console.WriteLine(ex.Message);
+}
+```
+
