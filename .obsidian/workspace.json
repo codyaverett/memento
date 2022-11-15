@@ -19,8 +19,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "a35d7f62fd393bc6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "learning/computing/programming/c-sharp/C-sharp cheatsheet.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -78,7 +92,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "learning/financial/career/management/transitioning from dev to manager.md",
+                "file": "learning/computing/programming/c-sharp/C-sharp cheatsheet.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,7 +109,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "learning/financial/career/management/transitioning from dev to manager.md"
+                "file": "learning/computing/programming/c-sharp/C-sharp cheatsheet.md"
               }
             }
           },
@@ -114,28 +128,28 @@
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true
+                "useHierarchy": false
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
     "width": 300
   },
-  "active": "33a2bab88d111215",
+  "active": "a35d7f62fd393bc6",
   "lastOpenFiles": [
+    "learning/computing/software/containers/kubernetes/Kubernetes basics.md",
+    "learning/computing/programming/java/java dependency management.md",
+    "learning/computing/programming/c-sharp/C-sharp cheatsheet.md",
+    "learning/financial/career/management/transitioning from dev to manager.md",
     "learning/financial/career/job-hunting/RevUnit.md",
     "learning/financial/career/job-hunting/buf.build.md",
     "learning/productivity/all failures are learning opportunities.md",
     "learning/financial/career/job-hunting/data-etl-hindsight.md",
     "learning/financial/career/job-hunting/data etl project.md",
-    "learning/financial/career/job-hunting/staff engineer.md",
-    "learning/financial/career/job-hunting/Drawing 2022-11-07 15.59.02.excalidraw.md",
-    "personal/school/WGU/computer science degree at WGU.md",
-    "personal/daily/2022/22-09-30.md",
-    "learning/computing/software/data ETL/apache airflow/apache airflow.md"
+    "learning/financial/career/job-hunting/staff engineer.md"
   ]
 }
