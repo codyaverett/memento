@@ -1152,7 +1152,7 @@
     "personal/task board.md": {
       "size": 0,
       "tags": 0,
-      "links": 0
+      "links": 1
     },
     "learning/productivity/really useful websites.md": {
       "size": 0,
@@ -1164,13 +1164,13 @@
     "/": {
       "Refactor": 1349,
       "Create": 227,
-      "Link": 64,
+      "Link": 65,
       "Expand": 91
     }
   },
   "dailyCommits": {
     "/": {
-      "0": 40,
+      "0": 41,
       "1": 24,
       "2": 19,
       "3": 32,
@@ -1199,7 +1199,7 @@
   "weeklyCommits": {
     "/": {
       "Mon": 1239,
-      "Tue": 89,
+      "Tue": 90,
       "Wed": 101,
       "Thu": 109,
       "Fri": 114,
@@ -1423,6 +1423,7 @@
         "<a class=\"internal-link\" href=\"personal/notes/Follow up on Insurance transition.md\"> Follow up on Insurance transition </a>"
       ],
       "Linked": [
+        "<a class=\"internal-link\" href=\"personal/task board.md\"> task board </a>",
         "<a class=\"internal-link\" href=\"learning/computing/programming/java/java dependency management.md\"> java dependency management </a>",
         "<a class=\"internal-link\" href=\"software/jupyter notebooks/run any shell command in jupyter notebooks.md\"> run any shell command in jupyter notebooks </a>",
         "<a class=\"internal-link\" href=\"personal/music/Sheet music.md\"> Sheet music </a>",
@@ -1472,8 +1473,7 @@
         "<a class=\"internal-link\" href=\"programming/data models/OLTP data models.md\"> OLTP data models </a>",
         "<a class=\"internal-link\" href=\"programming/data models/OLAP data models.md\"> OLAP data models </a>",
         "<a class=\"internal-link\" href=\"programming/data ETL/OLTP vs OLAP.md\"> OLTP vs OLAP </a>",
-        "<a class=\"internal-link\" href=\"programming/python/tips/Getting values from a python dictionary.md\"> Getting values from a python dictionary </a>",
-        "<a class=\"internal-link\" href=\"software/letsencrypt/letsencrypt.md\"> letsencrypt </a>"
+        "<a class=\"internal-link\" href=\"programming/python/tips/Getting values from a python dictionary.md\"> Getting values from a python dictionary </a>"
       ],
       "Removed Tags from": [],
       "Removed Links from": [
