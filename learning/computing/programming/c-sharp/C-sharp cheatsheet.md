@@ -176,3 +176,43 @@ while (Year >= 2021)
 
 Make sure your condition evaluates to false at some point otherwise the loop is endless and it can result in errors.
 
+## For Loop
+
+Similar to the `while loop`, but you specify when the loop will end.
+
+### Syntax
+```C#
+for (int i = 0; i < length; i++)
+{
+
+}
+```
+
+### Example
+```C#
+for (int i = 0; i <= 100; i++)
+{
+	Console.WriteLine(i);
+}
+```
+
+This prints out 1 to 100.
+
+## For Each
+The for each loop is used to loop around a collection. (Such as an array)
+
+### Syntax
+```C#
+foreach (var item in collection)
+{
+
+}
+```
+
+### Example
+```C#
+foreach (string movie in MyMovies)
+{
+	Console.WriteLine(movie);
+}
+```
