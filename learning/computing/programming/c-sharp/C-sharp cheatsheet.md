@@ -1,7 +1,7 @@
 ```toc
 ```
 
-## Intro
+# Intro
 C# is a powerful Object Orientated language, for those coming from Java or C++ you should be able to pick up the syntax for C# quickly. 
 
 A few points: 
@@ -12,30 +12,30 @@ A few points:
 - Block comments start with /* */ 
 - XML comments start with ///
 
-## Variables
+# Variables
 
 To declare a variable you specify the data type and variable name followed by a value. 
 
-### Syntax
+## Syntax
 DataType variableName = value; 
 
-### Naming rules
+## Naming rules
 - Variables must start with underscore or letter 
 - Variables cannot contain spaces 
 - Variables can contain numbers 
 - Cannot contain symbols (accept underscore)
 
-### Example
+## Example
 
 ```c#
 string Name = "string example";
 int Year = 2022;
 ```
 
-## Arrays
+# Arrays
 Arrays are similar to variables, but can hold more than one value.
 
-### Syntax
+## Syntax
 
 ```c#
 DataType[ ] ArrayName = { Comma Separated Values } // Array of any size 
@@ -43,46 +43,46 @@ DataType[ ] ArrayName = { Comma Separated Values } // Array of any size
 DataType[] ArrayName = new DataType[3] {Command Separated Values } //Expects 3 values
 ```
 
-### Example
+## Example
 
 ```C#
 string[] MyGames = {"Banjo Kazooie", "Skyrim"};
 string[] MyMovies = new string[3] {"Spiderman", "Interstellar", "Limitless"};
 ```
 
-## Strings
+# Strings
 
-### Concatenation
+## Concatenation
 Concatenation is done through the + operator.
 
-#### Example
+### Example
 ```C#
 Console.WriteLine("Hello " + "World")
 ```
 
-### New Line
+## New Line
 
-#### Example
+### Example
 ```C#
 Console.WriteLine("Hello \n" + "World");
 ```
 
-### String.Format
+## String.Format
 Formats an object, you specify the formatting you wish to perform, the following formats an integer and displays the currency symbol.
 
-#### Example
+### Example
 ```C#
 Console.WriteLine(string.Format("{0:C}", 5));
 ```
 
 Depending on your computers regional settings you will see $5.00 displayed (You'll see your countries currency symbol). The `0:C` is the formatting we wish to do, in this case it means format the first parameter (0) and show a currency sign.
 
-## Conditional Statements
+# Conditional Statements
 
-### If Statements
+## If Statements
 if statements are used to execute code based on a condition.  The condition must evaluate to true for the code to execute.
 
-#### Syntax
+### Syntax
 ```C#
 if (true)
 {
@@ -90,7 +90,7 @@ if (true)
 }
 ```
 
-#### Example
+### Example
 ```C#
 if (Year > 2021)
 {
@@ -98,10 +98,10 @@ if (Year > 2021)
 }
 ```
 
-### Else Statements
+## Else Statements
 if a condition does not evaluate to true you can use an if else statement to execute other code.
 
-#### Example
+### Example
 ```C#
 if (Year > 2024)
 {
@@ -113,14 +113,14 @@ else
 }
 ```
 
-### Switch Statement
+## Switch Statement
 Similar to the If else statement, however it has these benefits.
 
 - Much easier to read and maintain.
 - Much cleaner than using nested if else code blocks.
 - It only evaluates one variable
 
-#### Syntax
+### Syntax
 ```C#
 switch (switch_on)
 {
@@ -128,7 +128,7 @@ switch (switch_on)
 }
 ```
 
-#### Example
+### Example
 ```C#
 switch (Year)
 {
@@ -145,3 +145,6 @@ switch (Year)
 ```
 The `break` keyword is required as it prevents case falling.
 > Several cases can be stacked on purpose though.
+
+# Loops
+
