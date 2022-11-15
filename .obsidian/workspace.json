@@ -11,8 +11,10 @@
             "id": "d17be225b1c5036f",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "kanban",
+              "state": {
+                "file": "personal/kanban board.md"
+              }
             }
           }
         ]
