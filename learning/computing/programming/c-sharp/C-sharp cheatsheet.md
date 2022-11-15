@@ -148,3 +148,9 @@ The `break` keyword is required as it prevents case falling.
 
 # Loops
 
+## While Loops
+Continuously loops code until a condition becomes false.
+
+### Syntax
+
+##
