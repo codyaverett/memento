@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "personal/daily/2022/22-11-15.md",
+                "file": "personal/kanban.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -91,7 +91,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "personal/daily/2022/22-11-15.md",
+                "file": "personal/kanban.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,7 +108,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "personal/daily/2022/22-11-15.md"
+                "file": "personal/kanban.md"
               }
             }
           },
@@ -138,11 +138,11 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "a35d7f62fd393bc6",
+  "active": "33a2bab88d111215",
   "lastOpenFiles": [
+    "personal/daily/2022/22-11-15.md",
     "personal/daily/2022/22-11-12.md",
     "personal/daily/2022/22-11-11.md",
-    "personal/daily/2022/22-11-15.md",
     "learning/computing/programming/c-sharp/C-sharp cheatsheet.md",
     "personal/daily/2022/22-11-14.md",
     "learning/computing/software/containers/kubernetes/Kubernetes basics.md",
