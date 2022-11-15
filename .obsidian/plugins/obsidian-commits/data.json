@@ -954,27 +954,7 @@
       "tags": 0,
       "links": 0
     },
-    "learning/financial/career/job-hunting/data etl project.md": {
-      "size": 3431,
-      "tags": 0,
-      "links": 2
-    },
-    "learning/financial/career/job-hunting/staff engineer.md": {
-      "size": 0,
-      "tags": 0,
-      "links": 0
-    },
     "learning/financial/career/job-hunting/buf.build.md": {
-      "size": 0,
-      "tags": 0,
-      "links": 0
-    },
-    "learning/financial/career/job-hunting/Drawing 2022-11-07 15.59.02.excalidraw.md": {
-      "size": 2270,
-      "tags": 1,
-      "links": 0
-    },
-    "learning/financial/career/job-hunting/data-etl-hindsight.md": {
       "size": 0,
       "tags": 0,
       "links": 0
@@ -1021,86 +1001,6 @@
     },
     "personal/school/WGU/student accessibility services.md": {
       "size": 10338,
-      "tags": 0,
-      "links": 0
-    },
-    "personal/daily/2022/06-09-22.md": {
-      "size": 1659,
-      "tags": 0,
-      "links": 2
-    },
-    "personal/daily/2022/06-10-22.md": {
-      "size": 905,
-      "tags": 0,
-      "links": 0
-    },
-    "personal/daily/2022/09-02-22.md": {
-      "size": 2057,
-      "tags": 0,
-      "links": 0
-    },
-    "personal/daily/2022/09-15-22.md": {
-      "size": 0,
-      "tags": 0,
-      "links": 0
-    },
-    "personal/daily/2022/09-22-22.md": {
-      "size": 0,
-      "tags": 0,
-      "links": 0
-    },
-    "personal/daily/2022/09-26-22.md": {
-      "size": 0,
-      "tags": 0,
-      "links": 0
-    },
-    "personal/daily/2022/09-27-22.md": {
-      "size": 0,
-      "tags": 0,
-      "links": 0
-    },
-    "personal/daily/2022/09-28-22.md": {
-      "size": 0,
-      "tags": 0,
-      "links": 0
-    },
-    "personal/daily/2022/09-30-22.md": {
-      "size": 0,
-      "tags": 0,
-      "links": 0
-    },
-    "personal/daily/2022/10-01-22.md": {
-      "size": 0,
-      "tags": 0,
-      "links": 0
-    },
-    "personal/daily/2022/10-05-22.md": {
-      "size": 0,
-      "tags": 0,
-      "links": 1
-    },
-    "personal/daily/2022/10-06-22.md": {
-      "size": 0,
-      "tags": 0,
-      "links": 0
-    },
-    "personal/daily/2022/10-07-22.md": {
-      "size": 0,
-      "tags": 0,
-      "links": 0
-    },
-    "personal/daily/2022/10-10-22.md": {
-      "size": 0,
-      "tags": 0,
-      "links": 0
-    },
-    "personal/daily/2022/11-11-22.md": {
-      "size": 0,
-      "tags": 0,
-      "links": 0
-    },
-    "personal/daily/2022/11-12-22.md": {
-      "size": 0,
       "tags": 0,
       "links": 0
     },
@@ -1153,11 +1053,91 @@
       "size": 328,
       "tags": 0,
       "links": 0
+    },
+    "personal/daily/2022/22-06-09.md": {
+      "size": 1659,
+      "tags": 0,
+      "links": 2
+    },
+    "personal/daily/2022/22-06-10.md": {
+      "size": 905,
+      "tags": 0,
+      "links": 0
+    },
+    "personal/daily/2022/22-09-02.md": {
+      "size": 2057,
+      "tags": 0,
+      "links": 0
+    },
+    "personal/daily/2022/22-09-15.md": {
+      "size": 0,
+      "tags": 0,
+      "links": 0
+    },
+    "personal/daily/2022/22-09-22.md": {
+      "size": 0,
+      "tags": 0,
+      "links": 0
+    },
+    "personal/daily/2022/22-09-26.md": {
+      "size": 0,
+      "tags": 0,
+      "links": 0
+    },
+    "personal/daily/2022/22-09-27.md": {
+      "size": 0,
+      "tags": 0,
+      "links": 0
+    },
+    "personal/daily/2022/22-09-28.md": {
+      "size": 0,
+      "tags": 0,
+      "links": 0
+    },
+    "personal/daily/2022/22-09-30.md": {
+      "size": 0,
+      "tags": 0,
+      "links": 0
+    },
+    "personal/daily/2022/22-10-01.md": {
+      "size": 0,
+      "tags": 0,
+      "links": 0
+    },
+    "personal/daily/2022/22-10-05.md": {
+      "size": 0,
+      "tags": 0,
+      "links": 1
+    },
+    "personal/daily/2022/22-10-06.md": {
+      "size": 0,
+      "tags": 0,
+      "links": 0
+    },
+    "personal/daily/2022/22-10-07.md": {
+      "size": 0,
+      "tags": 0,
+      "links": 0
+    },
+    "personal/daily/2022/22-10-10.md": {
+      "size": 0,
+      "tags": 0,
+      "links": 0
+    },
+    "personal/daily/2022/22-11-11.md": {
+      "size": 0,
+      "tags": 0,
+      "links": 0
+    },
+    "personal/daily/2022/22-11-12.md": {
+      "size": 0,
+      "tags": 0,
+      "links": 0
     }
   },
   "commitTypes": {
     "/": {
-      "Refactor": 1319,
+      "Refactor": 1339,
       "Create": 221,
       "Link": 63,
       "Expand": 87
@@ -1187,13 +1167,13 @@
       "19": 25,
       "20": 33,
       "21": 71,
-      "22": 32,
+      "22": 52,
       "23": 28
     }
   },
   "weeklyCommits": {
     "/": {
-      "Mon": 1211,
+      "Mon": 1231,
       "Tue": 76,
       "Wed": 101,
       "Thu": 109,
@@ -1311,6 +1291,22 @@
         "<a class=\"internal-link\" href=\"software/git/Untitled.md\"> Untitled </a>"
       ],
       "Renamed": [
+        "<a class=\"internal-link\" href=\"personal/daily/2022/22-11-12.md\"> 22-11-12 </a>",
+        "<a class=\"internal-link\" href=\"personal/daily/2022/22-11-11.md\"> 22-11-11 </a>",
+        "<a class=\"internal-link\" href=\"personal/daily/2022/22-10-10.md\"> 22-10-10 </a>",
+        "<a class=\"internal-link\" href=\"personal/daily/2022/22-10-07.md\"> 22-10-07 </a>",
+        "<a class=\"internal-link\" href=\"personal/daily/2022/22-10-06.md\"> 22-10-06 </a>",
+        "<a class=\"internal-link\" href=\"personal/daily/2022/22-10-05.md\"> 22-10-05 </a>",
+        "<a class=\"internal-link\" href=\"personal/daily/2022/22-10-01.md\"> 22-10-01 </a>",
+        "<a class=\"internal-link\" href=\"personal/daily/2022/22-09-30.md\"> 22-09-30 </a>",
+        "<a class=\"internal-link\" href=\"personal/daily/2022/22-09-28.md\"> 22-09-28 </a>",
+        "<a class=\"internal-link\" href=\"personal/daily/2022/22-09-27.md\"> 22-09-27 </a>",
+        "<a class=\"internal-link\" href=\"personal/daily/2022/22-09-26.md\"> 22-09-26 </a>",
+        "<a class=\"internal-link\" href=\"personal/daily/2022/22-09-22.md\"> 22-09-22 </a>",
+        "<a class=\"internal-link\" href=\"personal/daily/2022/22-09-15.md\"> 22-09-15 </a>",
+        "<a class=\"internal-link\" href=\"personal/daily/2022/22-09-02.md\"> 22-09-02 </a>",
+        "<a class=\"internal-link\" href=\"personal/daily/2022/22-06-10.md\"> 22-06-10 </a>",
+        "<a class=\"internal-link\" href=\"personal/daily/2022/22-06-09.md\"> 22-06-09 </a>",
         "<a class=\"internal-link\" href=\"learning/nature/insects/brown recluse spider.md\"> brown recluse spider </a>",
         "<a class=\"internal-link\" href=\"learning/insects/brown recluse spider.md\"> brown recluse spider </a>",
         "<a class=\"internal-link\" href=\"learning/bugs/brown recluse spider.md\"> brown recluse spider </a>",
@@ -1345,23 +1341,7 @@
         "<a class=\"internal-link\" href=\"personal/daily/2022/10-07-22.md\"> 10-07-22 </a>",
         "<a class=\"internal-link\" href=\"personal/daily/2022/10-06-22.md\"> 10-06-22 </a>",
         "<a class=\"internal-link\" href=\"personal/daily/2022/10-05-22.md\"> 10-05-22 </a>",
-        "<a class=\"internal-link\" href=\"personal/daily/2022/10-01-22.md\"> 10-01-22 </a>",
-        "<a class=\"internal-link\" href=\"personal/daily/2022/09-30-22.md\"> 09-30-22 </a>",
-        "<a class=\"internal-link\" href=\"personal/daily/2022/09-28-22.md\"> 09-28-22 </a>",
-        "<a class=\"internal-link\" href=\"personal/daily/2022/09-27-22.md\"> 09-27-22 </a>",
-        "<a class=\"internal-link\" href=\"personal/daily/2022/09-26-22.md\"> 09-26-22 </a>",
-        "<a class=\"internal-link\" href=\"personal/daily/2022/09-22-22.md\"> 09-22-22 </a>",
-        "<a class=\"internal-link\" href=\"personal/daily/2022/09-15-22.md\"> 09-15-22 </a>",
-        "<a class=\"internal-link\" href=\"personal/daily/2022/09-02-22.md\"> 09-02-22 </a>",
-        "<a class=\"internal-link\" href=\"personal/daily/2022/06-10-22.md\"> 06-10-22 </a>",
-        "<a class=\"internal-link\" href=\"personal/daily/2022/06-09-22.md\"> 06-09-22 </a>",
-        "<a class=\"internal-link\" href=\"personal/random/lifehacks/how to have time for everything.md\"> how to have time for everything </a>",
-        "<a class=\"internal-link\" href=\"personal/random/lifehacks/reading quickly.md\"> reading quickly </a>",
-        "<a class=\"internal-link\" href=\"personal/random/lifehacks/forgetting what you read after you read it.md\"> forgetting what you read after you read it </a>",
-        "<a class=\"internal-link\" href=\"personal/random/lifehacks/transporting lumber with a roof rack.md\"> transporting lumber with a roof rack </a>",
-        "<a class=\"internal-link\" href=\"personal/random/lifehacks/productivity tips.md\"> productivity tips </a>",
-        "<a class=\"internal-link\" href=\"personal/random/lists/really useful websites.md\"> really useful websites </a>",
-        "<a class=\"internal-link\" href=\"personal/random/being impaled by a javelin.md\"> being impaled by a javelin </a>"
+        "<a class=\"internal-link\" href=\"personal/daily/2022/10-01-22.md\"> 10-01-22 </a>"
       ],
       "Tagged": [
         "<a class=\"internal-link\" href=\"personal/job-hunting/jb-hunt-topics.md\"> jb-hunt-topics </a>",
@@ -1410,7 +1390,11 @@
         "<a class=\"internal-link\" href=\"personal/Cody_Averett.md\"> Cody_Averett </a>",
         "<a class=\"internal-link\" href=\"WIP.md\"> WIP </a>",
         "<a class=\"internal-link\" href=\"self/daily/old/2022/11-14-22.md\"> 11-14-22 </a>",
-        "<a class=\"internal-link\" href=\"random/being impaled by a javelin.md\"> being impaled by a javelin </a>"
+        "<a class=\"internal-link\" href=\"random/being impaled by a javelin.md\"> being impaled by a javelin </a>",
+        "<a class=\"internal-link\" href=\"learning/financial/career/job-hunting/Drawing 2022-11-07 15.59.02.excalidraw.md\"> Drawing 2022-11-07 15.59.02.excalidraw </a>",
+        "<a class=\"internal-link\" href=\"learning/financial/career/job-hunting/staff engineer.md\"> staff engineer </a>",
+        "<a class=\"internal-link\" href=\"learning/financial/career/job-hunting/data etl project.md\"> data etl project </a>",
+        "<a class=\"internal-link\" href=\"learning/financial/career/job-hunting/data-etl-hindsight.md\"> data-etl-hindsight </a>"
       ],
       "Linked": [
         "<a class=\"internal-link\" href=\"software/jupyter notebooks/run any shell command in jupyter notebooks.md\"> run any shell command in jupyter notebooks </a>",
