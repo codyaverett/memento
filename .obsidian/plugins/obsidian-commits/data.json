@@ -1133,13 +1133,28 @@
       "size": 210,
       "tags": 0,
       "links": 0
+    },
+    "learning/computing/programming/java/java dependency management.md": {
+      "size": 0,
+      "tags": 0,
+      "links": 1
+    },
+    "learning/computing/software/containers/kubernetes/Kubernetes basics.md": {
+      "size": 0,
+      "tags": 0,
+      "links": 0
+    },
+    "learning/computing/programming/c-sharp/C-sharp cheatsheet.md": {
+      "size": 0,
+      "tags": 0,
+      "links": 0
     }
   },
   "commitTypes": {
     "/": {
-      "Refactor": 1341,
-      "Create": 221,
-      "Link": 63,
+      "Refactor": 1342,
+      "Create": 224,
+      "Link": 64,
       "Expand": 87
     }
   },
@@ -1168,12 +1183,12 @@
       "20": 33,
       "21": 71,
       "22": 54,
-      "23": 28
+      "23": 33
     }
   },
   "weeklyCommits": {
     "/": {
-      "Mon": 1233,
+      "Mon": 1238,
       "Tue": 76,
       "Wed": 101,
       "Thu": 109,
@@ -1238,6 +1253,9 @@
         "<a class=\"internal-link\" href=\"personal/job-hunting/Federal-reserve-bank-topics.md\"> Federal-reserve-bank-topics </a>"
       ],
       "Created": [
+        "<a class=\"internal-link\" href=\"learning/computing/software/containers/kubernetes/Untitled.md\"> Untitled </a>",
+        "<a class=\"internal-link\" href=\"learning/computing/programming/java/Untitled.md\"> Untitled </a>",
+        "<a class=\"internal-link\" href=\"learning/computing/programming/c-sharp/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"self/daily/22-11-14.md\"> 22-11-14 </a>",
         "<a class=\"internal-link\" href=\"software/linux/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"daily/11-14-22.md\"> 11-14-22 </a>",
@@ -1285,12 +1303,10 @@
         "<a class=\"internal-link\" href=\"software/nginx/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"programming/python/ansible/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"programming/python/Untitled.md\"> Untitled </a>",
-        "<a class=\"internal-link\" href=\"programming/python/Untitled.md\"> Untitled </a>",
-        "<a class=\"internal-link\" href=\"software/containers/buildah/Untitled.md\"> Untitled </a>",
-        "<a class=\"internal-link\" href=\"software/containers/buildah/Untitled.md\"> Untitled </a>",
-        "<a class=\"internal-link\" href=\"software/git/Untitled.md\"> Untitled </a>"
+        "<a class=\"internal-link\" href=\"programming/python/Untitled.md\"> Untitled </a>"
       ],
       "Renamed": [
+        "<a class=\"internal-link\" href=\"learning/computing/programming/c-sharp/C-sharp cheatsheet.md\"> C-sharp cheatsheet </a>",
         "<a class=\"internal-link\" href=\"learning/financial/career/management/transitioning from dev to manager.md\"> transitioning from dev to manager </a>",
         "<a class=\"internal-link\" href=\"learning/productivity/all failures are learning opportunities.md\"> all failures are learning opportunities </a>",
         "<a class=\"internal-link\" href=\"personal/daily/2022/22-11-12.md\"> 22-11-12 </a>",
@@ -1340,8 +1356,7 @@
         "<a class=\"internal-link\" href=\"personal/daily/2022/11-12-22.md\"> 11-12-22 </a>",
         "<a class=\"internal-link\" href=\"personal/daily/2022/11-11-22.md\"> 11-11-22 </a>",
         "<a class=\"internal-link\" href=\"personal/daily/2022/10-10-22.md\"> 10-10-22 </a>",
-        "<a class=\"internal-link\" href=\"personal/daily/2022/10-07-22.md\"> 10-07-22 </a>",
-        "<a class=\"internal-link\" href=\"personal/daily/2022/10-06-22.md\"> 10-06-22 </a>"
+        "<a class=\"internal-link\" href=\"personal/daily/2022/10-07-22.md\"> 10-07-22 </a>"
       ],
       "Tagged": [
         "<a class=\"internal-link\" href=\"personal/job-hunting/jb-hunt-topics.md\"> jb-hunt-topics </a>",
@@ -1397,6 +1412,7 @@
         "<a class=\"internal-link\" href=\"learning/financial/career/job-hunting/data-etl-hindsight.md\"> data-etl-hindsight </a>"
       ],
       "Linked": [
+        "<a class=\"internal-link\" href=\"learning/computing/programming/java/java dependency management.md\"> java dependency management </a>",
         "<a class=\"internal-link\" href=\"software/jupyter notebooks/run any shell command in jupyter notebooks.md\"> run any shell command in jupyter notebooks </a>",
         "<a class=\"internal-link\" href=\"personal/music/Sheet music.md\"> Sheet music </a>",
         "<a class=\"internal-link\" href=\"personal/music/Sheet music.md\"> Sheet music </a>",
@@ -1446,8 +1462,7 @@
         "<a class=\"internal-link\" href=\"programming/data models/OLAP data models.md\"> OLAP data models </a>",
         "<a class=\"internal-link\" href=\"programming/data ETL/OLTP vs OLAP.md\"> OLTP vs OLAP </a>",
         "<a class=\"internal-link\" href=\"programming/python/tips/Getting values from a python dictionary.md\"> Getting values from a python dictionary </a>",
-        "<a class=\"internal-link\" href=\"software/letsencrypt/letsencrypt.md\"> letsencrypt </a>",
-        "<a class=\"internal-link\" href=\"software/linux/Linux DNS.md\"> Linux DNS </a>"
+        "<a class=\"internal-link\" href=\"software/letsencrypt/letsencrypt.md\"> letsencrypt </a>"
       ],
       "Removed Tags from": [],
       "Removed Links from": [
