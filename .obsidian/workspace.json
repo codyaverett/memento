@@ -13,7 +13,7 @@
             "state": {
               "type": "kanban",
               "state": {
-                "file": "personal/kanban board.md"
+                "file": "personal/task board.md"
               }
             }
           }
@@ -75,7 +75,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "personal/kanban board.md",
+                "file": "personal/task board.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -92,7 +92,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "personal/kanban board.md"
+                "file": "personal/task board.md"
               }
             }
           },
@@ -125,9 +125,9 @@
   },
   "active": "33a2bab88d111215",
   "lastOpenFiles": [
-    "personal/kanban board.md",
-    "personal/notes/Follow up on Insurance transition.md",
     "personal/notes/Backlog.md",
+    "personal/task board.md",
+    "personal/notes/Follow up on Insurance transition.md",
     "personal/daily/2022/22-11-15.md",
     "personal/daily/2022/22-11-12.md",
     "personal/daily/2022/22-11-11.md",
