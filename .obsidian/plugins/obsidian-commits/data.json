@@ -1145,7 +1145,7 @@
       "links": 0
     },
     "learning/computing/programming/c-sharp/C-sharp cheatsheet.md": {
-      "size": 0,
+      "size": 2715,
       "tags": 0,
       "links": 0
     }
@@ -1155,7 +1155,7 @@
       "Refactor": 1342,
       "Create": 224,
       "Link": 64,
-      "Expand": 87
+      "Expand": 88
     }
   },
   "dailyCommits": {
@@ -1183,12 +1183,12 @@
       "20": 33,
       "21": 71,
       "22": 54,
-      "23": 33
+      "23": 34
     }
   },
   "weeklyCommits": {
     "/": {
-      "Mon": 1238,
+      "Mon": 1239,
       "Tue": 76,
       "Wed": 101,
       "Thu": 109,
@@ -1200,6 +1200,7 @@
   "recentCommits": {
     "/": {
       "Expanded": [
+        "<a class=\"internal-link\" href=\"learning/computing/programming/c-sharp/C-sharp cheatsheet.md\"> C-sharp cheatsheet </a>",
         "<a class=\"internal-link\" href=\"software/sed/sed examples to print lines from a file.md\"> sed examples to print lines from a file </a>",
         "<a class=\"internal-link\" href=\"personal/books/Staff Engineer.md\"> Staff Engineer </a>",
         "<a class=\"internal-link\" href=\"personal/books/Staff Engineer.md\"> Staff Engineer </a>",
@@ -1248,7 +1249,6 @@
         "<a class=\"internal-link\" href=\"personal/job-hunting/jb-hunt-topics.md\"> jb-hunt-topics </a>",
         "<a class=\"internal-link\" href=\"personal/job-hunting/jb-hunt-topics.md\"> jb-hunt-topics </a>",
         "<a class=\"internal-link\" href=\"daily/09-02-22.md\"> 09-02-22 </a>",
-        "<a class=\"internal-link\" href=\"personal/job-hunting/Federal-reserve-bank-topics.md\"> Federal-reserve-bank-topics </a>",
         "<a class=\"internal-link\" href=\"personal/job-hunting/Federal-reserve-bank-topics.md\"> Federal-reserve-bank-topics </a>",
         "<a class=\"internal-link\" href=\"personal/job-hunting/Federal-reserve-bank-topics.md\"> Federal-reserve-bank-topics </a>"
       ],

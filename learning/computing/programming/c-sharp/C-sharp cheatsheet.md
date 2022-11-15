@@ -76,3 +76,72 @@ Console.WriteLine(string.Format("{0:C}", 5));
 ```
 
 Depending on your computers regional settings you will see $5.00 displayed (You'll see your countries currency symbol). The `0:C` is the formatting we wish to do, in this case it means format the first parameter (0) and show a currency sign.
+
+## Conditional Statements
+
+### If Statements
+if statements are used to execute code based on a condition.  The condition must evaluate to true for the code to execute.
+
+#### Syntax
+```C#
+if (true)
+{
+
+}
+```
+
+#### Example
+```C#
+if (Year > 2021)
+{
+	Console.WriteLine("Hello World!");
+}
+```
+
+### Else Statements
+if a condition does not evaluate to true you can use an if else statement to execute other code.
+
+#### Example
+```C#
+if (Year > 2024)
+{
+	Console.WriteLine("Hello World");
+}
+else
+{
+	Console.WriteLine("Year is: " + Year);
+}
+```
+
+### Switch Statement
+Similar to the If else statement, however it has these benefits.
+
+- Much easier to read and maintain.
+- Much cleaner than using nested if else code blocks.
+- It only evaluates one variable
+
+#### Syntax
+```C#
+switch (switch_on)
+{
+	default:
+}
+```
+
+#### Example
+```C#
+switch (Year)
+{
+	case 2021 :
+		Console.WriteLine("It's 2021!");
+		break;
+	case 2022 :
+		Console.WriteLine("It's 2022!");
+		break;
+	default :
+		Console.WriteLine("It's " + Year + "!");
+		break;
+}
+```
+The `break` keyword is required as it prevents case falling.
+> Several cases can be stacked on purpose though.
