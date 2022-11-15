@@ -152,5 +152,27 @@ The `break` keyword is required as it prevents case falling.
 Continuously loops code until a condition becomes false.
 
 ### Syntax
+```C#
+while (true)
+{
 
-##
+}
+```
+
+### Example
+```C#
+while (Year >= 2021)
+{
+	if (Year != 2100)
+	{
+		Console.WriteLine(Year++);
+	}
+	else
+	{
+		break; // Break out of the while loop
+	}
+}
+```
+
+Make sure your condition evaluates to false at some point otherwise the loop is endless and it can result in errors.
+
