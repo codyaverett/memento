@@ -8,19 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "9ea5128899e374cb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "learning/financial/career/management/transitioning from dev to manager.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
             "id": "a35d7f62fd393bc6",
             "type": "leaf",
             "state": {
@@ -32,9 +19,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "9ea5128899e374cb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "learning/financial/career/management/transitioning from dev to manager.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -133,7 +132,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -141,15 +140,15 @@
   },
   "active": "a35d7f62fd393bc6",
   "lastOpenFiles": [
+    "personal/daily/2022/22-11-14.md",
+    "learning/computing/programming/c-sharp/C-sharp cheatsheet.md",
     "learning/computing/software/containers/kubernetes/Kubernetes basics.md",
     "learning/computing/programming/java/java dependency management.md",
-    "learning/computing/programming/c-sharp/C-sharp cheatsheet.md",
     "learning/financial/career/management/transitioning from dev to manager.md",
     "learning/financial/career/job-hunting/RevUnit.md",
     "learning/financial/career/job-hunting/buf.build.md",
     "learning/productivity/all failures are learning opportunities.md",
     "learning/financial/career/job-hunting/data-etl-hindsight.md",
-    "learning/financial/career/job-hunting/data etl project.md",
-    "learning/financial/career/job-hunting/staff engineer.md"
+    "learning/financial/career/job-hunting/data etl project.md"
   ]
 }
