@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "personal/daily/2022/22-11-14.md",
+                "file": "learning/financial/career/job-hunting/buf.build.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -49,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#excalidraw",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -78,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "personal/daily/2022/22-11-14.md",
+                "file": "learning/financial/career/job-hunting/buf.build.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,7 +95,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "personal/daily/2022/22-11-14.md"
+                "file": "learning/financial/career/job-hunting/buf.build.md"
               }
             }
           },
@@ -119,23 +119,23 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
     "width": 300
   },
-  "active": "9ea5128899e374cb",
+  "active": "33a2bab88d111215",
   "lastOpenFiles": [
-    "README.md",
-    "random/really useful websites.md",
-    "random/being impaled by a javelin.md",
-    "learning/hobby/transporting lumber with a roof rack.md",
-    "learning/reading/tips for reading quickly.md",
-    "learning/productivity/general productivity tips.md",
-    "learning/productivity/how to have time for everything.md",
-    "learning/reading/if you are forgetting what you read after you read it.md",
-    "personal/Backlog.md",
-    "personal/Todo.md"
+    "learning/financial/career/job-hunting/all failures are learning opportunities.md",
+    "learning/financial/career/job-hunting/buf.build.md",
+    "learning/financial/career/job-hunting/data-etl-hindsight.md",
+    "learning/financial/career/job-hunting/data etl project.md",
+    "learning/financial/career/job-hunting/RevUnit.md",
+    "learning/financial/career/job-hunting/staff engineer.md",
+    "learning/financial/career/job-hunting/Drawing 2022-11-07 15.59.02.excalidraw.md",
+    "personal/school/WGU/computer science degree at WGU.md",
+    "personal/daily/2022/22-09-30.md",
+    "learning/computing/software/data ETL/apache airflow/apache airflow.md"
   ]
 }
