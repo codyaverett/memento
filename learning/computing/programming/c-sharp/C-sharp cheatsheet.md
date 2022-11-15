@@ -306,3 +306,36 @@ All the examples above are static, this allows us to use the methods without ini
 Public - accessible outside of the class
 Private - only accessible inside the same class
 
+# Classes
+
+## Syntax
+```C#
+Class MyClassName
+{
+
+}
+```
+
+## Example
+```C#
+class Car
+{
+	public void Manufacturer(string name)
+	{
+		Console.WriteLine(name);
+	}
+}
+```
+
+To use the method in the class, the class must be initialized first
+
+```C#
+Car MyNewCar = new Car();
+
+MyNewCare.Manufacturer("Audi");
+```
+
+Static methods are useful, make sure you are using the right design for your classes and methods. A good example is the Math class, to perform simple calculations you do not want to be initializing the class all the time, that’s why most methods are static.
+
+# Reference
+- https://www.thecodingguys.net/resources/cs-cheat-sheet.pdf
