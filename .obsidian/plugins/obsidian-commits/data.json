@@ -944,16 +944,6 @@
       "tags": 0,
       "links": 0
     },
-    "learning/financial/career/people-management/transitioning from dev to manager.md": {
-      "size": 210,
-      "tags": 0,
-      "links": 0
-    },
-    "learning/financial/career/job-hunting/all failures are learning opportunities.md": {
-      "size": 0,
-      "tags": 0,
-      "links": 0
-    },
     "learning/financial/career/job-hunting/buf.build.md": {
       "size": 0,
       "tags": 0,
@@ -1133,11 +1123,21 @@
       "size": 0,
       "tags": 0,
       "links": 0
+    },
+    "learning/productivity/all failures are learning opportunities.md": {
+      "size": 0,
+      "tags": 0,
+      "links": 0
+    },
+    "learning/financial/career/management/transitioning from dev to manager.md": {
+      "size": 210,
+      "tags": 0,
+      "links": 0
     }
   },
   "commitTypes": {
     "/": {
-      "Refactor": 1339,
+      "Refactor": 1341,
       "Create": 221,
       "Link": 63,
       "Expand": 87
@@ -1167,13 +1167,13 @@
       "19": 25,
       "20": 33,
       "21": 71,
-      "22": 52,
+      "22": 54,
       "23": 28
     }
   },
   "weeklyCommits": {
     "/": {
-      "Mon": 1231,
+      "Mon": 1233,
       "Tue": 76,
       "Wed": 101,
       "Thu": 109,
@@ -1291,6 +1291,8 @@
         "<a class=\"internal-link\" href=\"software/git/Untitled.md\"> Untitled </a>"
       ],
       "Renamed": [
+        "<a class=\"internal-link\" href=\"learning/financial/career/management/transitioning from dev to manager.md\"> transitioning from dev to manager </a>",
+        "<a class=\"internal-link\" href=\"learning/productivity/all failures are learning opportunities.md\"> all failures are learning opportunities </a>",
         "<a class=\"internal-link\" href=\"personal/daily/2022/22-11-12.md\"> 22-11-12 </a>",
         "<a class=\"internal-link\" href=\"personal/daily/2022/22-11-11.md\"> 22-11-11 </a>",
         "<a class=\"internal-link\" href=\"personal/daily/2022/22-10-10.md\"> 22-10-10 </a>",
@@ -1339,9 +1341,7 @@
         "<a class=\"internal-link\" href=\"personal/daily/2022/11-11-22.md\"> 11-11-22 </a>",
         "<a class=\"internal-link\" href=\"personal/daily/2022/10-10-22.md\"> 10-10-22 </a>",
         "<a class=\"internal-link\" href=\"personal/daily/2022/10-07-22.md\"> 10-07-22 </a>",
-        "<a class=\"internal-link\" href=\"personal/daily/2022/10-06-22.md\"> 10-06-22 </a>",
-        "<a class=\"internal-link\" href=\"personal/daily/2022/10-05-22.md\"> 10-05-22 </a>",
-        "<a class=\"internal-link\" href=\"personal/daily/2022/10-01-22.md\"> 10-01-22 </a>"
+        "<a class=\"internal-link\" href=\"personal/daily/2022/10-06-22.md\"> 10-06-22 </a>"
       ],
       "Tagged": [
         "<a class=\"internal-link\" href=\"personal/job-hunting/jb-hunt-topics.md\"> jb-hunt-topics </a>",
