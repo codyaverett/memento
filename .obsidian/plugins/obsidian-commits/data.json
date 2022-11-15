@@ -1004,16 +1004,6 @@
       "tags": 0,
       "links": 0
     },
-    "learning/productivity/how to have time for everything.md": {
-      "size": 0,
-      "tags": 0,
-      "links": 0
-    },
-    "learning/productivity/general productivity tips.md": {
-      "size": 0,
-      "tags": 0,
-      "links": 0
-    },
     "learning/reading/tips for reading quickly.md": {
       "size": 0,
       "tags": 0,
@@ -1109,11 +1099,6 @@
       "tags": 0,
       "links": 0
     },
-    "learning/productivity/all failures are learning opportunities.md": {
-      "size": 0,
-      "tags": 0,
-      "links": 0
-    },
     "learning/financial/career/management/transitioning from dev to manager.md": {
       "size": 210,
       "tags": 0,
@@ -1152,9 +1137,39 @@
     "personal/task board.md": {
       "size": 0,
       "tags": 0,
-      "links": 1
+      "links": 2
     },
-    "learning/productivity/really useful websites.md": {
+    "personal/notes/Ben Levin's course  Blender for musicians.md": {
+      "size": 0,
+      "tags": 0,
+      "links": 0
+    },
+    "learning/mental/health/Overthinking.md": {
+      "size": 0,
+      "tags": 0,
+      "links": 0
+    },
+    "learning/mental/health/Ruminative brooding.md": {
+      "size": 0,
+      "tags": 0,
+      "links": 0
+    },
+    "learning/mental/productivity/how to have time for everything.md": {
+      "size": 0,
+      "tags": 0,
+      "links": 0
+    },
+    "learning/mental/productivity/general productivity tips.md": {
+      "size": 0,
+      "tags": 0,
+      "links": 0
+    },
+    "learning/mental/productivity/all failures are learning opportunities.md": {
+      "size": 0,
+      "tags": 0,
+      "links": 0
+    },
+    "learning/mental/productivity/really useful websites.md": {
       "size": 0,
       "tags": 0,
       "links": 0
@@ -1162,15 +1177,15 @@
   },
   "commitTypes": {
     "/": {
-      "Refactor": 1349,
-      "Create": 227,
-      "Link": 65,
+      "Refactor": 1353,
+      "Create": 230,
+      "Link": 66,
       "Expand": 91
     }
   },
   "dailyCommits": {
     "/": {
-      "0": 41,
+      "0": 43,
       "1": 24,
       "2": 19,
       "3": 32,
@@ -1187,7 +1202,7 @@
       "14": 27,
       "15": 39,
       "16": 1187,
-      "17": 51,
+      "17": 57,
       "18": 28,
       "19": 25,
       "20": 33,
@@ -1199,7 +1214,7 @@
   "weeklyCommits": {
     "/": {
       "Mon": 1239,
-      "Tue": 90,
+      "Tue": 98,
       "Wed": 101,
       "Thu": 109,
       "Fri": 114,
@@ -1263,6 +1278,9 @@
         "<a class=\"internal-link\" href=\"personal/job-hunting/jb-hunt-topics.md\"> jb-hunt-topics </a>"
       ],
       "Created": [
+        "<a class=\"internal-link\" href=\"learning/mental/health/Untitled.md\"> Untitled </a>",
+        "<a class=\"internal-link\" href=\"learning/mental/health/Untitled.md\"> Untitled </a>",
+        "<a class=\"internal-link\" href=\"personal/notes/Ben Levin's course  Blender for musicians.md\"> Ben Levin's course  Blender for musicians </a>",
         "<a class=\"internal-link\" href=\"personal/notes/Follow up on Insurance transition.md\"> Follow up on Insurance transition </a>",
         "<a class=\"internal-link\" href=\"personal/Untitled Kanban.md\"> Untitled Kanban </a>",
         "<a class=\"internal-link\" href=\"personal/daily/2022/22-11-15.md\"> 22-11-15 </a>",
@@ -1310,12 +1328,13 @@
         "<a class=\"internal-link\" href=\"templates/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"cryptocurrency/Chainlink/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"software/data ETL/Untitled.md\"> Untitled </a>",
-        "<a class=\"internal-link\" href=\"programming/databases/postgres/Untitled.md\"> Untitled </a>",
-        "<a class=\"internal-link\" href=\"software/data ETL/Untitled.md\"> Untitled </a>",
-        "<a class=\"internal-link\" href=\"software/nginx/Untitled.md\"> Untitled </a>",
-        "<a class=\"internal-link\" href=\"software/nginx/Untitled.md\"> Untitled </a>"
+        "<a class=\"internal-link\" href=\"programming/databases/postgres/Untitled.md\"> Untitled </a>"
       ],
       "Renamed": [
+        "<a class=\"internal-link\" href=\"learning/mental/productivity/really useful websites.md\"> really useful websites </a>",
+        "<a class=\"internal-link\" href=\"learning/mental/productivity/all failures are learning opportunities.md\"> all failures are learning opportunities </a>",
+        "<a class=\"internal-link\" href=\"learning/mental/productivity/general productivity tips.md\"> general productivity tips </a>",
+        "<a class=\"internal-link\" href=\"learning/mental/productivity/how to have time for everything.md\"> how to have time for everything </a>",
         "<a class=\"internal-link\" href=\"learning/productivity/really useful websites.md\"> really useful websites </a>",
         "<a class=\"internal-link\" href=\"other/really useful websites.md\"> really useful websites </a>",
         "<a class=\"internal-link\" href=\"personal/task board.md\"> task board </a>",
@@ -1362,11 +1381,7 @@
         "<a class=\"internal-link\" href=\"personal/life/hacks/reading quickly.md\"> reading quickly </a>",
         "<a class=\"internal-link\" href=\"personal/life/hacks/forgetting what you read after you read it.md\"> forgetting what you read after you read it </a>",
         "<a class=\"internal-link\" href=\"personal/life/hacks/transporting lumber with a roof rack.md\"> transporting lumber with a roof rack </a>",
-        "<a class=\"internal-link\" href=\"personal/life/hacks/productivity tips.md\"> productivity tips </a>",
-        "<a class=\"internal-link\" href=\"personal/random/hacks/how to have time for everything.md\"> how to have time for everything </a>",
-        "<a class=\"internal-link\" href=\"personal/random/hacks/reading quickly.md\"> reading quickly </a>",
-        "<a class=\"internal-link\" href=\"personal/random/hacks/forgetting what you read after you read it.md\"> forgetting what you read after you read it </a>",
-        "<a class=\"internal-link\" href=\"personal/random/hacks/transporting lumber with a roof rack.md\"> transporting lumber with a roof rack </a>"
+        "<a class=\"internal-link\" href=\"personal/life/hacks/productivity tips.md\"> productivity tips </a>"
       ],
       "Tagged": [
         "<a class=\"internal-link\" href=\"personal/job-hunting/jb-hunt-topics.md\"> jb-hunt-topics </a>",
@@ -1424,6 +1439,7 @@
       ],
       "Linked": [
         "<a class=\"internal-link\" href=\"personal/task board.md\"> task board </a>",
+        "<a class=\"internal-link\" href=\"personal/task board.md\"> task board </a>",
         "<a class=\"internal-link\" href=\"learning/computing/programming/java/java dependency management.md\"> java dependency management </a>",
         "<a class=\"internal-link\" href=\"software/jupyter notebooks/run any shell command in jupyter notebooks.md\"> run any shell command in jupyter notebooks </a>",
         "<a class=\"internal-link\" href=\"personal/music/Sheet music.md\"> Sheet music </a>",
@@ -1472,8 +1488,7 @@
         "<a class=\"internal-link\" href=\"Todo.md\"> Todo </a>",
         "<a class=\"internal-link\" href=\"programming/data models/OLTP data models.md\"> OLTP data models </a>",
         "<a class=\"internal-link\" href=\"programming/data models/OLAP data models.md\"> OLAP data models </a>",
-        "<a class=\"internal-link\" href=\"programming/data ETL/OLTP vs OLAP.md\"> OLTP vs OLAP </a>",
-        "<a class=\"internal-link\" href=\"programming/python/tips/Getting values from a python dictionary.md\"> Getting values from a python dictionary </a>"
+        "<a class=\"internal-link\" href=\"programming/data ETL/OLTP vs OLAP.md\"> OLTP vs OLAP </a>"
       ],
       "Removed Tags from": [],
       "Removed Links from": [
