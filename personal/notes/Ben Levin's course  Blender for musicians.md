@@ -1,0 +1,2 @@
+- https://benlevinmusicschool.com/p/blender-for-musicians
+- https://benlevinmusicschool.com/courses/1505045/lectures/34497166
