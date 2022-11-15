@@ -250,3 +250,59 @@ catch (Exception ex)
 }
 ```
 
+## Methods
+
+### Syntax
+```C#
+public void MethodName()
+{
+	// Void methods do not return a value
+}
+
+public static void MethodName()
+{
+	/* Does not return a value, the class does 
+		not need to be initialized for static methods
+		to be used */
+}
+
+public static DataType MethodName()
+{
+	/* Requires a value to be returned, class does not need
+		to be initialzed for static method to be used */
+}
+```
+
+### Example
+```C#
+public static void WelcomeUser()
+{
+	Console.WriteLine("Hello User!");
+}
+```
+
+#### Passing Parameters
+```C#
+public static void WelcomeUser(string Name)
+{
+	Console.WriteLine("Hello " + Name + "!");
+}
+```
+
+Since both methods have the same name and different parameters (One takes no parameters and the other one does) this is considererd an overloaded method.
+
+#### Returning Data
+```C#
+public static DateTime Tomorrow()
+{
+	return DateTime.Now.AddDays(1);
+}
+```
+
+All the examples above are static, this allows us to use the methods without initializing the class.
+
+### Class Accessors
+
+Public - accessible outside of the class
+Private - only accessible inside the same class
+
