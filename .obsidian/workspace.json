@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "learning/financial/career/job-hunting/buf.build.md",
+                "file": "learning/financial/career/management/transitioning from dev to manager.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -78,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "learning/financial/career/job-hunting/buf.build.md",
+                "file": "learning/financial/career/management/transitioning from dev to manager.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,7 +95,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "learning/financial/career/job-hunting/buf.build.md"
+                "file": "learning/financial/career/management/transitioning from dev to manager.md"
               }
             }
           },
@@ -127,11 +127,11 @@
   },
   "active": "33a2bab88d111215",
   "lastOpenFiles": [
-    "learning/financial/career/job-hunting/all failures are learning opportunities.md",
+    "learning/financial/career/job-hunting/RevUnit.md",
     "learning/financial/career/job-hunting/buf.build.md",
+    "learning/productivity/all failures are learning opportunities.md",
     "learning/financial/career/job-hunting/data-etl-hindsight.md",
     "learning/financial/career/job-hunting/data etl project.md",
-    "learning/financial/career/job-hunting/RevUnit.md",
     "learning/financial/career/job-hunting/staff engineer.md",
     "learning/financial/career/job-hunting/Drawing 2022-11-07 15.59.02.excalidraw.md",
     "personal/school/WGU/computer science degree at WGU.md",
