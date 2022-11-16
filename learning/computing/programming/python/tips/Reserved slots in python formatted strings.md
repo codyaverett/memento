@@ -1,9 +1,9 @@
 ---
+name: Reserved Slots in Python Formatted Strings
+created: 2022-10-18T19:21:55-05:00
+updated: 2022-11-16T16:52:05-06:00
 aliases: 
 tags: 
-created: 2022-10-18T19:21:55-05:00
-updated: 2022-11-16T16:51:04-06:00
-name: Reserved slots in python formatted strings
 ---
 # Reserved Slots in Python Formatted Strings
 

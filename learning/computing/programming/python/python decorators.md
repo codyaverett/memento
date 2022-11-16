@@ -1,9 +1,9 @@
 ---
+name: Python Decorators
+created: 2022-10-10T00:46:22-05:00
+updated: 2022-11-16T16:52:05-06:00
 aliases: 
 tags: 
-created: 2022-10-10T00:46:22-05:00
-updated: 2022-11-16T16:51:04-06:00
-name: python decorators
 ---
 # Python Decorators
 

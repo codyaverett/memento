@@ -1,9 +1,9 @@
 ---
+name: If You Are Forgetting What You Read After You Read it
+created: 2022-10-30T20:12:40-05:00
+updated: 2022-11-16T16:52:03-06:00
 aliases: 
 tags: 
-created: 2022-10-30T20:12:40-05:00
-updated: 2022-11-16T16:51:03-06:00
-name: if you are forgetting what you read after you read it
 ---
 # If You Are Forgetting What You Read After You Read it
 

@@ -1,9 +1,9 @@
 ---
+name: Backtracking
+created: 2022-09-19T20:30:03-05:00
+updated: 2022-11-16T16:52:06-06:00
 aliases: 
 tags: 
-created: 2022-09-19T20:30:03-05:00
-updated: 2022-11-16T16:51:05-06:00
-name: backtracking
 ---
 # Backtracking
 

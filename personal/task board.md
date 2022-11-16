@@ -1,12 +1,10 @@
 ---
-aliases: 
-tags: 
-
-kanban-plugin: basic
+name: Task Board
 created: 2022-11-16T16:10:37-06:00
-updated: 2022-11-16T16:51:02-06:00
-
-name: task board
+updated: 2022-11-16T16:52:03-06:00
+aliases: 
+kanban-plugin: basic
+tags: 
 ---
 # Task Board
 

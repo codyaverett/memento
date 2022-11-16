@@ -1,11 +1,11 @@
 ---
-aliases: 
-tags: 
+name: Interesting Plugins
 created: 2022-06-08T02:32:15-05:00
-updated: 2022-11-16T16:51:04-06:00
+updated: 2022-11-16T16:52:05-06:00
+aliases: 
 dg-home: true
 dg-publish: true
-name: Interesting Plugins
+tags: 
 ---
 
 # Interesting Plugins

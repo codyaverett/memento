@@ -1,9 +1,9 @@
 ---
+name: Catamorphism
+created: 2022-09-23T22:47:38-05:00
+updated: 2022-11-16T16:52:05-06:00
 aliases: 
 tags: 
-created: 2022-09-23T22:47:38-05:00
-updated: 2022-11-16T16:51:05-06:00
-name: catamorphism
 ---
 # Catamorphism
 

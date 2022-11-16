@@ -1,9 +1,9 @@
 ---
+name: A Fresh Look at Deno - Brian Barrow
+created: 2022-10-19T10:22:33-05:00
+updated: 2022-11-16T16:52:06-06:00
 aliases: 
 tags: 
-created: 2022-10-19T10:22:33-05:00
-updated: 2022-11-16T16:51:05-06:00
-name: A fresh look at Deno - Brian Barrow
 ---
 # A Fresh Look at Deno - Brian Barrow
 

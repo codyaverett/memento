@@ -1,9 +1,9 @@
 ---
+name: Github Actions for a Django Project
+created: 2022-10-07T16:31:46-05:00
+updated: 2022-11-16T16:52:05-06:00
 aliases: 
 tags: 
-created: 2022-10-07T16:31:46-05:00
-updated: 2022-11-16T16:51:04-06:00
-name: github actions for a django project
 ---
 # Github Actions for a Django Project
 

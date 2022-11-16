@@ -1,9 +1,9 @@
 ---
+name: Ruminative Brooding
+created: 2022-11-15T17:30:41-06:00
+updated: 2022-11-16T16:52:04-06:00
 aliases: 
 tags: 
-created: 2022-11-15T17:30:41-06:00
-updated: 2022-11-16T16:51:03-06:00
-name: Ruminative brooding
 ---
 # Ruminative Brooding
 

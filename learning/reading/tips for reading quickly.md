@@ -1,9 +1,9 @@
 ---
+name: Tips for Reading Quickly
+created: 2022-10-06T13:11:35-05:00
+updated: 2022-11-16T16:52:03-06:00
 aliases: 
 tags: 
-created: 2022-10-06T13:11:35-05:00
-updated: 2022-11-16T16:51:03-06:00
-name: tips for reading quickly
 ---
 # Tips for Reading Quickly
 

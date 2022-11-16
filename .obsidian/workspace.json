@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "cb917b7d403adc9f",
+        "id": "df0ada8476dc2af8",
         "type": "tabs",
         "children": [
           {
-            "id": "f00ae23a6178525b",
+            "id": "3a286e2c27db3f85",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "learning/crafting/make your own t-shirt.md",
-                "mode": "source",
+                "file": "learning/farming/Compost has four ingredients.md",
+                "mode": "preview",
                 "backlinks": false,
                 "source": false
               }
@@ -78,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "learning/crafting/make your own t-shirt.md",
+                "file": "learning/farming/Compost has four ingredients.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,7 +95,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "learning/crafting/make your own t-shirt.md"
+                "file": "learning/farming/Compost has four ingredients.md"
               }
             }
           },
@@ -134,8 +134,9 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "f00ae23a6178525b",
+  "active": "3a286e2c27db3f85",
   "lastOpenFiles": [
+    "learning/crafting/make your own t-shirt.md",
     "learning/farming/Compost has four ingredients.md",
     "learning/financial/money/Money facts.md",
     "personal/notes/Todo.md",
@@ -144,7 +145,6 @@
     "personal/task board.md",
     "personal/notes/Document burnout.md",
     "personal/notes/Learn about Memory Controllers and non-uniform memory access.md",
-    "personal/notes/Backlog.md",
-    "personal/daily/2022/22-11-16.md"
+    "personal/notes/Backlog.md"
   ]
 }

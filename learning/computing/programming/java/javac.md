@@ -1,9 +1,9 @@
 ---
+name: Javac
+created: 2022-11-16T14:16:57-06:00
+updated: 2022-11-16T16:52:05-06:00
 aliases: 
 tags: 
-created: 2022-11-16T14:16:57-06:00
-updated: 2022-11-16T16:51:05-06:00
-name: javac
 ---
 # Javac
 

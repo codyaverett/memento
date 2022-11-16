@@ -1,9 +1,9 @@
 ---
+name: Handle SIGTERM Events in Python
+created: 2022-10-10T06:01:03-05:00
+updated: 2022-11-16T16:52:05-06:00
 aliases: 
 tags: 
-created: 2022-10-10T06:01:03-05:00
-updated: 2022-11-16T16:51:04-06:00
-name: handle SIGTERM events in python
 ---
 # Handle SIGTERM Events in Python
 

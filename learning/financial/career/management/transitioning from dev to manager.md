@@ -1,9 +1,9 @@
 ---
+name: Transitioning From Dev to Manager
+created: 2022-08-10T23:46:41-05:00
+updated: 2022-11-16T16:52:04-06:00
 aliases: 
 tags: 
-created: 2022-08-10T23:46:41-05:00
-updated: 2022-11-16T16:51:04-06:00
-name: transitioning from dev to manager
 ---
 # Transitioning From Dev to Manager
 
