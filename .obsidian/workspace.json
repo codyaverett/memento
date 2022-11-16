@@ -4,24 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "4e3dbfe70c43d205",
+        "id": "69c1fbbe06e8114b",
         "type": "tabs",
         "children": [
           {
-            "id": "2e7ac2e067c9bce0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "learning/computing/software/linux/Linux directory Structure.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4620445fcadda7dc",
+            "id": "b9c275db8c1dd036",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -33,8 +20,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -148,17 +134,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "4620445fcadda7dc",
+  "active": "b9c275db8c1dd036",
   "lastOpenFiles": [
-    "learning/Untitled.md",
     "learning/computing/software/linux/Linux directory Structure.md",
+    "learning/computing/cloud/AWS/AWS quiz.md",
+    "learning/computing/software/obsidian/Obsidian Dataview plugin.md",
+    "learning/Untitled.md",
     "learning/computing/software/blender/Interesting plugins.md",
     "learning/computing/software/obsidian/Graph and Local Graph View.md",
     "learning/computing/software/obsidian/Obsidian Aliases.md",
     "learning/computing/programming/languages/programming languages.md",
     "personal/notes/Document burnout.md",
-    "personal/task board.md",
-    "learning/mathematics/linear interpolation.md",
-    "learning/crafting/make your own t-shirt.md"
+    "personal/task board.md"
   ]
 }

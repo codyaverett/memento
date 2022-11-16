@@ -36,7 +36,16 @@ Support types:
 - Calendar
 
 ### Examples
+#### Table 
 
 ```dataview
 TABLE name, created, updated
+FROM "personal/daily"
 ```
+
+#### Calendar
+
+```dataview
+CALENDAR created FROM "learning/computing"
+```
+
