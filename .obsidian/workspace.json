@@ -4,16 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "f70bc95304541765",
+        "id": "fc357bc587b82207",
         "type": "tabs",
         "children": [
           {
-            "id": "871f83b06237cc4e",
+            "id": "68922d14c2349623",
             "type": "leaf",
             "state": {
-              "type": "database-plugin",
+              "type": "markdown",
               "state": {
-                "file": "data/useful-links.md"
+                "file": "templates/frontmatter.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
               }
             }
           }
@@ -75,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "data/useful-links.md",
+                "file": "templates/frontmatter.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -92,7 +95,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "data/useful-links.md"
+                "file": "templates/frontmatter.md"
               }
             }
           },
@@ -131,10 +134,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "33a2bab88d111215",
+  "active": "68922d14c2349623",
   "lastOpenFiles": [
-    "personal/task board.md",
     "data/useful-links.md",
+    "personal/task board.md",
     "learning/computing/programming/languages/programming languages.md",
     "learning/computing/programming/c and c++/c++ package managers.md",
     "learning/computing/really useful websites.md",
