@@ -1,3 +1,7 @@
+---
+created: 2022-11-16T15:11:31-06:00
+updated: 2022-11-16T15:11:31-06:00
+---
 # Pointers
 Pointers are simply an address in memory that have a value that is also an address in memory.
 

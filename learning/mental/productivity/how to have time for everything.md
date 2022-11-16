@@ -1,3 +1,7 @@
+---
+created: 2022-11-16T15:11:29-06:00
+updated: 2022-11-16T15:11:29-06:00
+---
 
 - Focus completely for 2-4 hours per day on your most important issue
 	- A little bit every day will get you to your goal

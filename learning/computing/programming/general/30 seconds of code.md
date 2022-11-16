@@ -1,3 +1,7 @@
+---
+created: 2022-11-16T15:11:31-06:00
+updated: 2022-11-16T15:11:31-06:00
+---
 # 30 seconds of code
 Code snippets that that solve isolated problems and can be implemented in any programming language.
 

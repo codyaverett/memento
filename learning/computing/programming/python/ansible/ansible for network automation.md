@@ -1,3 +1,7 @@
+---
+created: 2022-11-16T15:11:31-06:00
+updated: 2022-11-16T15:11:31-06:00
+---
 # Ansible for network automation
 
 So, this next thing I'll share might seem quite overwhelming, so feel free to not learn much about it, but it's a very very powerful automation tool that happens to be written in python.  It's called Ansible.

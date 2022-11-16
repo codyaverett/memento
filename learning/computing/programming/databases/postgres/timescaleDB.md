@@ -1,3 +1,7 @@
+---
+created: 2022-11-16T15:11:31-06:00
+updated: 2022-11-16T15:11:31-06:00
+---
 # Timescale DB
 - Built on top of postgres, but is very performant against time series datasets
 

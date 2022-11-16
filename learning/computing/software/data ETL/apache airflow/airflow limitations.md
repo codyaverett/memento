@@ -1,3 +1,7 @@
+---
+created: 2022-11-16T15:11:32-06:00
+updated: 2022-11-16T15:11:32-06:00
+---
 # Airflow limitations
 - It's a workflow management platform
 - It runs any workflow you want to run, doesn't have to be a data etl job

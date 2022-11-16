@@ -1,5 +1,7 @@
-# Milkomeda smart contracts
-
+---
+created: 2022-11-16T15:11:43-06:00
+updated: 2022-11-16T15:11:43-06:00
+---
 https://remix.ethereum.org/#optimize=false&runs=200&evmVersion=null&version=soljson-v0.6.10+commit.00c0fcaf.js
 
 ```solidity

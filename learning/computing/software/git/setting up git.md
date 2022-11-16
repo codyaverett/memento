@@ -1,3 +1,7 @@
+---
+created: 2022-11-16T15:11:31-06:00
+updated: 2022-11-16T15:11:31-06:00
+---
 # Setting up git
 
 Anytime you are setting up git for the first time on a new system, you will want to set the global `user.name` and `user.email` properties so your commits are associated to your personal identity correctly.

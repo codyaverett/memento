@@ -1,3 +1,7 @@
+---
+created: 2022-11-16T15:11:30-06:00
+updated: 2022-11-16T15:11:30-06:00
+---
 # Python extensions with Rust
 
 Building python extensions with Rust.  Notes from [this video presentation](https://www.youtube.com/watch?v=4h8Ll9_-SZY).

@@ -1,4 +1,6 @@
 ---
+created: 2022-11-16T15:11:29-06:00
+updated: 2022-11-16T15:11:29-06:00
 ---
 
 Ownership of items in game would be provisioned if the user owns the NFT in their connected wallet.  Or if they can prove that they have ownership of the item.

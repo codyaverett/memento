@@ -1,6 +1,6 @@
 ---
 created: 2022-11-16T14:51:06-06:00
-updated: 2022-11-16T14:52:24-06:00
+updated: 2022-11-16T15:11:30-06:00
 ---
 - [[python basics]]
 - [[python cheatsheet]]

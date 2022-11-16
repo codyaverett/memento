@@ -1,3 +1,7 @@
+---
+created: 2022-11-16T15:11:29-06:00
+updated: 2022-11-16T15:11:29-06:00
+---
 
 # Stimulants
 This group of drugs has treated ADHD for several decades. These medicines might help you focus your thoughts and ignore distractions. Stimulant meds work for 70% to 80% of people. They’re used to treat moderate and severe ADHD. They may be helpful for children, [teens](https://teens.webmd.com/default.htm), and adults who have a hard time at school, work, or home. Some stimulants are approved for use in children over age 3. Others are approved for children over age 6.

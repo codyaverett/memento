@@ -1,3 +1,7 @@
+---
+created: 2022-11-16T15:11:32-06:00
+updated: 2022-11-16T15:11:32-06:00
+---
 # Apache Airflow
 - Created Oct 2014 and announced June 2015
 - [Joined the Apache Foundation](https://blogs.apache.org/foundation/entry/the-apache-software-foundation-announces44) March 2016

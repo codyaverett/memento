@@ -1,3 +1,7 @@
+---
+created: 2022-11-16T15:11:29-06:00
+updated: 2022-11-16T15:11:29-06:00
+---
 # Leadership beyond the management track
 
 Moving up the ladder in your technical career will lead to you having less time to work on more challenging problems.
