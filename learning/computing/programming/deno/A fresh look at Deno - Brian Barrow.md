@@ -1,8 +1,7 @@
 ---
-created_at: 2022-10-19T10:22:33-05:00
-modified_at: 2022-11-16T15:30:59-06:00
-created: 2022-11-16T15:31:30-06:00
-updated: 2022-11-16T15:31:30-06:00
+title: A fresh look at Deno - Brian Barrow
+created: 2022-10-19T10:22:33-05:00
+updated: 2022-11-16T15:43:45-06:00
 ---
 
 ## What is Deno

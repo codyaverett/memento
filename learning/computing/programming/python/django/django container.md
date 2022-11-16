@@ -1,8 +1,7 @@
 ---
-created_at: 2022-09-14T00:02:02-05:00
-modified_at: 2022-11-16T15:34:16-06:00
-created: 2022-11-16T15:34:49-06:00
-updated: 2022-11-16T15:34:49-06:00
+title: django container
+created: 2022-09-14T00:02:02-05:00
+updated: 2022-11-16T15:50:27-06:00
 ---
 
 ## Static vs Dynamic Files

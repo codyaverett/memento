@@ -1,8 +1,7 @@
 ---
-created_at: 2022-10-09T23:30:52-05:00
-modified_at: 2022-11-16T15:34:05-06:00
-created: 2022-11-16T15:34:37-06:00
-updated: 2022-11-16T15:34:37-06:00
+title: django authentication system
+created: 2022-10-09T23:30:52-05:00
+updated: 2022-11-16T15:50:09-06:00
 ---
 
 ## Tables

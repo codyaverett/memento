@@ -1,11 +1,8 @@
 ---
-created_at: 2022-10-21T12:31:55-05:00
-modified_at: 2022-11-16T15:25:44-06:00
-created: 2022-11-16T15:26:15-06:00
-updated: 2022-11-16T15:26:15-06:00
+title: create linux superuser
+created: 2022-10-21T12:31:55-05:00
+updated: 2022-11-16T15:49:34-06:00
 ---
-
-# Create linux superuser
 
 ```
 sudo useradd <username>

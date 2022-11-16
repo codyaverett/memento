@@ -1,8 +1,7 @@
 ---
-created_at: 2022-10-07T16:51:57-05:00
-modified_at: 2022-11-16T15:34:28-06:00
-created: 2022-11-16T15:35:00-06:00
-updated: 2022-11-16T15:35:00-06:00
+title: django extensions
+created: 2022-10-07T16:51:57-05:00
+updated: 2022-11-16T15:50:34-06:00
 ---
 
 Very helpful plugin for django projects.

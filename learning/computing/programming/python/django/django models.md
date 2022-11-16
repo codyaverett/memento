@@ -1,8 +1,7 @@
 ---
-created_at: 2022-10-07T03:03:20-05:00
-modified_at: 2022-11-16T15:34:43-06:00
-created: 2022-11-16T15:35:13-06:00
-updated: 2022-11-16T15:35:13-06:00
+title: django models
+created: 2022-10-07T03:03:20-05:00
+updated: 2022-11-16T15:51:25-06:00
 ---
 
 Models are simple classes

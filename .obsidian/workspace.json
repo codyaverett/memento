@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "learning/computing/programming/algorithms/data-structures/left-leaning red black trees.md",
+                "file": "learning/computing/programming/python/django/django revert migrations.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -49,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#python",
+                "query": "created_at",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -79,7 +79,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "learning/computing/programming/algorithms/data-structures/left-leaning red black trees.md",
+                "file": "learning/computing/programming/python/django/django revert migrations.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,7 +96,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "learning/computing/programming/algorithms/data-structures/left-leaning red black trees.md"
+                "file": "learning/computing/programming/python/django/django revert migrations.md"
               }
             }
           },
@@ -135,17 +135,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "ae726e6606676848",
+  "active": "68922d14c2349623",
   "lastOpenFiles": [
-    "templates/frontmatter.md",
-    "learning/computing/programming/python/building python extensions with Rust.md",
-    "learning/computing/programming/python/create a minimal python package.md",
-    "learning/computing/programming/python/functional python programming.md",
-    "learning/computing/programming/python/jupyter notebooks.md",
-    "learning/computing/programming/python/python cached property.md",
-    "learning/computing/programming/python/python cheatsheet.md",
-    "learning/computing/programming/python/python classes.md",
-    "learning/computing/programming/python/python code formatters.md",
-    "learning/computing/programming/python/python decorators.md"
+    "learning/computing/programming/python/django/DJango quick reference.md",
+    "learning/computing/programming/python/django/django models.md",
+    "learning/computing/programming/python/django/django migrations with custom sql.md",
+    "learning/computing/programming/python/django/django middleware.md",
+    "learning/computing/programming/python/django/django extensions.md",
+    "learning/computing/programming/python/django/django data migrations.md",
+    "learning/computing/programming/python/django/django container.md",
+    "learning/computing/programming/python/django/django class models.md",
+    "learning/computing/programming/python/django/Authentication Systems/django authentication system.md",
+    "learning/computing/programming/neural networks/different types of neural networks.md"
   ]
 }

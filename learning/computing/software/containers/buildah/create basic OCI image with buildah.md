@@ -1,10 +1,9 @@
 ---
-created_at: 2022-10-21T14:59:22-05:00
-modified_at: 2022-11-16T15:23:17-06:00
-created: 2022-11-16T15:23:49-06:00
-updated: 2022-11-16T15:23:49-06:00
+title: create basic OCI image with buildah
+created: 2022-10-21T14:59:22-05:00
+updated: 2022-11-16T15:49:15-06:00
 ---
-# Create basic OCI image with buildah
+
 If you're looking to build Open Container Initiative (OCI) container images without a full container runtime or daemon installed, [Buildah](https://buildah.io/) is the perfect solution. Now, Buildah is an open source, Linux-based tool that can build Docker- and [Kubernetes](https://developers.redhat.com/topics/kubernetes)-compatible images, and is easy to incorporate into scripts and build pipelines. In addition, Buildah has overlap functionality with [Podman](https://podman.io/), [Skopeo](https://github.com/containers/skopeo), and [CRI-O](https://cri-o.io/).
 
 Buildah has the ability to create a working [container](https://developers.redhat.com/topics/containers/) from scratch, but also from a pre-existing Dockerfile. Plus, with it not needing a daemon, you'll never have to worry about Docker daemon issues when building container images.

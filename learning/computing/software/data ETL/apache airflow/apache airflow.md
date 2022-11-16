@@ -1,11 +1,9 @@
 ---
-created_at: 2022-10-05T14:01:50-05:00
-modified_at: 2022-11-16T15:24:28-06:00
-created: 2022-11-16T15:24:59-06:00
-updated: 2022-11-16T15:24:59-06:00
+title: apache airflow
+created: 2022-10-05T14:01:50-05:00
+updated: 2022-11-16T15:46:17-06:00
 ---
 
-# Apache Airflow
 - Created Oct 2014 and announced June 2015
 - [Joined the Apache Foundation](https://blogs.apache.org/foundation/entry/the-apache-software-foundation-announces44) March 2016
 - python based ETL system

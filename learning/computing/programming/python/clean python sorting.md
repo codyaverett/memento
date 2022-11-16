@@ -1,8 +1,7 @@
 ---
-created_at: 2022-10-18T18:22:18-05:00
-modified_at: 2022-11-16T15:36:17-06:00
-created: 2022-11-16T15:36:48-06:00
-updated: 2022-11-16T15:36:48-06:00
+title: clean python sorting
+created: 2022-10-18T18:22:18-05:00
+updated: 2022-11-16T15:48:29-06:00
 ---
 
 ## Example 1

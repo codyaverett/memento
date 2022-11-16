@@ -1,8 +1,7 @@
 ---
-created_at: 2022-10-08T22:06:53-05:00
-modified_at: 2022-11-16T15:36:35-06:00
-created: 2022-11-16T15:37:06-06:00
-updated: 2022-11-16T15:37:06-06:00
+title: Create a minimal python package
+created: 2022-10-08T22:06:53-05:00
+updated: 2022-11-16T15:49:01-06:00
 ---
 
 # Create a minimal python package
