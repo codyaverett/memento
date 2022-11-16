@@ -1,6 +1,11 @@
-# C++ package managers
+---
+created:
+updated:
+created: 2022-11-16T14:59:41-06:00
+updated: 2022-11-16T14:59:41-06:00
+---
 
-Historically the c++ package managers have been the operating system package managers.  Today is a new day though and I've found a couple cross platform solutions for downloading and installing packages from various sources.
+Historically the c++ package managers have been the operating system package managers.  Today is a new day though and I've found a couple cross platform solutions for downloading and installing packages from various sources. 
 
 ## BPT
 Seems to be a rather obscure package manager, at least I didn't try too hard to get it working.

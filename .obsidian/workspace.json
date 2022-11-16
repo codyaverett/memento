@@ -4,19 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "715fb3ae83b39cc6",
+        "id": "f70bc95304541765",
         "type": "tabs",
         "children": [
           {
-            "id": "af0c75c3bd43e04b",
+            "id": "871f83b06237cc4e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "kanban",
               "state": {
-                "file": "learning/computing/programming/languages/programming languages.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
+                "file": "personal/task board.md"
               }
             }
           }
@@ -58,8 +55,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -79,7 +75,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "learning/computing/programming/languages/programming languages.md",
+                "file": "personal/task board.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,7 +92,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "learning/computing/programming/languages/programming languages.md"
+                "file": "personal/task board.md"
               }
             }
           },
@@ -118,26 +114,34 @@
                 "useHierarchy": false
               }
             }
+          },
+          {
+            "id": "930a234f25471a3f",
+            "type": "leaf",
+            "state": {
+              "type": "metatable-sidebar-view",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
     "width": 300,
     "collapsed": true
   },
-  "active": "248b535a1fe3476e",
+  "active": "33a2bab88d111215",
   "lastOpenFiles": [
-    "learning/computing/programming/languages/python programming language.md",
+    "personal/task board.md",
+    "data/useful-links.md",
     "learning/computing/programming/languages/programming languages.md",
+    "learning/computing/programming/c and c++/c++ package managers.md",
+    "learning/computing/really useful websites.md",
+    "learning/crafting/make your own t-shirt.md",
+    "learning/computing/programming/languages/python programming language.md",
     "learning/computing/programming/haskell/haskell list functions.md",
     "learning/computing/programming/languages/Lisp programming language.md",
-    "learning/computing/programming/java/java dependency management.md",
-    "learning/computing/programming/java/javac.md",
-    "learning/computing/programming/javascript/Javascript oddities.md",
-    "learning/computing/programming/languages/c-sharp programming language.md",
-    "personal/task board.md",
-    "learning/computing/programming/languages/java programming language.md"
+    "learning/computing/programming/java/java dependency management.md"
   ]
 }
