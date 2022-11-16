@@ -1167,12 +1167,12 @@
     "learning/computing/programming/languages/c programming language.md": {
       "size": 0,
       "tags": 0,
-      "links": 0
+      "links": 1
     },
     "learning/computing/programming/languages/c++ programming language.md": {
       "size": 0,
       "tags": 0,
-      "links": 0
+      "links": 1
     },
     "learning/computing/programming/languages/python programming language.md": {
       "size": 0,
@@ -1182,14 +1182,49 @@
     "learning/computing/programming/languages/javascript programming language.md": {
       "size": 0,
       "tags": 0,
+      "links": 1
+    },
+    "learning/computing/programming/languages/java programming language.md": {
+      "size": 0,
+      "tags": 0,
+      "links": 1
+    },
+    "learning/computing/programming/languages/go programming language.md": {
+      "size": 0,
+      "tags": 0,
+      "links": 1
+    },
+    "learning/computing/programming/languages/rust programming language.md": {
+      "size": 0,
+      "tags": 0,
+      "links": 0
+    },
+    "learning/computing/programming/languages/closure programming language.md": {
+      "size": 0,
+      "tags": 0,
+      "links": 1
+    },
+    "learning/computing/programming/languages/haskell programming language.md": {
+      "size": 0,
+      "tags": 0,
+      "links": 1
+    },
+    "learning/computing/programming/languages/shell programming language.md": {
+      "size": 0,
+      "tags": 0,
+      "links": 0
+    },
+    "learning/computing/programming/languages/programming languages.md": {
+      "size": 0,
+      "tags": 0,
       "links": 0
     }
   },
   "commitTypes": {
     "/": {
       "Refactor": 1360,
-      "Create": 233,
-      "Link": 68,
+      "Create": 240,
+      "Link": 75,
       "Expand": 91
     }
   },
@@ -1208,7 +1243,7 @@
       "10": 12,
       "11": 10,
       "12": 6,
-      "13": 35,
+      "13": 49,
       "14": 27,
       "15": 39,
       "16": 1187,
@@ -1225,7 +1260,7 @@
     "/": {
       "Mon": 1239,
       "Tue": 102,
-      "Wed": 109,
+      "Wed": 123,
       "Thu": 109,
       "Fri": 114,
       "Sat": 0,
@@ -1288,6 +1323,13 @@
         "<a class=\"internal-link\" href=\"personal/job-hunting/jb-hunt-topics.md\"> jb-hunt-topics </a>"
       ],
       "Created": [
+        "<a class=\"internal-link\" href=\"learning/computing/programming/languages/Untitled.md\"> Untitled </a>",
+        "<a class=\"internal-link\" href=\"learning/computing/programming/languages/Untitled.md\"> Untitled </a>",
+        "<a class=\"internal-link\" href=\"learning/computing/programming/languages/Untitled.md\"> Untitled </a>",
+        "<a class=\"internal-link\" href=\"learning/computing/programming/languages/Untitled.md\"> Untitled </a>",
+        "<a class=\"internal-link\" href=\"learning/computing/programming/languages/Untitled.md\"> Untitled </a>",
+        "<a class=\"internal-link\" href=\"learning/computing/programming/languages/Untitled.md\"> Untitled </a>",
+        "<a class=\"internal-link\" href=\"learning/computing/programming/languages/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"learning/computing/programming/c and c++/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"learning/mental/ADHD/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"learning/mental/health/Untitled.md\"> Untitled </a>",
@@ -1331,14 +1373,7 @@
         "<a class=\"internal-link\" href=\"software/data ETL/apache airflow/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"cryptocurrency/Ethereum/Etherscan/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"software/data ETL/apache airflow/Untitled.md\"> Untitled </a>",
-        "<a class=\"internal-link\" href=\"software/data ETL/apache airflow/Untitled.md\"> Untitled </a>",
-        "<a class=\"internal-link\" href=\"software/data ETL/apache airflow/Untitled.md\"> Untitled </a>",
-        "<a class=\"internal-link\" href=\"software/data ETL/apache airflow/Untitled.md\"> Untitled </a>",
-        "<a class=\"internal-link\" href=\"software/data ETL/apache airflow/Untitled.md\"> Untitled </a>",
-        "<a class=\"internal-link\" href=\"programming/data ETL/Untitled.md\"> Untitled </a>",
-        "<a class=\"internal-link\" href=\"programming/databases/postgres/Untitled.md\"> Untitled </a>",
-        "<a class=\"internal-link\" href=\"software/data ETL/apache airflow/Untitled.md\"> Untitled </a>",
-        "<a class=\"internal-link\" href=\"templates/Untitled.md\"> Untitled </a>"
+        "<a class=\"internal-link\" href=\"software/data ETL/apache airflow/Untitled.md\"> Untitled </a>"
       ],
       "Renamed": [
         "<a class=\"internal-link\" href=\"learning/computing/programming/languages/javascript programming language.md\"> javascript programming language </a>",
@@ -1449,6 +1484,13 @@
         "<a class=\"internal-link\" href=\"learning/computing/programming/c and c++/Untitled.md\"> Untitled </a>"
       ],
       "Linked": [
+        "<a class=\"internal-link\" href=\"learning/computing/programming/languages/c programming language.md\"> c programming language </a>",
+        "<a class=\"internal-link\" href=\"learning/computing/programming/languages/c++ programming language.md\"> c++ programming language </a>",
+        "<a class=\"internal-link\" href=\"learning/computing/programming/languages/javascript programming language.md\"> javascript programming language </a>",
+        "<a class=\"internal-link\" href=\"learning/computing/programming/languages/java programming language.md\"> java programming language </a>",
+        "<a class=\"internal-link\" href=\"learning/computing/programming/languages/go programming language.md\"> go programming language </a>",
+        "<a class=\"internal-link\" href=\"learning/computing/programming/languages/closure programming language.md\"> closure programming language </a>",
+        "<a class=\"internal-link\" href=\"learning/computing/programming/languages/haskell programming language.md\"> haskell programming language </a>",
         "<a class=\"internal-link\" href=\"learning/mental/health/Self-Fulfilling belief.md\"> Self-Fulfilling belief </a>",
         "<a class=\"internal-link\" href=\"learning/mental/health/Ruminative brooding.md\"> Ruminative brooding </a>",
         "<a class=\"internal-link\" href=\"personal/task board.md\"> task board </a>",
@@ -1492,14 +1534,7 @@
         "<a class=\"internal-link\" href=\"software/data ETL/Trino.md\"> Trino </a>",
         "<a class=\"internal-link\" href=\"software/data ETL/snowflake.md\"> snowflake </a>",
         "<a class=\"internal-link\" href=\"math/linear interpolation.md\"> linear interpolation </a>",
-        "<a class=\"internal-link\" href=\"software/data ETL/apache airflow/apache airflow quickstart.md\"> apache airflow quickstart </a>",
-        "<a class=\"internal-link\" href=\"software/data ETL/apache airflow/airflow CLI.md\"> airflow CLI </a>",
-        "<a class=\"internal-link\" href=\"programming/python/create a minimal python package.md\"> create a minimal python package </a>",
-        "<a class=\"internal-link\" href=\"programming/python/pipenv cleanup.md\"> pipenv cleanup </a>",
-        "<a class=\"internal-link\" href=\"programming/machine learning/ml example.md\"> ml example </a>",
-        "<a class=\"internal-link\" href=\"personal/job-hunting/data etl project.md\"> data etl project </a>",
-        "<a class=\"internal-link\" href=\"Todo.md\"> Todo </a>",
-        "<a class=\"internal-link\" href=\"programming/data models/OLTP data models.md\"> OLTP data models </a>"
+        "<a class=\"internal-link\" href=\"software/data ETL/apache airflow/apache airflow quickstart.md\"> apache airflow quickstart </a>"
       ],
       "Removed Tags from": [],
       "Removed Links from": [
