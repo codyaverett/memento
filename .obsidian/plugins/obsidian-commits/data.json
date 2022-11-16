@@ -1233,12 +1233,17 @@
       "size": 0,
       "tags": 0,
       "links": 0
+    },
+    "data/useful-links.md": {
+      "size": 0,
+      "tags": 0,
+      "links": 0
     }
   },
   "commitTypes": {
     "/": {
       "Refactor": 1362,
-      "Create": 243,
+      "Create": 244,
       "Link": 81,
       "Expand": 92
     }
@@ -1259,7 +1264,7 @@
       "11": 10,
       "12": 6,
       "13": 49,
-      "14": 39,
+      "14": 40,
       "15": 39,
       "16": 1187,
       "17": 60,
@@ -1275,7 +1280,7 @@
     "/": {
       "Mon": 1239,
       "Tue": 102,
-      "Wed": 135,
+      "Wed": 136,
       "Thu": 109,
       "Fri": 114,
       "Sat": 0,
@@ -1338,6 +1343,7 @@
         "<a class=\"internal-link\" href=\"personal/job-hunting/jb-hunt-topics.md\"> jb-hunt-topics </a>"
       ],
       "Created": [
+        "<a class=\"internal-link\" href=\"data/Untitled database.md\"> Untitled database </a>",
         "<a class=\"internal-link\" href=\"learning/computing/programming/languages/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"learning/computing/programming/java/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"learning/computing/programming/languages/Untitled.md\"> Untitled </a>",
@@ -1385,7 +1391,6 @@
         "<a class=\"internal-link\" href=\"personal/job-hunting/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"personal/lifehacks/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"software/containers/docker-compose/Untitled.md\"> Untitled </a>",
-        "<a class=\"internal-link\" href=\"software/data ETL/apache airflow/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"software/data ETL/apache airflow/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"software/data ETL/apache airflow/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"software/data ETL/apache airflow/Untitled.md\"> Untitled </a>"
