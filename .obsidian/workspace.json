@@ -11,11 +11,30 @@
             "id": "2e7ac2e067c9bce0",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "learning/computing/software/linux/Linux directory Structure.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4620445fcadda7dc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "learning/Untitled.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -73,6 +92,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "learning/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,7 +108,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "learning/Untitled.md"
+              }
             }
           },
           {
@@ -126,8 +148,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "2e7ac2e067c9bce0",
+  "active": "4620445fcadda7dc",
   "lastOpenFiles": [
+    "learning/computing/software/linux/Linux directory Structure.md",
+    "learning/computing/software/blender/Interesting plugins.md",
     "learning/computing/software/obsidian/Graph and Local Graph View.md",
     "learning/computing/software/obsidian/Obsidian Aliases.md",
     "learning/computing/programming/languages/programming languages.md",
@@ -135,8 +159,6 @@
     "personal/task board.md",
     "learning/mathematics/linear interpolation.md",
     "learning/crafting/make your own t-shirt.md",
-    "learning/farming/Compost has four ingredients.md",
-    "learning/financial/money/Money facts.md",
-    "personal/notes/Todo.md"
+    "learning/farming/Compost has four ingredients.md"
   ]
 }
