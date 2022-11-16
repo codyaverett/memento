@@ -1242,8 +1242,8 @@
   },
   "commitTypes": {
     "/": {
-      "Refactor": 1362,
-      "Create": 244,
+      "Refactor": 1363,
+      "Create": 245,
       "Link": 81,
       "Expand": 92
     }
@@ -1265,7 +1265,7 @@
       "12": 6,
       "13": 49,
       "14": 40,
-      "15": 39,
+      "15": 41,
       "16": 1187,
       "17": 60,
       "18": 29,
@@ -1280,7 +1280,7 @@
     "/": {
       "Mon": 1239,
       "Tue": 102,
-      "Wed": 136,
+      "Wed": 138,
       "Thu": 109,
       "Fri": 114,
       "Sat": 0,
@@ -1343,6 +1343,7 @@
         "<a class=\"internal-link\" href=\"personal/job-hunting/jb-hunt-topics.md\"> jb-hunt-topics </a>"
       ],
       "Created": [
+        "<a class=\"internal-link\" href=\"data/woop.md\"> woop </a>",
         "<a class=\"internal-link\" href=\"data/Untitled database.md\"> Untitled database </a>",
         "<a class=\"internal-link\" href=\"learning/computing/programming/languages/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"learning/computing/programming/java/Untitled.md\"> Untitled </a>",
@@ -1391,7 +1392,6 @@
         "<a class=\"internal-link\" href=\"personal/job-hunting/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"personal/lifehacks/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"software/containers/docker-compose/Untitled.md\"> Untitled </a>",
-        "<a class=\"internal-link\" href=\"software/data ETL/apache airflow/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"software/data ETL/apache airflow/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"software/data ETL/apache airflow/Untitled.md\"> Untitled </a>"
       ],
@@ -1501,7 +1501,8 @@
         "<a class=\"internal-link\" href=\"learning/financial/career/job-hunting/data etl project.md\"> data etl project </a>",
         "<a class=\"internal-link\" href=\"learning/financial/career/job-hunting/data-etl-hindsight.md\"> data-etl-hindsight </a>",
         "<a class=\"internal-link\" href=\"personal/notes/Follow up on Insurance transition.md\"> Follow up on Insurance transition </a>",
-        "<a class=\"internal-link\" href=\"learning/computing/programming/c and c++/Untitled.md\"> Untitled </a>"
+        "<a class=\"internal-link\" href=\"learning/computing/programming/c and c++/Untitled.md\"> Untitled </a>",
+        "<a class=\"internal-link\" href=\"data/woop.md\"> woop </a>"
       ],
       "Linked": [
         "<a class=\"internal-link\" href=\"learning/computing/programming/java/javac.md\"> javac </a>",
