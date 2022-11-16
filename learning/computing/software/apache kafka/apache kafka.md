@@ -1,8 +1,7 @@
 ---
-created_at: 2022-11-09T17:22:15-06:00
-modified_at: 2022-11-16T15:22:47-06:00
-created: 2022-11-16T15:23:17-06:00
-updated: 2022-11-16T15:23:17-06:00
+title: apache kafka
+created: 2022-11-09T17:22:15-06:00
+updated: 2022-11-16T15:46:31-06:00
 ---
 
 - Realtime data flows

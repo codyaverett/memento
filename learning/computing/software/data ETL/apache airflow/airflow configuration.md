@@ -1,10 +1,8 @@
 ---
-created_at: 2022-10-27T22:30:11-05:00
-modified_at: 2022-11-16T15:23:45-06:00
-created: 2022-11-16T15:24:16-06:00
-updated: 2022-11-16T15:24:16-06:00
+title: airflow configuration
+created: 2022-10-27T22:30:11-05:00
+updated: 2022-11-16T15:44:00-06:00
 ---
-# Airflow configuration
 
 ## Get local config
 ```shell

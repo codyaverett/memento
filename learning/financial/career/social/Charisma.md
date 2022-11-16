@@ -1,11 +1,8 @@
 ---
-created_at: 2022-08-20T01:28:01-05:00
-modified_at: 2022-11-16T15:27:15-06:00
-created: 2022-11-16T15:27:46-06:00
-updated: 2022-11-16T15:27:46-06:00
+title: Charisma
+created: 2022-08-20T01:28:01-05:00
+updated: 2022-11-16T15:48:22-06:00
 ---
-
-# Charisma on command
 
 charismaoncommand.university
 

@@ -1,8 +1,7 @@
 ---
-created_at: 2022-09-29T14:40:30-05:00
-modified_at: 2022-11-16T15:36:03-06:00
-created: 2022-11-16T15:36:40-06:00
-updated: 2022-11-16T15:36:40-06:00
+title: building python extensions with Rust
+created: 2022-09-29T14:40:30-05:00
+updated: 2022-11-16T15:47:35-06:00
 ---
 
 [[Todo]]

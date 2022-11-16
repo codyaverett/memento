@@ -1,11 +1,8 @@
 ---
-created_at: 2022-10-27T20:04:01-05:00
-modified_at: 2022-11-16T15:24:18-06:00
-created: 2022-11-16T15:24:49-06:00
-updated: 2022-11-16T15:24:49-06:00
+title: airflow module management
+created: 2022-10-27T20:04:01-05:00
+updated: 2022-11-16T15:45:32-06:00
 ---
-
-# airflow module management
 
 Example structure you might have in your `dags` folder
 ```shell

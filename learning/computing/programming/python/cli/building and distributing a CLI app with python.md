@@ -1,8 +1,7 @@
 ---
-created_at: 2022-09-28T23:56:44-05:00
-modified_at: 2022-11-16T15:34:00-06:00
-created: 2022-11-16T15:34:30-06:00
-updated: 2022-11-16T15:34:30-06:00
+title: building and distributing a CLI app with python
+created: 2022-09-28T23:56:44-05:00
+updated: 2022-11-16T15:47:28-06:00
 ---
 
 Many Python packages include command line tools. This is useful for distributing support tools which are associated with a library, or just taking advantage of the setuptools / PyPI infrastructure to distribute a command line tool that happens to use Python.

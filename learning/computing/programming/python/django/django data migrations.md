@@ -1,8 +1,7 @@
 ---
-created_at: 2022-09-14T03:43:06-05:00
-modified_at: 2022-11-16T15:34:22-06:00
-created: 2022-11-16T15:34:53-06:00
-updated: 2022-11-16T15:34:53-06:00
+title: django data migrations
+created: 2022-09-14T03:43:06-05:00
+updated: 2022-11-16T15:50:29-06:00
 ---
 
 In this article, we'll learn how to update Django models and manipulate existing data using migrations.

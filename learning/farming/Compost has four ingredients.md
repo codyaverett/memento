@@ -1,8 +1,7 @@
 ---
-created_at: 2022-07-01T02:15:15-05:00
-modified_at: 2022-11-16T15:26:45-06:00
-created: 2022-11-16T15:27:17-06:00
-updated: 2022-11-16T15:27:17-06:00
+title: Compost has four ingredients
+created: 2022-07-01T02:15:15-05:00
+updated: 2022-11-16T15:48:42-06:00
 ---
 
 1. Green Material (Nitrogen)

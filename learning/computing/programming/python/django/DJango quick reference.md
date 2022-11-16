@@ -1,8 +1,7 @@
 ---
-created_at: 2022-09-07T17:52:22-05:00
-modified_at: 2022-11-16T15:34:48-06:00
-created: 2022-11-16T15:35:20-06:00
-updated: 2022-11-16T15:35:20-06:00
+title: DJango quick reference
+created: 2022-09-07T17:52:22-05:00
+updated: 2022-11-16T15:51:31-06:00
 ---
 ```toc
 ```
