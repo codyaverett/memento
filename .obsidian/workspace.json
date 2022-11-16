@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "personal/notes/Simon Dev's 3d programming course.md",
+                "file": "learning/crafting/make your own t-shirt.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -78,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "personal/notes/Simon Dev's 3d programming course.md",
+                "file": "learning/crafting/make your own t-shirt.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,7 +95,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "personal/notes/Simon Dev's 3d programming course.md"
+                "file": "learning/crafting/make your own t-shirt.md"
               }
             }
           },
@@ -136,15 +136,15 @@
   },
   "active": "f00ae23a6178525b",
   "lastOpenFiles": [
+    "learning/farming/Compost has four ingredients.md",
+    "learning/financial/money/Money facts.md",
+    "personal/notes/Todo.md",
+    "personal/notes/Simon Dev's 3d programming course.md",
     "personal/notes/Learn more about Cardano Blockchain.md",
     "personal/task board.md",
     "personal/notes/Document burnout.md",
     "personal/notes/Learn about Memory Controllers and non-uniform memory access.md",
     "personal/notes/Backlog.md",
-    "personal/notes/Simon Dev's 3d programming course.md",
-    "personal/daily/2022/22-11-16.md",
-    "personal/notes/Todo.md",
-    "personal/notes/Ben Levin's course  Blender for musicians.md",
-    "personal/daily/2022/22-06-09.md"
+    "personal/daily/2022/22-11-16.md"
   ]
 }

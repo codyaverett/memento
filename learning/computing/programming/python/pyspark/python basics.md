@@ -1,12 +1,11 @@
 ---
 aliases: 
 tags: 
-title: python basics
 created: 2022-09-09T11:19:02-05:00
-updated: 2022-11-16T16:49:15-06:00
+updated: 2022-11-16T16:51:04-06:00
 name: python basics
 ---
-# python basics
+# Python Basics
 
 ```toc
 ```

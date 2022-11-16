@@ -2,10 +2,10 @@
 aliases: 
 tags: 
 created: 2022-11-16T15:11:30-06:00
-updated: 2022-11-16T16:49:15-06:00
+updated: 2022-11-16T16:51:04-06:00
 name: useful python standard library modules
 ---
-# useful python standard library modules
+# Useful Python Standard Library Modules
 ## Abc
 - use to define the APIs for dynamically loaded extensions as abstract base classes
 - helps extension authors understand which methods of an API are required and which are optional.

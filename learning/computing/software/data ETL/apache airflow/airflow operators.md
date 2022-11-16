@@ -1,12 +1,11 @@
 ---
 aliases: 
 tags: 
-title: airflow operators
 created: 2022-10-29T14:02:34-05:00
-updated: 2022-11-16T16:49:15-06:00
+updated: 2022-11-16T16:51:04-06:00
 name: airflow operators
 ---
-# airflow operators
+# Airflow Operators
 
 - contains business logic of what will be a task in an airflow DAG
 - deals with how your task will behave and the actions it will perform

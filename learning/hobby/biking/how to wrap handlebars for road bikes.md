@@ -1,12 +1,11 @@
 ---
 aliases: 
 tags: 
-title: how to wrap handlebars for road bikes
 created: 2022-07-25T02:28:32-05:00
-updated: 2022-11-16T16:49:14-06:00
+updated: 2022-11-16T16:51:04-06:00
 name: how to wrap handlebars for road bikes
 ---
-# how to wrap handlebars for road bikes
+# How to Wrap Handlebars for Road Bikes
 
 [Youtube | How to Wrap Handlebars for Road Bikes](https://www.youtube.com/watch?v=5MzIiv7pewE)
 

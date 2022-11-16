@@ -1,12 +1,11 @@
 ---
 aliases: 
 tags: 
-title: airflow configuration
 created: 2022-10-27T22:30:11-05:00
-updated: 2022-11-16T16:49:15-06:00
+updated: 2022-11-16T16:51:04-06:00
 name: airflow configuration
 ---
-# airflow configuration
+# Airflow Configuration
 
 ## Get Local Config
 ```shell

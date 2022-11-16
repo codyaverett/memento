@@ -1,12 +1,11 @@
 ---
 aliases: 
 tags: 
-title: apache kafka
 created: 2022-11-09T17:22:15-06:00
-updated: 2022-11-16T16:49:15-06:00
+updated: 2022-11-16T16:51:04-06:00
 name: apache kafka
 ---
-# apache kafka
+# Apache Kafka
 
 - Realtime data flows
 - Pub/Sub

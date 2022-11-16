@@ -1,12 +1,11 @@
 ---
 aliases: 
 tags: 
-title: Data streams vs buffers
 created: 2022-10-07T20:11:20-05:00
-updated: 2022-11-16T16:49:16-06:00
+updated: 2022-11-16T16:51:05-06:00
 name: Data streams vs buffers
 ---
-# Data streams vs buffers
+# Data Streams Vs Buffers
 
 - Buffers process data at the expense of system memory
 - Streams process data as it is received which reduces the memory overhead for each

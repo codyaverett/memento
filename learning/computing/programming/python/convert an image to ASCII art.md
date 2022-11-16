@@ -1,12 +1,11 @@
 ---
 aliases: 
 tags: 
-title: convert an image to ASCII art
 created: 2022-08-16T16:25:06-05:00
-updated: 2022-11-16T16:49:15-06:00
+updated: 2022-11-16T16:51:05-06:00
 name: convert an image to ASCII art
 ---
-# convert an image to ASCII art
+# Convert an Image to ASCII Art
 
 https://levelup.gitconnected.com/how-to-convert-an-image-to-ascii-art-with-python-in-5-steps-efbac8996d5e
 

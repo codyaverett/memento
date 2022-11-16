@@ -1,12 +1,11 @@
 ---
 aliases: 
 tags: 
-title: django data migrations
 created: 2022-09-14T03:43:06-05:00
-updated: 2022-11-16T16:49:15-06:00
+updated: 2022-11-16T16:51:05-06:00
 name: django data migrations
 ---
-# django data migrations
+# Django Data Migrations
 
 In this article, we'll learn how to update Django models and manipulate existing data using migrations.
 

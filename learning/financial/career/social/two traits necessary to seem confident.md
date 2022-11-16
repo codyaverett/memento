@@ -1,12 +1,11 @@
 ---
 aliases: 
 tags: 
-title: two traits necessary to seem confident
 created: 2022-07-25T00:45:19-05:00
-updated: 2022-11-16T16:49:14-06:00
+updated: 2022-11-16T16:51:04-06:00
 name: two traits necessary to seem confident
 ---
-# two traits necessary to seem confident
+# Two Traits Necessary to Seem Confident
 
 A perfect combination of
 

@@ -1,12 +1,11 @@
 ---
 aliases: 
 tags: 
-title: tips for reading quickly
 created: 2022-10-06T13:11:35-05:00
-updated: 2022-11-16T16:49:13-06:00
+updated: 2022-11-16T16:51:03-06:00
 name: tips for reading quickly
 ---
-# tips for reading quickly
+# Tips for Reading Quickly
 
 - Easy 4-5 yr old reading technique is the most limiting factor
 - Predictable information is easier to learn

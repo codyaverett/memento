@@ -2,8 +2,8 @@
 aliases: 
 tags: 
 created: 2022-11-16T15:42:15-06:00
-updated: 2022-11-16T16:49:16-06:00
-name: Left-Leaning red black trees
+updated: 2022-11-16T16:51:05-06:00
+name: Left-Leaning Red Black Trees
 ---
 
 

@@ -1,10 +1,9 @@
 ---
 aliases: 
 tags: 
-title: ADHD medications
 created: 2022-11-16T13:41:15-06:00
-updated: 2022-11-16T16:49:14-06:00
-name: ADHD medications
+updated: 2022-11-16T16:51:03-06:00
+name: ADHD Medications
 ---
 
 # ADHD Medications

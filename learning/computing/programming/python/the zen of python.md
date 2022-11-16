@@ -2,8 +2,8 @@
 aliases: 
 tags: 
 created: 2022-11-16T15:11:30-06:00
-updated: 2022-11-16T16:49:15-06:00
-name: The zen of python
+updated: 2022-11-16T16:51:04-06:00
+name: The Zen of Python
 ---
 # The Zen of Python
 

@@ -1,12 +1,11 @@
 ---
 aliases: 
 tags: 
-title: python code formatters
 created: 2022-10-10T01:45:52-05:00
-updated: 2022-11-16T16:49:15-06:00
+updated: 2022-11-16T16:51:04-06:00
 name: python code formatters
 ---
-# python code formatters
+# Python Code Formatters
 
 ## Autopep8
 ## Black

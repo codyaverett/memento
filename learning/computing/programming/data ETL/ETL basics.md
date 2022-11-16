@@ -1,12 +1,11 @@
 ---
 aliases: 
 tags: 
-title: ETL basics
 created: 2022-10-18T17:56:28-05:00
-updated: 2022-11-16T16:49:16-06:00
+updated: 2022-11-16T16:51:05-06:00
 name: ETL basics
 ---
-# ETL basics
+# ETL Basics
 
 ## Load the Data
 Get data from various sources

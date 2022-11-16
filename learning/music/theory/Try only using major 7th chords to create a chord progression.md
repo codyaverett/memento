@@ -1,12 +1,11 @@
 ---
 aliases: 
 tags: 
-title: Try only using major 7th chords to create a chord progression
 created: 2022-10-18T18:32:56-05:00
-updated: 2022-11-16T16:49:13-06:00
+updated: 2022-11-16T16:51:03-06:00
 name: Try only using major 7th chords to create a chord progression
 ---
-# Try only using major 7th chords to create a chord progression
+# Try Only Using Major 7th Chords to Create a Chord Progression
 
 C -> F -> Bb
 Ab -> Eb -> F

@@ -1,12 +1,11 @@
 ---
 aliases: 
 tags: 
-title: python cached property
 created: 2022-09-23T20:58:46-05:00
-updated: 2022-11-16T16:49:15-06:00
+updated: 2022-11-16T16:51:04-06:00
 name: python cached property
 ---
-# python cached property
+# Python Cached Property
 
 A decorator that that is memoized.  It's calculated once per instance.
 

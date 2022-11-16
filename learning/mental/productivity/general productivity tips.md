@@ -1,12 +1,11 @@
 ---
 aliases: 
 tags: 
-title: general productivity tips
 created: 2022-10-18T18:06:41-05:00
-updated: 2022-11-16T16:49:14-06:00
+updated: 2022-11-16T16:51:03-06:00
 name: general productivity tips
 ---
-# general productivity tips
+# General Productivity Tips
 
 1. Ask people that are productive, what makes them productive
 2. Always ask, "is this task essential?"

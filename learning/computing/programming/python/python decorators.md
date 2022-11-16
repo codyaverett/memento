@@ -1,12 +1,11 @@
 ---
 aliases: 
 tags: 
-title: python decorators
 created: 2022-10-10T00:46:22-05:00
-updated: 2022-11-16T16:49:15-06:00
+updated: 2022-11-16T16:51:04-06:00
 name: python decorators
 ---
-# python decorators
+# Python Decorators
 
 A fancy way to wrap a function with a function.  Similar to decorators in typescript.
 

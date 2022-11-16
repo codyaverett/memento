@@ -1,12 +1,11 @@
 ---
 aliases: 
 tags: 
-title: polymorphism
 created: 2022-09-24T22:40:49-05:00
-updated: 2022-11-16T16:49:16-06:00
+updated: 2022-11-16T16:51:05-06:00
 name: polymorphism
 ---
-# polymorphism
+# Polymorphism
 
 I get asked about this topic occasionally by mentees and interviewers.  It's good to have a plan for how you would like to describe the concept of polymorphism to other humans.
 

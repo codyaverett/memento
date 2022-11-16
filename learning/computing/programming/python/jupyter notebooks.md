@@ -1,12 +1,11 @@
 ---
 aliases: 
 tags: 
-title: jupyter notebooks
 created: 2022-09-17T03:01:47-05:00
-updated: 2022-11-16T16:49:15-06:00
+updated: 2022-11-16T16:51:04-06:00
 name: jupyter notebooks
 ---
-# jupyter notebooks
+# Jupyter Notebooks
 
 It's good for doing some exploratory coding with python. And you can take notes in between your code snippets
 
