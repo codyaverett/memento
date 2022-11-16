@@ -11,7 +11,6 @@ kanban-plugin: basic
 
 ## Todo
 
-- [ ] [[Follow up on Insurance transition]]
 
 
 ## Done
