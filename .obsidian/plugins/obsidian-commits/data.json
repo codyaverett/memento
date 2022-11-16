@@ -319,11 +319,6 @@
       "tags": 0,
       "links": 0
     },
-    "learning/computing/programming/javascript/Javascript Programming Language.md": {
-      "size": 0,
-      "tags": 0,
-      "links": 0
-    },
     "learning/computing/programming/haskell/haskell list functions.md": {
       "size": 2507,
       "tags": 0,
@@ -364,17 +359,7 @@
       "tags": 0,
       "links": 3
     },
-    "learning/computing/programming/c and c++/c++ programming language.md": {
-      "size": 0,
-      "tags": 0,
-      "links": 0
-    },
     "learning/computing/programming/machine learning/interesting ml and ai products.md": {
-      "size": 0,
-      "tags": 0,
-      "links": 0
-    },
-    "learning/computing/programming/c and c++/c programming language.md": {
       "size": 0,
       "tags": 0,
       "links": 0
@@ -538,11 +523,6 @@
       "size": 0,
       "tags": 0,
       "links": 0
-    },
-    "learning/computing/programming/python/python programming language.md": {
-      "size": 0,
-      "tags": 0,
-      "links": 8
     },
     "learning/computing/programming/python/python special strings.md": {
       "size": 0,
@@ -1183,11 +1163,31 @@
       "size": 0,
       "tags": 0,
       "links": 0
+    },
+    "learning/computing/programming/languages/c programming language.md": {
+      "size": 0,
+      "tags": 0,
+      "links": 0
+    },
+    "learning/computing/programming/languages/c++ programming language.md": {
+      "size": 0,
+      "tags": 0,
+      "links": 0
+    },
+    "learning/computing/programming/languages/python programming language.md": {
+      "size": 0,
+      "tags": 0,
+      "links": 8
+    },
+    "learning/computing/programming/languages/javascript programming language.md": {
+      "size": 0,
+      "tags": 0,
+      "links": 0
     }
   },
   "commitTypes": {
     "/": {
-      "Refactor": 1355,
+      "Refactor": 1360,
       "Create": 233,
       "Link": 68,
       "Expand": 91
@@ -1208,7 +1208,7 @@
       "10": 12,
       "11": 10,
       "12": 6,
-      "13": 30,
+      "13": 35,
       "14": 27,
       "15": 39,
       "16": 1187,
@@ -1225,7 +1225,7 @@
     "/": {
       "Mon": 1239,
       "Tue": 102,
-      "Wed": 104,
+      "Wed": 109,
       "Thu": 109,
       "Fri": 114,
       "Sat": 0,
@@ -1341,6 +1341,11 @@
         "<a class=\"internal-link\" href=\"templates/Untitled.md\"> Untitled </a>"
       ],
       "Renamed": [
+        "<a class=\"internal-link\" href=\"learning/computing/programming/languages/javascript programming language.md\"> javascript programming language </a>",
+        "<a class=\"internal-link\" href=\"learning/computing/programming/javascript/javascript programming language.md\"> javascript programming language </a>",
+        "<a class=\"internal-link\" href=\"learning/computing/programming/languages/python programming language.md\"> python programming language </a>",
+        "<a class=\"internal-link\" href=\"learning/computing/programming/languages/c++ programming language.md\"> c++ programming language </a>",
+        "<a class=\"internal-link\" href=\"learning/computing/programming/languages/c programming language.md\"> c programming language </a>",
         "<a class=\"internal-link\" href=\"learning/computing/really useful websites.md\"> really useful websites </a>",
         "<a class=\"internal-link\" href=\"learning/mental/productivity/really useful websites.md\"> really useful websites </a>",
         "<a class=\"internal-link\" href=\"learning/mental/productivity/all failures are learning opportunities.md\"> all failures are learning opportunities </a>",
@@ -1386,12 +1391,7 @@
         "<a class=\"internal-link\" href=\"learning/reading/notes/Make It Stick.md\"> Make It Stick </a>",
         "<a class=\"internal-link\" href=\"random/really useful websites.md\"> really useful websites </a>",
         "<a class=\"internal-link\" href=\"random/being impaled by a javelin.md\"> being impaled by a javelin </a>",
-        "<a class=\"internal-link\" href=\"random/bugs/brown recluse spider.md\"> brown recluse spider </a>",
-        "<a class=\"internal-link\" href=\"personal/lists/really useful websites.md\"> really useful websites </a>",
-        "<a class=\"internal-link\" href=\"personal/life/hacks/how to have time for everything.md\"> how to have time for everything </a>",
-        "<a class=\"internal-link\" href=\"personal/life/hacks/reading quickly.md\"> reading quickly </a>",
-        "<a class=\"internal-link\" href=\"personal/life/hacks/forgetting what you read after you read it.md\"> forgetting what you read after you read it </a>",
-        "<a class=\"internal-link\" href=\"personal/life/hacks/transporting lumber with a roof rack.md\"> transporting lumber with a roof rack </a>"
+        "<a class=\"internal-link\" href=\"random/bugs/brown recluse spider.md\"> brown recluse spider </a>"
       ],
       "Tagged": [
         "<a class=\"internal-link\" href=\"personal/job-hunting/jb-hunt-topics.md\"> jb-hunt-topics </a>",
