@@ -13,14 +13,28 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "learning/computing/software/obsidian/Obsidian Graph and Local Graph View.md",
-                "mode": "preview",
+                "file": "learning/computing/software/obsidian/Graph and Local Graph View.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "9f4499674dd150c2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "learning/computing/software/obsidian/Obsidian Aliases.md",
+                "mode": "source",
                 "backlinks": false,
                 "source": true
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -78,7 +92,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "learning/computing/software/obsidian/Obsidian Graph and Local Graph View.md",
+                "file": "learning/computing/software/obsidian/Obsidian Aliases.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,7 +109,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "learning/computing/software/obsidian/Obsidian Graph and Local Graph View.md"
+                "file": "learning/computing/software/obsidian/Obsidian Aliases.md"
               }
             }
           },
@@ -134,10 +148,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "8e6dbfe43baa810a",
+  "active": "9f4499674dd150c2",
   "lastOpenFiles": [
+    "learning/computing/software/obsidian/Graph and Local Graph View.md",
     "learning/computing/programming/languages/programming languages.md",
-    "learning/computing/software/obsidian/Obsidian Graph and Local Graph View.md",
     "personal/notes/Document burnout.md",
     "personal/task board.md",
     "learning/mathematics/linear interpolation.md",
