@@ -1268,12 +1268,17 @@
       "size": 0,
       "tags": 0,
       "links": 0
+    },
+    "learning/computing/software/obsidian/Obsidian Dataview plugin.md": {
+      "size": 0,
+      "tags": 0,
+      "links": 0
     }
   },
   "commitTypes": {
     "/": {
-      "Refactor": 1374,
-      "Create": 254,
+      "Refactor": 1375,
+      "Create": 256,
       "Link": 86,
       "Expand": 97
     }
@@ -1297,7 +1302,7 @@
       "14": 40,
       "15": 56,
       "16": 1199,
-      "17": 63,
+      "17": 66,
       "18": 29,
       "19": 25,
       "20": 33,
@@ -1310,7 +1315,7 @@
     "/": {
       "Mon": 1239,
       "Tue": 102,
-      "Wed": 168,
+      "Wed": 171,
       "Thu": 109,
       "Fri": 114,
       "Sat": 0,
@@ -1374,6 +1379,8 @@
       ],
       "Created": [
         "<a class=\"internal-link\" href=\"learning/computing/software/obsidian/Untitled.md\"> Untitled </a>",
+        "<a class=\"internal-link\" href=\"learning/Untitled.md\"> Untitled </a>",
+        "<a class=\"internal-link\" href=\"learning/computing/software/obsidian/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"learning/computing/software/obsidian/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"personal/notes/Learn about Memory Controllers and non-uniform memory access.md\"> Learn about Memory Controllers and non-uniform memory access </a>",
         "<a class=\"internal-link\" href=\"personal/notes/Document burnout.md\"> Document burnout </a>",
@@ -1421,9 +1428,7 @@
         "<a class=\"internal-link\" href=\"daily/11-11-22.md\"> 11-11-22 </a>",
         "<a class=\"internal-link\" href=\"personal/books/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"software/data ETL/Untitled.md\"> Untitled </a>",
-        "<a class=\"internal-link\" href=\"templates/Untitled.md\"> Untitled </a>",
-        "<a class=\"internal-link\" href=\"personal/job-hunting/Untitled.md\"> Untitled </a>",
-        "<a class=\"internal-link\" href=\"personal/job-hunting/Drawing 2022-11-07 15.59.02.excalidraw.md\"> Drawing 2022-11-07 15.59.02.excalidraw </a>"
+        "<a class=\"internal-link\" href=\"templates/Untitled.md\"> Untitled </a>"
       ],
       "Renamed": [
         "<a class=\"internal-link\" href=\"learning/computing/software/obsidian/Graph and Local Graph View.md\"> Graph and Local Graph View </a>",
@@ -1535,7 +1540,8 @@
         "<a class=\"internal-link\" href=\"data/woop.md\"> woop </a>",
         "<a class=\"internal-link\" href=\"learning/adsf.md\"> adsf </a>",
         "<a class=\"internal-link\" href=\"learning/computing/programming/python/django/Untitled.md\"> Untitled </a>",
-        "<a class=\"internal-link\" href=\"templates/frontmatter.md\"> frontmatter </a>"
+        "<a class=\"internal-link\" href=\"templates/frontmatter.md\"> frontmatter </a>",
+        "<a class=\"internal-link\" href=\"learning/Untitled.md\"> Untitled </a>"
       ],
       "Linked": [
         "<a class=\"internal-link\" href=\"personal/notes/Learn about Memory Controllers and non-uniform memory access.md\"> Learn about Memory Controllers and non-uniform memory access </a>",
