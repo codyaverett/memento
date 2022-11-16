@@ -14,5 +14,6 @@
   "obsidian-linter",
   "obsidian-metatable",
   "obsidian-stack-overflow",
-  "templater-obsidian"
+  "templater-obsidian",
+  "simple-embeds"
 ]

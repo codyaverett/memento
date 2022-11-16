@@ -1258,12 +1258,17 @@
       "size": 0,
       "tags": 0,
       "links": 1
+    },
+    "learning/computing/software/obsidian/Graph and Local Graph View.md": {
+      "size": 0,
+      "tags": 0,
+      "links": 0
     }
   },
   "commitTypes": {
     "/": {
-      "Refactor": 1373,
-      "Create": 252,
+      "Refactor": 1374,
+      "Create": 253,
       "Link": 86,
       "Expand": 97
     }
@@ -1287,7 +1292,7 @@
       "14": 40,
       "15": 56,
       "16": 1199,
-      "17": 60,
+      "17": 62,
       "18": 29,
       "19": 25,
       "20": 33,
@@ -1300,7 +1305,7 @@
     "/": {
       "Mon": 1239,
       "Tue": 102,
-      "Wed": 165,
+      "Wed": 167,
       "Thu": 109,
       "Fri": 114,
       "Sat": 0,
@@ -1363,6 +1368,7 @@
         "<a class=\"internal-link\" href=\"personal/job-hunting/jb-hunt-topics.md\"> jb-hunt-topics </a>"
       ],
       "Created": [
+        "<a class=\"internal-link\" href=\"learning/computing/software/obsidian/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"personal/notes/Learn about Memory Controllers and non-uniform memory access.md\"> Learn about Memory Controllers and non-uniform memory access </a>",
         "<a class=\"internal-link\" href=\"personal/notes/Document burnout.md\"> Document burnout </a>",
         "<a class=\"internal-link\" href=\"personal/notes/Cardano Blockchain.md\"> Cardano Blockchain </a>",
@@ -1412,10 +1418,10 @@
         "<a class=\"internal-link\" href=\"templates/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"personal/job-hunting/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"personal/job-hunting/Drawing 2022-11-07 15.59.02.excalidraw.md\"> Drawing 2022-11-07 15.59.02.excalidraw </a>",
-        "<a class=\"internal-link\" href=\"personal/job-hunting/Untitled.md\"> Untitled </a>",
-        "<a class=\"internal-link\" href=\"personal/books/Untitled.md\"> Untitled </a>"
+        "<a class=\"internal-link\" href=\"personal/job-hunting/Untitled.md\"> Untitled </a>"
       ],
       "Renamed": [
+        "<a class=\"internal-link\" href=\"learning/computing/software/obsidian/Graph and Local Graph View.md\"> Graph and Local Graph View </a>",
         "<a class=\"internal-link\" href=\"personal/notes/Learn more about Cardano Blockchain.md\"> Learn more about Cardano Blockchain </a>",
         "<a class=\"internal-link\" href=\"learning/computing/programming/machine learning/ml examples.md\"> ml examples </a>",
         "<a class=\"internal-link\" href=\"learning/computing/software/obsidian/first impressions.md\"> first impressions </a>",
@@ -1465,8 +1471,7 @@
         "<a class=\"internal-link\" href=\"learning/productivity/productivity tips.md\"> productivity tips </a>",
         "<a class=\"internal-link\" href=\"learning/productivity/how to have time for everything.md\"> how to have time for everything </a>",
         "<a class=\"internal-link\" href=\"learning/reading/if you are forgetting what you read after you read it.md\"> if you are forgetting what you read after you read it </a>",
-        "<a class=\"internal-link\" href=\"learning/reading/forgetting what you read after you read it.md\"> forgetting what you read after you read it </a>",
-        "<a class=\"internal-link\" href=\"learning/reading/notes/Staff Engineer.md\"> Staff Engineer </a>"
+        "<a class=\"internal-link\" href=\"learning/reading/forgetting what you read after you read it.md\"> forgetting what you read after you read it </a>"
       ],
       "Tagged": [
         "<a class=\"internal-link\" href=\"personal/job-hunting/jb-hunt-topics.md\"> jb-hunt-topics </a>",
