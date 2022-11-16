@@ -1,3 +1,7 @@
+---
+language: java
+---
+
 # Maven
 
 ## Generating a maven POM file

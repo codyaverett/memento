@@ -4,125 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "3871c020200413ed",
+        "id": "e682499fbb18e1a0",
         "type": "tabs",
         "children": [
           {
-            "id": "6a77bd7012627cc1",
+            "id": "482ca8686688577c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "learning/mental/ADHD/ADHD medications.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "208e7f1242270f43",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "learning/computing/programming/languages/java programming language.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "486375ee5f5780e9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "learning/computing/programming/languages/go programming language.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e2c1ad829defae20",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "learning/computing/programming/languages/rust programming language.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "37f05f167b0fa591",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "learning/computing/programming/languages/closure programming language.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "407058b28c8ead54",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "learning/computing/programming/languages/haskell programming language.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e3000624207e12a5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "learning/computing/programming/languages/shell programming language.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0c2db4cb058bc55e",
-            "type": "leaf",
-            "state": {
-              "type": "kanban",
-              "state": {
-                "file": "personal/task board.md"
-              }
-            }
-          },
-          {
-            "id": "beaddae7c76709d1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "learning/computing/programming/java/java dependency management.md",
+                "file": "learning/computing/programming/java/javac.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 8
+        ]
       }
     ],
     "direction": "vertical"
@@ -180,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "learning/computing/programming/java/java dependency management.md",
+                "file": "learning/computing/programming/java/javac.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -197,7 +95,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "learning/computing/programming/java/java dependency management.md"
+                "file": "learning/computing/programming/java/javac.md"
               }
             }
           },
@@ -228,17 +126,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "beaddae7c76709d1",
+  "active": "482ca8686688577c",
   "lastOpenFiles": [
-    "learning/computing/programming/haskell/haskell list functions.md",
     "learning/computing/programming/java/java dependency management.md",
+    "learning/computing/programming/java/javac.md",
+    "learning/computing/programming/haskell/haskell list functions.md",
     "learning/computing/programming/javascript/Javascript oddities.md",
     "learning/computing/programming/languages/c-sharp programming language.md",
     "personal/task board.md",
     "learning/computing/programming/languages/java programming language.md",
     "learning/computing/programming/languages/shell programming language.md",
     "learning/computing/programming/languages/rust programming language.md",
-    "learning/computing/programming/languages/python programming language.md",
-    "learning/computing/programming/languages/javascript programming language.md"
+    "learning/computing/programming/languages/python programming language.md"
   ]
 }
