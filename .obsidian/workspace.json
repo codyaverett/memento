@@ -11,47 +11,21 @@
             "id": "d17be225b1c5036f",
             "type": "leaf",
             "state": {
-              "type": "graph",
+              "type": "markdown",
+              "state": {
+                "file": "learning/computing/programming/c and c++/c programming language.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e7d6355f681de4e7",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
               "state": {}
-            }
-          },
-          {
-            "id": "9e1e8d87b7f73212",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "learning/mental/health/Overthinking.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0dfb603212ff3df7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "learning/mental/health/Ruminative brooding.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "13e37f2f84b67dae",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "learning/mental/health/Self-Fulfilling belief.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
             }
           },
           {
@@ -68,7 +42,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -126,7 +100,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "learning/mental/ADHD/ADHD medications.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -142,9 +115,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "learning/mental/ADHD/ADHD medications.md"
-              }
+              "state": {}
             }
           },
           {
@@ -174,17 +145,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "6a77bd7012627cc1",
+  "active": "33a2bab88d111215",
   "lastOpenFiles": [
+    "learning/computing/programming/c and c++/c programming language.md",
     "learning/mental/health/Overthinking.md",
-    "learning/mental/ADHD/ADHD medications.md",
     "learning/mental/health/Self-Fulfilling belief.md",
     "learning/mental/health/Ruminative brooding.md",
+    "learning/mental/ADHD/ADHD medications.md",
     "learning/mental/productivity/general productivity tips.md",
     "learning/mental/productivity/all failures are learning opportunities.md",
     "learning/mental/productivity/how to have time for everything.md",
     "learning/computing/really useful websites.md",
-    "personal/notes/Ben Levin's course  Blender for musicians.md",
-    "personal/task board.md"
+    "personal/notes/Ben Levin's course  Blender for musicians.md"
   ]
 }

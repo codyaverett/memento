@@ -1187,8 +1187,8 @@
   },
   "commitTypes": {
     "/": {
-      "Refactor": 1354,
-      "Create": 232,
+      "Refactor": 1355,
+      "Create": 233,
       "Link": 68,
       "Expand": 91
     }
@@ -1208,7 +1208,7 @@
       "10": 12,
       "11": 10,
       "12": 6,
-      "13": 28,
+      "13": 30,
       "14": 27,
       "15": 39,
       "16": 1187,
@@ -1225,7 +1225,7 @@
     "/": {
       "Mon": 1239,
       "Tue": 102,
-      "Wed": 102,
+      "Wed": 104,
       "Thu": 109,
       "Fri": 114,
       "Sat": 0,
@@ -1288,6 +1288,7 @@
         "<a class=\"internal-link\" href=\"personal/job-hunting/jb-hunt-topics.md\"> jb-hunt-topics </a>"
       ],
       "Created": [
+        "<a class=\"internal-link\" href=\"learning/computing/programming/c and c++/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"learning/mental/ADHD/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"learning/mental/health/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"learning/mental/health/Untitled.md\"> Untitled </a>",
@@ -1337,8 +1338,7 @@
         "<a class=\"internal-link\" href=\"programming/data ETL/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"programming/databases/postgres/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"software/data ETL/apache airflow/Untitled.md\"> Untitled </a>",
-        "<a class=\"internal-link\" href=\"templates/Untitled.md\"> Untitled </a>",
-        "<a class=\"internal-link\" href=\"cryptocurrency/Chainlink/Untitled.md\"> Untitled </a>"
+        "<a class=\"internal-link\" href=\"templates/Untitled.md\"> Untitled </a>"
       ],
       "Renamed": [
         "<a class=\"internal-link\" href=\"learning/computing/really useful websites.md\"> really useful websites </a>",
@@ -1445,7 +1445,8 @@
         "<a class=\"internal-link\" href=\"learning/financial/career/job-hunting/staff engineer.md\"> staff engineer </a>",
         "<a class=\"internal-link\" href=\"learning/financial/career/job-hunting/data etl project.md\"> data etl project </a>",
         "<a class=\"internal-link\" href=\"learning/financial/career/job-hunting/data-etl-hindsight.md\"> data-etl-hindsight </a>",
-        "<a class=\"internal-link\" href=\"personal/notes/Follow up on Insurance transition.md\"> Follow up on Insurance transition </a>"
+        "<a class=\"internal-link\" href=\"personal/notes/Follow up on Insurance transition.md\"> Follow up on Insurance transition </a>",
+        "<a class=\"internal-link\" href=\"learning/computing/programming/c and c++/Untitled.md\"> Untitled </a>"
       ],
       "Linked": [
         "<a class=\"internal-link\" href=\"learning/mental/health/Self-Fulfilling belief.md\"> Self-Fulfilling belief </a>",
