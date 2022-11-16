@@ -1087,7 +1087,7 @@
     "personal/notes/Backlog.md": {
       "size": 0,
       "tags": 0,
-      "links": 1
+      "links": 0
     },
     "personal/notes/Todo.md": {
       "size": 0,
@@ -1097,7 +1097,7 @@
     "personal/task board.md": {
       "size": 0,
       "tags": 0,
-      "links": 1
+      "links": 5
     },
     "personal/notes/Ben Levin's course  Blender for musicians.md": {
       "size": 0,
@@ -1233,13 +1233,38 @@
       "size": 0,
       "tags": 0,
       "links": 1
+    },
+    "personal/daily/2022/22-11-16.md": {
+      "size": 0,
+      "tags": 0,
+      "links": 0
+    },
+    "personal/notes/Simon Dev's 3d programming course.md": {
+      "size": 0,
+      "tags": 0,
+      "links": 0
+    },
+    "personal/notes/Learn more about Cardano Blockchain.md": {
+      "size": 0,
+      "tags": 0,
+      "links": 0
+    },
+    "personal/notes/Document burnout.md": {
+      "size": 0,
+      "tags": 0,
+      "links": 0
+    },
+    "personal/notes/Learn about Memory Controllers and non-uniform memory access.md": {
+      "size": 0,
+      "tags": 0,
+      "links": 1
     }
   },
   "commitTypes": {
     "/": {
-      "Refactor": 1371,
-      "Create": 247,
-      "Link": 84,
+      "Refactor": 1373,
+      "Create": 252,
+      "Link": 86,
       "Expand": 96
     }
   },
@@ -1261,7 +1286,7 @@
       "13": 49,
       "14": 40,
       "15": 56,
-      "16": 1189,
+      "16": 1198,
       "17": 60,
       "18": 29,
       "19": 25,
@@ -1275,7 +1300,7 @@
     "/": {
       "Mon": 1239,
       "Tue": 102,
-      "Wed": 155,
+      "Wed": 164,
       "Thu": 109,
       "Fri": 114,
       "Sat": 0,
@@ -1338,6 +1363,11 @@
         "<a class=\"internal-link\" href=\"personal/job-hunting/jb-hunt-topics.md\"> jb-hunt-topics </a>"
       ],
       "Created": [
+        "<a class=\"internal-link\" href=\"personal/notes/Learn about Memory Controllers and non-uniform memory access.md\"> Learn about Memory Controllers and non-uniform memory access </a>",
+        "<a class=\"internal-link\" href=\"personal/notes/Document burnout.md\"> Document burnout </a>",
+        "<a class=\"internal-link\" href=\"personal/notes/Cardano Blockchain.md\"> Cardano Blockchain </a>",
+        "<a class=\"internal-link\" href=\"personal/notes/Simon Dev's 3d programming course.md\"> Simon Dev's 3d programming course </a>",
+        "<a class=\"internal-link\" href=\"personal/daily/2022/22-11-16.md\"> 22-11-16 </a>",
         "<a class=\"internal-link\" href=\"learning/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"templates/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"data/woop.md\"> woop </a>",
@@ -1383,14 +1413,10 @@
         "<a class=\"internal-link\" href=\"personal/job-hunting/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"personal/job-hunting/Drawing 2022-11-07 15.59.02.excalidraw.md\"> Drawing 2022-11-07 15.59.02.excalidraw </a>",
         "<a class=\"internal-link\" href=\"personal/job-hunting/Untitled.md\"> Untitled </a>",
-        "<a class=\"internal-link\" href=\"personal/books/Untitled.md\"> Untitled </a>",
-        "<a class=\"internal-link\" href=\"personal/lifehacks/Untitled.md\"> Untitled </a>",
-        "<a class=\"internal-link\" href=\"daily/11-04-22.md\"> 11-04-22 </a>",
-        "<a class=\"internal-link\" href=\"personal/job-hunting/Untitled.md\"> Untitled </a>",
-        "<a class=\"internal-link\" href=\"personal/lifehacks/Untitled.md\"> Untitled </a>",
-        "<a class=\"internal-link\" href=\"software/containers/docker-compose/Untitled.md\"> Untitled </a>"
+        "<a class=\"internal-link\" href=\"personal/books/Untitled.md\"> Untitled </a>"
       ],
       "Renamed": [
+        "<a class=\"internal-link\" href=\"personal/notes/Learn more about Cardano Blockchain.md\"> Learn more about Cardano Blockchain </a>",
         "<a class=\"internal-link\" href=\"learning/computing/programming/machine learning/ml examples.md\"> ml examples </a>",
         "<a class=\"internal-link\" href=\"learning/computing/software/obsidian/first impressions.md\"> first impressions </a>",
         "<a class=\"internal-link\" href=\"learning/computing/programming/python/python decorators.md\"> python decorators </a>",
@@ -1440,8 +1466,7 @@
         "<a class=\"internal-link\" href=\"learning/productivity/how to have time for everything.md\"> how to have time for everything </a>",
         "<a class=\"internal-link\" href=\"learning/reading/if you are forgetting what you read after you read it.md\"> if you are forgetting what you read after you read it </a>",
         "<a class=\"internal-link\" href=\"learning/reading/forgetting what you read after you read it.md\"> forgetting what you read after you read it </a>",
-        "<a class=\"internal-link\" href=\"learning/reading/notes/Staff Engineer.md\"> Staff Engineer </a>",
-        "<a class=\"internal-link\" href=\"learning/reading/notes/Make It Stick.md\"> Make It Stick </a>"
+        "<a class=\"internal-link\" href=\"learning/reading/notes/Staff Engineer.md\"> Staff Engineer </a>"
       ],
       "Tagged": [
         "<a class=\"internal-link\" href=\"personal/job-hunting/jb-hunt-topics.md\"> jb-hunt-topics </a>",
@@ -1503,6 +1528,8 @@
         "<a class=\"internal-link\" href=\"templates/frontmatter.md\"> frontmatter </a>"
       ],
       "Linked": [
+        "<a class=\"internal-link\" href=\"personal/notes/Learn about Memory Controllers and non-uniform memory access.md\"> Learn about Memory Controllers and non-uniform memory access </a>",
+        "<a class=\"internal-link\" href=\"personal/task board.md\"> task board </a>",
         "<a class=\"internal-link\" href=\"learning/computing/programming/languages/Lisp programming language.md\"> Lisp programming language </a>",
         "<a class=\"internal-link\" href=\"learning/computing/software/DNS/dns.md\"> dns </a>",
         "<a class=\"internal-link\" href=\"learning/computing/programming/python/building python extensions with Rust.md\"> building python extensions with Rust </a>",
@@ -1551,9 +1578,7 @@
         "<a class=\"internal-link\" href=\"personal/job-hunting/Lextegrity.md\"> Lextegrity </a>",
         "<a class=\"internal-link\" href=\"personal/job-hunting/Lextegrity.md\"> Lextegrity </a>",
         "<a class=\"internal-link\" href=\"daily/10-05-22.md\"> 10-05-22 </a>",
-        "<a class=\"internal-link\" href=\"programming/python/Python Caching.md\"> Python Caching </a>",
-        "<a class=\"internal-link\" href=\"programming/python/python cached property.md\"> python cached property </a>",
-        "<a class=\"internal-link\" href=\"programming/python/python classes.md\"> python classes </a>"
+        "<a class=\"internal-link\" href=\"programming/python/Python Caching.md\"> Python Caching </a>"
       ],
       "Removed Tags from": [
         "<a class=\"internal-link\" href=\"learning/computing/programming/python/python extensions.md\"> python extensions </a>",
@@ -1562,7 +1587,8 @@
       "Removed Links from": [
         "<a class=\"internal-link\" href=\"WIP.md\"> WIP </a>",
         "<a class=\"internal-link\" href=\"personal/task board.md\"> task board </a>",
-        "<a class=\"internal-link\" href=\"learning/computing/programming/java/java dependency management.md\"> java dependency management </a>"
+        "<a class=\"internal-link\" href=\"learning/computing/programming/java/java dependency management.md\"> java dependency management </a>",
+        "<a class=\"internal-link\" href=\"personal/notes/Backlog.md\"> Backlog </a>"
       ]
     }
   },
