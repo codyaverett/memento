@@ -48,11 +48,10 @@ Support types:
 ### Sort
 - `SORT file.name ASC`
 - `SORT file.name DEC`
-- 
 
 ### Examples
-#### Table 
 
+#### Table 
 ```dataview
 TABLE name, created, updated
 FROM "personal/daily"
@@ -64,3 +63,26 @@ FROM "personal/daily"
 CALENDAR created FROM "learning/computing"
 ```
 
+
+#### Glossary
+
+Glossary node with dataview
+```
+# Performance Testing Glossary
+
+``dataview
+TABLE definition as "Definition" from #glossary
+``
+```
+
+File with tags
+```
+---
+tags: glossary, performance
+---
+# Performance Testing
+
+definition:: The process of verifying the scalability, elasticity,
+availability, reliability, and responsiveness of the application under
+test.
+```
