@@ -11,3 +11,4 @@ console.log("3" - "1"); //? 2
 
 ## Related
 - [[javascript programming language]]
+* *[[javascript programming language]]

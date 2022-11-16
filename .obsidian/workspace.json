@@ -107,9 +107,22 @@
                 "file": "personal/task board.md"
               }
             }
+          },
+          {
+            "id": "beaddae7c76709d1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "learning/computing/programming/haskell/haskell list functions.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 7
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -167,7 +180,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "personal/task board.md",
+                "file": "learning/computing/programming/haskell/haskell list functions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -184,7 +197,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "personal/task board.md"
+                "file": "learning/computing/programming/haskell/haskell list functions.md"
               }
             }
           },
@@ -215,17 +228,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "0c2db4cb058bc55e",
+  "active": "beaddae7c76709d1",
   "lastOpenFiles": [
+    "learning/computing/programming/java/java dependency management.md",
+    "learning/computing/programming/javascript/Javascript oddities.md",
+    "learning/computing/programming/languages/c-sharp programming language.md",
+    "personal/task board.md",
     "learning/computing/programming/languages/java programming language.md",
     "learning/computing/programming/languages/shell programming language.md",
     "learning/computing/programming/languages/rust programming language.md",
     "learning/computing/programming/languages/python programming language.md",
     "learning/computing/programming/languages/javascript programming language.md",
-    "learning/computing/programming/languages/haskell programming language.md",
-    "learning/computing/programming/languages/go programming language.md",
-    "learning/computing/programming/languages/closure programming language.md",
-    "learning/computing/programming/languages/c++ programming language.md",
-    "learning/computing/programming/languages/c programming language.md"
+    "learning/computing/programming/languages/haskell programming language.md"
   ]
 }
