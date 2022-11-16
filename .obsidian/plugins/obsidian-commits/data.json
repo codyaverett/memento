@@ -1228,12 +1228,17 @@
       "size": 3598,
       "tags": 0,
       "links": 1
+    },
+    "learning/computing/programming/languages/Lisp programming language.md": {
+      "size": 0,
+      "tags": 0,
+      "links": 0
     }
   },
   "commitTypes": {
     "/": {
       "Refactor": 1362,
-      "Create": 242,
+      "Create": 243,
       "Link": 81,
       "Expand": 92
     }
@@ -1254,7 +1259,7 @@
       "11": 10,
       "12": 6,
       "13": 49,
-      "14": 38,
+      "14": 39,
       "15": 39,
       "16": 1187,
       "17": 60,
@@ -1270,7 +1275,7 @@
     "/": {
       "Mon": 1239,
       "Tue": 102,
-      "Wed": 134,
+      "Wed": 135,
       "Thu": 109,
       "Fri": 114,
       "Sat": 0,
@@ -1333,6 +1338,7 @@
         "<a class=\"internal-link\" href=\"personal/job-hunting/jb-hunt-topics.md\"> jb-hunt-topics </a>"
       ],
       "Created": [
+        "<a class=\"internal-link\" href=\"learning/computing/programming/languages/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"learning/computing/programming/java/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"learning/computing/programming/languages/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"learning/computing/programming/languages/Untitled.md\"> Untitled </a>",
@@ -1382,8 +1388,7 @@
         "<a class=\"internal-link\" href=\"software/data ETL/apache airflow/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"software/data ETL/apache airflow/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"software/data ETL/apache airflow/Untitled.md\"> Untitled </a>",
-        "<a class=\"internal-link\" href=\"software/data ETL/apache airflow/Untitled.md\"> Untitled </a>",
-        "<a class=\"internal-link\" href=\"cryptocurrency/Ethereum/Etherscan/Untitled.md\"> Untitled </a>"
+        "<a class=\"internal-link\" href=\"software/data ETL/apache airflow/Untitled.md\"> Untitled </a>"
       ],
       "Renamed": [
         "<a class=\"internal-link\" href=\"learning/computing/programming/languages/javascript programming language.md\"> javascript programming language </a>",

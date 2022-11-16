@@ -10,3 +10,9 @@
 - [[python os module]]
 
 [[programming languages]]
+
+```dataview
+table *
+from "language"
+sort desc
+```
