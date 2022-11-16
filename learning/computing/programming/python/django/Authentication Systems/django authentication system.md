@@ -1,8 +1,9 @@
 ---
-created: 2022-11-16T15:11:31-06:00
-updated: 2022-11-16T15:11:31-06:00
+created_at: 2022-10-09T23:30:52-05:00
+modified_at: 2022-11-16T15:34:05-06:00
+created: 2022-11-16T15:34:37-06:00
+updated: 2022-11-16T15:34:37-06:00
 ---
-# Django authentication system
 
 ## Tables
 - auth_group

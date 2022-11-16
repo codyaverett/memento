@@ -1,8 +1,9 @@
 ---
-created: 2022-11-16T15:11:31-06:00
-updated: 2022-11-16T15:11:31-06:00
+created_at: 2022-09-28T17:54:09-05:00
+modified_at: 2022-11-16T15:36:29-06:00
+created: 2022-11-16T15:37:00-06:00
+updated: 2022-11-16T15:37:00-06:00
 ---
-# Concurrency in python
 
 ## Async/Await
 Python has an async await type of functionality like javascript's event loop.   Python uses a library called `asyncio` to enable async/await functionality in the python runtime.  It will spawn threads and processes on your behalf.

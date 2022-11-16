@@ -1,8 +1,10 @@
 ---
-created: 2022-11-16T15:11:31-06:00
-updated: 2022-11-16T15:11:31-06:00
+created_at: 2022-09-12T20:32:01-05:00
+modified_at: 2022-11-16T15:36:44-06:00
+created: 2022-11-16T15:37:18-06:00
+updated: 2022-11-16T15:37:18-06:00
 ---
-# documenting python code with sphinx
+
 - how to automate the trickier and more tedious aspects of documenting your project
 - Using sphinx to simplify your documenting tasks
 - how to manage and document your public API changes

@@ -1,8 +1,9 @@
 ---
-created: 2022-11-16T15:11:30-06:00
-updated: 2022-11-16T15:11:30-06:00
+created_at: 2022-10-18T18:40:23-05:00
+modified_at: 2022-11-16T15:35:50-06:00
+created: 2022-11-16T15:36:21-06:00
+updated: 2022-11-16T15:36:21-06:00
 ---
-# Getting values from a python dictionary
 
 ```python
 user = {

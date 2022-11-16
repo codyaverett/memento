@@ -1,6 +1,8 @@
 ---
-created: 2022-11-16T15:11:29-06:00
-updated: 2022-11-16T15:11:29-06:00
+created_at: 2022-11-09T17:07:46-06:00
+modified_at: 2022-11-16T15:26:55-06:00
+created: 2022-11-16T15:27:29-06:00
+updated: 2022-11-16T15:27:29-06:00
 ---
 
 - Consulting organization, specializing in supply chain data optimization

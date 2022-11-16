@@ -1,6 +1,8 @@
 ---
-created: 2022-11-16T15:11:29-06:00
-updated: 2022-11-16T15:11:29-06:00
+created_at: 2022-07-25T02:28:32-05:00
+modified_at: 2022-11-16T15:27:27-06:00
+created: 2022-11-16T15:28:01-06:00
+updated: 2022-11-16T15:28:01-06:00
 ---
 
 [Youtube | How to Wrap Handlebars for Road Bikes](https://www.youtube.com/watch?v=5MzIiv7pewE)

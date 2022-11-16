@@ -1,8 +1,10 @@
 ---
-created: 2022-11-16T15:11:30-06:00
-updated: 2022-11-16T15:11:30-06:00
+created_at: 2022-10-10T06:01:03-05:00
+modified_at: 2022-11-16T15:36:59-06:00
+created: 2022-11-16T15:37:32-06:00
+updated: 2022-11-16T15:37:32-06:00
 ---
-# Handle SIGTERM events in python
+
 ## Example 1
 Handy for making sure connections are closed
 ```python

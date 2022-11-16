@@ -1,8 +1,9 @@
 ---
-created: 2022-11-16T15:11:31-06:00
-updated: 2022-11-16T15:11:31-06:00
+created_at: 2022-10-09T23:34:12-05:00
+modified_at: 2022-11-16T15:34:32-06:00
+created: 2022-11-16T15:35:03-06:00
+updated: 2022-11-16T15:35:03-06:00
 ---
-# Django middleware
 
 - If a middleware returns, the following middlewares do not run - excpert from different lesson
 - The middleware config object can be empty, but it's recommended to at least use the `CommonMiddleware` package

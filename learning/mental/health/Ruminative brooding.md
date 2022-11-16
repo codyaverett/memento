@@ -1,7 +1,10 @@
 ---
-created: 2022-11-16T15:11:29-06:00
-updated: 2022-11-16T15:11:29-06:00
+created_at: 2022-11-15T17:30:41-06:00
+modified_at: 2022-11-16T15:28:02-06:00
+created: 2022-11-16T15:28:34-06:00
+updated: 2022-11-16T15:28:34-06:00
 ---
+
 Thinking about negative stuff that happened in the past?
 Thinking about things that could go wrong in the future?
 

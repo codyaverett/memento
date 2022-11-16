@@ -1,7 +1,10 @@
 ---
-created: 2022-11-16T15:11:32-06:00
-updated: 2022-11-16T15:11:32-06:00
+created_at: 2022-10-08T16:41:43-05:00
+modified_at: 2022-11-16T15:24:32-06:00
+created: 2022-11-16T15:25:03-06:00
+updated: 2022-11-16T15:25:03-06:00
 ---
+
 # Apache Airflow Quickstart
 
 - Have Python and pip installed

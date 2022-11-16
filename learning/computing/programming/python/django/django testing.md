@@ -1,8 +1,9 @@
 ---
-created: 2022-11-16T15:11:31-06:00
-updated: 2022-11-16T15:11:31-06:00
+created_at: 2022-09-14T00:00:36-05:00
+modified_at: 2022-11-16T15:34:59-06:00
+created: 2022-11-16T15:35:31-06:00
+updated: 2022-11-16T15:35:31-06:00
 ---
-### Testing in Django
 
 In this section, let’s add some tests to the application. Tests are our first line of defense against bugs.
 

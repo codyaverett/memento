@@ -1,9 +1,9 @@
 ---
-created: 2022-11-16T15:11:30-06:00
-updated: 2022-11-16T15:11:30-06:00
+created_at: 2022-09-13T00:30:32-05:00
+modified_at: 2022-11-16T15:36:52-06:00
+created: 2022-11-16T15:37:26-06:00
+updated: 2022-11-16T15:37:26-06:00
 ---
-# Functional python programming
-
 
 ## Mapping over iterables
 Applying functions to Items with `Map()``

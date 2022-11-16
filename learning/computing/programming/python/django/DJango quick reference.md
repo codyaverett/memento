@@ -1,9 +1,9 @@
 ---
-created: 2022-11-16T15:11:31-06:00
-updated: 2022-11-16T15:11:31-06:00
+created_at: 2022-09-07T17:52:22-05:00
+modified_at: 2022-11-16T15:34:48-06:00
+created: 2022-11-16T15:35:20-06:00
+updated: 2022-11-16T15:35:20-06:00
 ---
-# DJANGO a python web framework 
-
 ```toc
 ```
 

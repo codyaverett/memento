@@ -1,8 +1,9 @@
 ---
-created: 2022-11-16T15:11:31-06:00
-updated: 2022-11-16T15:11:31-06:00
+created_at: 2022-10-19T10:22:33-05:00
+modified_at: 2022-11-16T15:30:59-06:00
+created: 2022-11-16T15:31:30-06:00
+updated: 2022-11-16T15:31:30-06:00
 ---
-# A fresh look at Deno - Brian Barrow
 
 ## What is Deno
 - New Javascript runtime
