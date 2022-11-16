@@ -1,0 +1,2 @@
+- https://en.wikipedia.org/wiki/Memory_controller [[memory controllers]]
+- https://en.wikipedia.org/wiki/Non-uniform_memory_access 
