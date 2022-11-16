@@ -1263,12 +1263,17 @@
       "size": 0,
       "tags": 0,
       "links": 0
+    },
+    "learning/computing/software/obsidian/Obsidian Aliases.md": {
+      "size": 0,
+      "tags": 0,
+      "links": 0
     }
   },
   "commitTypes": {
     "/": {
       "Refactor": 1374,
-      "Create": 253,
+      "Create": 254,
       "Link": 86,
       "Expand": 97
     }
@@ -1292,7 +1297,7 @@
       "14": 40,
       "15": 56,
       "16": 1199,
-      "17": 62,
+      "17": 63,
       "18": 29,
       "19": 25,
       "20": 33,
@@ -1305,7 +1310,7 @@
     "/": {
       "Mon": 1239,
       "Tue": 102,
-      "Wed": 167,
+      "Wed": 168,
       "Thu": 109,
       "Fri": 114,
       "Sat": 0,
@@ -1369,6 +1374,7 @@
       ],
       "Created": [
         "<a class=\"internal-link\" href=\"learning/computing/software/obsidian/Untitled.md\"> Untitled </a>",
+        "<a class=\"internal-link\" href=\"learning/computing/software/obsidian/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"personal/notes/Learn about Memory Controllers and non-uniform memory access.md\"> Learn about Memory Controllers and non-uniform memory access </a>",
         "<a class=\"internal-link\" href=\"personal/notes/Document burnout.md\"> Document burnout </a>",
         "<a class=\"internal-link\" href=\"personal/notes/Cardano Blockchain.md\"> Cardano Blockchain </a>",
@@ -1417,8 +1423,7 @@
         "<a class=\"internal-link\" href=\"software/data ETL/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"templates/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"personal/job-hunting/Untitled.md\"> Untitled </a>",
-        "<a class=\"internal-link\" href=\"personal/job-hunting/Drawing 2022-11-07 15.59.02.excalidraw.md\"> Drawing 2022-11-07 15.59.02.excalidraw </a>",
-        "<a class=\"internal-link\" href=\"personal/job-hunting/Untitled.md\"> Untitled </a>"
+        "<a class=\"internal-link\" href=\"personal/job-hunting/Drawing 2022-11-07 15.59.02.excalidraw.md\"> Drawing 2022-11-07 15.59.02.excalidraw </a>"
       ],
       "Renamed": [
         "<a class=\"internal-link\" href=\"learning/computing/software/obsidian/Graph and Local Graph View.md\"> Graph and Local Graph View </a>",
