@@ -3,7 +3,7 @@
 database-plugin: basic
 
 created: 2022-11-16T15:00:57-06:00
-updated: 2022-11-16T15:00:57-06:00
+updated: 2022-11-16T15:04:00-06:00
 ---
 
 ```yaml:dbfolder
@@ -15,7 +15,7 @@ columns:
     key: column1
     accessorKey: column1
     label: name
-    position: 0
+    position: 1
     skipPersist: false
     isHidden: false
     sortIndex: -1
@@ -34,6 +34,9 @@ columns:
     skipPersist: false
     isDragDisabled: false
     csvCandidate: true
+    position: 2
+    isHidden: false
+    sortIndex: -1
     config:
       enable_media_view: true
       link_alias_enabled: true
@@ -59,7 +62,7 @@ config:
   source_destination_path: /
   frontmatter_quote_wrap: false
   row_templates_folder: /
-  current_row_template: 
+  current_row_template: learning/computing/software/data ETL/attachments/Pasted image 20221018175747.png
   pagination_size: 10
   enable_js_formulas: false
   formula_folder_path: /

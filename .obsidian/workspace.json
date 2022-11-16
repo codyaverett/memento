@@ -11,9 +11,9 @@
             "id": "871f83b06237cc4e",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "database-plugin",
               "state": {
-                "file": "personal/task board.md"
+                "file": "data/useful-links.md"
               }
             }
           }
@@ -75,7 +75,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "personal/task board.md",
+                "file": "data/useful-links.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -92,7 +92,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "personal/task board.md"
+                "file": "data/useful-links.md"
               }
             }
           },
