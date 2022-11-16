@@ -7,5 +7,12 @@
   "obsidian-code-block-enhancer",
   "obsidian-file-cleaner",
   "digitalgarden",
-  "obsidian-kanban"
+  "obsidian-kanban",
+  "dataview",
+  "dbfolder",
+  "obsidian-find-and-replace-in-selection",
+  "obsidian-linter",
+  "obsidian-metatable",
+  "obsidian-stack-overflow",
+  "templater-obsidian"
 ]
