@@ -35,6 +35,21 @@ Support types:
 - Task
 - Calendar
 
+### From clause
+- `FROM "FOLDERNAME"`
+- `FROM #FILES_THAT_HAVE_THIS_TAG`
+
+### Conditions
+
+- `WHERE project = "Super Dooper"`
+- `WHERE contains(summary, "Alice")`
+- `WHERE type = "person"`
+
+### Sort
+- `SORT file.name ASC`
+- `SORT file.name DEC`
+- 
+
 ### Examples
 #### Table 
 
