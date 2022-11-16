@@ -456,7 +456,7 @@
     },
     "learning/computing/programming/python/python cheatsheet.md": {
       "size": 8035,
-      "tags": 1,
+      "tags": 0,
       "links": 2
     },
     "learning/computing/programming/python/python code formatters.md": {
@@ -471,7 +471,7 @@
     },
     "learning/computing/programming/python/python extensions.md": {
       "size": 0,
-      "tags": 1,
+      "tags": 0,
       "links": 1
     },
     "learning/computing/programming/python/python module search path.md": {
@@ -1229,11 +1229,6 @@
       "tags": 0,
       "links": 0
     },
-    "templates/frontmatter.md": {
-      "size": 0,
-      "tags": 0,
-      "links": 0
-    },
     "learning/computing/programming/python/python decorators.md": {
       "size": 3081,
       "tags": 0,
@@ -1242,7 +1237,7 @@
   },
   "commitTypes": {
     "/": {
-      "Refactor": 1366,
+      "Refactor": 1369,
       "Create": 247,
       "Link": 82,
       "Expand": 96
@@ -1265,7 +1260,7 @@
       "12": 6,
       "13": 49,
       "14": 40,
-      "15": 51,
+      "15": 54,
       "16": 1187,
       "17": 60,
       "18": 29,
@@ -1280,7 +1275,7 @@
     "/": {
       "Mon": 1239,
       "Tue": 102,
-      "Wed": 148,
+      "Wed": 151,
       "Thu": 109,
       "Fri": 114,
       "Sat": 0,
@@ -1504,7 +1499,8 @@
         "<a class=\"internal-link\" href=\"learning/computing/programming/c and c++/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"data/woop.md\"> woop </a>",
         "<a class=\"internal-link\" href=\"learning/adsf.md\"> adsf </a>",
-        "<a class=\"internal-link\" href=\"learning/computing/programming/python/django/Untitled.md\"> Untitled </a>"
+        "<a class=\"internal-link\" href=\"learning/computing/programming/python/django/Untitled.md\"> Untitled </a>",
+        "<a class=\"internal-link\" href=\"templates/frontmatter.md\"> frontmatter </a>"
       ],
       "Linked": [
         "<a class=\"internal-link\" href=\"learning/computing/programming/python/building python extensions with Rust.md\"> building python extensions with Rust </a>",
@@ -1559,7 +1555,10 @@
         "<a class=\"internal-link\" href=\"programming/python/python special strings.md\"> python special strings </a>",
         "<a class=\"internal-link\" href=\"programming/python/python os module.md\"> python os module </a>"
       ],
-      "Removed Tags from": [],
+      "Removed Tags from": [
+        "<a class=\"internal-link\" href=\"learning/computing/programming/python/python extensions.md\"> python extensions </a>",
+        "<a class=\"internal-link\" href=\"learning/computing/programming/python/python cheatsheet.md\"> python cheatsheet </a>"
+      ],
       "Removed Links from": [
         "<a class=\"internal-link\" href=\"WIP.md\"> WIP </a>",
         "<a class=\"internal-link\" href=\"personal/task board.md\"> task board </a>",

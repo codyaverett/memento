@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "learning/computing/programming/python/building python extensions with Rust.md",
+                "file": "learning/computing/programming/algorithms/data-structures/left-leaning red black trees.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -58,7 +58,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -78,7 +79,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "learning/computing/programming/python/building python extensions with Rust.md",
+                "file": "learning/computing/programming/algorithms/data-structures/left-leaning red black trees.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,7 +96,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "learning/computing/programming/python/building python extensions with Rust.md"
+                "file": "learning/computing/programming/algorithms/data-structures/left-leaning red black trees.md"
               }
             }
           },
@@ -134,8 +135,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "68922d14c2349623",
+  "active": "ae726e6606676848",
   "lastOpenFiles": [
+    "templates/frontmatter.md",
+    "learning/computing/programming/python/building python extensions with Rust.md",
     "learning/computing/programming/python/create a minimal python package.md",
     "learning/computing/programming/python/functional python programming.md",
     "learning/computing/programming/python/jupyter notebooks.md",
@@ -143,8 +146,6 @@
     "learning/computing/programming/python/python cheatsheet.md",
     "learning/computing/programming/python/python classes.md",
     "learning/computing/programming/python/python code formatters.md",
-    "learning/computing/programming/python/python decorators.md",
-    "learning/computing/programming/python/python extensions.md",
-    "personal/notes/Ben Levin's course  Blender for musicians.md"
+    "learning/computing/programming/python/python decorators.md"
   ]
 }
