@@ -1,10 +1,10 @@
 ---
-language: java
-created_at: 2022-11-16T14:16:57-06:00
-modified_at: 2022-11-16T15:32:15-06:00
-created: 2022-11-16T15:32:47-06:00
-updated: 2022-11-16T15:32:47-06:00
+title: javac
+created: 2022-11-16T14:16:57-06:00
+updated: 2022-11-16T15:58:47-06:00
 ---
+
+## Usage
 
 ```shell
 Usage: javac <options> <source files>

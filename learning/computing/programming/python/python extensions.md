@@ -1,8 +1,7 @@
 ---
-created_at: 2022-09-12T14:17:11-05:00
-modified_at: 2022-11-16T15:38:20-06:00
-created: 2022-11-16T15:38:52-06:00
-updated: 2022-11-16T15:38:52-06:00
+title: python extensions
+created: 2022-09-12T14:17:11-05:00
+updated: 2022-11-16T16:02:46-06:00
 ---
 
 ## VsCode

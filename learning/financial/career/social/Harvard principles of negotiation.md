@@ -1,11 +1,8 @@
 ---
-created_at: 2022-09-19T16:57:21-05:00
-modified_at: 2022-11-16T15:27:18-06:00
-created: 2022-11-16T15:27:50-06:00
-updated: 2022-11-16T15:27:50-06:00
+title: Harvard principles of negotiation
+created: 2022-09-19T16:57:21-05:00
+updated: 2022-11-16T15:57:27-06:00
 ---
-
-# Harvard's principles of negotiation
 
 Principles are more organic than just rules.
 Cooperation meets the 

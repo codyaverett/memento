@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "learning/computing/programming/python/django/django revert migrations.md",
+                "file": "learning/computing/software/data ETL/apache airflow/when are airflow plugins reloaded.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -58,8 +58,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -79,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "learning/computing/programming/python/django/django revert migrations.md",
+                "file": "learning/computing/software/data ETL/apache airflow/when are airflow plugins reloaded.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,7 +95,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "learning/computing/programming/python/django/django revert migrations.md"
+                "file": "learning/computing/software/data ETL/apache airflow/when are airflow plugins reloaded.md"
               }
             }
           },
@@ -135,17 +134,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "68922d14c2349623",
+  "active": "33a2bab88d111215",
   "lastOpenFiles": [
-    "learning/computing/programming/python/django/DJango quick reference.md",
-    "learning/computing/programming/python/django/django models.md",
-    "learning/computing/programming/python/django/django migrations with custom sql.md",
-    "learning/computing/programming/python/django/django middleware.md",
-    "learning/computing/programming/python/django/django extensions.md",
-    "learning/computing/programming/python/django/django data migrations.md",
-    "learning/computing/programming/python/django/django container.md",
-    "learning/computing/programming/python/django/django class models.md",
-    "learning/computing/programming/python/django/Authentication Systems/django authentication system.md",
-    "learning/computing/programming/neural networks/different types of neural networks.md"
+    "learning/cooking/vegan stocking your pantry tips.md",
+    "learning/computing/programming/python/ansible/use ansible_runner from python module.md",
+    "learning/financial/career/social/two traits necessary to seem confident.md",
+    "learning/music/Tunings.md",
+    "learning/music/theory/Try only using major 7th chords to create a chord progression.md",
+    "learning/computing/software/data ETL/trino.md",
+    "learning/hobby/transporting lumber with a roof rack.md",
+    "learning/financial/career/management/transitioning from dev to manager.md",
+    "learning/reading/tips for reading quickly.md",
+    "learning/computing/programming/databases/postgres/timescaleDB.md"
   ]
 }

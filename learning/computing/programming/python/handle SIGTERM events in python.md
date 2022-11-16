@@ -1,8 +1,7 @@
 ---
-created_at: 2022-10-10T06:01:03-05:00
-modified_at: 2022-11-16T15:36:59-06:00
-created: 2022-11-16T15:37:32-06:00
-updated: 2022-11-16T15:37:32-06:00
+title: handle SIGTERM events in python
+created: 2022-10-10T06:01:03-05:00
+updated: 2022-11-16T15:57:23-06:00
 ---
 
 ## Example 1

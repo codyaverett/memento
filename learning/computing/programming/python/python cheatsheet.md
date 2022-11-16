@@ -1,8 +1,7 @@
 ---
-created_at: 2022-09-12T15:55:47-05:00
-modified_at: 2022-11-16T15:38:11-06:00
-created: 2022-11-16T15:38:44-06:00
-updated: 2022-11-16T15:38:44-06:00
+title: python cheatsheet
+created: 2022-09-12T15:55:47-05:00
+updated: 2022-11-16T16:02:27-06:00
 ---
 
 ## Variables

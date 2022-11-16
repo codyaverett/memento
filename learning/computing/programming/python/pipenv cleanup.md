@@ -1,8 +1,7 @@
 ---
-created_at: 2022-10-10T01:57:49-05:00
-modified_at: 2022-11-16T15:37:10-06:00
-created: 2022-11-16T15:37:40-06:00
-updated: 2022-11-16T15:37:40-06:00
+title: pipenv cleanup
+created: 2022-10-10T01:57:49-05:00
+updated: 2022-11-16T16:01:14-06:00
 ---
 
 The gist is, sometimes you delete a folder without removing the pip virtual environment first.

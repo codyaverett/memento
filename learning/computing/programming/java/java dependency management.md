@@ -1,9 +1,7 @@
 ---
-language: java
-created_at: 2022-11-14T23:36:08-06:00
-modified_at: 2022-11-16T15:32:12-06:00
-created: 2022-11-16T15:32:42-06:00
-updated: 2022-11-16T15:32:42-06:00
+title: Maven
+created: 2022-11-14T23:36:08-06:00
+updated: 2022-11-16T15:58:27-06:00
 ---
 
 # Maven

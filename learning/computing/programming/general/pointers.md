@@ -1,8 +1,7 @@
 ---
-created_at: 2022-10-08T15:51:51-05:00
-modified_at: 2022-11-16T15:31:34-06:00
-created: 2022-11-16T15:32:05-06:00
-updated: 2022-11-16T15:32:05-06:00
+title: pointers
+created: 2022-10-08T15:51:51-05:00
+updated: 2022-11-16T16:01:22-06:00
 ---
 
 Pointers are simply an address in memory that have a value that is also an address in memory.

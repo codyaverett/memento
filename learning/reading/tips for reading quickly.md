@@ -1,8 +1,7 @@
 ---
-created_at: 2022-10-06T13:11:35-05:00
-modified_at: 2022-11-16T15:28:55-06:00
-created: 2022-11-16T15:29:26-06:00
-updated: 2022-11-16T15:29:26-06:00
+title: tips for reading quickly
+created: 2022-10-06T13:11:35-05:00
+updated: 2022-11-16T16:04:41-06:00
 ---
 
 - Easy 4-5 yr old reading technique is the most limiting factor

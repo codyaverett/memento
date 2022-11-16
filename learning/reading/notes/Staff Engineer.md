@@ -1,8 +1,7 @@
 ---
-created_at: 2022-11-09T19:53:12-06:00
-modified_at: 2022-11-16T15:29:02-06:00
-created: 2022-11-16T15:29:33-06:00
-updated: 2022-11-16T15:29:33-06:00
+title: Leadership beyond the management track
+created: 2022-11-09T19:53:12-06:00
+updated: 2022-11-16T16:04:01-06:00
 ---
 
 # Leadership beyond the management track
