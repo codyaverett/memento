@@ -1,3 +1,7 @@
+---
+created: 2022-11-16T15:11:29-06:00
+updated: 2022-11-16T15:11:29-06:00
+---
 1. Learning requires memory
 2. We need to keep learning and remembering all of our lives 
 3. Learning is an acquired skill and the most effective strategies are often counterintuitive 

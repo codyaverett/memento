@@ -1,3 +1,7 @@
+---
+created: 2022-11-16T15:11:30-06:00
+updated: 2022-11-16T15:11:30-06:00
+---
 # Rust programming language
 - [Official website](https://www.rust-lang.org/)
 - [Docs](https://doc.rust-lang.org/reference/introduction.html)

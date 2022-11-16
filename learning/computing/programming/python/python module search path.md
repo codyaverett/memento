@@ -1,3 +1,7 @@
+---
+created: 2022-11-16T15:11:30-06:00
+updated: 2022-11-16T15:11:30-06:00
+---
 # The Module Search Path[¶](https://docs.python.org/3/tutorial/modules.html#the-module-search-path "Permalink to this headline")
 
 When a module named `spam` is imported, the interpreter first searches for a built-in module with that name. These module names are listed in [`sys.builtin_module_names`](https://docs.python.org/3/library/sys.html#sys.builtin_module_names "sys.builtin_module_names"). If not found, it then searches for a file named `spam.py` in a list of directories given by the variable [`sys.path`](https://docs.python.org/3/library/sys.html#sys.path "sys.path"). [`sys.path`](https://docs.python.org/3/library/sys.html#sys.path "sys.path") is initialized from these locations:

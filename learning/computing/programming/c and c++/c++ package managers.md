@@ -1,8 +1,8 @@
 ---
 created:
 updated:
-created: 2022-11-16T14:59:41-06:00
-updated: 2022-11-16T14:59:41-06:00
+created: 2022-11-16T15:11:31-06:00
+updated: 2022-11-16T15:11:31-06:00
 ---
 
 Historically the c++ package managers have been the operating system package managers.  Today is a new day though and I've found a couple cross platform solutions for downloading and installing packages from various sources. 

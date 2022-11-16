@@ -1,3 +1,7 @@
+---
+created: 2022-11-16T15:11:29-06:00
+updated: 2022-11-16T15:11:29-06:00
+---
 Reading sheet music
 
 ![[Pasted image 20221112174723.png]]

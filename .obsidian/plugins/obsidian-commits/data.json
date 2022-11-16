@@ -505,7 +505,7 @@
       "links": 0
     },
     "learning/computing/programming/python/python pyenv.md": {
-      "size": 2484,
+      "size": 2906,
       "tags": 0,
       "links": 0
     },
@@ -670,7 +670,7 @@
       "links": 0
     },
     "learning/computing/programming/python/pyspark/pyspark reference.md": {
-      "size": 0,
+      "size": 2026,
       "tags": 0,
       "links": 1
     },
@@ -1238,14 +1238,19 @@
       "size": 0,
       "tags": 0,
       "links": 0
+    },
+    "templates/frontmatter.md": {
+      "size": 0,
+      "tags": 0,
+      "links": 0
     }
   },
   "commitTypes": {
     "/": {
-      "Refactor": 1363,
-      "Create": 245,
+      "Refactor": 1364,
+      "Create": 247,
       "Link": 81,
-      "Expand": 92
+      "Expand": 94
     }
   },
   "dailyCommits": {
@@ -1265,7 +1270,7 @@
       "12": 6,
       "13": 49,
       "14": 40,
-      "15": 41,
+      "15": 46,
       "16": 1187,
       "17": 60,
       "18": 29,
@@ -1280,7 +1285,7 @@
     "/": {
       "Mon": 1239,
       "Tue": 102,
-      "Wed": 138,
+      "Wed": 143,
       "Thu": 109,
       "Fri": 114,
       "Sat": 0,
@@ -1290,6 +1295,8 @@
   "recentCommits": {
     "/": {
       "Expanded": [
+        "<a class=\"internal-link\" href=\"learning/computing/programming/python/pyspark/pyspark reference.md\"> pyspark reference </a>",
+        "<a class=\"internal-link\" href=\"learning/computing/programming/python/python pyenv.md\"> python pyenv </a>",
         "<a class=\"internal-link\" href=\"learning/computing/programming/java/javac.md\"> javac </a>",
         "<a class=\"internal-link\" href=\"learning/computing/programming/c-sharp/C-sharp cheatsheet.md\"> C-sharp cheatsheet </a>",
         "<a class=\"internal-link\" href=\"learning/computing/programming/c-sharp/C-sharp cheatsheet.md\"> C-sharp cheatsheet </a>",
@@ -1338,11 +1345,11 @@
         "<a class=\"internal-link\" href=\"personal/job-hunting/jb-hunt-topics.md\"> jb-hunt-topics </a>",
         "<a class=\"internal-link\" href=\"personal/job-hunting/jb-hunt-topics.md\"> jb-hunt-topics </a>",
         "<a class=\"internal-link\" href=\"personal/job-hunting/jb-hunt-topics.md\"> jb-hunt-topics </a>",
-        "<a class=\"internal-link\" href=\"personal/job-hunting/jb-hunt-topics.md\"> jb-hunt-topics </a>",
-        "<a class=\"internal-link\" href=\"personal/job-hunting/jb-hunt-topics.md\"> jb-hunt-topics </a>",
         "<a class=\"internal-link\" href=\"personal/job-hunting/jb-hunt-topics.md\"> jb-hunt-topics </a>"
       ],
       "Created": [
+        "<a class=\"internal-link\" href=\"learning/Untitled.md\"> Untitled </a>",
+        "<a class=\"internal-link\" href=\"templates/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"data/woop.md\"> woop </a>",
         "<a class=\"internal-link\" href=\"data/Untitled database.md\"> Untitled database </a>",
         "<a class=\"internal-link\" href=\"learning/computing/programming/languages/Untitled.md\"> Untitled </a>",
@@ -1391,9 +1398,7 @@
         "<a class=\"internal-link\" href=\"daily/11-04-22.md\"> 11-04-22 </a>",
         "<a class=\"internal-link\" href=\"personal/job-hunting/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"personal/lifehacks/Untitled.md\"> Untitled </a>",
-        "<a class=\"internal-link\" href=\"software/containers/docker-compose/Untitled.md\"> Untitled </a>",
-        "<a class=\"internal-link\" href=\"software/data ETL/apache airflow/Untitled.md\"> Untitled </a>",
-        "<a class=\"internal-link\" href=\"software/data ETL/apache airflow/Untitled.md\"> Untitled </a>"
+        "<a class=\"internal-link\" href=\"software/containers/docker-compose/Untitled.md\"> Untitled </a>"
       ],
       "Renamed": [
         "<a class=\"internal-link\" href=\"learning/computing/programming/languages/javascript programming language.md\"> javascript programming language </a>",
@@ -1502,7 +1507,8 @@
         "<a class=\"internal-link\" href=\"learning/financial/career/job-hunting/data-etl-hindsight.md\"> data-etl-hindsight </a>",
         "<a class=\"internal-link\" href=\"personal/notes/Follow up on Insurance transition.md\"> Follow up on Insurance transition </a>",
         "<a class=\"internal-link\" href=\"learning/computing/programming/c and c++/Untitled.md\"> Untitled </a>",
-        "<a class=\"internal-link\" href=\"data/woop.md\"> woop </a>"
+        "<a class=\"internal-link\" href=\"data/woop.md\"> woop </a>",
+        "<a class=\"internal-link\" href=\"learning/adsf.md\"> adsf </a>"
       ],
       "Linked": [
         "<a class=\"internal-link\" href=\"learning/computing/programming/java/javac.md\"> javac </a>",

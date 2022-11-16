@@ -1,3 +1,7 @@
+---
+created: 2022-11-16T15:11:31-06:00
+updated: 2022-11-16T15:11:31-06:00
+---
 # Polymorphism
 
 I get asked about this topic occasionally by mentees and interviewers.  It's good to have a plan for how you would like to describe the concept of polymorphism to other humans.

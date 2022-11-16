@@ -1,3 +1,7 @@
+---
+created: 2022-11-16T15:11:31-06:00
+updated: 2022-11-16T15:11:31-06:00
+---
 # django revert migrations
 
 Sometimes you want to backlevel a migration, you can do that with the migrate command.
