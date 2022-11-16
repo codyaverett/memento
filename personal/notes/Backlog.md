@@ -1,3 +1,8 @@
+---
+created: 2022-11-16T16:10:41-06:00
+updated: 2022-11-16T16:10:41-06:00
+---
+
 # Backlog
 
 ## Cardano Blockchain network learning
@@ -14,7 +19,6 @@
 ## Simon Dev's 3d programming course
 - https://simondev.teachable.com/courses/1783153/lectures/40251180
 
-## Ben Levin's Blender for musicians course
 
 
 ## Interesting projects
