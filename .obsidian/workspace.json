@@ -53,9 +53,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "6a77bd7012627cc1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "learning/mental/ADHD/ADHD medications.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -113,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "learning/mental/health/Self-Fulfilling belief.md",
+                "file": "learning/mental/ADHD/ADHD medications.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "learning/mental/health/Self-Fulfilling belief.md"
+                "file": "learning/mental/ADHD/ADHD medications.md"
               }
             }
           },
@@ -161,17 +174,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "13e37f2f84b67dae",
+  "active": "6a77bd7012627cc1",
   "lastOpenFiles": [
+    "learning/mental/health/Overthinking.md",
+    "learning/mental/ADHD/ADHD medications.md",
+    "learning/mental/health/Self-Fulfilling belief.md",
     "learning/mental/health/Ruminative brooding.md",
     "learning/mental/productivity/general productivity tips.md",
     "learning/mental/productivity/all failures are learning opportunities.md",
     "learning/mental/productivity/how to have time for everything.md",
     "learning/computing/really useful websites.md",
-    "learning/mental/health/Overthinking.md",
     "personal/notes/Ben Levin's course  Blender for musicians.md",
-    "personal/task board.md",
-    "personal/notes/Backlog.md",
-    "README.md"
+    "personal/task board.md"
   ]
 }
