@@ -1,9 +1,11 @@
 {
   "legacyEditor": false,
-  "livePreview": true,
+  "livePreview": false,
   "attachmentFolderPath": "software/jupyter notebooks",
   "promptDelete": false,
   "showLineNumber": true,
   "spellcheck": true,
-  "alwaysUpdateLinks": true
+  "alwaysUpdateLinks": true,
+  "autoConvertHtml": false,
+  "showInlineTitle": false
 }

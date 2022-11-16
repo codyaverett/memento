@@ -520,7 +520,7 @@
       "links": 0
     },
     "learning/computing/programming/python/useful python standard library modules.md": {
-      "size": 2628,
+      "size": 3090,
       "tags": 0,
       "links": 0
     },
@@ -1265,7 +1265,7 @@
       "Refactor": 1373,
       "Create": 252,
       "Link": 86,
-      "Expand": 96
+      "Expand": 97
     }
   },
   "dailyCommits": {
@@ -1286,7 +1286,7 @@
       "13": 49,
       "14": 40,
       "15": 56,
-      "16": 1198,
+      "16": 1199,
       "17": 60,
       "18": 29,
       "19": 25,
@@ -1300,7 +1300,7 @@
     "/": {
       "Mon": 1239,
       "Tue": 102,
-      "Wed": 164,
+      "Wed": 165,
       "Thu": 109,
       "Fri": 114,
       "Sat": 0,
@@ -1310,6 +1310,7 @@
   "recentCommits": {
     "/": {
       "Expanded": [
+        "<a class=\"internal-link\" href=\"learning/computing/programming/python/useful python standard library modules.md\"> useful python standard library modules </a>",
         "<a class=\"internal-link\" href=\"learning/computing/programming/databases/postgres/timescaleDB.md\"> timescaleDB </a>",
         "<a class=\"internal-link\" href=\"learning/financial/career/social/Charisma.md\"> Charisma </a>",
         "<a class=\"internal-link\" href=\"learning/computing/programming/python/pyspark/pyspark reference.md\"> pyspark reference </a>",
@@ -1358,7 +1359,6 @@
         "<a class=\"internal-link\" href=\"programming/haskell/working with lists.md\"> working with lists </a>",
         "<a class=\"internal-link\" href=\"personal/social/Charisma.md\"> Charisma </a>",
         "<a class=\"internal-link\" href=\"personal/social/Charisma.md\"> Charisma </a>",
-        "<a class=\"internal-link\" href=\"personal/job-hunting/jb-hunt-topics.md\"> jb-hunt-topics </a>",
         "<a class=\"internal-link\" href=\"personal/job-hunting/jb-hunt-topics.md\"> jb-hunt-topics </a>",
         "<a class=\"internal-link\" href=\"personal/job-hunting/jb-hunt-topics.md\"> jb-hunt-topics </a>"
       ],
