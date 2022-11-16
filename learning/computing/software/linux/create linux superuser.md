@@ -1,15 +1,19 @@
 ---
+aliases: 
+tags: 
 title: create linux superuser
 created: 2022-10-21T12:31:55-05:00
-updated: 2022-11-16T15:49:34-06:00
+updated: 2022-11-16T16:49:15-06:00
+name: create linux superuser
 ---
+# create linux superuser
 
 ```
 sudo useradd <username>
 sudo usermod -a -G wheel <username> # For sudo user
 ```
 
-## useradd
+## Useradd
 ```shell
 Usage: useradd [options] LOGIN
        useradd -D
@@ -51,7 +55,7 @@ Options:
 
 ```
 
-## usermod
+## Usermod
 ```shell
 Usage: usermod [options] LOGIN
 

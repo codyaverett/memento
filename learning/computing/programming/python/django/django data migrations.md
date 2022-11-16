@@ -1,8 +1,12 @@
 ---
+aliases: 
+tags: 
 title: django data migrations
 created: 2022-09-14T03:43:06-05:00
-updated: 2022-11-16T15:50:29-06:00
+updated: 2022-11-16T16:49:15-06:00
+name: django data migrations
 ---
+# django data migrations
 
 In this article, we'll learn how to update Django models and manipulate existing data using migrations.
 
@@ -26,13 +30,13 @@ As for developing on existing Django applications, there’s a feature for that,
 
 In this article, we’ll cover how to use Django migrations to update your existing models and database.
 
-## What’s under the hood
+## What’s Under the Hood
 
 Django migrations are Python files that help you add and change things in your database tables to reflect changes in your Django models.
 
 To understand how Django migrations help you work with data, it may be helpful to understand the underlying structures we’re working with.
 
-### What’s a database table?
+### What’s A Database Table?
 
 If you’ve laid eyes on a spreadsheet before, you’re already most of the way to understanding a database table.
 
@@ -145,7 +149,7 @@ Plate
 
 Knife
 
-## How to manipulate data with Django migrations
+## How to Manipulate Data with Django Migrations
 
 Before you begin to manipulate your data, it’s always a good idea to create a backup of your database that you can restore in case something goes wrong.
 
@@ -205,13 +209,13 @@ Migrations for 'backend':
 
 You’re done! By generating Django migrations, you’ve successfully set up your `dinner_table` and moved existing data to its new spot.
 
-## Additional complexity
+## Additional Complexity
 
 You’ll notice that our Lunch and Dinner models are not very complex. Out of Django’s many [model field options](https://docs.djangoproject.com/en/3.1/ref/models/fields/#field-types), we’re just using `CharField`. We also set `null=True` to let Django store empty values as `NULL` in the database.
 
 Django migrations can handle additional complexity, such as changing field types, and whether a blank or null value is permitted. I keep Django’s [model field reference](https://docs.djangoproject.com/en/3.1/ref/models/fields/#) handy as I work with varying types of data and different use cases.
 
-## De-mystified migrations
+## De-mystified Migrations
 
 I hope this article has helped you better understand Django migrations and how they work!
 

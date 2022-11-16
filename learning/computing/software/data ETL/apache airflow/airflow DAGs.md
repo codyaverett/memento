@@ -1,8 +1,12 @@
 ---
+aliases: 
+tags: 
 title: airflow DAGs
 created: 2022-10-27T23:38:00-05:00
-updated: 2022-11-16T15:44:58-06:00
+updated: 2022-11-16T16:49:15-06:00
+name: airflow DAGs
 ---
+# airflow DAGs
 
 - Collection of tasks that run and do things to completion
 

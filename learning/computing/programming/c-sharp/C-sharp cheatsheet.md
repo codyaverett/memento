@@ -1,7 +1,10 @@
 ---
+aliases: 
+tags: 
 title: Intro
 created: 2022-11-14T23:29:59-06:00
-updated: 2022-11-16T15:47:45-06:00
+updated: 2022-11-16T16:49:16-06:00
+name: Intro
 ---
 
 ```toc
@@ -25,7 +28,7 @@ To declare a variable you specify the data type and variable name followed by a 
 ## Syntax
 DataType variableName = value; 
 
-## Naming rules
+## Naming Rules
 - Variables must start with underscore or letter 
 - Variables cannot contain spaces 
 - Variables can contain numbers 

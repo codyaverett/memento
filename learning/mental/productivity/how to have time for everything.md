@@ -1,8 +1,12 @@
 ---
+aliases: 
+tags: 
 title: how to have time for everything
 created: 2022-11-12T18:26:16-06:00
-updated: 2022-11-16T15:57:50-06:00
+updated: 2022-11-16T16:49:14-06:00
+name: how to have time for everything
 ---
+# how to have time for everything
 
 - Focus completely for 2-4 hours per day on your most important issue
 	- A little bit every day will get you to your goal

@@ -1,15 +1,19 @@
 ---
+aliases: 
+tags: 
 title: A fresh look at Deno - Brian Barrow
 created: 2022-10-19T10:22:33-05:00
-updated: 2022-11-16T15:43:45-06:00
+updated: 2022-11-16T16:49:16-06:00
+name: A fresh look at Deno - Brian Barrow
 ---
+# A fresh look at Deno - Brian Barrow
 
 ## What is Deno
 - New Javascript runtime
 - V8 engine
 - built using rust
 
-## Why though?
+## Why Though?
 Ryan Dal's regret with Node:
 - No promises (to start out)
 - JS in Web vs in Node can be different
@@ -57,10 +61,10 @@ testing   deno test
 
 - Deno ships with a standard library (influenced by Go std)
 
-## Real world Deno
+## Real World Deno
 Deepgram's SDK
 
-## Managing dependencies
+## Managing Dependencies
 - Repetitive
 - Best to maintain a central dependency file
 ```typescript
@@ -84,7 +88,7 @@ other files can import like
 import { MemberList, Message, querystring } from ". /deps.ts";
 ```
 
-## Deno deploy
+## Deno Deploy
 - distributed system
 - Runs JS, TS and WASM at the edge
 - Very Fast 

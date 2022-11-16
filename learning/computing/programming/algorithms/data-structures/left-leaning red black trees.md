@@ -1,11 +1,14 @@
 ---
+aliases: 
+tags: 
 created: 2022-11-16T15:42:15-06:00
-updated: 2022-11-16T15:42:15-06:00
+updated: 2022-11-16T16:49:16-06:00
+name: Left-Leaning red black trees
 ---
 
 
 
-# Left-Leaning red black trees
+# Left-Leaning Red Black Trees
 
 This is a Balanced tree for optimal searching, inserting, and deleting nodes at `O(log(n)` time.
 

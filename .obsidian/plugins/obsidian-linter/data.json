@@ -21,7 +21,7 @@
       "Force key values to be multi-line arrays": ""
     },
     "Insert YAML attributes": {
-      "Inserts the given YAML attributes into the YAML frontmatter. Put each attribute on a single line.": false,
+      "Inserts the given YAML attributes into the YAML frontmatter. Put each attribute on a single line.": true,
       "Text to insert": "aliases: \ntags: "
     },
     "Move Tags to Yaml": {
@@ -31,7 +31,7 @@
     },
     "Remove YAML Keys": {
       "Removes the YAML keys specified": false,
-      "YAML Keys to Remove": ""
+      "YAML Keys to Remove": "title\nupdated_at\ncreated_at"
     },
     "YAML Key Sort": {
       "Sorts the YAML keys based on the order and priority specified. Note: may remove blank lines as well.": false,
@@ -49,7 +49,7 @@
     },
     "YAML Title": {
       "Inserts the title of the file into the YAML frontmatter. Gets the title from the first H1 or filename if there is no H1.": true,
-      "Title Key": "title"
+      "Title Key": "name"
     },
     "YAML Title Alias": {
       "Inserts the title of the file into the YAML frontmatter's aliases section. Gets the title from the first H1 or filename.": false,
@@ -58,17 +58,17 @@
       "Use the YAML key `linter-yaml-title-alias` to help with filename and heading changes": true
     },
     "Capitalize Headings": {
-      "Headings should be formatted with capitalization": false,
+      "Headings should be formatted with capitalization": true,
       "Style": "Title Case",
       "Ignore Cased Words": true,
       "Ignore Words": "macOS, iOS, iPhone, iPad, JavaScript, TypeScript, AppleScript",
       "Lowercase Words": "via, a, an, the, and, or, but, for, nor, so, yet, at, by, in, of, on, to, up, as, is, if, it, for, to, with, without, into, onto, per"
     },
     "File Name Heading": {
-      "Inserts the file name as a H1 heading if no H1 heading exists.": false
+      "Inserts the file name as a H1 heading if no H1 heading exists.": true
     },
     "Header Increment": {
-      "Heading levels should only increment by one level at a time": false
+      "Heading levels should only increment by one level at a time": true
     },
     "Footnote after Punctuation": {
       "Ensures that footnote references are placed after punctuation, not before.": false
@@ -205,7 +205,6 @@
   "displayChanged": true,
   "foldersToIgnore": [
     "data",
-    "personal",
     "templates",
     ".obsidian"
   ],

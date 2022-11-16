@@ -1,10 +1,14 @@
 ---
+aliases: 
+tags: 
 title: haskell list functions
 created: 2022-08-15T00:31:04-05:00
-updated: 2022-11-16T15:57:41-06:00
+updated: 2022-11-16T16:49:16-06:00
+name: haskell list functions
 ---
+# haskell list functions
 
-## Simple built in functions
+## Simple Built in Functions
 
 `head` takes a list and returns its head. The head of a list is basically its first element.
 

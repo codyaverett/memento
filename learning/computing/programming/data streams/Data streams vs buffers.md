@@ -1,18 +1,22 @@
 ---
+aliases: 
+tags: 
 title: Data streams vs buffers
 created: 2022-10-07T20:11:20-05:00
-updated: 2022-11-16T15:49:44-06:00
+updated: 2022-11-16T16:49:16-06:00
+name: Data streams vs buffers
 ---
+# Data streams vs buffers
 
 - Buffers process data at the expense of system memory
 - Streams process data as it is received which reduces the memory overhead for each
 
-## Streaming challenges
+## Streaming Challenges
 - If the producer streams more data than the consumer can process in a span of time, the consumer will start to take up memory
 - If a consumer system dies in the middle of a data stream you'd need to have a way to start the process back up without duplicating work
 - Too many producers/consumers can turn the system into a tightly coupled monolith
 
-## Streaming is amazing though
+## Streaming is Amazing Though
 - "Perhaps it’s not surprising that when streams become the center of the world, everything is streamlined."
 - 
 

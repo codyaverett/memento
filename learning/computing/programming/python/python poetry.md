@@ -1,8 +1,11 @@
 ---
+aliases: 
+tags: 
 created: 2022-11-16T15:11:30-06:00
-updated: 2022-11-16T15:11:30-06:00
+updated: 2022-11-16T16:49:15-06:00
+name: python poetry
 ---
-# python poetry
+# Python Poetry
 
 One of the [[python package managers]]
 
@@ -14,7 +17,7 @@ One of the [[python package managers]]
 curl -sSL https://install.python-poetry.org | python3 -
 ```
 
-## Initialize your Python project:
+## Initialize Your Python Project:
 
 ```sh
 poetry init --no-interaction

@@ -1,8 +1,11 @@
 ---
+aliases: 
+tags: 
 created: 2022-11-16T15:11:30-06:00
-updated: 2022-11-16T15:11:30-06:00
+updated: 2022-11-16T16:49:15-06:00
+name: python special strings
 ---
-# python special strings
+# Python Special Strings
 
 - str_u - unicode string
 - str_b - bytes type string

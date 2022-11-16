@@ -1,8 +1,12 @@
 ---
+aliases: 
+tags: 
 title: apache airflow
 created: 2022-10-05T14:01:50-05:00
-updated: 2022-11-16T15:46:17-06:00
+updated: 2022-11-16T16:49:15-06:00
+name: apache airflow
 ---
+# apache airflow
 
 - Created Oct 2014 and announced June 2015
 - [Joined the Apache Foundation](https://blogs.apache.org/foundation/entry/the-apache-software-foundation-announces44) March 2016
@@ -31,7 +35,7 @@ updated: 2022-11-16T15:46:17-06:00
 - Web interface for managing the state of workflows
 - Deployable on basically any system
 
-## Workflows as code
+## Workflows as Code
 - Workflows are written in python
 	- Code allows for dynamic pipeline generation
 	- Adaptable to environments due to extensions

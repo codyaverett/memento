@@ -1,8 +1,15 @@
+---
+aliases: 
+tags: 
+name: Memento
+created: 2022-06-09T20:31:52-05:00
+updated: 2022-11-16T16:49:16-06:00
+---
 # Memento
 
 This repository is for capturing notes and ideas and I learn in public.
 
-## About me
+## About Me
 
 Welcome to my digital mind. 
 
@@ -16,7 +23,7 @@ Welcome to my digital mind.
 	- self-improvement
 	- and economics
 
-## Contact me
+## Contact Me
 
 I am open to business inquiries and consultation.
 

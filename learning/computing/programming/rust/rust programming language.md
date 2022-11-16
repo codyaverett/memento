@@ -1,8 +1,11 @@
 ---
+aliases: 
+tags: 
 created: 2022-11-16T15:11:30-06:00
-updated: 2022-11-16T15:11:30-06:00
+updated: 2022-11-16T16:49:15-06:00
+name: Rust programming language
 ---
-# Rust programming language
+# Rust Programming Language
 - [Official website](https://www.rust-lang.org/)
 - [Docs](https://doc.rust-lang.org/reference/introduction.html)
 - [Wikipedia](https://en.wikipedia.org/wiki/Rust_(programming_language))

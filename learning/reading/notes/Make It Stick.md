@@ -1,14 +1,18 @@
 ---
+aliases: 
+tags: 
 title: Make It Stick
 created: 2022-11-04T20:34:34-05:00
-updated: 2022-11-16T16:00:07-06:00
+updated: 2022-11-16T16:49:13-06:00
+name: Make It Stick
 ---
+# Make It Stick
 
 1. Learning requires memory
 2. We need to keep learning and remembering all of our lives 
 3. Learning is an acquired skill and the most effective strategies are often counterintuitive 
 
-## Claims made in the book
+## Claims Made in the Book
 
 - We are poor judges of when we are learning well and when we're not.
 - Rereading text is one of the least productive learning methods

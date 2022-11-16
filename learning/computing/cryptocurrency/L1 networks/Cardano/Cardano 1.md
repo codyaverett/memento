@@ -1,6 +1,9 @@
 ---
+aliases: 
+tags: 
 created: 2022-11-16T15:11:29-06:00
-updated: 2022-11-16T15:11:29-06:00
+updated: 2022-11-16T16:49:16-06:00
+name: Cardano
 ---
 # Cardano
 
@@ -40,7 +43,7 @@ updated: 2022-11-16T15:11:29-06:00
 ## Launchpads
 * [Occamfi](https://occam.fi/ecosystem)
 
-## NFT marketplaces and explorers
+## NFT Marketplaces and Explorers
 * [NFT Explorer](https://pool.pm) - see new nfts created and nfts of any wallet address
 * [CNFT Marketplace](https://cnft.io/marketplace.php) - buy/sell nfts
 * [Tokhun cNFT marketplace](https://tokhun.io/)
@@ -74,7 +77,7 @@ updated: 2022-11-16T15:11:29-06:00
 ## MEME
 [hoskyinu](https://www.hoskyinu.io/gethoskyinu)
 
-## NFT marketplace quick search links
+## NFT Marketplace Quick Search Links
 * [clay](https://cnft.io/marketplace.php?s=clay)
 
 ## Defi Projects

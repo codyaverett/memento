@@ -1,10 +1,14 @@
 ---
+aliases: 
+tags: 
 title: stardew valley item codes
 created: 2022-07-25T03:40:28-05:00
-updated: 2022-11-16T16:04:07-06:00
+updated: 2022-11-16T16:49:14-06:00
+name: stardew valley item codes
 ---
+# stardew valley item codes
 
-## this should probably be a db folder instead
+## This Should Probably Be a Db Folder Instead
 
 Item Spawn Code
 

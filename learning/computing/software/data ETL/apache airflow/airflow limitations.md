@@ -1,15 +1,19 @@
 ---
+aliases: 
+tags: 
 title: airflow limitations
 created: 2022-10-18T21:54:30-05:00
-updated: 2022-11-16T15:45:42-06:00
+updated: 2022-11-16T16:49:15-06:00
+name: airflow limitations
 ---
+# airflow limitations
 
 - It's a workflow management platform
 - It runs any workflow you want to run, doesn't have to be a data etl job
 - It's really just a job scheduler
 - No loops! Acyclic!
 
-## Identity crisis
+## Identity Crisis
 - Heavily promoted as an ETL Service
 - CRON on Steroid
 - Can be used for any scheduled work
@@ -28,7 +32,7 @@ updated: 2022-11-16T15:45:42-06:00
 - Kettle by Pentaho
 - Databricks Jobs/Notebooks
 
-## What Airflow is good for
+## What Airflow is Good for
 - Drawing DAGs
 - Complex Computations (rerunning pieces of jobs)
 - Want self contained ETL in Python

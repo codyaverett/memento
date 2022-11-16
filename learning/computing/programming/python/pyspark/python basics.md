@@ -1,8 +1,12 @@
 ---
+aliases: 
+tags: 
 title: python basics
 created: 2022-09-09T11:19:02-05:00
-updated: 2022-11-16T16:02:08-06:00
+updated: 2022-11-16T16:49:15-06:00
+name: python basics
 ---
+# python basics
 
 ```toc
 ```
@@ -79,7 +83,7 @@ Python has a lot of built in functions see a complete list in the python docs
 # None (null)
 ```
 
-### Empty Code blocks
+### Empty Code Blocks
 empty code blocks can be implemented using the special `pass` keyword
 ```python
 is_valid = true
@@ -96,7 +100,7 @@ students_count = 1000
 print(type(students_count)) # <class 'int'>
 ```
 
-## Mutable and Immutable types
+## Mutable and Immutable Types
 
 ```python
 x = 1
@@ -162,7 +166,7 @@ price = 10
 print(not price > 10) # False
 ```
 
-## If statements
+## If Statements
 ```python
 temperature = 35
 
@@ -194,7 +198,7 @@ message = "Eligible" if age >= 18 else "Not Eligible"
 print(message)
 ```
 
-## While loops
+## While Loops
 ```python
 i = 1
 while i <= 5:
@@ -202,7 +206,7 @@ while i <= 5:
 	i += 1
 ```
 
-## Numbers 
+## Numbers
 ```python
 i = 1
 while i < 1_000: # separate numbers with underscores to make numbers easier to read
@@ -250,7 +254,7 @@ Joins two objects together and returns an iterable object.
 ('c', 'o')
 ```
 
-## Iterate over a list
+## Iterate Over a List
 ```python
 numbers = [1, 2, 3, 4, 5]
 
@@ -264,7 +268,7 @@ while i < len(numbers):
 	i += 1
 ```
 
-### Breaking out of loops
+### Breaking Out of Loops
 
 ```python
 names = ["John", "Mary"]
@@ -278,7 +282,7 @@ else:
 	print("Not Found")
 ```
 
-### Escape sequences
+### Escape Sequences
 ```python
 # \"
 # \'
@@ -363,7 +367,7 @@ Cody
 Heather
 ```
 
-## Magic methods 
+## Magic Methods
 Also called "Special Variables"
 "__ function __()" They have underscores preceding the values
 
@@ -380,7 +384,7 @@ def increment(number: int, by: int=1) -> tuple: # by has a default value of 1
 print(increment(2, 3))
 ```
 
-### Multiply example
+### Multiply Example
 Passing multiple values to a function as a list
 ```python
 # def multiply(a, b):
@@ -413,7 +417,7 @@ save_user(id=1, name="admin")
 
 ```
 
-## Variable scope
+## Variable Scope
 
 Local variable in function scope and global variables at file level scope
 
@@ -451,7 +455,7 @@ greet()
 print(message) # b
 ```
 
-## With statement
+## With Statement
 Used in exception handling to make the code cleaner/more readable
 
 ### Without With
@@ -480,7 +484,7 @@ with open ('file path', 'w') as file:
 
 With ensures proper acquisition and release of resources, no need to close the file because it's handled automatically
 
-### Using with with custom code
+### Using with with Custom Code
 ```python
 # a simple file writer object
 class MessageWriter (object) :

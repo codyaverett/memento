@@ -1,8 +1,12 @@
 ---
+aliases: 
+tags: 
 title: if you are forgetting what you read after you read it
 created: 2022-10-30T20:12:40-05:00
-updated: 2022-11-16T15:58:00-06:00
+updated: 2022-11-16T16:49:13-06:00
+name: if you are forgetting what you read after you read it
 ---
+# if you are forgetting what you read after you read it
 
 "Reasons reap results"
 "Genius leaves clues"
@@ -12,7 +16,7 @@ updated: 2022-11-16T15:58:00-06:00
 Reading slow impacts reading comprehension.
 Reading quickly improves your focus.
 
-## 3 questions to ask about what you are reading
+## 3 Questions to Ask About What You Are Reading
 1. How can I use this? 
 	- While reading or learning, ask yourself all the time: how can I use this information? How can I apply this?
 	- Where you put your focus is where your attention and then action will flow.

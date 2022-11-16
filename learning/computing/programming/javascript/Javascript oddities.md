@@ -1,10 +1,14 @@
 ---
+aliases: 
+tags: 
 title: Javascript oddities
 created: 2022-10-18T18:30:05-05:00
-updated: 2022-11-16T15:58:53-06:00
+updated: 2022-11-16T16:49:16-06:00
+name: Javascript oddities
 ---
+# Javascript oddities
 
-## Numeric string concatenation 
+## Numeric String Concatenation
 
 Operators other than plus will turn a string into arithmatic
 ```javascript

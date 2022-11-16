@@ -1,8 +1,12 @@
 ---
+aliases: 
+tags: 
 title: github actions
 created: 2022-10-19T12:39:36-05:00
-updated: 2022-11-16T15:57:06-06:00
+updated: 2022-11-16T16:49:15-06:00
+name: github actions
 ---
+# github actions
 
 Github actions are set up to run automated tasks when specific code repository events occur.
 

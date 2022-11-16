@@ -1,12 +1,16 @@
 ---
+aliases: 
+tags: 
 title: django class models
 created: 2022-09-14T03:28:04-05:00
-updated: 2022-11-16T15:50:13-06:00
+updated: 2022-11-16T16:49:15-06:00
+name: django class models
 ---
+# django class models
 
 It's really simple to add and remove new db models
 
-## Create class to represent model
+## Create Class to Represent Model
 ```python
 from django.db import models
 
@@ -21,14 +25,14 @@ class Product(models.Model):
 
 [Field Types](https://docs.djangoproject.com/en/4.1/ref/models/fields/#field-types)
 
-## Update models
+## Update Models
 
 ```shell
 python manage.py makemigrate # Create the migration files
 python manage.py migrate # Apply migration files
 ```
 
-## View the new table in the DB
+## View the New Table in the DB
 I'm using the default sqlite3 db that was auto generated here.
 
 ```shell
@@ -44,7 +48,7 @@ sqlite> SELECT * FROM store_product
 1|Woo hoo|This really doesn't bode well|1999||1
 ```
 
-## Add the model to the admin panel
+## Add the Model to the Admin Panel
 - in the `admin.py` file of your django app module do a relative import of the models and use the `admin.site.Register(Product)` function to 
 
 ```python
@@ -57,7 +61,7 @@ admin.site.register(Product)
 Profit!  You can manipulate the Product information directly from the DJango admin site.
 ![[Pasted image 20220914033351.png]]
 
-## Using the python shell to create Products
+## Using the Python Shell to Create Products
 
 ```shell
 python manage.py shell

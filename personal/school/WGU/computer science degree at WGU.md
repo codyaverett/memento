@@ -1,4 +1,11 @@
-# Computer Science Degree from WGU
+---
+aliases: 
+tags: 
+name: Computer Science Degree from WGU
+created: 2022-09-28T16:13:52-05:00
+updated: 2022-11-16T16:49:13-06:00
+---
+# Computer Science Degree From WGU
 - Everything i've heard about this school online has seemed great.
 
 ## Resources

@@ -1,8 +1,12 @@
 ---
+aliases: 
+tags: 
 title: Overthinking
 created: 2022-11-15T17:20:18-06:00
-updated: 2022-11-16T16:01:03-06:00
+updated: 2022-11-16T16:49:14-06:00
+name: Overthinking
 ---
+# Overthinking
 
 Commentary in your head:
 - Constant criticizing and picking apart what you said or did

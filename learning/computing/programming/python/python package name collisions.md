@@ -1,8 +1,11 @@
 ---
+aliases: 
+tags: 
 created: 2022-11-16T15:11:30-06:00
-updated: 2022-11-16T15:11:30-06:00
+updated: 2022-11-16T16:49:15-06:00
+name: Python package name collisions
 ---
-# Python package name collisions
+# Python Package Name Collisions
 
 There can be instances where two packages have the same import name.  The last package imported wins.
 
@@ -39,7 +42,7 @@ However, It turns out that the `pytest-dotenv` could be used instead.  The key d
 
 Things like this can be a little confusing especially if the libraries aren't documented very well.
 
-## Workarounds if I needed to fix the collision
+## Workarounds if I Needed to Fix the Collision
 1. Fork the project and publish to pypi under your own name
 2. Use `pip download` to download a local copy of the package where you can then change the name to be something else.
 

@@ -1,24 +1,28 @@
 ---
+aliases: 
+tags: 
 title: ETL basics
 created: 2022-10-18T17:56:28-05:00
-updated: 2022-11-16T15:56:18-06:00
+updated: 2022-11-16T16:49:16-06:00
+name: ETL basics
 ---
+# ETL basics
 
-## Load the data
+## Load the Data
 Get data from various sources
 
 ## Types of Transformations
 * Aggregation
 * Normalization
 
-## Tools for ETL processes
+## Tools for ETL Processes
 - Apache Nifi (seen this before, we almost used at walmart)
 - Informatica
 - Talend
 - Microsoft SSIS
 - Apache Airflow (job runner/orchestrator, but people use it in ETL processes)
 
-## Data Warehouse software
+## Data Warehouse Software
 A simple database can typically be used, but there are enterprise focused Data warehouse softwares that can be used instead.
 
 - Teradata (used this at walmart before we transitioned to hadoop and datalake)

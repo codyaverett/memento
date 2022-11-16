@@ -1,8 +1,12 @@
 ---
+aliases: 
+tags: 
 title: loading spinners and representing updates in a CLI application
 created: 2022-09-28T22:21:01-05:00
-updated: 2022-11-16T15:59:54-06:00
+updated: 2022-11-16T16:49:16-06:00
+name: loading spinners and representing updates in a CLI application
 ---
+# loading spinners and representing updates in a CLI application
 
 There are many super cool CLI applications out there that do things beyond what you'd think is even capable from inside of a terminal application.
 
