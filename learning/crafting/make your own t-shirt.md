@@ -1,8 +1,7 @@
 ---
-created_at: 2022-07-25T02:50:21-05:00
-modified_at: 2022-11-16T15:26:41-06:00
-created: 2022-11-16T15:27:13-06:00
-updated: 2022-11-16T15:27:13-06:00
+title: make your own t-shirt
+created: 2022-07-25T02:50:21-05:00
+updated: 2022-11-16T16:00:09-06:00
 ---
 
 I'm adverse to going out and trying on new clothes.

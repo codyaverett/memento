@@ -1,10 +1,9 @@
 ---
+title: Interesting plugins
+created: 2022-06-08T02:32:15-05:00
+updated: 2022-11-16T15:58:22-06:00
 dg-home: true
 dg-publish: true
-created_at: 2022-06-08T02:32:15-05:00
-modified_at: 2022-11-16T15:22:52-06:00
-created: 2022-11-16T15:23:24-06:00
-updated: 2022-11-16T15:23:24-06:00
 ---
 
 # Interesting plugins

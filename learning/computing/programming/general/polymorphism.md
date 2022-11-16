@@ -1,8 +1,7 @@
 ---
-created_at: 2022-09-24T22:40:49-05:00
-modified_at: 2022-11-16T15:31:49-06:00
-created: 2022-11-16T15:32:21-06:00
-updated: 2022-11-16T15:32:21-06:00
+title: polymorphism
+created: 2022-09-24T22:40:49-05:00
+updated: 2022-11-16T16:01:26-06:00
 ---
 
 I get asked about this topic occasionally by mentees and interviewers.  It's good to have a plan for how you would like to describe the concept of polymorphism to other humans.

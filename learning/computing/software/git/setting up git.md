@@ -1,8 +1,7 @@
 ---
-created_at: 2022-10-21T13:58:43-05:00
-modified_at: 2022-11-16T15:25:16-06:00
-created: 2022-11-16T15:25:48-06:00
-updated: 2022-11-16T15:25:48-06:00
+title: Setting up git
+created: 2022-10-21T13:58:43-05:00
+updated: 2022-11-16T16:03:39-06:00
 ---
 
 # Setting up git

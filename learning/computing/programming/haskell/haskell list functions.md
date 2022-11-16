@@ -1,9 +1,7 @@
 ---
-language: haskell
-created_at: 2022-08-15T00:31:04-05:00
-modified_at: 2022-11-16T15:32:03-06:00
-created: 2022-11-16T15:32:35-06:00
-updated: 2022-11-16T15:32:35-06:00
+title: haskell list functions
+created: 2022-08-15T00:31:04-05:00
+updated: 2022-11-16T15:57:41-06:00
 ---
 
 ## Simple built in functions

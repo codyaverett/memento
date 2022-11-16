@@ -1,8 +1,7 @@
 ---
-created_at: 2022-11-15T17:30:41-06:00
-modified_at: 2022-11-16T15:28:02-06:00
-created: 2022-11-16T15:28:34-06:00
-updated: 2022-11-16T15:28:34-06:00
+title: Ruminative brooding
+created: 2022-11-15T17:30:41-06:00
+updated: 2022-11-16T16:03:10-06:00
 ---
 
 Thinking about negative stuff that happened in the past?

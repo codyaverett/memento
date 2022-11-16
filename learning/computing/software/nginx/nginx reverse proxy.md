@@ -1,8 +1,7 @@
 ---
-created_at: 2022-10-22T02:21:39-05:00
-modified_at: 2022-11-16T15:26:11-06:00
-created: 2022-11-16T15:26:43-06:00
-updated: 2022-11-16T15:26:43-06:00
+title: nginx reverse proxy
+created: 2022-10-22T02:21:39-05:00
+updated: 2022-11-16T16:00:33-06:00
 ---
 
 ## nginx.conf

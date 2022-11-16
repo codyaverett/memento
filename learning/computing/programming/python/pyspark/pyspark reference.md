@@ -1,8 +1,7 @@
 ---
-created_at: 2022-09-15T03:22:19-05:00
-modified_at: 2022-11-16T15:35:37-06:00
-created: 2022-11-16T15:36:09-06:00
-updated: 2022-11-16T15:36:09-06:00
+title: pyspark reference
+created: 2022-09-15T03:22:19-05:00
+updated: 2022-11-16T16:02:01-06:00
 ---
 
 - Python API to support Apache Spark

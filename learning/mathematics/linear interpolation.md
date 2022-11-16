@@ -1,8 +1,7 @@
 ---
-created_at: 2022-10-08T16:09:51-05:00
-modified_at: 2022-11-16T15:27:48-06:00
-created: 2022-11-16T15:28:20-06:00
-updated: 2022-11-16T15:28:20-06:00
+title: Linear Interpolation
+created: 2022-10-08T16:09:51-05:00
+updated: 2022-11-16T15:59:25-06:00
 ---
 
 # Linear Interpolation

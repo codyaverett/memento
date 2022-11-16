@@ -1,8 +1,7 @@
 ---
-created_at: 2022-11-12T17:47:01-06:00
-modified_at: 2022-11-16T15:28:36-06:00
-created: 2022-11-16T15:29:07-06:00
-updated: 2022-11-16T15:29:07-06:00
+title: Sheet music
+created: 2022-11-12T17:47:01-06:00
+updated: 2022-11-16T16:03:44-06:00
 ---
 
 Reading sheet music

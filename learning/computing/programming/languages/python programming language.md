@@ -1,8 +1,7 @@
 ---
-created_at: 2022-09-12T19:46:41-05:00
-modified_at: 2022-11-16T15:33:12-06:00
-created: 2022-11-16T15:33:44-06:00
-updated: 2022-11-16T15:33:44-06:00
+title: python programming language
+created: 2022-09-12T19:46:41-05:00
+updated: 2022-11-16T16:02:49-06:00
 ---
 
 - [[python basics]]

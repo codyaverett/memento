@@ -1,8 +1,7 @@
 ---
-created: 2022-11-16T15:11:31-06:00
-updated: 2022-11-16T15:26:35-06:00
-created_at: 2022-10-19T15:12:07-05:00
-modified_at: 2022-11-16T15:26:01-06:00
+title: Linux DNS
+created: 2022-10-19T15:12:07-05:00
+updated: 2022-11-16T15:59:36-06:00
 ---
 
 DNS servers are configured in `/etc/resolve.conf`

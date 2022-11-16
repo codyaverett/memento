@@ -1,8 +1,7 @@
 ---
-created_at: 2022-10-18T18:06:41-05:00
-modified_at: 2022-11-16T15:28:17-06:00
-created: 2022-11-16T15:28:48-06:00
-updated: 2022-11-16T15:28:48-06:00
+title: general productivity tips
+created: 2022-10-18T18:06:41-05:00
+updated: 2022-11-16T15:56:47-06:00
 ---
 
 1. Ask people that are productive, what makes them productive

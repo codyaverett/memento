@@ -1,10 +1,8 @@
 ---
-created_at: 2022-10-21T13:55:06-05:00
-modified_at: 2022-11-16T15:23:23-06:00
-created: 2022-11-16T15:23:54-06:00
-updated: 2022-11-16T15:23:54-06:00
+title: run docker commands without sudo
+created: 2022-10-21T13:55:06-05:00
+updated: 2022-11-16T16:03:22-06:00
 ---
-# Run Docker commands without sudo
 
 ##### 1. Add the `docker` group if it doesn't already exist
 

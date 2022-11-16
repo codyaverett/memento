@@ -1,8 +1,7 @@
 ---
-created_at: 2022-11-04T20:34:34-05:00
-modified_at: 2022-11-16T15:28:58-06:00
-created: 2022-11-16T15:29:30-06:00
-updated: 2022-11-16T15:29:30-06:00
+title: Make It Stick
+created: 2022-11-04T20:34:34-05:00
+updated: 2022-11-16T16:00:07-06:00
 ---
 
 1. Learning requires memory

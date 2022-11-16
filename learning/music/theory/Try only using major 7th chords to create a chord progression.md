@@ -1,8 +1,7 @@
 ---
-created_at: 2022-10-18T18:32:56-05:00
-modified_at: 2022-11-16T15:28:29-06:00
-created: 2022-11-16T15:29:03-06:00
-updated: 2022-11-16T15:29:03-06:00
+title: Try only using major 7th chords to create a chord progression
+created: 2022-10-18T18:32:56-05:00
+updated: 2022-11-16T16:05:00-06:00
 ---
 
 C -> F -> Bb

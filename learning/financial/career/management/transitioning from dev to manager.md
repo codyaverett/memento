@@ -1,8 +1,7 @@
 ---
-created_at: 2022-08-10T23:46:41-05:00
-modified_at: 2022-11-16T15:27:10-06:00
-created: 2022-11-16T15:27:43-06:00
-updated: 2022-11-16T15:27:43-06:00
+title: transitioning from dev to manager
+created: 2022-08-10T23:46:41-05:00
+updated: 2022-11-16T16:04:45-06:00
 ---
 
 ## Reference

@@ -1,8 +1,7 @@
 ---
-created_at: 2022-09-13T00:30:32-05:00
-modified_at: 2022-11-16T15:36:52-06:00
-created: 2022-11-16T15:37:26-06:00
-updated: 2022-11-16T15:37:26-06:00
+title: functional python programming
+created: 2022-09-13T00:30:32-05:00
+updated: 2022-11-16T15:56:42-06:00
 ---
 
 ## Mapping over iterables

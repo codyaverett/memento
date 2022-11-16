@@ -1,8 +1,7 @@
 ---
-created_at: 2022-10-10T00:46:22-05:00
-modified_at: 2022-11-16T15:38:17-06:00
-created: 2022-11-16T15:38:48-06:00
-updated: 2022-11-16T15:38:48-06:00
+title: python decorators
+created: 2022-10-10T00:46:22-05:00
+updated: 2022-11-16T16:02:42-06:00
 ---
 
 A fancy way to wrap a function with a function.  Similar to decorators in typescript.

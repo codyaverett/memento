@@ -1,8 +1,7 @@
 ---
-created_at: 2022-09-16T23:41:40-05:00
-modified_at: 2022-11-16T15:35:22-06:00
-created: 2022-11-16T15:35:54-06:00
-updated: 2022-11-16T15:35:54-06:00
+title: python virtual environments
+created: 2022-09-16T23:41:40-05:00
+updated: 2022-11-16T16:02:53-06:00
 ---
 
 Virtual environments are useful to isolate your project's dependencies from your global development dependencies.

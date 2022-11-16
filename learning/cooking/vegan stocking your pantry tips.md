@@ -1,8 +1,7 @@
 ---
-created_at: 2022-07-25T06:04:49-05:00
-modified_at: 2022-11-16T15:26:36-06:00
-created: 2022-11-16T15:27:08-06:00
-updated: 2022-11-16T15:27:08-06:00
+title: vegan stocking your pantry tips
+created: 2022-07-25T06:04:49-05:00
+updated: 2022-11-16T16:05:17-06:00
 ---
 
 Missing one item from a recipe can be horrible

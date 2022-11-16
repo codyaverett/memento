@@ -32,7 +32,7 @@
     "learning/computing/software/DNS/dns.md": {
       "size": 0,
       "tags": 0,
-      "links": 0
+      "links": 1
     },
     "learning/computing/software/blender/Interesting plugins.md": {
       "size": 341,
@@ -83,11 +83,6 @@
       "size": 0,
       "tags": 0,
       "links": 0
-    },
-    "learning/computing/software/obsidian/first-impressions.md": {
-      "size": 415,
-      "tags": 0,
-      "links": 1
     },
     "learning/computing/software/linux/create linux superuser.md": {
       "size": 4415,
@@ -333,11 +328,6 @@
       "size": 0,
       "tags": 0,
       "links": 0
-    },
-    "learning/computing/programming/machine learning/ml example.md": {
-      "size": 0,
-      "tags": 0,
-      "links": 1
     },
     "learning/computing/programming/c and c++/Glut graphics framework.md": {
       "size": 0,
@@ -1222,7 +1212,7 @@
     "learning/computing/programming/languages/Lisp programming language.md": {
       "size": 0,
       "tags": 0,
-      "links": 0
+      "links": 1
     },
     "data/useful-links.md": {
       "size": 0,
@@ -1233,13 +1223,23 @@
       "size": 3081,
       "tags": 0,
       "links": 0
+    },
+    "learning/computing/software/obsidian/first impressions.md": {
+      "size": 415,
+      "tags": 0,
+      "links": 1
+    },
+    "learning/computing/programming/machine learning/ml examples.md": {
+      "size": 0,
+      "tags": 0,
+      "links": 1
     }
   },
   "commitTypes": {
     "/": {
-      "Refactor": 1369,
+      "Refactor": 1371,
       "Create": 247,
-      "Link": 82,
+      "Link": 84,
       "Expand": 96
     }
   },
@@ -1260,8 +1260,8 @@
       "12": 6,
       "13": 49,
       "14": 40,
-      "15": 54,
-      "16": 1187,
+      "15": 56,
+      "16": 1189,
       "17": 60,
       "18": 29,
       "19": 25,
@@ -1275,7 +1275,7 @@
     "/": {
       "Mon": 1239,
       "Tue": 102,
-      "Wed": 151,
+      "Wed": 155,
       "Thu": 109,
       "Fri": 114,
       "Sat": 0,
@@ -1391,6 +1391,8 @@
         "<a class=\"internal-link\" href=\"software/containers/docker-compose/Untitled.md\"> Untitled </a>"
       ],
       "Renamed": [
+        "<a class=\"internal-link\" href=\"learning/computing/programming/machine learning/ml examples.md\"> ml examples </a>",
+        "<a class=\"internal-link\" href=\"learning/computing/software/obsidian/first impressions.md\"> first impressions </a>",
         "<a class=\"internal-link\" href=\"learning/computing/programming/python/python decorators.md\"> python decorators </a>",
         "<a class=\"internal-link\" href=\"learning/computing/programming/languages/javascript programming language.md\"> javascript programming language </a>",
         "<a class=\"internal-link\" href=\"learning/computing/programming/javascript/javascript programming language.md\"> javascript programming language </a>",
@@ -1439,9 +1441,7 @@
         "<a class=\"internal-link\" href=\"learning/reading/if you are forgetting what you read after you read it.md\"> if you are forgetting what you read after you read it </a>",
         "<a class=\"internal-link\" href=\"learning/reading/forgetting what you read after you read it.md\"> forgetting what you read after you read it </a>",
         "<a class=\"internal-link\" href=\"learning/reading/notes/Staff Engineer.md\"> Staff Engineer </a>",
-        "<a class=\"internal-link\" href=\"learning/reading/notes/Make It Stick.md\"> Make It Stick </a>",
-        "<a class=\"internal-link\" href=\"random/really useful websites.md\"> really useful websites </a>",
-        "<a class=\"internal-link\" href=\"random/being impaled by a javelin.md\"> being impaled by a javelin </a>"
+        "<a class=\"internal-link\" href=\"learning/reading/notes/Make It Stick.md\"> Make It Stick </a>"
       ],
       "Tagged": [
         "<a class=\"internal-link\" href=\"personal/job-hunting/jb-hunt-topics.md\"> jb-hunt-topics </a>",
@@ -1503,6 +1503,8 @@
         "<a class=\"internal-link\" href=\"templates/frontmatter.md\"> frontmatter </a>"
       ],
       "Linked": [
+        "<a class=\"internal-link\" href=\"learning/computing/programming/languages/Lisp programming language.md\"> Lisp programming language </a>",
+        "<a class=\"internal-link\" href=\"learning/computing/software/DNS/dns.md\"> dns </a>",
         "<a class=\"internal-link\" href=\"learning/computing/programming/python/building python extensions with Rust.md\"> building python extensions with Rust </a>",
         "<a class=\"internal-link\" href=\"learning/computing/programming/java/javac.md\"> javac </a>",
         "<a class=\"internal-link\" href=\"learning/computing/programming/haskell/haskell list functions.md\"> haskell list functions </a>",
@@ -1551,9 +1553,7 @@
         "<a class=\"internal-link\" href=\"daily/10-05-22.md\"> 10-05-22 </a>",
         "<a class=\"internal-link\" href=\"programming/python/Python Caching.md\"> Python Caching </a>",
         "<a class=\"internal-link\" href=\"programming/python/python cached property.md\"> python cached property </a>",
-        "<a class=\"internal-link\" href=\"programming/python/python classes.md\"> python classes </a>",
-        "<a class=\"internal-link\" href=\"programming/python/python special strings.md\"> python special strings </a>",
-        "<a class=\"internal-link\" href=\"programming/python/python os module.md\"> python os module </a>"
+        "<a class=\"internal-link\" href=\"programming/python/python classes.md\"> python classes </a>"
       ],
       "Removed Tags from": [
         "<a class=\"internal-link\" href=\"learning/computing/programming/python/python extensions.md\"> python extensions </a>",

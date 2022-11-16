@@ -1,8 +1,7 @@
 ---
-created_at: 2022-10-30T20:12:40-05:00
-modified_at: 2022-11-16T15:28:52-06:00
-created: 2022-11-16T15:29:23-06:00
-updated: 2022-11-16T15:29:23-06:00
+title: if you are forgetting what you read after you read it
+created: 2022-10-30T20:12:40-05:00
+updated: 2022-11-16T15:58:00-06:00
 ---
 
 "Reasons reap results"
