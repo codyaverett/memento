@@ -1152,7 +1152,7 @@
     "learning/mental/health/Ruminative brooding.md": {
       "size": 0,
       "tags": 0,
-      "links": 0
+      "links": 1
     },
     "learning/mental/productivity/how to have time for everything.md": {
       "size": 0,
@@ -1169,7 +1169,12 @@
       "tags": 0,
       "links": 0
     },
-    "learning/mental/productivity/really useful websites.md": {
+    "learning/computing/really useful websites.md": {
+      "size": 0,
+      "tags": 0,
+      "links": 0
+    },
+    "learning/mental/health/Self-Fulfilling belief.md": {
       "size": 0,
       "tags": 0,
       "links": 0
@@ -1177,9 +1182,9 @@
   },
   "commitTypes": {
     "/": {
-      "Refactor": 1353,
-      "Create": 230,
-      "Link": 66,
+      "Refactor": 1354,
+      "Create": 231,
+      "Link": 67,
       "Expand": 91
     }
   },
@@ -1202,7 +1207,7 @@
       "14": 27,
       "15": 39,
       "16": 1187,
-      "17": 57,
+      "17": 60,
       "18": 28,
       "19": 25,
       "20": 33,
@@ -1214,7 +1219,7 @@
   "weeklyCommits": {
     "/": {
       "Mon": 1239,
-      "Tue": 98,
+      "Tue": 101,
       "Wed": 101,
       "Thu": 109,
       "Fri": 114,
@@ -1280,6 +1285,7 @@
       "Created": [
         "<a class=\"internal-link\" href=\"learning/mental/health/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"learning/mental/health/Untitled.md\"> Untitled </a>",
+        "<a class=\"internal-link\" href=\"learning/mental/health/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"personal/notes/Ben Levin's course  Blender for musicians.md\"> Ben Levin's course  Blender for musicians </a>",
         "<a class=\"internal-link\" href=\"personal/notes/Follow up on Insurance transition.md\"> Follow up on Insurance transition </a>",
         "<a class=\"internal-link\" href=\"personal/Untitled Kanban.md\"> Untitled Kanban </a>",
@@ -1327,10 +1333,10 @@
         "<a class=\"internal-link\" href=\"software/data ETL/apache airflow/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"templates/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"cryptocurrency/Chainlink/Untitled.md\"> Untitled </a>",
-        "<a class=\"internal-link\" href=\"software/data ETL/Untitled.md\"> Untitled </a>",
-        "<a class=\"internal-link\" href=\"programming/databases/postgres/Untitled.md\"> Untitled </a>"
+        "<a class=\"internal-link\" href=\"software/data ETL/Untitled.md\"> Untitled </a>"
       ],
       "Renamed": [
+        "<a class=\"internal-link\" href=\"learning/computing/really useful websites.md\"> really useful websites </a>",
         "<a class=\"internal-link\" href=\"learning/mental/productivity/really useful websites.md\"> really useful websites </a>",
         "<a class=\"internal-link\" href=\"learning/mental/productivity/all failures are learning opportunities.md\"> all failures are learning opportunities </a>",
         "<a class=\"internal-link\" href=\"learning/mental/productivity/general productivity tips.md\"> general productivity tips </a>",
@@ -1380,8 +1386,7 @@
         "<a class=\"internal-link\" href=\"personal/life/hacks/how to have time for everything.md\"> how to have time for everything </a>",
         "<a class=\"internal-link\" href=\"personal/life/hacks/reading quickly.md\"> reading quickly </a>",
         "<a class=\"internal-link\" href=\"personal/life/hacks/forgetting what you read after you read it.md\"> forgetting what you read after you read it </a>",
-        "<a class=\"internal-link\" href=\"personal/life/hacks/transporting lumber with a roof rack.md\"> transporting lumber with a roof rack </a>",
-        "<a class=\"internal-link\" href=\"personal/life/hacks/productivity tips.md\"> productivity tips </a>"
+        "<a class=\"internal-link\" href=\"personal/life/hacks/transporting lumber with a roof rack.md\"> transporting lumber with a roof rack </a>"
       ],
       "Tagged": [
         "<a class=\"internal-link\" href=\"personal/job-hunting/jb-hunt-topics.md\"> jb-hunt-topics </a>",
@@ -1438,6 +1443,7 @@
         "<a class=\"internal-link\" href=\"personal/notes/Follow up on Insurance transition.md\"> Follow up on Insurance transition </a>"
       ],
       "Linked": [
+        "<a class=\"internal-link\" href=\"learning/mental/health/Ruminative brooding.md\"> Ruminative brooding </a>",
         "<a class=\"internal-link\" href=\"personal/task board.md\"> task board </a>",
         "<a class=\"internal-link\" href=\"personal/task board.md\"> task board </a>",
         "<a class=\"internal-link\" href=\"learning/computing/programming/java/java dependency management.md\"> java dependency management </a>",
@@ -1487,8 +1493,7 @@
         "<a class=\"internal-link\" href=\"personal/job-hunting/data etl project.md\"> data etl project </a>",
         "<a class=\"internal-link\" href=\"Todo.md\"> Todo </a>",
         "<a class=\"internal-link\" href=\"programming/data models/OLTP data models.md\"> OLTP data models </a>",
-        "<a class=\"internal-link\" href=\"programming/data models/OLAP data models.md\"> OLAP data models </a>",
-        "<a class=\"internal-link\" href=\"programming/data ETL/OLTP vs OLAP.md\"> OLTP vs OLAP </a>"
+        "<a class=\"internal-link\" href=\"programming/data models/OLAP data models.md\"> OLAP data models </a>"
       ],
       "Removed Tags from": [],
       "Removed Links from": [
