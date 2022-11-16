@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "learning/Untitled.md",
+                "file": "learning/computing/software/obsidian/Obsidian Dataview plugin.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -92,7 +92,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "learning/Untitled.md",
+                "file": "learning/computing/software/obsidian/Obsidian Dataview plugin.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,7 +109,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "learning/Untitled.md"
+                "file": "learning/computing/software/obsidian/Obsidian Dataview plugin.md"
               }
             }
           },
@@ -150,6 +150,7 @@
   },
   "active": "4620445fcadda7dc",
   "lastOpenFiles": [
+    "learning/Untitled.md",
     "learning/computing/software/linux/Linux directory Structure.md",
     "learning/computing/software/blender/Interesting plugins.md",
     "learning/computing/software/obsidian/Graph and Local Graph View.md",
@@ -158,7 +159,6 @@
     "personal/notes/Document burnout.md",
     "personal/task board.md",
     "learning/mathematics/linear interpolation.md",
-    "learning/crafting/make your own t-shirt.md",
-    "learning/farming/Compost has four ingredients.md"
+    "learning/crafting/make your own t-shirt.md"
   ]
 }
