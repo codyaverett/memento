@@ -1,7 +1,10 @@
 ---
-created: 2022-11-16T15:11:31-06:00
-updated: 2022-11-16T15:11:31-06:00
+created_at: 2022-10-08T22:06:53-05:00
+modified_at: 2022-11-16T15:36:35-06:00
+created: 2022-11-16T15:37:06-06:00
+updated: 2022-11-16T15:37:06-06:00
 ---
+
 # Create a minimal python package
 
 You only really need a minimum of 2 files.

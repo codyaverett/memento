@@ -1,8 +1,10 @@
 ---
-created: 2022-11-16T15:11:31-06:00
-updated: 2022-11-16T15:11:31-06:00
+created_at: 2022-10-19T21:18:30-05:00
+modified_at: 2022-11-16T15:29:48-06:00
+created: 2022-11-16T15:30:22-06:00
+updated: 2022-11-16T15:30:22-06:00
 ---
-# OpenCV
+
 Open Computer Vision
 
 Vast lib for visual algorithms with a c++ and python api.

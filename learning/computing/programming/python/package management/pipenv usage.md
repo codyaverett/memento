@@ -1,8 +1,9 @@
 ---
-created: 2022-11-16T15:11:30-06:00
-updated: 2022-11-16T15:11:30-06:00
+created_at: 2022-10-07T17:22:30-05:00
+modified_at: 2022-11-16T15:35:17-06:00
+created: 2022-11-16T15:35:48-06:00
+updated: 2022-11-16T15:35:48-06:00
 ---
-# Pipenv
 
 Pipenv tracks dependencies and dev dependencies of your python project.  
 

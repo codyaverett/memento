@@ -1,8 +1,9 @@
 ---
-created: 2022-11-16T15:11:31-06:00
-updated: 2022-11-16T15:11:31-06:00
+created_at: 2022-09-14T03:43:06-05:00
+modified_at: 2022-11-16T15:34:22-06:00
+created: 2022-11-16T15:34:53-06:00
+updated: 2022-11-16T15:34:53-06:00
 ---
-# How to Manipulate Data with Django Migrations
 
 In this article, we'll learn how to update Django models and manipulate existing data using migrations.
 

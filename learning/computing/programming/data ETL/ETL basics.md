@@ -1,8 +1,9 @@
 ---
-created: 2022-11-16T15:11:31-06:00
-updated: 2022-11-16T15:11:31-06:00
+created_at: 2022-10-18T17:56:28-05:00
+modified_at: 2022-11-16T15:30:20-06:00
+created: 2022-11-16T15:30:55-06:00
+updated: 2022-11-16T15:30:55-06:00
 ---
-# ETL basics
 
 ## Load the data
 Get data from various sources

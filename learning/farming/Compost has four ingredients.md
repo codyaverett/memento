@@ -1,7 +1,10 @@
 ---
-created: 2022-11-16T15:11:32-06:00
-updated: 2022-11-16T15:11:32-06:00
+created_at: 2022-07-01T02:15:15-05:00
+modified_at: 2022-11-16T15:26:45-06:00
+created: 2022-11-16T15:27:17-06:00
+updated: 2022-11-16T15:27:17-06:00
 ---
+
 1. Green Material (Nitrogen)
 2. Brown Material (Carbon)
 3. Water

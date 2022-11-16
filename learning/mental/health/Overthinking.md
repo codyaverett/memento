@@ -1,7 +1,10 @@
 ---
-created: 2022-11-16T15:11:29-06:00
-updated: 2022-11-16T15:11:29-06:00
+created_at: 2022-11-15T17:20:18-06:00
+modified_at: 2022-11-16T15:27:59-06:00
+created: 2022-11-16T15:28:31-06:00
+updated: 2022-11-16T15:28:31-06:00
 ---
+
 Commentary in your head:
 - Constant criticizing and picking apart what you said or did
 - Worrying about what people think of you

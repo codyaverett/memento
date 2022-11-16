@@ -1,7 +1,10 @@
 ---
-created: 2022-11-16T14:51:06-06:00
-updated: 2022-11-16T15:11:30-06:00
+created_at: 2022-09-12T19:46:41-05:00
+modified_at: 2022-11-16T15:33:12-06:00
+created: 2022-11-16T15:33:44-06:00
+updated: 2022-11-16T15:33:44-06:00
 ---
+
 - [[python basics]]
 - [[python cheatsheet]]
 - [[python module search path]]

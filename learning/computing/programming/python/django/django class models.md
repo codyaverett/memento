@@ -1,8 +1,9 @@
 ---
-created: 2022-11-16T15:11:31-06:00
-updated: 2022-11-16T15:11:31-06:00
+created_at: 2022-09-14T03:28:04-05:00
+modified_at: 2022-11-16T15:34:11-06:00
+created: 2022-11-16T15:34:43-06:00
+updated: 2022-11-16T15:34:43-06:00
 ---
-# django class models
 
 It's really simple to add and remove new db models
 

@@ -387,7 +387,7 @@
     "learning/computing/programming/python/building python extensions with Rust.md": {
       "size": 0,
       "tags": 0,
-      "links": 0
+      "links": 1
     },
     "learning/computing/programming/python/clean python sorting.md": {
       "size": 0,
@@ -458,11 +458,6 @@
       "size": 8035,
       "tags": 1,
       "links": 2
-    },
-    "learning/computing/programming/python/python decorators primer.md": {
-      "size": 3081,
-      "tags": 0,
-      "links": 0
     },
     "learning/computing/programming/python/python code formatters.md": {
       "size": 0,
@@ -555,7 +550,7 @@
       "links": 0
     },
     "learning/computing/programming/databases/postgres/timescaleDB.md": {
-      "size": 0,
+      "size": 2064,
       "tags": 0,
       "links": 0
     },
@@ -590,11 +585,6 @@
       "links": 0
     },
     "learning/computing/programming/python/image manipulation/PyMuPDF.md": {
-      "size": 0,
-      "tags": 0,
-      "links": 0
-    },
-    "learning/computing/programming/python/django/Untitled.md": {
       "size": 0,
       "tags": 0,
       "links": 0
@@ -950,7 +940,7 @@
       "links": 0
     },
     "learning/financial/career/social/Charisma.md": {
-      "size": 2393,
+      "size": 2756,
       "tags": 0,
       "links": 0
     },
@@ -1243,14 +1233,19 @@
       "size": 0,
       "tags": 0,
       "links": 0
+    },
+    "learning/computing/programming/python/python decorators.md": {
+      "size": 3081,
+      "tags": 0,
+      "links": 0
     }
   },
   "commitTypes": {
     "/": {
-      "Refactor": 1364,
+      "Refactor": 1366,
       "Create": 247,
-      "Link": 81,
-      "Expand": 94
+      "Link": 82,
+      "Expand": 96
     }
   },
   "dailyCommits": {
@@ -1270,7 +1265,7 @@
       "12": 6,
       "13": 49,
       "14": 40,
-      "15": 46,
+      "15": 51,
       "16": 1187,
       "17": 60,
       "18": 29,
@@ -1285,7 +1280,7 @@
     "/": {
       "Mon": 1239,
       "Tue": 102,
-      "Wed": 143,
+      "Wed": 148,
       "Thu": 109,
       "Fri": 114,
       "Sat": 0,
@@ -1295,6 +1290,8 @@
   "recentCommits": {
     "/": {
       "Expanded": [
+        "<a class=\"internal-link\" href=\"learning/computing/programming/databases/postgres/timescaleDB.md\"> timescaleDB </a>",
+        "<a class=\"internal-link\" href=\"learning/financial/career/social/Charisma.md\"> Charisma </a>",
         "<a class=\"internal-link\" href=\"learning/computing/programming/python/pyspark/pyspark reference.md\"> pyspark reference </a>",
         "<a class=\"internal-link\" href=\"learning/computing/programming/python/python pyenv.md\"> python pyenv </a>",
         "<a class=\"internal-link\" href=\"learning/computing/programming/java/javac.md\"> javac </a>",
@@ -1341,8 +1338,6 @@
         "<a class=\"internal-link\" href=\"programming/haskell/working with lists.md\"> working with lists </a>",
         "<a class=\"internal-link\" href=\"personal/social/Charisma.md\"> Charisma </a>",
         "<a class=\"internal-link\" href=\"personal/social/Charisma.md\"> Charisma </a>",
-        "<a class=\"internal-link\" href=\"personal/job-hunting/jb-hunt-topics.md\"> jb-hunt-topics </a>",
-        "<a class=\"internal-link\" href=\"personal/job-hunting/jb-hunt-topics.md\"> jb-hunt-topics </a>",
         "<a class=\"internal-link\" href=\"personal/job-hunting/jb-hunt-topics.md\"> jb-hunt-topics </a>",
         "<a class=\"internal-link\" href=\"personal/job-hunting/jb-hunt-topics.md\"> jb-hunt-topics </a>",
         "<a class=\"internal-link\" href=\"personal/job-hunting/jb-hunt-topics.md\"> jb-hunt-topics </a>"
@@ -1401,6 +1396,7 @@
         "<a class=\"internal-link\" href=\"software/containers/docker-compose/Untitled.md\"> Untitled </a>"
       ],
       "Renamed": [
+        "<a class=\"internal-link\" href=\"learning/computing/programming/python/python decorators.md\"> python decorators </a>",
         "<a class=\"internal-link\" href=\"learning/computing/programming/languages/javascript programming language.md\"> javascript programming language </a>",
         "<a class=\"internal-link\" href=\"learning/computing/programming/javascript/javascript programming language.md\"> javascript programming language </a>",
         "<a class=\"internal-link\" href=\"learning/computing/programming/languages/python programming language.md\"> python programming language </a>",
@@ -1450,8 +1446,7 @@
         "<a class=\"internal-link\" href=\"learning/reading/notes/Staff Engineer.md\"> Staff Engineer </a>",
         "<a class=\"internal-link\" href=\"learning/reading/notes/Make It Stick.md\"> Make It Stick </a>",
         "<a class=\"internal-link\" href=\"random/really useful websites.md\"> really useful websites </a>",
-        "<a class=\"internal-link\" href=\"random/being impaled by a javelin.md\"> being impaled by a javelin </a>",
-        "<a class=\"internal-link\" href=\"random/bugs/brown recluse spider.md\"> brown recluse spider </a>"
+        "<a class=\"internal-link\" href=\"random/being impaled by a javelin.md\"> being impaled by a javelin </a>"
       ],
       "Tagged": [
         "<a class=\"internal-link\" href=\"personal/job-hunting/jb-hunt-topics.md\"> jb-hunt-topics </a>",
@@ -1508,9 +1503,11 @@
         "<a class=\"internal-link\" href=\"personal/notes/Follow up on Insurance transition.md\"> Follow up on Insurance transition </a>",
         "<a class=\"internal-link\" href=\"learning/computing/programming/c and c++/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"data/woop.md\"> woop </a>",
-        "<a class=\"internal-link\" href=\"learning/adsf.md\"> adsf </a>"
+        "<a class=\"internal-link\" href=\"learning/adsf.md\"> adsf </a>",
+        "<a class=\"internal-link\" href=\"learning/computing/programming/python/django/Untitled.md\"> Untitled </a>"
       ],
       "Linked": [
+        "<a class=\"internal-link\" href=\"learning/computing/programming/python/building python extensions with Rust.md\"> building python extensions with Rust </a>",
         "<a class=\"internal-link\" href=\"learning/computing/programming/java/javac.md\"> javac </a>",
         "<a class=\"internal-link\" href=\"learning/computing/programming/haskell/haskell list functions.md\"> haskell list functions </a>",
         "<a class=\"internal-link\" href=\"learning/computing/programming/java/java dependency management.md\"> java dependency management </a>",
@@ -1560,8 +1557,7 @@
         "<a class=\"internal-link\" href=\"programming/python/python cached property.md\"> python cached property </a>",
         "<a class=\"internal-link\" href=\"programming/python/python classes.md\"> python classes </a>",
         "<a class=\"internal-link\" href=\"programming/python/python special strings.md\"> python special strings </a>",
-        "<a class=\"internal-link\" href=\"programming/python/python os module.md\"> python os module </a>",
-        "<a class=\"internal-link\" href=\"programming/python/python cheatsheet.md\"> python cheatsheet </a>"
+        "<a class=\"internal-link\" href=\"programming/python/python os module.md\"> python os module </a>"
       ],
       "Removed Tags from": [],
       "Removed Links from": [

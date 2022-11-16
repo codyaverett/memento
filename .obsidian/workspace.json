@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "learning/computing/programming/authentication/JSON Web Token.md",
+                "file": "learning/computing/programming/python/building python extensions with Rust.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -78,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "learning/computing/programming/authentication/JSON Web Token.md",
+                "file": "learning/computing/programming/python/building python extensions with Rust.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,7 +95,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "learning/computing/programming/authentication/JSON Web Token.md"
+                "file": "learning/computing/programming/python/building python extensions with Rust.md"
               }
             }
           },
@@ -136,15 +136,15 @@
   },
   "active": "68922d14c2349623",
   "lastOpenFiles": [
-    "learning/computing/programming/algorithms/algorithms.md",
-    "templates/frontmatter.md",
-    "learning/computing/programming/c-sharp/C-sharp cheatsheet.md",
-    "learning/computing/programming/authentication/JSON Web Token.md",
-    "learning/computing/programming/algorithms/data-structures/left-leaning red black trees.md",
-    "learning/computing/software/apache kafka/apache kafka.md",
-    "learning/computing/cryptocurrency/L2 networks/milkomeda/milkomeda network.md",
-    "learning/computing/cryptocurrency/L2 networks/milkomeda/milkomeda smart contracts.md",
-    "learning/adsf.md",
-    "data/useful-links.md"
+    "learning/computing/programming/python/create a minimal python package.md",
+    "learning/computing/programming/python/functional python programming.md",
+    "learning/computing/programming/python/jupyter notebooks.md",
+    "learning/computing/programming/python/python cached property.md",
+    "learning/computing/programming/python/python cheatsheet.md",
+    "learning/computing/programming/python/python classes.md",
+    "learning/computing/programming/python/python code formatters.md",
+    "learning/computing/programming/python/python decorators.md",
+    "learning/computing/programming/python/python extensions.md",
+    "personal/notes/Ben Levin's course  Blender for musicians.md"
   ]
 }

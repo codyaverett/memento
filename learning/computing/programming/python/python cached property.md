@@ -1,8 +1,9 @@
 ---
-created: 2022-11-16T15:11:30-06:00
-updated: 2022-11-16T15:11:30-06:00
+created_at: 2022-09-23T20:58:46-05:00
+modified_at: 2022-11-16T15:37:14-06:00
+created: 2022-11-16T15:37:46-06:00
+updated: 2022-11-16T15:37:46-06:00
 ---
-# Python Cached Properties
 
 A decorator that that is memoized.  It's calculated once per instance.
 

@@ -1,8 +1,9 @@
 ---
-created: 2022-11-16T15:11:31-06:00
-updated: 2022-11-16T15:11:31-06:00
+created_at: 2022-09-28T22:21:01-05:00
+modified_at: 2022-11-16T15:30:11-06:00
+created: 2022-11-16T15:30:41-06:00
+updated: 2022-11-16T15:30:41-06:00
 ---
-# Loading spinners and representing updates in an CLI application
 
 There are many super cool CLI applications out there that do things beyond what you'd think is even capable from inside of a terminal application.
 

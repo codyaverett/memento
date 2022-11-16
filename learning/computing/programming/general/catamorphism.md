@@ -1,8 +1,9 @@
 ---
-created: 2022-11-16T15:11:31-06:00
-updated: 2022-11-16T15:11:31-06:00
+created_at: 2022-09-23T22:47:38-05:00
+modified_at: 2022-11-16T15:31:27-06:00
+created: 2022-11-16T15:32:01-06:00
+updated: 2022-11-16T15:32:01-06:00
 ---
-# Catamorphism
 
 Part of category theory
 

@@ -1,8 +1,10 @@
 ---
-created: 2022-11-16T15:11:30-06:00
-updated: 2022-11-16T15:11:30-06:00
+created_at: 2022-09-16T22:40:47-05:00
+modified_at: 2022-11-16T15:37:39-06:00
+created: 2022-11-16T15:38:10-06:00
+updated: 2022-11-16T15:38:10-06:00
 ---
-# Python classes
+
 These notes are from a mentoring session I had with my friend Ben.
 
 ## Notes

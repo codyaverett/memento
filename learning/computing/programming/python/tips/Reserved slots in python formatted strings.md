@@ -1,8 +1,9 @@
 ---
-created: 2022-11-16T15:11:30-06:00
-updated: 2022-11-16T15:11:30-06:00
+created_at: 2022-10-18T19:21:55-05:00
+modified_at: 2022-11-16T15:35:55-06:00
+created: 2022-11-16T15:36:27-06:00
+updated: 2022-11-16T15:36:27-06:00
 ---
-# Reserved slots in python formatted strings
 
 ```python
 text = 'EPIC'

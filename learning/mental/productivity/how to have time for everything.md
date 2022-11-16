@@ -1,6 +1,8 @@
 ---
-created: 2022-11-16T15:11:29-06:00
-updated: 2022-11-16T15:11:29-06:00
+created_at: 2022-11-12T18:26:16-06:00
+modified_at: 2022-11-16T15:28:20-06:00
+created: 2022-11-16T15:28:51-06:00
+updated: 2022-11-16T15:28:51-06:00
 ---
 
 - Focus completely for 2-4 hours per day on your most important issue

@@ -1,7 +1,10 @@
 ---
-created: 2022-11-16T15:11:29-06:00
-updated: 2022-11-16T15:11:29-06:00
+created_at: 2022-10-18T18:06:41-05:00
+modified_at: 2022-11-16T15:28:17-06:00
+created: 2022-11-16T15:28:48-06:00
+updated: 2022-11-16T15:28:48-06:00
 ---
+
 1. Ask people that are productive, what makes them productive
 2. Always ask, "is this task essential?"
 3. Don't put so much pressure on the future you.  The tomorrow you might not want to do the thing yesterday you said they were gonna do.

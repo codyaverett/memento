@@ -1,8 +1,10 @@
 ---
-created: 2022-11-16T15:11:30-06:00
-updated: 2022-11-16T15:11:30-06:00
+created_at: 2022-09-16T23:41:40-05:00
+modified_at: 2022-11-16T15:35:22-06:00
+created: 2022-11-16T15:35:54-06:00
+updated: 2022-11-16T15:35:54-06:00
 ---
-# Python Virtual Environments
+
 Virtual environments are useful to isolate your project's dependencies from your global development dependencies.
 
 Creating a virtual environment will also generate a `Pipfile` and a `Pipfile.Lock` these will store your dependencies instead of depending on the older `requirements.txt` format that python developers have used for years.

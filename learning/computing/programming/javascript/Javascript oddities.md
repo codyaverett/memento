@@ -1,8 +1,9 @@
 ---
-created: 2022-11-16T15:11:31-06:00
-updated: 2022-11-16T15:11:31-06:00
+created_at: 2022-10-18T18:30:05-05:00
+modified_at: 2022-11-16T15:32:23-06:00
+created: 2022-11-16T15:32:53-06:00
+updated: 2022-11-16T15:32:53-06:00
 ---
-# JavaScript oddities
 
 ## Numeric string concatenation 
 

@@ -1,8 +1,9 @@
 ---
-created: 2022-11-16T15:11:31-06:00
-updated: 2022-11-16T15:11:31-06:00
+created_at: 2022-09-19T20:30:03-05:00
+modified_at: 2022-11-16T15:31:24-06:00
+created: 2022-11-16T15:31:54-06:00
+updated: 2022-11-16T15:31:54-06:00
 ---
-# Backtracking
 
 Backtracking is a recursive algorithm useful to retry previous branches in logic if current branches end up in a undesirable result aka a dead end.
 
