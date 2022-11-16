@@ -1,5 +1,7 @@
-# Python Programming Language
-
+---
+created: 2022-11-16T14:51:06-06:00
+updated: 2022-11-16T14:52:24-06:00
+---
 - [[python basics]]
 - [[python cheatsheet]]
 - [[python module search path]]
@@ -10,9 +12,3 @@
 - [[python os module]]
 
 [[programming languages]]
-
-```dataview
-table *
-from "language"
-sort desc
-```
