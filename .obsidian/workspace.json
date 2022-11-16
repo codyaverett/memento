@@ -13,14 +13,28 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "learning/computing/programming/java/javac.md",
+                "file": "learning/computing/programming/haskell/haskell list functions.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "91a5980742dc1e4e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "learning/computing/programming/languages/Lisp programming language.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -78,7 +92,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "learning/computing/programming/java/javac.md",
+                "file": "learning/computing/programming/languages/Lisp programming language.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,7 +109,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "learning/computing/programming/java/javac.md"
+                "file": "learning/computing/programming/languages/Lisp programming language.md"
               }
             }
           },
@@ -126,11 +140,11 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "482ca8686688577c",
+  "active": "91a5980742dc1e4e",
   "lastOpenFiles": [
+    "learning/computing/programming/haskell/haskell list functions.md",
     "learning/computing/programming/java/java dependency management.md",
     "learning/computing/programming/java/javac.md",
-    "learning/computing/programming/haskell/haskell list functions.md",
     "learning/computing/programming/javascript/Javascript oddities.md",
     "learning/computing/programming/languages/c-sharp programming language.md",
     "personal/task board.md",

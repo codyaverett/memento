@@ -1,3 +1,7 @@
+---
+language: haskell
+---
+
 ## Simple built in functions
 
 `head` takes a list and returns its head. The head of a list is basically its first element.
