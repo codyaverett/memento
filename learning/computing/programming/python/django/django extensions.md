@@ -1,12 +1,11 @@
 ---
 aliases: 
 tags: 
-title: django extensions
 created: 2022-10-07T16:51:57-05:00
-updated: 2022-11-16T16:49:15-06:00
+updated: 2022-11-16T16:51:05-06:00
 name: django extensions
 ---
-# django extensions
+# Django Extensions
 
 Very helpful plugin for django projects.
 

@@ -30,14 +30,14 @@
       "Tags to ignore": ""
     },
     "Remove YAML Keys": {
-      "Removes the YAML keys specified": false,
+      "Removes the YAML keys specified": true,
       "YAML Keys to Remove": "title\nupdated_at\ncreated_at"
     },
     "YAML Key Sort": {
-      "Sorts the YAML keys based on the order and priority specified. Note: may remove blank lines as well.": false,
-      "YAML Key Priority Sort Order": "",
+      "Sorts the YAML keys based on the order and priority specified. Note: may remove blank lines as well.": true,
+      "YAML Key Priority Sort Order": "name\ncreated\nupdated",
       "Priority Keys at Start of YAML": true,
-      "YAML Sort Order for Other Keys": "None"
+      "YAML Sort Order for Other Keys": "Ascending Alphabetical"
     },
     "YAML Timestamp": {
       "Keep track of the date the file was last edited in the YAML front matter. Gets dates from file metadata.": true,

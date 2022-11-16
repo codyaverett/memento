@@ -1,12 +1,11 @@
 ---
 aliases: 
 tags: 
-title: airflow module management
 created: 2022-10-27T20:04:01-05:00
-updated: 2022-11-16T16:49:15-06:00
+updated: 2022-11-16T16:51:04-06:00
 name: airflow module management
 ---
-# airflow module management
+# Airflow Module Management
 
 Example structure you might have in your `dags` folder
 ```shell

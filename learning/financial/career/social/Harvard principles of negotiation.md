@@ -1,12 +1,11 @@
 ---
 aliases: 
 tags: 
-title: Harvard principles of negotiation
 created: 2022-09-19T16:57:21-05:00
-updated: 2022-11-16T16:49:14-06:00
+updated: 2022-11-16T16:51:04-06:00
 name: Harvard principles of negotiation
 ---
-# Harvard principles of negotiation
+# Harvard Principles of Negotiation
 
 Principles are more organic than just rules.
 Cooperation meets the 

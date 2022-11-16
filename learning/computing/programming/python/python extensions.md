@@ -1,12 +1,11 @@
 ---
 aliases: 
 tags: 
-title: python extensions
 created: 2022-09-12T14:17:11-05:00
-updated: 2022-11-16T16:49:15-06:00
+updated: 2022-11-16T16:51:04-06:00
 name: python extensions
 ---
-# python extensions
+# Python Extensions
 
 ## VsCode
 

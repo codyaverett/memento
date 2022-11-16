@@ -1,12 +1,11 @@
 ---
 aliases: 
 tags: 
-title: airflow limitations
 created: 2022-10-18T21:54:30-05:00
-updated: 2022-11-16T16:49:15-06:00
+updated: 2022-11-16T16:51:04-06:00
 name: airflow limitations
 ---
-# airflow limitations
+# Airflow Limitations
 
 - It's a workflow management platform
 - It runs any workflow you want to run, doesn't have to be a data etl job

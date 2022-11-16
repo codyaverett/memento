@@ -1,12 +1,11 @@
 ---
 aliases: 
 tags: 
-title: vegan stocking your pantry tips
 created: 2022-07-25T06:04:49-05:00
-updated: 2022-11-16T16:49:14-06:00
+updated: 2022-11-16T16:51:04-06:00
 name: vegan stocking your pantry tips
 ---
-# vegan stocking your pantry tips
+# Vegan Stocking Your Pantry Tips
 
 Missing one item from a recipe can be horrible
 

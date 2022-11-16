@@ -1,12 +1,11 @@
 ---
 aliases: 
 tags: 
-title: Sheet music
 created: 2022-11-12T17:47:01-06:00
-updated: 2022-11-16T16:49:14-06:00
+updated: 2022-11-16T16:51:03-06:00
 name: Sheet music
 ---
-# Sheet music
+# Sheet Music
 
 Reading sheet music
 

@@ -1,12 +1,11 @@
 ---
 aliases: 
 tags: 
-title: pointers
 created: 2022-10-08T15:51:51-05:00
-updated: 2022-11-16T16:49:16-06:00
+updated: 2022-11-16T16:51:05-06:00
 name: pointers
 ---
-# pointers
+# Pointers
 
 Pointers are simply an address in memory that have a value that is also an address in memory.
 

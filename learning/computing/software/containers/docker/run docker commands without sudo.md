@@ -1,12 +1,11 @@
 ---
 aliases: 
 tags: 
-title: run docker commands without sudo
 created: 2022-10-21T13:55:06-05:00
-updated: 2022-11-16T16:49:15-06:00
+updated: 2022-11-16T16:51:04-06:00
 name: run docker commands without sudo
 ---
-# run docker commands without sudo
+# Run Docker Commands without Sudo
 
 ## 1. Add the `docker` Group if it Doesn't Already Exist
 

@@ -1,12 +1,11 @@
 ---
 aliases: 
 tags: 
-title: javac
 created: 2022-11-16T14:16:57-06:00
-updated: 2022-11-16T16:49:16-06:00
+updated: 2022-11-16T16:51:05-06:00
 name: javac
 ---
-# javac
+# Javac
 
 ## Usage
 

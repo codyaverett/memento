@@ -1,12 +1,11 @@
 ---
 aliases: 
 tags: 
-title: Self-Fulfilling belief
 created: 2022-11-15T17:59:08-06:00
-updated: 2022-11-16T16:49:14-06:00
+updated: 2022-11-16T16:51:03-06:00
 name: Self-Fulfilling belief
 ---
-# Self-Fulfilling belief
+# Self-Fulfilling Belief
 
 Negative thoughts lead to negative outcomes.
 

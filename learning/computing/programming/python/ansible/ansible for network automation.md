@@ -1,12 +1,11 @@
 ---
 aliases: 
 tags: 
-title: ansible for network automation
 created: 2022-09-14T02:38:36-05:00
-updated: 2022-11-16T16:49:15-06:00
+updated: 2022-11-16T16:51:05-06:00
 name: ansible for network automation
 ---
-# ansible for network automation
+# Ansible for Network Automation
 
 So, this next thing I'll share might seem quite overwhelming, so feel free to not learn much about it, but it's a very very powerful automation tool that happens to be written in python.  It's called Ansible.
 

@@ -1,12 +1,11 @@
 ---
 aliases: 
 tags: 
-title: backtracking
 created: 2022-09-19T20:30:03-05:00
-updated: 2022-11-16T16:49:16-06:00
+updated: 2022-11-16T16:51:05-06:00
 name: backtracking
 ---
-# backtracking
+# Backtracking
 
 Backtracking is a recursive algorithm useful to retry previous branches in logic if current branches end up in a undesirable result aka a dead end.
 

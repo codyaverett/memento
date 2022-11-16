@@ -1,12 +1,11 @@
 ---
 aliases: 
 tags: 
-title: apache airflow
 created: 2022-10-05T14:01:50-05:00
-updated: 2022-11-16T16:49:15-06:00
+updated: 2022-11-16T16:51:04-06:00
 name: apache airflow
 ---
-# apache airflow
+# Apache Airflow
 
 - Created Oct 2014 and announced June 2015
 - [Joined the Apache Foundation](https://blogs.apache.org/foundation/entry/the-apache-software-foundation-announces44) March 2016

@@ -1,12 +1,11 @@
 ---
 aliases: 
 tags: 
-title: python classes
 created: 2022-09-16T22:40:47-05:00
-updated: 2022-11-16T16:49:15-06:00
+updated: 2022-11-16T16:51:04-06:00
 name: python classes
 ---
-# python classes
+# Python Classes
 
 These notes are from a mentoring session I had with my friend Ben.
 

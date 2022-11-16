@@ -1,9 +1,8 @@
 ---
 aliases: 
 tags: 
-title: Charisma
 created: 2022-08-20T01:28:01-05:00
-updated: 2022-11-16T16:49:14-06:00
+updated: 2022-11-16T16:51:04-06:00
 name: Charisma
 ---
 # Charisma

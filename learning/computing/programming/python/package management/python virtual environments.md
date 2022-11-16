@@ -1,12 +1,11 @@
 ---
 aliases: 
 tags: 
-title: python virtual environments
 created: 2022-09-16T23:41:40-05:00
-updated: 2022-11-16T16:49:15-06:00
+updated: 2022-11-16T16:51:04-06:00
 name: python virtual environments
 ---
-# python virtual environments
+# Python Virtual Environments
 
 Virtual environments are useful to isolate your project's dependencies from your global development dependencies.
 

@@ -1,12 +1,11 @@
 ---
 aliases: 
 tags: 
-title: buildah example lighttpd
 created: 2022-10-21T15:30:12-05:00
-updated: 2022-11-16T16:49:15-06:00
+updated: 2022-11-16T16:51:04-06:00
 name: buildah example lighttpd
 ---
-# buildah example lighttpd
+# Buildah Example Lighttpd
 
 ```shell
 #!/usr/bin/env bash
