@@ -1117,7 +1117,7 @@
     "personal/task board.md": {
       "size": 0,
       "tags": 0,
-      "links": 2
+      "links": 1
     },
     "personal/notes/Ben Levin's course  Blender for musicians.md": {
       "size": 0,
@@ -1177,7 +1177,7 @@
     "learning/computing/programming/languages/python programming language.md": {
       "size": 0,
       "tags": 0,
-      "links": 8
+      "links": 9
     },
     "learning/computing/programming/languages/javascript programming language.md": {
       "size": 0,
@@ -1197,7 +1197,7 @@
     "learning/computing/programming/languages/rust programming language.md": {
       "size": 0,
       "tags": 0,
-      "links": 0
+      "links": 1
     },
     "learning/computing/programming/languages/closure programming language.md": {
       "size": 0,
@@ -1212,7 +1212,7 @@
     "learning/computing/programming/languages/shell programming language.md": {
       "size": 0,
       "tags": 0,
-      "links": 0
+      "links": 1
     },
     "learning/computing/programming/languages/programming languages.md": {
       "size": 0,
@@ -1222,9 +1222,9 @@
   },
   "commitTypes": {
     "/": {
-      "Refactor": 1360,
+      "Refactor": 1361,
       "Create": 240,
-      "Link": 75,
+      "Link": 78,
       "Expand": 91
     }
   },
@@ -1244,7 +1244,7 @@
       "11": 10,
       "12": 6,
       "13": 49,
-      "14": 27,
+      "14": 31,
       "15": 39,
       "16": 1187,
       "17": 60,
@@ -1260,7 +1260,7 @@
     "/": {
       "Mon": 1239,
       "Tue": 102,
-      "Wed": 123,
+      "Wed": 127,
       "Thu": 109,
       "Fri": 114,
       "Sat": 0,
@@ -1484,6 +1484,9 @@
         "<a class=\"internal-link\" href=\"learning/computing/programming/c and c++/Untitled.md\"> Untitled </a>"
       ],
       "Linked": [
+        "<a class=\"internal-link\" href=\"learning/computing/programming/languages/python programming language.md\"> python programming language </a>",
+        "<a class=\"internal-link\" href=\"learning/computing/programming/languages/rust programming language.md\"> rust programming language </a>",
+        "<a class=\"internal-link\" href=\"learning/computing/programming/languages/shell programming language.md\"> shell programming language </a>",
         "<a class=\"internal-link\" href=\"learning/computing/programming/languages/c programming language.md\"> c programming language </a>",
         "<a class=\"internal-link\" href=\"learning/computing/programming/languages/c++ programming language.md\"> c++ programming language </a>",
         "<a class=\"internal-link\" href=\"learning/computing/programming/languages/javascript programming language.md\"> javascript programming language </a>",
@@ -1531,14 +1534,12 @@
         "<a class=\"internal-link\" href=\"programming/python/python cheatsheet.md\"> python cheatsheet </a>",
         "<a class=\"internal-link\" href=\"programming/python/django models.md\"> django models </a>",
         "<a class=\"internal-link\" href=\"django migrations with custom sql.md\"> django migrations with custom sql </a>",
-        "<a class=\"internal-link\" href=\"software/data ETL/Trino.md\"> Trino </a>",
-        "<a class=\"internal-link\" href=\"software/data ETL/snowflake.md\"> snowflake </a>",
-        "<a class=\"internal-link\" href=\"math/linear interpolation.md\"> linear interpolation </a>",
-        "<a class=\"internal-link\" href=\"software/data ETL/apache airflow/apache airflow quickstart.md\"> apache airflow quickstart </a>"
+        "<a class=\"internal-link\" href=\"software/data ETL/Trino.md\"> Trino </a>"
       ],
       "Removed Tags from": [],
       "Removed Links from": [
-        "<a class=\"internal-link\" href=\"WIP.md\"> WIP </a>"
+        "<a class=\"internal-link\" href=\"WIP.md\"> WIP </a>",
+        "<a class=\"internal-link\" href=\"personal/task board.md\"> task board </a>"
       ]
     }
   },

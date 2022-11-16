@@ -102,8 +102,10 @@
             "id": "0c2db4cb058bc55e",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "kanban",
+              "state": {
+                "file": "personal/task board.md"
+              }
             }
           }
         ],
@@ -165,6 +167,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "personal/task board.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -180,7 +183,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "personal/task board.md"
+              }
             }
           },
           {
