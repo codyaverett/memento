@@ -13,28 +13,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "templates/frontmatter.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9e37f4f81a51d208",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "learning/computing/programming/c-sharp/C-sharp cheatsheet.md",
+                "file": "learning/computing/programming/authentication/JSON Web Token.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -92,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "learning/computing/programming/c-sharp/C-sharp cheatsheet.md",
+                "file": "learning/computing/programming/authentication/JSON Web Token.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,7 +95,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "learning/computing/programming/c-sharp/C-sharp cheatsheet.md"
+                "file": "learning/computing/programming/authentication/JSON Web Token.md"
               }
             }
           },
@@ -148,17 +134,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "9e37f4f81a51d208",
+  "active": "68922d14c2349623",
   "lastOpenFiles": [
+    "learning/computing/programming/algorithms/algorithms.md",
+    "templates/frontmatter.md",
+    "learning/computing/programming/c-sharp/C-sharp cheatsheet.md",
     "learning/computing/programming/authentication/JSON Web Token.md",
     "learning/computing/programming/algorithms/data-structures/left-leaning red black trees.md",
     "learning/computing/software/apache kafka/apache kafka.md",
     "learning/computing/cryptocurrency/L2 networks/milkomeda/milkomeda network.md",
     "learning/computing/cryptocurrency/L2 networks/milkomeda/milkomeda smart contracts.md",
     "learning/adsf.md",
-    "templates/frontmatter.md",
-    "data/useful-links.md",
-    "personal/task board.md",
-    "learning/computing/programming/languages/programming languages.md"
+    "data/useful-links.md"
   ]
 }
