@@ -29,7 +29,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "personal/notes/Backlog.md",
+                "file": "personal/daily/2022/22-11-16.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "personal/notes/Backlog.md",
+                "file": "personal/daily/2022/22-11-16.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "personal/notes/Backlog.md"
+                "file": "personal/daily/2022/22-11-16.md"
               }
             }
           },
@@ -152,8 +152,8 @@
   },
   "active": "3ad869f5f0b14188",
   "lastOpenFiles": [
-    "personal/task board.md",
     "personal/notes/Backlog.md",
+    "personal/task board.md",
     "personal/notes/Todo.md",
     "personal/notes/Ben Levin's course  Blender for musicians.md",
     "personal/daily/2022/22-06-09.md",
