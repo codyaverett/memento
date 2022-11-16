@@ -1,8 +1,12 @@
 ---
+aliases: 
+tags: 
 title: python decorators
 created: 2022-10-10T00:46:22-05:00
-updated: 2022-11-16T16:02:42-06:00
+updated: 2022-11-16T16:49:15-06:00
+name: python decorators
 ---
+# python decorators
 
 A fancy way to wrap a function with a function.  Similar to decorators in typescript.
 
@@ -14,7 +18,7 @@ def decoratedFunction():
 
 ## Primer
 
-### Higher order functions
+### Higher Order Functions
 - Functions are higher order in python, thus they can be passed around to other functions
 
 Defining some simple functions
@@ -39,7 +43,7 @@ Using them together
 'Yo Bob, together we are the awesomest!'
 ```
 
-### Inner functions
+### Inner Functions
 - Functions can be defined inside of functions
 - These are called "inner functions"
 
@@ -66,7 +70,7 @@ Printing from the second_child() function
 Printing from the first_child() function
 ```
 
-### Functions returning functions
+### Functions Returning Functions
 - Python allows you to return a function from within a function.
 
 ```python

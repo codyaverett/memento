@@ -1,8 +1,12 @@
 ---
+aliases: 
+tags: 
 title: pyspark reference
 created: 2022-09-15T03:22:19-05:00
-updated: 2022-11-16T16:02:01-06:00
+updated: 2022-11-16T16:49:15-06:00
+name: pyspark reference
 ---
+# pyspark reference
 
 - Python API to support Apache Spark
 - Spark SQL
@@ -12,7 +16,7 @@ updated: 2022-11-16T16:02:01-06:00
 jps # See java related processes
 ```
 
-## Local spark cluster
+## Local Spark Cluster
 ```
 um1:8080 # url to see local spark clusters
 ```
@@ -28,7 +32,7 @@ Application details will show what is happening.
 `spark-sql
 `pyspark`
 
-## Writing pyspark functinos
+## Writing Pyspark Functinos
 
 ```python
 #!/bin/pyspark to start interative shell 
@@ -36,16 +40,16 @@ Application details will show what is happening.
 
 x = sc.textFile
 
-## RDD 
+## RDD
 transformations on RDD to create other RDDs
 
-## Use cases
+## Use Cases
 
 - Caching
 - Disk Persistance
 - Real-Time processing
 
-## Using Scala vs python with spark
+## Using Scala Vs Python with Spark
 Spark is written in SCALA so runs faster in that language
 Python is slower, but has simple syntax and is easier to learn
 

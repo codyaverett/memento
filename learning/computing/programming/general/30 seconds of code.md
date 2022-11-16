@@ -1,8 +1,12 @@
 ---
+aliases: 
+tags: 
 title: 30 seconds of code
 created: 2022-09-19T17:08:25-05:00
-updated: 2022-11-16T15:43:32-06:00
+updated: 2022-11-16T16:49:16-06:00
+name: 30 seconds of code
 ---
+# 30 seconds of code
 
 Code snippets that that solve isolated problems and can be implemented in any programming language.
 

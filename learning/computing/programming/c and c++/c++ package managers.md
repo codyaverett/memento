@@ -1,8 +1,12 @@
 ---
+aliases: 
+tags: 
 title: c++ package managers
 created: 2022-10-19T20:15:36-05:00
-updated: 2022-11-16T15:48:02-06:00
+updated: 2022-11-16T16:49:16-06:00
+name: c++ package managers
 ---
+# c++ package managers
 
 Historically the c++ package managers have been the operating system package managers.  Today is a new day though and I've found a couple cross platform solutions for downloading and installing packages from various sources. 
 
@@ -25,7 +29,7 @@ Usage: ./bpt [--log-level <level>] [--data-dir <directory>]
              {build,compile-file,build-deps,pkg,repoman,install-yourself}
 ```
 
-## vcpkg
+## Vcpkg
 Visual Studio package manager - used by Visual studio behind the scenes, can be used on command-line and is cross platform.
 
 ```shell

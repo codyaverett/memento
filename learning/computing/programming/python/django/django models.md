@@ -1,12 +1,16 @@
 ---
+aliases: 
+tags: 
 title: django models
 created: 2022-10-07T03:03:20-05:00
-updated: 2022-11-16T15:51:25-06:00
+updated: 2022-11-16T16:49:15-06:00
+name: django models
 ---
+# django models
 
 Models are simple classes
 
-## One to one relationship
+## One to One Relationship
 ```python
 class Address(models.Model):
 	street = model.Models.CharField(max_length=255)
@@ -14,7 +18,7 @@ class Address(models.Model):
 	customer = models.OneToOneField(Customer, on_delete=model.CASCADE, primary_key=True)
 ```
 
-## One to many Relationship
+## One to Many Relationship
 A customer can have many different addresses now
 ```python
 class Address(models.Model):

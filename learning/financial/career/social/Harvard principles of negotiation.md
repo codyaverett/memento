@@ -1,13 +1,17 @@
 ---
+aliases: 
+tags: 
 title: Harvard principles of negotiation
 created: 2022-09-19T16:57:21-05:00
-updated: 2022-11-16T15:57:27-06:00
+updated: 2022-11-16T16:49:14-06:00
+name: Harvard principles of negotiation
 ---
+# Harvard principles of negotiation
 
 Principles are more organic than just rules.
 Cooperation meets the 
 
-## 5 strategies
+## 5 Strategies
 - win-lose
 - lose-win
 - compromise
@@ -17,16 +21,16 @@ Cooperation meets the
 If you like the other person you would have a tendency to give in.  Play lose-win
 If you don't like the other person, you may have a tendency to play win-lose.
 
-## Separate the person from the issue
+## Separate the Person From the Issue
 It is in your own interest to understand the interest of the other people.
 The other party is your partner.  Easily said, hard to live.
 
-## You should not negotiate position focused but interest oriented
+## You Should Not Negotiate Position Focused but Interest Oriented
 Limited resources.  Orient on the interests of the people.
 Pumpkin example: 
 You can get win win based on personal interest
 
-## develop criteria that a solution must fulfill
+## Develop Criteria That a Solution Must Fulfill
 Agree on criteria for a solution you would say yes to.
 
 You are looking for criteria that meets the needs and interests of all parties.
@@ -41,7 +45,7 @@ Win-win.  based on the interest, you should develop criteria you would find acce
 
 "Chez Felix"
 
-## You should have different options to choose from 
+## You Should Have Different Options to Choose From
 More options give you
 The solution that is found by the parties would be more successful because the individuals feel they ahve more of a choice.
 

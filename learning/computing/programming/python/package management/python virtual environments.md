@@ -1,8 +1,12 @@
 ---
+aliases: 
+tags: 
 title: python virtual environments
 created: 2022-09-16T23:41:40-05:00
-updated: 2022-11-16T16:02:53-06:00
+updated: 2022-11-16T16:49:15-06:00
+name: python virtual environments
 ---
+# python virtual environments
 
 Virtual environments are useful to isolate your project's dependencies from your global development dependencies.
 
@@ -11,20 +15,20 @@ Creating a virtual environment will also generate a `Pipfile` and a `Pipfile.Loc
 PipLock has a few advantages over using the older requirements.txt conventions.
 It includes a hash of the package, so there is no chance for the contents of the Package to change out from under your feet.  This in turn produces deterministic builds.
 
-## Install pipenv
+## Install Pipenv
 ```shell
 
 pip3 install pipenv # installs to global python dependencies
 ```
 
-## Create a new pipenv for your current working directory
+## Create a New Pipenv for Your Current Working Directory
 Simply installing a new package in the project directory will generate your pip environment.
 ```shell
 
 pipenv install pytest # pytest is a package used for asserting python code correctness. Arguably every project should have ways to test the code
 ```
 
-## Usage output
+## Usage Output
 There are several options for various use cases of pipenv.  I haven't explored them all yet, but it looks fairly straight forward.
 ```shell
 
@@ -106,11 +110,11 @@ Commands:
   verify        Verify the hash in Pipfile.lock is up-to-date.
 ```
 
-## Installing deps for existing pipfiles
+## Installing Deps for Existing Pipfiles
 
 If a Pipfile and Pipfile.Lock already exist, you can run `pipenv install` to automatically download and install the exact same dependencies as defined in these files.
 
-## Entering the pipenv
+## Entering the Pipenv
 
 To activate this project's virtualenv, run pipenv shell.
 Alternatively, run a command inside the virtualenv with pipenv run.

@@ -1,16 +1,20 @@
 ---
+aliases: 
+tags: 
 title: Charisma
 created: 2022-08-20T01:28:01-05:00
-updated: 2022-11-16T15:48:22-06:00
+updated: 2022-11-16T16:49:14-06:00
+name: Charisma
 ---
+# Charisma
 
 charismaoncommand.university
 
-## Day 1 - How to make other people smile
+## Day 1 - How to Make Other People Smile
 - fun
 - make other people feel good, lift other people up
 
-### First impressions
+### First Impressions
 - Convey a vibe that makes people smile
 - Be fun
 - Crack a joke.. focus on your self
@@ -83,7 +87,7 @@ You are NOT your job
 
 Switch your actions and behaviors to match your values
 
-### Getting to know you questions
+### Getting to Know You Questions
 - A playful first answer is very useful 
 	- Doctor: "People pay me to cut them open"
 	- Mechanic
@@ -94,6 +98,6 @@ Switch your actions and behaviors to match your values
 	- If you don't add some mystery, people won't ask you questions
 	- Talk about aspirations
 
-### Using open loops
+### Using Open Loops
 - Lior Suchard - Mentalist
 

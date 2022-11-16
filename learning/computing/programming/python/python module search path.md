@@ -1,6 +1,9 @@
 ---
+aliases: 
+tags: 
 created: 2022-11-16T15:11:30-06:00
-updated: 2022-11-16T15:11:30-06:00
+updated: 2022-11-16T16:49:15-06:00
+name: 'The Module Search Path[¶](https://docs.python.org/3/tutorial/modules.html#the-module-search-path "Permalink to this headline")'
 ---
 # The Module Search Path[¶](https://docs.python.org/3/tutorial/modules.html#the-module-search-path "Permalink to this headline")
 

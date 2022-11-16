@@ -1,8 +1,12 @@
 ---
+aliases: 
+tags: 
 title: Ruminative brooding
 created: 2022-11-15T17:30:41-06:00
-updated: 2022-11-16T16:03:10-06:00
+updated: 2022-11-16T16:49:14-06:00
+name: Ruminative brooding
 ---
+# Ruminative brooding
 
 Thinking about negative stuff that happened in the past?
 Thinking about things that could go wrong in the future?

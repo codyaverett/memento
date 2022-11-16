@@ -1,8 +1,12 @@
 ---
+aliases: 
+tags: 
 title: create basic OCI image with buildah
 created: 2022-10-21T14:59:22-05:00
-updated: 2022-11-16T15:49:15-06:00
+updated: 2022-11-16T16:49:15-06:00
+name: create basic OCI image with buildah
 ---
+# create basic OCI image with buildah
 
 If you're looking to build Open Container Initiative (OCI) container images without a full container runtime or daemon installed, [Buildah](https://buildah.io/) is the perfect solution. Now, Buildah is an open source, Linux-based tool that can build Docker- and [Kubernetes](https://developers.redhat.com/topics/kubernetes)-compatible images, and is easy to incorporate into scripts and build pipelines. In addition, Buildah has overlap functionality with [Podman](https://podman.io/), [Skopeo](https://github.com/containers/skopeo), and [CRI-O](https://cri-o.io/).
 
@@ -18,7 +22,7 @@ $ yum -y install buildah
 
 However, if you don't have Linux available, you can use [Buildah online with Katacoda](https://www.katacoda.com/courses/containers-without-docker/building-container-images-with-buildah).
 
-## Basic commands
+## Basic Commands
 
 To get to know Buildah, let's play around with some basic commands. The command `buildah --version` will output the current version of our Buildah install, and `buildah --help` will help if you get stuck.
 
@@ -32,7 +36,7 @@ After pulling the image and storing it on the host, list our current images by r
 
 Finally, since we've pulled and displayed a container, let's clean up and remove our running containers with `buildah rm -all`. Be sure to exercise caution, however, as Buildah has the ability to remove a running container while Docker does not.
 
-## Building a container
+## Building a Container
 
 Time to get hands-on with Buildah and build an Apache web server that will run inside a container. To get things started, let's pull a CentOS base image and start working:
 

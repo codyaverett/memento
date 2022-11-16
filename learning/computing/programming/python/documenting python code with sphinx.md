@@ -1,8 +1,12 @@
 ---
+aliases: 
+tags: 
 title: documenting python code with sphinx
 created: 2022-09-12T20:32:01-05:00
-updated: 2022-11-16T15:56:13-06:00
+updated: 2022-11-16T16:49:15-06:00
+name: documenting python code with sphinx
 ---
+# documenting python code with sphinx
 
 - how to automate the trickier and more tedious aspects of documenting your project
 - Using sphinx to simplify your documenting tasks
@@ -12,7 +16,7 @@ updated: 2022-11-16T15:56:13-06:00
 
 Sphinx is the defacto way to document code in Python
 
-## Always include this in your project documentation
+## Always Include This in Your Project Documentation
 - A brief description of the problem your project is out to solve
 - How your project is licensed
 - Small code examples 

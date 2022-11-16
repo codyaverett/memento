@@ -1,8 +1,12 @@
 ---
+aliases: 
+tags: 
 title: Compost has four ingredients
 created: 2022-07-01T02:15:15-05:00
-updated: 2022-11-16T15:48:42-06:00
+updated: 2022-11-16T16:49:14-06:00
+name: Compost has four ingredients
 ---
+# Compost has four ingredients
 
 1. Green Material (Nitrogen)
 2. Brown Material (Carbon)
@@ -24,7 +28,7 @@ Brown materials
 3. Sawdust
 4. Dried Leaves
 
-## What you should never compost
+## What You Should Never Compost
 1. Glossy cardboard/news papers
 2. Non-plant based materials (meats/Cheese) scraps
 

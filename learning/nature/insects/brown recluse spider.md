@@ -1,8 +1,12 @@
 ---
+aliases: 
+tags: 
 title: brown recluse spider
 created: 2022-07-25T02:47:41-05:00
-updated: 2022-11-16T15:47:05-06:00
+updated: 2022-11-16T16:49:13-06:00
+name: brown recluse spider
 ---
+# brown recluse spider
 
 - a spider with a dark violin marking on it's back
 - the most distinguishing factor is how it has 6 eyes visible instead of 8

@@ -1,8 +1,12 @@
 ---
+aliases: 
+tags: 
 title: Reserved slots in python formatted strings
 created: 2022-10-18T19:21:55-05:00
-updated: 2022-11-16T16:03:02-06:00
+updated: 2022-11-16T16:49:15-06:00
+name: Reserved slots in python formatted strings
 ---
+# Reserved slots in python formatted strings
 
 ```python
 text = 'EPIC'

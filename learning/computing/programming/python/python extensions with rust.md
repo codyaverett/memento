@@ -1,8 +1,11 @@
 ---
+aliases: 
+tags: 
 created: 2022-11-16T15:11:30-06:00
-updated: 2022-11-16T15:11:30-06:00
+updated: 2022-11-16T16:49:15-06:00
+name: Python extensions with Rust
 ---
-# Python extensions with Rust
+# Python Extensions with Rust
 
 Building python extensions with Rust.  Notes from [this video presentation](https://www.youtube.com/watch?v=4h8Ll9_-SZY).
 
@@ -60,13 +63,13 @@ fn some_func(py: Python, n: u32) -> &PyList {
 }
 ```
 
-### Python import
+### Python Import
 ```python
 >>> from pomodule.backend import some_func
 >>> some_func(4)
 ```
 
-## Making a module
+## Making a Module
 ```rust
 use pyo3::prelude::*
 use pyo3::types{PyDate};
@@ -95,7 +98,7 @@ Usage from python
 datetime.date(2019, 2, 9)
 ```
 
-### Making a class
+### Making a Class
 ```rust
 use py03::prelude::*;
 
@@ -136,7 +139,7 @@ From python
 5.0
 ```
 
-## FFI Bindings (an alternative to C bindings)
+## FFI Bindings (an Alternative to C bindings)
 
 - this is more flexible... can be handed off to any other language that understands C.
 - Python, Ruby, C, etc.

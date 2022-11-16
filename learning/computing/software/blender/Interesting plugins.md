@@ -1,12 +1,15 @@
 ---
+aliases: 
+tags: 
 title: Interesting plugins
 created: 2022-06-08T02:32:15-05:00
-updated: 2022-11-16T15:58:22-06:00
+updated: 2022-11-16T16:49:15-06:00
 dg-home: true
 dg-publish: true
+name: Interesting plugins
 ---
 
-# Interesting plugins
+# Interesting Plugins
 ## Snap!
 ![[Pasted image 20220608023338.png]]
 

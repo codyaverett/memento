@@ -1,10 +1,14 @@
 ---
+aliases: 
+tags: 
 title: django container
 created: 2022-09-14T00:02:02-05:00
-updated: 2022-11-16T15:50:27-06:00
+updated: 2022-11-16T16:49:15-06:00
+name: django container
 ---
+# django container
 
-## Static vs Dynamic Files
+## Static Vs Dynamic Files
 
 We just need to make one modification before we can continue. Django has the concept of [static files](https://docs.djangoproject.com/en/3.0/howto/static-files/). These are files without any Python code, they are usually images, CSS stylesheets, or JavaScript.
 
@@ -30,7 +34,7 @@ Django collects all static files in one directory:
 $ python manage.py collectstatic
 ```
 
-## Style checker
+## Style Checker
 
 The final test we’ll do is a style check. Python has strict forms that can be validated using [Flake8](https://flake8.pycqa.org/en/latest/), a static analysis tool.
 
@@ -42,7 +46,7 @@ $ flake8 . --max-line-length=127
 ```
 
 
-## Nginx reverse proxy
+## Nginx Reverse Proxy
 
 ```nginx
 # nginx.default
@@ -62,7 +66,7 @@ server {
 }
 ```
 
-## start-server.sh container entrypoint
+## start-server.sh Container Entrypoint
 
 Create a server startup script called `start-server.sh`. This is a Bash script that starts Gunicorn and Ngnix:
 

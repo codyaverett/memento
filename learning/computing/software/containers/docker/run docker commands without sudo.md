@@ -1,16 +1,20 @@
 ---
+aliases: 
+tags: 
 title: run docker commands without sudo
 created: 2022-10-21T13:55:06-05:00
-updated: 2022-11-16T16:03:22-06:00
+updated: 2022-11-16T16:49:15-06:00
+name: run docker commands without sudo
 ---
+# run docker commands without sudo
 
-##### 1. Add the `docker` group if it doesn't already exist
+## 1. Add the `docker` Group if it Doesn't Already Exist
 
 ```console
 $ sudo groupadd docker
 ```
 
-##### 2. Add the connected user `$USER` to the docker group
+## 2. Add the Connected User `$USER` to the Docker Group
 
 Optionally change the username to match your preferred user.
 
@@ -20,7 +24,7 @@ $ sudo gpasswd -a $USER docker
 
 **IMPORTANT**: Log out and log back in so that your group membership is re-evaluated.
 
-##### 3. Restart the `docker` daemon
+## 3. Restart the `docker` Daemon
 
 ```console
 $ sudo service docker restart

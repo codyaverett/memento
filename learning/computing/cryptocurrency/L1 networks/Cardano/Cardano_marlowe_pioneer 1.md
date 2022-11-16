@@ -1,8 +1,11 @@
 ---
+aliases: 
+tags: 
 created: 2022-11-16T15:11:29-06:00
-updated: 2022-11-16T15:11:29-06:00
+updated: 2022-11-16T16:49:16-06:00
+name: Marlowe Pioneer program
 ---
-# Marlowe Pioneer program
+# Marlowe Pioneer Program
 
 ## Test Accounts
 
@@ -23,7 +26,7 @@ reform strategy squeeze motion
 - [Marlowe Run](http://marlowe-run-marlowe-pioneers.plutus.aws.iohkdev.io/)
 - [Marlowe Playground](https://marlowe-playground-staging.plutus.aws.iohkdev.io/)
 
-## Requesting test tokens from the faucet
+## Requesting Test Tokens From the Faucet
 
 The testnet faucet is a component that provides free test tokens to Marlowe Pioneers.
 

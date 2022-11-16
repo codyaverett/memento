@@ -1,13 +1,16 @@
 ---
+aliases: 
+tags: 
 title: Timescale DB
 created: 2022-10-27T15:08:06-05:00
-updated: 2022-11-16T16:04:36-06:00
+updated: 2022-11-16T16:49:16-06:00
+name: Timescale DB
 ---
 
 # Timescale DB
 - Built on top of postgres, but is very performant against time series datasets
 
-## What is time series data
+## What is Time Series Data
 - Tracks change over time, records have a timestamp and observations
 - Stock price, CPU and memory usage, sensor data, ad views, COVID-19
 - Can be captured at regular intervals (metrics) or irregular intervals (events)

@@ -1,8 +1,11 @@
 ---
+aliases: 
+tags: 
 created: 2022-11-16T15:11:30-06:00
-updated: 2022-11-16T15:11:30-06:00
+updated: 2022-11-16T16:49:15-06:00
+name: python packaging
 ---
-# python packaging
+# Python Packaging
 
 - [reference](https://realpython.com/pypi-publish-python-package/)
 
@@ -28,7 +31,7 @@ realpython-reader/
 └── pyproject.toml
 ```
 
-## executing an installed module
+## Executing an Installed Module
 
 ```shell
 # Assuming reader is installed

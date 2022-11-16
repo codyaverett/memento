@@ -1,6 +1,9 @@
 ---
+aliases: 
+tags: 
 created: 2022-11-16T15:11:29-06:00
-updated: 2022-11-16T15:11:29-06:00
+updated: 2022-11-16T16:49:16-06:00
+name: Nervos Network
 ---
 # Nervos Network
 
@@ -20,6 +23,6 @@ updated: 2022-11-16T15:11:29-06:00
 
 * [Neuron](https://docs.nervos.org/docs/basics/guides/neuron/)
 
-## Blog posts
+## Blog Posts
 
 * [Nervos Overview](https://medium.com/nervosnetwork/https-medium-com-nervosnetwork-cell-model-7323fca57571)

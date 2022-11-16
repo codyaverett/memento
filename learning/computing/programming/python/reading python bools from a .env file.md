@@ -1,10 +1,12 @@
 ---
+aliases: 
 tags: python
 created: 2022-11-16T15:11:30-06:00
-updated: 2022-11-16T15:11:30-06:00
+updated: 2022-11-16T16:49:15-06:00
+name: Reading python bools from a .env file
 ---
 
-# Reading python bools from a .env file
+# Reading Python Bools From a .env File
 You have to write the code to do it yourself.
 ```python
 from distutils.util import strtobool

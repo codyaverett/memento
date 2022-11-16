@@ -1,7 +1,10 @@
 ---
+aliases: 
+tags: 
 title: Linear Interpolation
 created: 2022-10-08T16:09:51-05:00
-updated: 2022-11-16T15:59:25-06:00
+updated: 2022-11-16T16:49:14-06:00
+name: Linear Interpolation
 ---
 
 # Linear Interpolation

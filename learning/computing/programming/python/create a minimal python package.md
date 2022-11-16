@@ -1,10 +1,13 @@
 ---
+aliases: 
+tags: 
 title: Create a minimal python package
 created: 2022-10-08T22:06:53-05:00
-updated: 2022-11-16T15:49:01-06:00
+updated: 2022-11-16T16:49:15-06:00
+name: Create a minimal python package
 ---
 
-# Create a minimal python package
+# Create a Minimal Python Package
 
 You only really need a minimum of 2 files.
 
@@ -22,7 +25,7 @@ setup(
 
 2. The module file itself, whatever you want to name it
 
-## Publish steps
+## Publish Steps
 
 ```shell
 # install twine, pipenv creates pipfile and pipfile.lock
@@ -59,13 +62,13 @@ View at:
 https://pypi.org/project/required-env/0.1.0/
 ```
 
-## View on pypi
+## View on Pypi
 
 The package is publicly available here https://pypi.org/project/required-env/
 
 ![[Pasted image 20221008224217.png]]
 
-## Installing and using
+## Installing and Using
 ```shell
 » pip3 install required_env
 Collecting required_env
@@ -90,7 +93,7 @@ Type "help", "copyright", "credits" or "license" for more information.
 ['__builtins__', '__cached__', '__doc__', '__file__', '__loader__', '__name__', '__package__', '__spec__', 'environ', 'exit', 'get_required_envars']
 ```
 
-## Minimal isn't everything
+## Minimal Isn't Everything
 I'd like to add a short readme and some tests for future packages, but it's nice to know how easy it can be to create and upload python packages.
 
 ## Reference

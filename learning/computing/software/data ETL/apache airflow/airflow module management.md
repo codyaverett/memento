@@ -1,8 +1,12 @@
 ---
+aliases: 
+tags: 
 title: airflow module management
 created: 2022-10-27T20:04:01-05:00
-updated: 2022-11-16T15:45:32-06:00
+updated: 2022-11-16T16:49:15-06:00
+name: airflow module management
 ---
+# airflow module management
 
 Example structure you might have in your `dags` folder
 ```shell
@@ -47,7 +51,7 @@ my_company/common_package/
 my_company/my_custom_dags/base_dag.py
 ```
 
-## Built-in `PYTHONPATH` entries in Airflow[](https://airflow.apache.org/docs/apache-airflow/stable/modules_management.html#built-in-pythonpath-entries-in-airflow "Permalink to this heading")
+## Built-in `PYTHONPATH` Entries in Airflow[](https://airflow.apache.org/docs/apache-airflow/stable/modules_management.html#built-in-pythonpath-entries-in-airflow "Permalink to this heading")
 
 Airflow, when running dynamically adds three directories to the `sys.path`:
 
@@ -60,15 +64,15 @@ Airflow, when running dynamically adds three directories to the `sys.path`:
 
 > The DAGS folder in Airflow 2 should not be shared with the webserver. While you can do it, unlike in Airflow 1.10, Airflow has no expectations that the DAGS folder is present in the webserver. In fact it’s a bit of security risk to share the `dags` folder with the webserver, because it means that people who write DAGS can write code that the webserver will be able to execute (ideally the webserver should never run code which can be modified by users who write DAGs). Therefore if you need to share some code with the webserver, it is highly recommended that you share it via `config` or `plugins` folder or via installed Airflow packages (see below). Those folders are usually managed and accessible by different users (Admins/DevOps) than DAG folders (those are usually data-scientists), so they are considered as safe because they are part of configuration of the Airflow installation and controlled by the people managing the installation.
 
-## Best practices for module loading[](https://airflow.apache.org/docs/apache-airflow/stable/modules_management.html#best-practices-for-module-loading "Permalink to this heading")
+## Best Practices for Module loading[](https://airflow.apache.org/docs/apache-airflow/stable/modules_management.html#best-practices-for-module-loading "Permalink to this heading")
 
 There are a few gotchas you should be careful about when you import your code.
 
-### Use unique top package name[](https://airflow.apache.org/docs/apache-airflow/stable/modules_management.html#use-unique-top-package-name "Permalink to this heading")
+### Use Unique Top Package name[](https://airflow.apache.org/docs/apache-airflow/stable/modules_management.html#use-unique-top-package-name "Permalink to this heading")
 
 It is recommended that you always put your dags/common files in a subpackage which is unique to your deployment (`my_company` in the example below). It is far too easy to use generic names for the folders that will clash with other packages already present in the system. For example if you create `airflow/operators` subfolder it will not be accessible because Airflow already has a package named `airflow.operators` and it will look there when importing `from airflow.operators`.
 
-### Don’t use relative imports[](https://airflow.apache.org/docs/apache-airflow/stable/modules_management.html#don-t-use-relative-imports "Permalink to this heading")
+### Don’t Use Relative imports[](https://airflow.apache.org/docs/apache-airflow/stable/modules_management.html#don-t-use-relative-imports "Permalink to this heading")
 
 Never use relative imports (starting with `.`) that were added in Python 3.
 
@@ -82,11 +86,11 @@ from my_company.my_custom_dags.base_dag import BaseDag  # This is cool
 
 The relative imports are counter-intuitive, and depending on how you start your python code, they can behave differently. In Airflow the same DAG file might be parsed in different contexts (by schedulers, by workers or during tests) and in those cases, relative imports might behave differently. Always use full python package paths when you import anything in Airflow DAGs, this will save you a lot of troubles. You can read more about relative import caveats in [this Stack Overflow thread](https://stackoverflow.com/q/16981921/516701).
 
-### Add `__init__.py` in package folders[](https://airflow.apache.org/docs/apache-airflow/stable/modules_management.html#add-init-py-in-package-folders "Permalink to this heading")
+### Add `__init__.py` in Package folders[](https://airflow.apache.org/docs/apache-airflow/stable/modules_management.html#add-init-py-in-package-folders "Permalink to this heading")
 
 When you create folders you should add `__init__.py` file as empty files in your folders. While in Python 3 there is a concept of implicit namespaces where you do not have to add those files to folder, Airflow expects that the files are added to all packages you added.
 
-## Inspecting your `PYTHONPATH` loading configuration[](https://airflow.apache.org/docs/apache-airflow/stable/modules_management.html#inspecting-your-pythonpath-loading-configuration "Permalink to this heading")
+## Inspecting Your `PYTHONPATH` Loading configuration[](https://airflow.apache.org/docs/apache-airflow/stable/modules_management.html#inspecting-your-pythonpath-loading-configuration "Permalink to this heading")
 
 You can also see the exact paths using the `airflow info` command, and use them similar to directories specified with the environment variable [`PYTHONPATH`](https://docs.python.org/3/using/cmdline.html#envvar-PYTHONPATH "(in Python v3.10)"). An example of the contents of the sys.path variable specified by this command may be as follows:
 

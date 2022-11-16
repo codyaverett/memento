@@ -1,8 +1,12 @@
 ---
+aliases: 
+tags: 
 title: opencv
 created: 2022-10-19T21:18:30-05:00
-updated: 2022-11-16T16:00:55-06:00
+updated: 2022-11-16T16:49:16-06:00
+name: opencv
 ---
+# opencv
 
 Open Computer Vision
 

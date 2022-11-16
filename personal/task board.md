@@ -1,10 +1,14 @@
 ---
+aliases: 
+tags: 
 
 kanban-plugin: basic
 created: 2022-11-16T16:10:37-06:00
-updated: 2022-11-16T16:10:37-06:00
+updated: 2022-11-16T16:49:13-06:00
 
+name: task board
 ---
+# task board
 
 ## Backlog
 

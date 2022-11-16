@@ -1,6 +1,9 @@
 ---
+aliases: 
+tags: 
 created: 2022-11-16T15:11:29-06:00
-updated: 2022-11-16T15:11:29-06:00
+updated: 2022-11-16T16:49:16-06:00
+name: Community
 ---
 # Community
 
@@ -14,7 +17,7 @@ Research for building a community
 * [transnational political party](https://en.wikipedia.org/wiki/Transnational_political_party)
 * [ICANN foundation](https://www.icann.org/)
 
-## Social networks
+## Social Networks
 
 As of Jan 2022 *World's biggest social networks* are
 - Facebook (1.9 billion users)

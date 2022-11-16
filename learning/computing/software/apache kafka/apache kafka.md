@@ -1,19 +1,23 @@
 ---
+aliases: 
+tags: 
 title: apache kafka
 created: 2022-11-09T17:22:15-06:00
-updated: 2022-11-16T15:46:31-06:00
+updated: 2022-11-16T16:49:15-06:00
+name: apache kafka
 ---
+# apache kafka
 
 - Realtime data flows
 - Pub/Sub
 - Producers push data to topics on a Kafka cluster and consumers pull data from 
 
-## Use cases
+## Use Cases
 
 - Streaming data as soon as it is generated to extract the most value from the data
 - 
 
-## Reference 
+## Reference
 
 - [Offical website](https://kafka.apache.org/)
 - [Official documentation](https://kafka.apache.org/documentation/)

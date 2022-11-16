@@ -1,12 +1,16 @@
 ---
+aliases: 
+tags: 
 title: DJango quick reference
 created: 2022-09-07T17:52:22-05:00
-updated: 2022-11-16T15:51:31-06:00
+updated: 2022-11-16T16:49:15-06:00
+name: DJango quick reference
 ---
+# DJango quick reference
 ```toc
 ```
 
-## What you should know 
+## What You Should Know
 - Python basics
 	- classes
 	- Inheritance
@@ -16,7 +20,7 @@ updated: 2022-11-16T15:51:31-06:00
 	- Keys
 	- Relationships
 
-## Install django and basic commands
+## Install Django and Basic Commands
 
 ```bash
 pip3 install pipenv
@@ -42,14 +46,14 @@ Set python interpretor in settings.json
 }
 ```
 
-### The pipfile
+### The Pipfile
 similar to package.json in javascript projects 
 
 - lists package dependencies and the 
 
 * version wildcards
 
-### django-admin
+### Django-admin
 Utility that comes with Django
 ```shell
 django-admin
@@ -108,7 +112,7 @@ django-admin startproject storefront .  # create a django storefront project in 
 (django) (base) ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ```
 
-### Start the server with local project settings and DEBUG
+### Start the Server with Local Project Settings and DEBUG
 ```bash
 python manage.py runserver 9000 # start on port 9000
 ```
@@ -130,7 +134,7 @@ INSTALLED_APPS = [
 ]
 ```
 
-### Create your own app
+### Create Your Own App
 ```shell
 python manage.py startapp playground
 
@@ -152,7 +156,7 @@ python manage.py startapp playground
 After it is created, you can include it in another DJango project.
 Every DJango app has the same folder structure
 
-## Create super user
+## Create Super User
 Ensure all migration operations have been completed
 ```shell
 ~/Projects/play/django/storefront (main*) » python manage.py migrate              caavere@Codys-MacBook-Pro
@@ -204,7 +208,7 @@ def say_hello(request) -> HttpResponse:
 	return HttpResponse('Hello World')
 ```
 
-## Map View to url
+## Map View to Url
 
 ### urls.py
 module to map urls to views
@@ -221,7 +225,7 @@ urlpatterns = [
 
 Need to import into the main app url conf
 
-### main project storefront>urls.py
+### Main Project storefront>urls.py
 ```python
 # need to include include from django urls
 from django.urls import path, include
@@ -273,7 +277,7 @@ Variables passed from the view render function will be interpolated in the html 
 </html>
 ```
 
-## DJango debug toolbar
+## DJango Debug Toolbar
 
 Install in project root with pipenv
 
@@ -290,7 +294,7 @@ Valid HTML, Body tags
 
 Also, DJango debug toolbar will only appear to the addresses assigned in the `INTERNAL_IPS` array of project settings
 
-### Very Useful tools the debug toolbar has!
+### Very Useful Tools the Debug Toolbar Has!
 - History
 - Versions
 - Time
@@ -317,31 +321,31 @@ Used to store and retrieve data
 - organizing models in apps
 - coding model classes
 
-### Data modeling
+### Data Modeling
 
 ![[Pasted image 20220914012020.png]]
 
 **Ids are added by DJango by default
 
-### Types of relationships
+### Types of Relationships
 - 1 to 1
 - 1 to many
 - many to many
 
 ### Organizing Models in Apps
 
-#### 1: Create a single DJango app
+#### 1: Create a Single DJango App
  Way 1, create a single DJango app called a Store and drop all entities here
  - PRO: Can distribute this app through a pip
  - CON: As the app grows it can become a monolith/ hard to maintain, understand and reuse
 
-#### 2: Create smaller apps
+#### 2: Create Smaller Apps
 - Breaking down the app too small can create a dependency mess!
 - Each app should be self contained
 - Dependencies could result in breaking changes
 - Group together similar functionality!
 
-#### 3. Separate out abstract concepts
+#### 3. Separate Out Abstract Concepts
 - Tags and TaggedItems are not dependent on app specific 
 - Minimal couplign
 - High Cohesion (Focus)

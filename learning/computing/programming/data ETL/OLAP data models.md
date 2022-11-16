@@ -1,8 +1,12 @@
 ---
+aliases: 
+tags: 
 title: OLAP data models
 created: 2022-10-18T13:05:31-05:00
-updated: 2022-11-16T16:00:41-06:00
+updated: 2022-11-16T16:49:16-06:00
+name: OLAP data models
 ---
+# OLAP data models
 
 Online Analytics Processing System
 
@@ -31,7 +35,7 @@ e.g.
 - Quantity
 - Duration
 
-## What's the point
+## What's the Point
 Cubes are powerful tools for data analysis
 
 Tracking sales for genres over quarters across several locations.  Versions (Budget, Actual, Variance)

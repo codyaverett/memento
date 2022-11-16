@@ -1,14 +1,18 @@
 ---
+aliases: 
+tags: 
 title: pointers
 created: 2022-10-08T15:51:51-05:00
-updated: 2022-11-16T16:01:22-06:00
+updated: 2022-11-16T16:49:16-06:00
+name: pointers
 ---
+# pointers
 
 Pointers are simply an address in memory that have a value that is also an address in memory.
 
 Pointers must be dereferenced to be used.
 
-## C example
+## C Example
 
 Basic
 ```c
@@ -57,7 +61,7 @@ int main(int argc, char **argv)
 }
 ```
 
-## Why use pointers?
+## Why Use Pointers?
 - We have to at lower levels
 - Passing values by reference is more efficient then passing a copy of the value
 	- e.g. a very large array

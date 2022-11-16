@@ -4,70 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "fc357bc587b82207",
+        "id": "cb917b7d403adc9f",
         "type": "tabs",
         "children": [
           {
-            "id": "68922d14c2349623",
-            "type": "leaf",
-            "state": {
-              "type": "kanban",
-              "state": {
-                "file": "personal/task board.md"
-              }
-            }
-          }
-        ]
-      },
-      {
-        "id": "c8f5d731af7d9e0c",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "cb98835c31e29b37",
+            "id": "f00ae23a6178525b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "personal/notes/Learn about Memory Controllers and non-uniform memory access.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          }
-        ]
-      },
-      {
-        "id": "1d866046161a8293",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "0d2f3411a55479f6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "personal/notes/Learn more about Cardano Blockchain.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          }
-        ]
-      },
-      {
-        "id": "769d10ab4ad634f9",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "ffc18c024c16f546",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "personal/notes/Document burnout.md",
+                "file": "personal/notes/Simon Dev's 3d programming course.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -132,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "personal/task board.md",
+                "file": "personal/notes/Simon Dev's 3d programming course.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,7 +95,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "personal/task board.md"
+                "file": "personal/notes/Simon Dev's 3d programming course.md"
               }
             }
           },
@@ -188,13 +134,13 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "68922d14c2349623",
+  "active": "f00ae23a6178525b",
   "lastOpenFiles": [
-    "personal/notes/Learn about Memory Controllers and non-uniform memory access.md",
+    "personal/notes/Learn more about Cardano Blockchain.md",
     "personal/task board.md",
     "personal/notes/Document burnout.md",
+    "personal/notes/Learn about Memory Controllers and non-uniform memory access.md",
     "personal/notes/Backlog.md",
-    "personal/notes/Learn more about Cardano Blockchain.md",
     "personal/notes/Simon Dev's 3d programming course.md",
     "personal/daily/2022/22-11-16.md",
     "personal/notes/Todo.md",

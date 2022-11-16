@@ -1,8 +1,12 @@
 ---
+aliases: 
+tags: 
 title: doctest
 created: 2022-09-19T22:56:26-05:00
-updated: 2022-11-16T15:56:10-06:00
+updated: 2022-11-16T16:49:15-06:00
+name: doctest
 ---
+# doctest
 
 Doctest is a utility package to test code documentation inline your files directly.
 

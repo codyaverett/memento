@@ -1,8 +1,12 @@
 ---
+aliases: 
+tags: 
 title: apache airflow quickstart
 created: 2022-10-08T16:41:43-05:00
-updated: 2022-11-16T15:46:23-06:00
+updated: 2022-11-16T16:49:15-06:00
+name: apache airflow quickstart
 ---
+# apache airflow quickstart
 
 - Have Python and pip installed
 
@@ -50,7 +54,7 @@ airflow scheduler
 - uses a SQLite database for a single instance, this limits parallelization and you will need to choose another option for scaling
 - Read about [production deployments]([Production Deployment](https://airflow.apache.org/docs/apache-airflow/stable/production-deployment.html))
 
-## Triggering tasks
+## Triggering Tasks
 ```shell
 # run your first task instance
 airflow tasks run example_bash_operator runme_0 2015-01-01

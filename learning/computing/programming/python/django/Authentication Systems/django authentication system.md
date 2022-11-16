@@ -1,8 +1,12 @@
 ---
+aliases: 
+tags: 
 title: django authentication system
 created: 2022-10-09T23:30:52-05:00
-updated: 2022-11-16T15:50:09-06:00
+updated: 2022-11-16T16:49:15-06:00
+name: django authentication system
 ---
+# django authentication system
 
 ## Tables
 - auth_group
@@ -26,7 +30,7 @@ updated: 2022-11-16T15:50:09-06:00
 - is_active - 
 - date_joined
 
-## User profiles
+## User Profiles
 Extend or compose new profiles 
 
 Extending the user model

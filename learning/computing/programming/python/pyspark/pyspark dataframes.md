@@ -1,8 +1,12 @@
 ---
+aliases: 
+tags: 
 title: pyspark dataframes
 created: 2022-09-15T03:50:29-05:00
-updated: 2022-11-16T16:01:57-06:00
+updated: 2022-11-16T16:49:15-06:00
+name: pyspark dataframes
 ---
+# pyspark dataframes
 
 ```python
 from pyspark import SparkContext

@@ -1,8 +1,12 @@
 ---
+aliases: 
+tags: 
 title: nginx reverse proxy
 created: 2022-10-22T02:21:39-05:00
-updated: 2022-11-16T16:00:33-06:00
+updated: 2022-11-16T16:49:15-06:00
+name: nginx reverse proxy
 ---
+# nginx reverse proxy
 
 ## nginx.conf
 ```nginx
@@ -138,7 +142,7 @@ http {
 }
 ```
 
-## Server configs
+## Server Configs
 
 ```nginx
 

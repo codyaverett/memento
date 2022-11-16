@@ -1,8 +1,12 @@
 ---
+aliases: 
+tags: 
 title: make your own t-shirt
 created: 2022-07-25T02:50:21-05:00
-updated: 2022-11-16T16:00:09-06:00
+updated: 2022-11-16T16:49:14-06:00
+name: make your own t-shirt
 ---
+# make your own t-shirt
 
 I'm adverse to going out and trying on new clothes.
 Buying clothes has always been more of a chore for me and not extremely enjoyable.

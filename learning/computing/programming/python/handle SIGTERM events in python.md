@@ -1,8 +1,12 @@
 ---
+aliases: 
+tags: 
 title: handle SIGTERM events in python
 created: 2022-10-10T06:01:03-05:00
-updated: 2022-11-16T15:57:23-06:00
+updated: 2022-11-16T16:49:15-06:00
+name: handle SIGTERM events in python
 ---
+# handle SIGTERM events in python
 
 ## Example 1
 Handy for making sure connections are closed

@@ -1,16 +1,19 @@
 ---
+aliases: 
+tags: 
 title: Leadership beyond the management track
 created: 2022-11-09T19:53:12-06:00
-updated: 2022-11-16T16:04:01-06:00
+updated: 2022-11-16T16:49:13-06:00
+name: Leadership beyond the management track
 ---
 
-# Leadership beyond the management track
+# Leadership Beyond the Management Track
 
 Moving up the ladder in your technical career will lead to you having less time to work on more challenging problems.
 
 Staff Engineer job functions typically overlap with engineer director roles.
 
-## Work on what matters 
+## Work on What Matters
 - p.35
 - Different types of work are valued by different types of organizations
 - Focus on the work that matters to your organization and to yourself
@@ -23,7 +26,7 @@ Staff Engineer job functions typically overlap with engineer director roles.
 	- e.g. Automated testing
 - Sometimes a failing app is one code change away from being a success
 
-## Write an engineering strategy
+## Write an Engineering Strategy
 - p.43
 - To write an engineering strategy:
 	- Write five design documents, and pull the similarities out.
@@ -33,7 +36,7 @@ Staff Engineer job functions typically overlap with engineer director roles.
 - Great vision is usually so obvious that it bores more than it excites
 - The core audience for your vision is the folks writing strategies
 
-### When and why?
+### When and Why?
 When and why should you actually have a strategy?
 
 - Strategies are tools of proactive alignment that empower teams to move quickly and with confidence.
@@ -42,7 +45,7 @@ When and why should you actually have a strategy?
 - Rehashing conversations a few times in a week is an indicator that a strategy needs to be written up
 - When the future is too hazy to identify investments worth taking, that calls for another vision to be written.
 
-### Write five design docs
+### Write Five Design Docs
 - Describe decisions and tradeoffs you've made in specific projects
 - A good design doc
 	- describes a specific problem
@@ -69,7 +72,7 @@ When and why should you actually have a strategy?
 
 Reread your documents after you are finished implementing them and see where the implementation deviated from the plan.  This will help you improve your future design docs.
 
-### Synthesize those five design docs into a strategy
+### Synthesize Those Five Design Docs into a Strategy
 - Good strategies guide tradeoffs and explain the rationale behind them
 - Bad strategies state a policy without explaining
 	- decoupled from context
@@ -88,7 +91,7 @@ Reread your documents after you are finished implementing them and see where the
 		- Show why you chose specific frameworks
 		- Show why your decisions are good tradeoffs, etc.
 
-### Extrapolate five strategies into a vision
+### Extrapolate Five Strategies into a Vision
 Having a lot of strategies might make it difficult to reason about how they will interact.  But it is necessary to weave them together to form an effective strategy.
 
 - Write two to three years out
