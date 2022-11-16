@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "69c1fbbe06e8114b",
+        "id": "32285e6c442781ba",
         "type": "tabs",
         "children": [
           {
-            "id": "b9c275db8c1dd036",
+            "id": "072fc315616b2cff",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "learning/computing/software/obsidian/Obsidian Dataview plugin.md",
-                "mode": "preview",
+                "mode": "source",
                 "backlinks": false,
                 "source": false
               }
@@ -134,11 +134,11 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "b9c275db8c1dd036",
+  "active": "072fc315616b2cff",
   "lastOpenFiles": [
+    "learning/computing/software/obsidian/Obsidian Dataview plugin.md",
     "learning/computing/software/linux/Linux directory Structure.md",
     "learning/computing/cloud/AWS/AWS quiz.md",
-    "learning/computing/software/obsidian/Obsidian Dataview plugin.md",
     "learning/Untitled.md",
     "learning/computing/software/blender/Interesting plugins.md",
     "learning/computing/software/obsidian/Graph and Local Graph View.md",

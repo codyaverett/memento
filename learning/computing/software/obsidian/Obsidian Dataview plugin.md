@@ -44,10 +44,12 @@ Support types:
 - `WHERE project = "Super Dooper"`
 - `WHERE contains(summary, "Alice")`
 - `WHERE type = "person"`
+- `WHERE date >= date(2022-01-01) and date < date(2023-01-01)`
 
 ### Sort
 - `SORT file.name ASC`
 - `SORT file.name DEC`
+- `SORT date asc`
 
 ### Examples
 
