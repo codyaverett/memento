@@ -1,9 +1,9 @@
 ---
+name: Stardew Valley Item Codes
+created: 2022-07-25T03:40:28-05:00
+updated: 2022-11-16T16:52:04-06:00
 aliases: 
 tags: 
-created: 2022-07-25T03:40:28-05:00
-updated: 2022-11-16T16:51:04-06:00
-name: stardew valley item codes
 ---
 # Stardew Valley Item Codes
 

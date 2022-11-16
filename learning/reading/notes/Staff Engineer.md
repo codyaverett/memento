@@ -1,9 +1,9 @@
 ---
+name: Leadership Beyond the Management Track
+created: 2022-11-09T19:53:12-06:00
+updated: 2022-11-16T16:52:03-06:00
 aliases: 
 tags: 
-created: 2022-11-09T19:53:12-06:00
-updated: 2022-11-16T16:51:03-06:00
-name: Leadership Beyond the Management Track
 ---
 
 # Leadership Beyond the Management Track

@@ -1,9 +1,9 @@
 ---
+name: Concurrency in Python
+created: 2022-09-28T17:54:09-05:00
+updated: 2022-11-16T16:52:05-06:00
 aliases: 
 tags: 
-created: 2022-09-28T17:54:09-05:00
-updated: 2022-11-16T16:51:05-06:00
-name: concurrency in python
 ---
 # Concurrency in Python
 

@@ -1,9 +1,9 @@
 ---
+name: Python Virtual Environments
+created: 2022-09-16T23:41:40-05:00
+updated: 2022-11-16T16:52:05-06:00
 aliases: 
 tags: 
-created: 2022-09-16T23:41:40-05:00
-updated: 2022-11-16T16:51:04-06:00
-name: python virtual environments
 ---
 # Python Virtual Environments
 

@@ -1,9 +1,9 @@
 ---
+name: Building and Distributing a CLI App with Python
+created: 2022-09-28T23:56:44-05:00
+updated: 2022-11-16T16:52:05-06:00
 aliases: 
 tags: 
-created: 2022-09-28T23:56:44-05:00
-updated: 2022-11-16T16:51:05-06:00
-name: building and distributing a CLI app with python
 ---
 # Building and Distributing a CLI App with Python
 

@@ -1,9 +1,9 @@
 ---
+name: Reading Python Bools From a .env File
+created: 2022-11-16T15:11:30-06:00
+updated: 2022-11-16T16:52:05-06:00
 aliases: 
 tags: python
-created: 2022-11-16T15:11:30-06:00
-updated: 2022-11-16T16:51:04-06:00
-name: Reading Python Bools From a .env File
 ---
 
 # Reading Python Bools From a .env File

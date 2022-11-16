@@ -1,9 +1,9 @@
 ---
+name: Python Cached Property
+created: 2022-09-23T20:58:46-05:00
+updated: 2022-11-16T16:52:05-06:00
 aliases: 
 tags: 
-created: 2022-09-23T20:58:46-05:00
-updated: 2022-11-16T16:51:04-06:00
-name: python cached property
 ---
 # Python Cached Property
 

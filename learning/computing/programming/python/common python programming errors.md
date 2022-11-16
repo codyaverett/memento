@@ -1,9 +1,9 @@
 ---
+name: Common Python Programming Errors
+created: 2022-09-12T20:27:07-05:00
+updated: 2022-11-16T16:52:05-06:00
 aliases: 
 tags: 
-created: 2022-09-12T20:27:07-05:00
-updated: 2022-11-16T16:51:05-06:00
-name: common python programming errors
 ---
 # Common Python Programming Errors
 

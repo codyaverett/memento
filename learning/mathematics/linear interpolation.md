@@ -1,9 +1,9 @@
 ---
+name: Linear Interpolation
+created: 2022-10-08T16:09:51-05:00
+updated: 2022-11-16T16:52:04-06:00
 aliases: 
 tags: 
-created: 2022-10-08T16:09:51-05:00
-updated: 2022-11-16T16:51:03-06:00
-name: Linear Interpolation
 ---
 
 # Linear Interpolation

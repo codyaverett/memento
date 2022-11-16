@@ -1,9 +1,9 @@
 ---
+name: Learn More About Cardano Blockchain
+created: 2022-11-16T16:42:06-06:00
+updated: 2022-11-16T16:52:03-06:00
 aliases: 
 tags: 
-name: Learn more about Cardano Blockchain
-created: 2022-11-16T16:42:06-06:00
-updated: 2022-11-16T16:51:02-06:00
 ---
 # Learn More About Cardano Blockchain
 - [IdeaScale Cardano Propasals](https://cardano.ideascale.com/c/idea/414020)

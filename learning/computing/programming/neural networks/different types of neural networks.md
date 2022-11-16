@@ -1,9 +1,9 @@
 ---
+name: Different Types of Neural Networks
+created: 2022-09-19T15:48:11-05:00
+updated: 2022-11-16T16:52:05-06:00
 aliases: 
 tags: 
-created: 2022-09-19T15:48:11-05:00
-updated: 2022-11-16T16:51:05-06:00
-name: different types of neural networks
 ---
 # Different Types of Neural Networks
 

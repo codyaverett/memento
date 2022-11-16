@@ -1,9 +1,9 @@
 ---
+name: Make Your Own T-shirt
+created: 2022-07-25T02:50:21-05:00
+updated: 2022-11-16T16:52:22-06:00
 aliases: 
 tags: 
-created: 2022-07-25T02:50:21-05:00
-updated: 2022-11-16T16:51:04-06:00
-name: make your own t-shirt
 ---
 # Make Your Own T-shirt
 

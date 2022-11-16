@@ -1,9 +1,9 @@
 ---
+name: Django Extensions
+created: 2022-10-07T16:51:57-05:00
+updated: 2022-11-16T16:52:05-06:00
 aliases: 
 tags: 
-created: 2022-10-07T16:51:57-05:00
-updated: 2022-11-16T16:51:05-06:00
-name: django extensions
 ---
 # Django Extensions
 

@@ -1,9 +1,9 @@
 ---
+name: Milkomeda Smart Contracts
+created: 2022-11-16T15:11:43-06:00
+updated: 2022-11-16T16:52:06-06:00
 aliases: 
 tags: 
-created: 2022-11-16T15:11:43-06:00
-updated: 2022-11-16T16:51:05-06:00
-name: milkomeda smart contracts
 ---
 # Milkomeda Smart Contracts
 https://remix.ethereum.org/#optimize=false&runs=200&evmVersion=null&version=soljson-v0.6.10+commit.00c0fcaf.js
