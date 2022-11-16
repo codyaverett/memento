@@ -8,27 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "d17be225b1c5036f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "learning/computing/programming/c and c++/c programming language.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e7d6355f681de4e7",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
             "id": "6a77bd7012627cc1",
             "type": "leaf",
             "state": {
@@ -40,9 +19,100 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "208e7f1242270f43",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "learning/computing/programming/languages/java programming language.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "486375ee5f5780e9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "learning/computing/programming/languages/go programming language.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e2c1ad829defae20",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "learning/computing/programming/languages/rust programming language.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "37f05f167b0fa591",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "learning/computing/programming/languages/closure programming language.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "407058b28c8ead54",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "learning/computing/programming/languages/haskell programming language.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e3000624207e12a5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "learning/computing/programming/languages/shell programming language.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0c2db4cb058bc55e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "learning/computing/programming/languages/programming languages.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -100,6 +170,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "learning/computing/programming/languages/programming languages.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +186,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "learning/computing/programming/languages/programming languages.md"
+              }
             }
           },
           {
@@ -145,17 +218,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "33a2bab88d111215",
+  "active": "0c2db4cb058bc55e",
   "lastOpenFiles": [
-    "learning/computing/programming/c and c++/c programming language.md",
-    "learning/mental/health/Overthinking.md",
-    "learning/mental/health/Self-Fulfilling belief.md",
-    "learning/mental/health/Ruminative brooding.md",
+    "learning/computing/programming/languages/shell programming language.md",
+    "learning/computing/programming/languages/haskell programming language.md",
+    "learning/computing/programming/languages/closure programming language.md",
+    "learning/computing/programming/languages/rust programming language.md",
+    "learning/computing/programming/languages/go programming language.md",
+    "learning/computing/programming/languages/java programming language.md",
     "learning/mental/ADHD/ADHD medications.md",
-    "learning/mental/productivity/general productivity tips.md",
-    "learning/mental/productivity/all failures are learning opportunities.md",
-    "learning/mental/productivity/how to have time for everything.md",
-    "learning/computing/really useful websites.md",
-    "personal/notes/Ben Levin's course  Blender for musicians.md"
+    "learning/computing/programming/c and c++/Untitled.md",
+    "learning/computing/programming/languages/c programming language.md",
+    "learning/mental/health/Overthinking.md"
   ]
 }

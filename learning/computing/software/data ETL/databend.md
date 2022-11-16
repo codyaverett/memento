@@ -5,4 +5,4 @@
 - Example analyzing [nginx access logs](https://databend.rs/doc/learn/analyze-nginx-logs-with-databend-and-vector) with databend
 
 ## Related
-- [[rust programming language]]
+- [[learning/computing/programming/rust/rust programming language]]
