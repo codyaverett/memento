@@ -114,7 +114,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "learning/computing/programming/haskell/haskell list functions.md",
+                "file": "learning/computing/programming/java/java dependency management.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -180,7 +180,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "learning/computing/programming/haskell/haskell list functions.md",
+                "file": "learning/computing/programming/java/java dependency management.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -197,7 +197,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "learning/computing/programming/haskell/haskell list functions.md"
+                "file": "learning/computing/programming/java/java dependency management.md"
               }
             }
           },
@@ -230,6 +230,7 @@
   },
   "active": "beaddae7c76709d1",
   "lastOpenFiles": [
+    "learning/computing/programming/haskell/haskell list functions.md",
     "learning/computing/programming/java/java dependency management.md",
     "learning/computing/programming/javascript/Javascript oddities.md",
     "learning/computing/programming/languages/c-sharp programming language.md",
@@ -238,7 +239,6 @@
     "learning/computing/programming/languages/shell programming language.md",
     "learning/computing/programming/languages/rust programming language.md",
     "learning/computing/programming/languages/python programming language.md",
-    "learning/computing/programming/languages/javascript programming language.md",
-    "learning/computing/programming/languages/haskell programming language.md"
+    "learning/computing/programming/languages/javascript programming language.md"
   ]
 }
