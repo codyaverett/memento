@@ -1,6 +1,6 @@
 {
   "legacyEditor": false,
-  "livePreview": false,
+  "livePreview": true,
   "attachmentFolderPath": "software/jupyter notebooks",
   "promptDelete": false,
   "showLineNumber": true,
