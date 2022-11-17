@@ -1,9 +1,9 @@
 ---
 name: Letsencrypt
 created: 2022-10-19T11:33:46-05:00
-updated: 2022-11-16T16:52:05-06:00
+updated: 2022-11-17T02:07:17-06:00
 aliases: 
-tags: 
+tags: ssl tls
 ---
 # Letsencrypt
 
@@ -51,4 +51,3 @@ Congratulations! You have successfully enabled HTTPS on https://cody.averett.clo
 
 
 ## Managing Certs with Ansible
-[[Todo]]

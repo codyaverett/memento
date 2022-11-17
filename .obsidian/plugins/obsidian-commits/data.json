@@ -31,8 +31,8 @@
     },
     "learning/computing/software/DNS/dns.md": {
       "size": 0,
-      "tags": 0,
-      "links": 1
+      "tags": 1,
+      "links": 0
     },
     "learning/computing/software/blender/Interesting plugins.md": {
       "size": 341,
@@ -41,8 +41,8 @@
     },
     "learning/computing/software/git/git reflog.md": {
       "size": 0,
-      "tags": 0,
-      "links": 1
+      "tags": 1,
+      "links": 0
     },
     "learning/computing/software/git/setting up git.md": {
       "size": 0,
@@ -56,8 +56,8 @@
     },
     "learning/computing/software/letsencrypt/letsencrypt.md": {
       "size": 0,
-      "tags": 0,
-      "links": 1
+      "tags": 2,
+      "links": 0
     },
     "learning/computing/software/LDAP/finding ldap servers with nslookup.md": {
       "size": 0,
@@ -116,13 +116,13 @@
     },
     "learning/computing/software/data ETL/snowflake.md": {
       "size": 0,
-      "tags": 0,
-      "links": 1
+      "tags": 1,
+      "links": 0
     },
     "learning/computing/software/data ETL/trino.md": {
       "size": 0,
-      "tags": 0,
-      "links": 1
+      "tags": 1,
+      "links": 0
     },
     "learning/computing/software/containers/docker/run docker commands without sudo.md": {
       "size": 0,
@@ -131,8 +131,8 @@
     },
     "learning/computing/software/containers/docker-compose/create compose from multiple dockerfiles.md": {
       "size": 0,
-      "tags": 0,
-      "links": 1
+      "tags": 1,
+      "links": 0
     },
     "learning/computing/software/containers/buildah/create basic OCI image with buildah.md": {
       "size": 5840,
@@ -241,8 +241,8 @@
     },
     "learning/computing/programming/authentication/JSON Web Token.md": {
       "size": 0,
-      "tags": 0,
-      "links": 1
+      "tags": 1,
+      "links": 0
     },
     "learning/computing/programming/data ETL/OLAP data models.md": {
       "size": 0,
@@ -376,8 +376,8 @@
     },
     "learning/computing/programming/python/building python extensions with Rust.md": {
       "size": 0,
-      "tags": 0,
-      "links": 1
+      "tags": 1,
+      "links": 0
     },
     "learning/computing/programming/python/clean python sorting.md": {
       "size": 0,
@@ -1079,16 +1079,6 @@
       "tags": 0,
       "links": 0
     },
-    "personal/notes/Backlog.md": {
-      "size": 0,
-      "tags": 0,
-      "links": 0
-    },
-    "personal/notes/Todo.md": {
-      "size": 0,
-      "tags": 0,
-      "links": 2
-    },
     "personal/task board.md": {
       "size": 0,
       "tags": 0,
@@ -1206,8 +1196,8 @@
     },
     "learning/computing/programming/languages/Lisp programming language.md": {
       "size": 0,
-      "tags": 0,
-      "links": 1
+      "tags": 1,
+      "links": 0
     },
     "data/useful-links.md": {
       "size": 0,
@@ -1292,9 +1282,9 @@
   },
   "commitTypes": {
     "/": {
-      "Refactor": 1377,
+      "Refactor": 1388,
       "Create": 259,
-      "Link": 87,
+      "Link": 96,
       "Expand": 97
     }
   },
@@ -1302,7 +1292,7 @@
     "/": {
       "0": 43,
       "1": 28,
-      "2": 21,
+      "2": 41,
       "3": 32,
       "4": 3,
       "5": 3,
@@ -1331,7 +1321,7 @@
       "Mon": 1239,
       "Tue": 102,
       "Wed": 171,
-      "Thu": 115,
+      "Thu": 135,
       "Fri": 114,
       "Sat": 0,
       "Sun": 79
@@ -1504,10 +1494,20 @@
         "<a class=\"internal-link\" href=\"programming/python/python cheatsheet.md\"> python cheatsheet </a>",
         "<a class=\"internal-link\" href=\"programming/python/reading python bools from a .env file.md\"> reading python bools from a .env file </a>",
         "<a class=\"internal-link\" href=\"personal/job-hunting/Drawing 2022-11-07 15.59.02.excalidraw.md\"> Drawing 2022-11-07 15.59.02.excalidraw </a>",
-        "<a class=\"internal-link\" href=\"learning/computing/cryptocurrency/standards/eutxo.md\"> eutxo </a>"
+        "<a class=\"internal-link\" href=\"learning/computing/cryptocurrency/standards/eutxo.md\"> eutxo </a>",
+        "<a class=\"internal-link\" href=\"learning/computing/software/letsencrypt/letsencrypt.md\"> letsencrypt </a>",
+        "<a class=\"internal-link\" href=\"learning/computing/software/git/git reflog.md\"> git reflog </a>",
+        "<a class=\"internal-link\" href=\"learning/computing/software/data ETL/trino.md\"> trino </a>",
+        "<a class=\"internal-link\" href=\"learning/computing/software/data ETL/snowflake.md\"> snowflake </a>",
+        "<a class=\"internal-link\" href=\"learning/computing/software/containers/docker-compose/create compose from multiple dockerfiles.md\"> create compose from multiple dockerfiles </a>",
+        "<a class=\"internal-link\" href=\"learning/computing/software/DNS/dns.md\"> dns </a>",
+        "<a class=\"internal-link\" href=\"learning/computing/programming/python/building python extensions with Rust.md\"> building python extensions with Rust </a>",
+        "<a class=\"internal-link\" href=\"learning/computing/programming/languages/Lisp programming language.md\"> Lisp programming language </a>",
+        "<a class=\"internal-link\" href=\"learning/computing/programming/authentication/JSON Web Token.md\"> JSON Web Token </a>"
       ],
       "Refactored": [],
       "Deleted": [
+        "<a class=\"internal-link\" href=\"personal/notes/Todo.md\"> Todo </a>",
         "<a class=\"internal-link\" href=\"personal/job-hunting/jbHunt-topics/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"personal/software/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"programming/python/python_os_module.md\"> python_os_module </a>",
@@ -1620,7 +1620,16 @@
         "<a class=\"internal-link\" href=\"WIP.md\"> WIP </a>",
         "<a class=\"internal-link\" href=\"personal/task board.md\"> task board </a>",
         "<a class=\"internal-link\" href=\"learning/computing/programming/java/java dependency management.md\"> java dependency management </a>",
-        "<a class=\"internal-link\" href=\"personal/notes/Backlog.md\"> Backlog </a>"
+        "<a class=\"internal-link\" href=\"personal/notes/Backlog.md\"> Backlog </a>",
+        "<a class=\"internal-link\" href=\"learning/computing/software/letsencrypt/letsencrypt.md\"> letsencrypt </a>",
+        "<a class=\"internal-link\" href=\"learning/computing/software/git/git reflog.md\"> git reflog </a>",
+        "<a class=\"internal-link\" href=\"learning/computing/software/data ETL/trino.md\"> trino </a>",
+        "<a class=\"internal-link\" href=\"learning/computing/software/data ETL/snowflake.md\"> snowflake </a>",
+        "<a class=\"internal-link\" href=\"learning/computing/software/containers/docker-compose/create compose from multiple dockerfiles.md\"> create compose from multiple dockerfiles </a>",
+        "<a class=\"internal-link\" href=\"learning/computing/software/DNS/dns.md\"> dns </a>",
+        "<a class=\"internal-link\" href=\"learning/computing/programming/python/building python extensions with Rust.md\"> building python extensions with Rust </a>",
+        "<a class=\"internal-link\" href=\"learning/computing/programming/languages/Lisp programming language.md\"> Lisp programming language </a>",
+        "<a class=\"internal-link\" href=\"learning/computing/programming/authentication/JSON Web Token.md\"> JSON Web Token </a>"
       ]
     }
   },
