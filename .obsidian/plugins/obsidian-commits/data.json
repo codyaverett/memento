@@ -1283,12 +1283,17 @@
       "size": 0,
       "tags": 3,
       "links": 0
+    },
+    "personal/blog/People Just Do Not Know What They Do Not Know.md": {
+      "size": 0,
+      "tags": 0,
+      "links": 0
     }
   },
   "commitTypes": {
     "/": {
-      "Refactor": 1376,
-      "Create": 258,
+      "Refactor": 1377,
+      "Create": 259,
       "Link": 87,
       "Expand": 97
     }
@@ -1297,7 +1302,7 @@
     "/": {
       "0": 43,
       "1": 28,
-      "2": 19,
+      "2": 21,
       "3": 32,
       "4": 3,
       "5": 3,
@@ -1326,7 +1331,7 @@
       "Mon": 1239,
       "Tue": 102,
       "Wed": 171,
-      "Thu": 113,
+      "Thu": 115,
       "Fri": 114,
       "Sat": 0,
       "Sun": 79
@@ -1388,6 +1393,7 @@
         "<a class=\"internal-link\" href=\"personal/job-hunting/jb-hunt-topics.md\"> jb-hunt-topics </a>"
       ],
       "Created": [
+        "<a class=\"internal-link\" href=\"personal/blog/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"learning/computing/cryptocurrency/standards/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"personal/daily/2022/22-11-17.md\"> 22-11-17 </a>",
         "<a class=\"internal-link\" href=\"learning/computing/software/obsidian/Untitled.md\"> Untitled </a>",
@@ -1437,10 +1443,10 @@
         "<a class=\"internal-link\" href=\"personal/music/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"personal/job-hunting/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"daily/11-12-22.md\"> 11-12-22 </a>",
-        "<a class=\"internal-link\" href=\"daily/11-11-22.md\"> 11-11-22 </a>",
-        "<a class=\"internal-link\" href=\"personal/books/Untitled.md\"> Untitled </a>"
+        "<a class=\"internal-link\" href=\"daily/11-11-22.md\"> 11-11-22 </a>"
       ],
       "Renamed": [
+        "<a class=\"internal-link\" href=\"personal/blog/People Just Do Not Know What They Do Not Know.md\"> People Just Do Not Know What They Do Not Know </a>",
         "<a class=\"internal-link\" href=\"learning/computing/cryptocurrency/oracles/Chainlink/Fair Sequencing Services (FSS).md\"> Fair Sequencing Services (FSS) </a>",
         "<a class=\"internal-link\" href=\"learning/computing/software/obsidian/Graph and Local Graph View.md\"> Graph and Local Graph View </a>",
         "<a class=\"internal-link\" href=\"personal/notes/Learn more about Cardano Blockchain.md\"> Learn more about Cardano Blockchain </a>",
@@ -1490,8 +1496,7 @@
         "<a class=\"internal-link\" href=\"learning/reading/reading quickly.md\"> reading quickly </a>",
         "<a class=\"internal-link\" href=\"learning/productivity/general productivity tips.md\"> general productivity tips </a>",
         "<a class=\"internal-link\" href=\"learning/productivity/productivity tips.md\"> productivity tips </a>",
-        "<a class=\"internal-link\" href=\"learning/productivity/how to have time for everything.md\"> how to have time for everything </a>",
-        "<a class=\"internal-link\" href=\"learning/reading/if you are forgetting what you read after you read it.md\"> if you are forgetting what you read after you read it </a>"
+        "<a class=\"internal-link\" href=\"learning/productivity/how to have time for everything.md\"> how to have time for everything </a>"
       ],
       "Tagged": [
         "<a class=\"internal-link\" href=\"personal/job-hunting/jb-hunt-topics.md\"> jb-hunt-topics </a>",
