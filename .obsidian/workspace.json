@@ -19,8 +19,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "faeae6dbf1d04a9b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "learning/computing/cryptocurrency/standards/eutxo.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -78,7 +92,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "learning/computing/cryptocurrency/standards/eutxo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,7 +109,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "learning/computing/cryptocurrency/standards/eutxo.md"
               }
             }
           },
@@ -116,17 +130,17 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
     "width": 300
   },
-  "active": "27e6dedc0d306204",
+  "active": "81e320e71a1d6dbf",
   "lastOpenFiles": [
+    "README.md",
     "personal/daily/2022/22-11-17.md",
     "personal/daily/2022/22-11-16.md",
-    "README.md",
     "learning/computing/software/blender/Interesting plugins.md",
     "learning/computing/software/obsidian/Obsidian Dataview plugin.md",
     "learning/computing/software/linux/Linux directory Structure.md",

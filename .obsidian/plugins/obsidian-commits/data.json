@@ -764,11 +764,6 @@
       "tags": 0,
       "links": 0
     },
-    "learning/computing/cryptocurrency/Oracles/Chainlink/Fair Sequencing Services (FSS).md": {
-      "size": 2186,
-      "tags": 0,
-      "links": 0
-    },
     "learning/computing/cryptocurrency/L1 networks/Solana/SolanaList.md": {
       "size": 142,
       "tags": 0,
@@ -1273,12 +1268,22 @@
       "size": 0,
       "tags": 0,
       "links": 0
+    },
+    "personal/daily/2022/22-11-17.md": {
+      "size": 0,
+      "tags": 0,
+      "links": 0
+    },
+    "learning/computing/cryptocurrency/oracles/Chainlink/Fair Sequencing Services (FSS).md": {
+      "size": 2186,
+      "tags": 0,
+      "links": 0
     }
   },
   "commitTypes": {
     "/": {
-      "Refactor": 1375,
-      "Create": 256,
+      "Refactor": 1376,
+      "Create": 257,
       "Link": 86,
       "Expand": 97
     }
@@ -1286,7 +1291,7 @@
   "dailyCommits": {
     "/": {
       "0": 43,
-      "1": 24,
+      "1": 26,
       "2": 19,
       "3": 32,
       "4": 3,
@@ -1316,7 +1321,7 @@
       "Mon": 1239,
       "Tue": 102,
       "Wed": 171,
-      "Thu": 109,
+      "Thu": 111,
       "Fri": 114,
       "Sat": 0,
       "Sun": 79
@@ -1378,6 +1383,7 @@
         "<a class=\"internal-link\" href=\"personal/job-hunting/jb-hunt-topics.md\"> jb-hunt-topics </a>"
       ],
       "Created": [
+        "<a class=\"internal-link\" href=\"personal/daily/2022/22-11-17.md\"> 22-11-17 </a>",
         "<a class=\"internal-link\" href=\"learning/computing/software/obsidian/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"learning/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"learning/computing/software/obsidian/Untitled.md\"> Untitled </a>",
@@ -1427,10 +1433,10 @@
         "<a class=\"internal-link\" href=\"daily/11-12-22.md\"> 11-12-22 </a>",
         "<a class=\"internal-link\" href=\"daily/11-11-22.md\"> 11-11-22 </a>",
         "<a class=\"internal-link\" href=\"personal/books/Untitled.md\"> Untitled </a>",
-        "<a class=\"internal-link\" href=\"software/data ETL/Untitled.md\"> Untitled </a>",
-        "<a class=\"internal-link\" href=\"templates/Untitled.md\"> Untitled </a>"
+        "<a class=\"internal-link\" href=\"software/data ETL/Untitled.md\"> Untitled </a>"
       ],
       "Renamed": [
+        "<a class=\"internal-link\" href=\"learning/computing/cryptocurrency/oracles/Chainlink/Fair Sequencing Services (FSS).md\"> Fair Sequencing Services (FSS) </a>",
         "<a class=\"internal-link\" href=\"learning/computing/software/obsidian/Graph and Local Graph View.md\"> Graph and Local Graph View </a>",
         "<a class=\"internal-link\" href=\"personal/notes/Learn more about Cardano Blockchain.md\"> Learn more about Cardano Blockchain </a>",
         "<a class=\"internal-link\" href=\"learning/computing/programming/machine learning/ml examples.md\"> ml examples </a>",
@@ -1480,8 +1486,7 @@
         "<a class=\"internal-link\" href=\"learning/productivity/general productivity tips.md\"> general productivity tips </a>",
         "<a class=\"internal-link\" href=\"learning/productivity/productivity tips.md\"> productivity tips </a>",
         "<a class=\"internal-link\" href=\"learning/productivity/how to have time for everything.md\"> how to have time for everything </a>",
-        "<a class=\"internal-link\" href=\"learning/reading/if you are forgetting what you read after you read it.md\"> if you are forgetting what you read after you read it </a>",
-        "<a class=\"internal-link\" href=\"learning/reading/forgetting what you read after you read it.md\"> forgetting what you read after you read it </a>"
+        "<a class=\"internal-link\" href=\"learning/reading/if you are forgetting what you read after you read it.md\"> if you are forgetting what you read after you read it </a>"
       ],
       "Tagged": [
         "<a class=\"internal-link\" href=\"personal/job-hunting/jb-hunt-topics.md\"> jb-hunt-topics </a>",
