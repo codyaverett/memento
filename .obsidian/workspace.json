@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "32285e6c442781ba",
+        "id": "48dea03b87f4a300",
         "type": "tabs",
         "children": [
           {
-            "id": "072fc315616b2cff",
+            "id": "27e6dedc0d306204",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -58,8 +58,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -109,17 +108,6 @@
             }
           },
           {
-            "id": "3d8bc9f56a966cf6",
-            "type": "leaf",
-            "state": {
-              "type": "tag",
-              "state": {
-                "sortOrder": "frequency",
-                "useHierarchy": false
-              }
-            }
-          },
-          {
             "id": "3dfe48ada1fcde58",
             "type": "leaf",
             "state": {
@@ -128,23 +116,23 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
     "width": 300
   },
-  "active": "072fc315616b2cff",
+  "active": "27e6dedc0d306204",
   "lastOpenFiles": [
-    "learning/computing/software/blender/Interesting plugins.md",
+    "personal/daily/2022/22-11-17.md",
+    "personal/daily/2022/22-11-16.md",
     "README.md",
+    "learning/computing/software/blender/Interesting plugins.md",
     "learning/computing/software/obsidian/Obsidian Dataview plugin.md",
     "learning/computing/software/linux/Linux directory Structure.md",
     "learning/computing/cloud/AWS/AWS quiz.md",
     "learning/Untitled.md",
     "learning/computing/software/obsidian/Graph and Local Graph View.md",
-    "learning/computing/software/obsidian/Obsidian Aliases.md",
-    "learning/computing/programming/languages/programming languages.md",
-    "personal/notes/Document burnout.md"
+    "learning/computing/software/obsidian/Obsidian Aliases.md"
   ]
 }

@@ -23,5 +23,14 @@
       ],
       "key": "G"
     }
+  ],
+  "slides:start": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "P"
+    }
   ]
 }
