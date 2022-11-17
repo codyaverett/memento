@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "learning/computing/really useful websites.md",
+                "file": "learning/crafting/make your own t-shirt.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -92,7 +92,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "learning/computing/really useful websites.md",
+                "file": "learning/crafting/make your own t-shirt.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,7 +109,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "learning/computing/really useful websites.md"
+                "file": "learning/crafting/make your own t-shirt.md"
               }
             }
           },
@@ -130,14 +130,15 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
     "width": 300
   },
-  "active": "faeae6dbf1d04a9b",
+  "active": "3dfe48ada1fcde58",
   "lastOpenFiles": [
+    "learning/computing/really useful websites.md",
     "learning/computing/cryptocurrency/standards/eutxo.md",
     "README.md",
     "personal/daily/2022/22-11-17.md",
@@ -146,7 +147,6 @@
     "learning/computing/software/obsidian/Obsidian Dataview plugin.md",
     "learning/computing/software/linux/Linux directory Structure.md",
     "learning/computing/cloud/AWS/AWS quiz.md",
-    "learning/Untitled.md",
-    "learning/computing/software/obsidian/Graph and Local Graph View.md"
+    "learning/Untitled.md"
   ]
 }
