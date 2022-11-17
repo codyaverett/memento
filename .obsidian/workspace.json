@@ -19,8 +19,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "db27d68eedd3f1c6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "personal/blog/People Just Do Not Know What They Do Not Know.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -78,7 +92,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "data/useful-links.md",
+                "file": "personal/blog/People Just Do Not Know What They Do Not Know.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,7 +109,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "data/useful-links.md"
+                "file": "personal/blog/People Just Do Not Know What They Do Not Know.md"
               }
             }
           },
@@ -122,8 +136,9 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "33a2bab88d111215",
+  "active": "db27d68eedd3f1c6",
   "lastOpenFiles": [
+    "data/useful-links.md",
     "learning/crafting/make your own t-shirt.md",
     "learning/computing/really useful websites.md",
     "learning/computing/cryptocurrency/standards/eutxo.md",
@@ -132,7 +147,6 @@
     "personal/daily/2022/22-11-16.md",
     "learning/computing/software/blender/Interesting plugins.md",
     "learning/computing/software/obsidian/Obsidian Dataview plugin.md",
-    "learning/computing/software/linux/Linux directory Structure.md",
-    "learning/computing/cloud/AWS/AWS quiz.md"
+    "learning/computing/software/linux/Linux directory Structure.md"
   ]
 }
