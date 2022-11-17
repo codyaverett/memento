@@ -49,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "dg-home",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -58,7 +58,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -135,15 +136,15 @@
   },
   "active": "072fc315616b2cff",
   "lastOpenFiles": [
+    "learning/computing/software/blender/Interesting plugins.md",
+    "README.md",
     "learning/computing/software/obsidian/Obsidian Dataview plugin.md",
     "learning/computing/software/linux/Linux directory Structure.md",
     "learning/computing/cloud/AWS/AWS quiz.md",
     "learning/Untitled.md",
-    "learning/computing/software/blender/Interesting plugins.md",
     "learning/computing/software/obsidian/Graph and Local Graph View.md",
     "learning/computing/software/obsidian/Obsidian Aliases.md",
     "learning/computing/programming/languages/programming languages.md",
-    "personal/notes/Document burnout.md",
-    "personal/task board.md"
+    "personal/notes/Document burnout.md"
   ]
 }

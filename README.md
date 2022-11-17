@@ -1,10 +1,10 @@
 ---
 name: Memento
 created: 2022-06-09T20:31:52-05:00
-updated: 2022-11-16T18:31:44-06:00
+updated: 2022-11-16T18:33:28-06:00
 aliases: 
-dg_home: true
-
+dg-home: true
+dg-publish: false
 tags: 
 ---
 
