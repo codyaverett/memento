@@ -19,22 +19,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "faeae6dbf1d04a9b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "learning/crafting/make your own t-shirt.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -92,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "learning/crafting/make your own t-shirt.md",
+                "file": "data/useful-links.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,7 +95,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "learning/crafting/make your own t-shirt.md"
+                "file": "data/useful-links.md"
               }
             }
           },
@@ -136,8 +122,9 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "3dfe48ada1fcde58",
+  "active": "33a2bab88d111215",
   "lastOpenFiles": [
+    "learning/crafting/make your own t-shirt.md",
     "learning/computing/really useful websites.md",
     "learning/computing/cryptocurrency/standards/eutxo.md",
     "README.md",
@@ -146,7 +133,6 @@
     "learning/computing/software/blender/Interesting plugins.md",
     "learning/computing/software/obsidian/Obsidian Dataview plugin.md",
     "learning/computing/software/linux/Linux directory Structure.md",
-    "learning/computing/cloud/AWS/AWS quiz.md",
-    "learning/Untitled.md"
+    "learning/computing/cloud/AWS/AWS quiz.md"
   ]
 }

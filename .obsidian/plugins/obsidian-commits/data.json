@@ -1278,20 +1278,25 @@
       "size": 2186,
       "tags": 0,
       "links": 0
+    },
+    "learning/computing/cryptocurrency/standards/eutxo.md": {
+      "size": 0,
+      "tags": 3,
+      "links": 0
     }
   },
   "commitTypes": {
     "/": {
       "Refactor": 1376,
-      "Create": 257,
-      "Link": 86,
+      "Create": 258,
+      "Link": 87,
       "Expand": 97
     }
   },
   "dailyCommits": {
     "/": {
       "0": 43,
-      "1": 26,
+      "1": 28,
       "2": 19,
       "3": 32,
       "4": 3,
@@ -1321,7 +1326,7 @@
       "Mon": 1239,
       "Tue": 102,
       "Wed": 171,
-      "Thu": 111,
+      "Thu": 113,
       "Fri": 114,
       "Sat": 0,
       "Sun": 79
@@ -1383,6 +1388,7 @@
         "<a class=\"internal-link\" href=\"personal/job-hunting/jb-hunt-topics.md\"> jb-hunt-topics </a>"
       ],
       "Created": [
+        "<a class=\"internal-link\" href=\"learning/computing/cryptocurrency/standards/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"personal/daily/2022/22-11-17.md\"> 22-11-17 </a>",
         "<a class=\"internal-link\" href=\"learning/computing/software/obsidian/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"learning/Untitled.md\"> Untitled </a>",
@@ -1432,8 +1438,7 @@
         "<a class=\"internal-link\" href=\"personal/job-hunting/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"daily/11-12-22.md\"> 11-12-22 </a>",
         "<a class=\"internal-link\" href=\"daily/11-11-22.md\"> 11-11-22 </a>",
-        "<a class=\"internal-link\" href=\"personal/books/Untitled.md\"> Untitled </a>",
-        "<a class=\"internal-link\" href=\"software/data ETL/Untitled.md\"> Untitled </a>"
+        "<a class=\"internal-link\" href=\"personal/books/Untitled.md\"> Untitled </a>"
       ],
       "Renamed": [
         "<a class=\"internal-link\" href=\"learning/computing/cryptocurrency/oracles/Chainlink/Fair Sequencing Services (FSS).md\"> Fair Sequencing Services (FSS) </a>",
@@ -1493,7 +1498,8 @@
         "<a class=\"internal-link\" href=\"programming/python/python extensions.md\"> python extensions </a>",
         "<a class=\"internal-link\" href=\"programming/python/python cheatsheet.md\"> python cheatsheet </a>",
         "<a class=\"internal-link\" href=\"programming/python/reading python bools from a .env file.md\"> reading python bools from a .env file </a>",
-        "<a class=\"internal-link\" href=\"personal/job-hunting/Drawing 2022-11-07 15.59.02.excalidraw.md\"> Drawing 2022-11-07 15.59.02.excalidraw </a>"
+        "<a class=\"internal-link\" href=\"personal/job-hunting/Drawing 2022-11-07 15.59.02.excalidraw.md\"> Drawing 2022-11-07 15.59.02.excalidraw </a>",
+        "<a class=\"internal-link\" href=\"learning/computing/cryptocurrency/standards/eutxo.md\"> eutxo </a>"
       ],
       "Refactored": [],
       "Deleted": [
