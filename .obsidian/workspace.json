@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "learning/computing/cryptocurrency/standards/eutxo.md",
+                "file": "learning/computing/really useful websites.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -63,7 +63,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "dg-home",
+                "query": "tag:#cardano",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -92,7 +92,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "learning/computing/cryptocurrency/standards/eutxo.md",
+                "file": "learning/computing/really useful websites.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,7 +109,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "learning/computing/cryptocurrency/standards/eutxo.md"
+                "file": "learning/computing/really useful websites.md"
               }
             }
           },
@@ -136,8 +136,9 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "81e320e71a1d6dbf",
+  "active": "faeae6dbf1d04a9b",
   "lastOpenFiles": [
+    "learning/computing/cryptocurrency/standards/eutxo.md",
     "README.md",
     "personal/daily/2022/22-11-17.md",
     "personal/daily/2022/22-11-16.md",
@@ -146,7 +147,6 @@
     "learning/computing/software/linux/Linux directory Structure.md",
     "learning/computing/cloud/AWS/AWS quiz.md",
     "learning/Untitled.md",
-    "learning/computing/software/obsidian/Graph and Local Graph View.md",
-    "learning/computing/software/obsidian/Obsidian Aliases.md"
+    "learning/computing/software/obsidian/Graph and Local Graph View.md"
   ]
 }
