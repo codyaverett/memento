@@ -1,7 +1,7 @@
 ---
 name: People Just Do Not Know What They Do Not Know
 created: 2022-11-17T02:01:13-06:00
-updated: 2022-11-17T02:04:01-06:00
+updated: 2022-11-17T11:50:17-06:00
 aliases: 
 tags: 
 ---
@@ -21,6 +21,8 @@ https://galaxy.opensyllabus.org/
 
 There is also the cursed iceburg meme.
 https://suricrasia.online/iceberg/
+
+That's a lot of stuff! Too much for any one human to consume thorough their entire lifetime.
 
 Some quick ideas on the topic
 
