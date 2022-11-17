@@ -1,9 +1,9 @@
 ---
 name: EUTXO
 created: 2022-11-17T01:13:36-06:00
-updated: 2022-11-17T01:15:26-06:00
+updated: 2022-11-17T01:17:23-06:00
 aliases: 
-tags: 
+tags: cardano, ergo, nervos
 ---
 # EUTXO
 
