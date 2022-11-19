@@ -1278,12 +1278,17 @@
       "size": 0,
       "tags": 0,
       "links": 0
+    },
+    "personal/daily/2022/22-11-18.md": {
+      "size": 0,
+      "tags": 0,
+      "links": 0
     }
   },
   "commitTypes": {
     "/": {
       "Refactor": 1388,
-      "Create": 259,
+      "Create": 260,
       "Link": 96,
       "Expand": 97
     }
@@ -1311,7 +1316,7 @@
       "18": 29,
       "19": 25,
       "20": 33,
-      "21": 71,
+      "21": 72,
       "22": 54,
       "23": 34
     }
@@ -1322,7 +1327,7 @@
       "Tue": 102,
       "Wed": 171,
       "Thu": 135,
-      "Fri": 114,
+      "Fri": 115,
       "Sat": 0,
       "Sun": 79
     }
@@ -1383,6 +1388,7 @@
         "<a class=\"internal-link\" href=\"personal/job-hunting/jb-hunt-topics.md\"> jb-hunt-topics </a>"
       ],
       "Created": [
+        "<a class=\"internal-link\" href=\"personal/daily/2022/22-11-18.md\"> 22-11-18 </a>",
         "<a class=\"internal-link\" href=\"personal/blog/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"learning/computing/cryptocurrency/standards/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"personal/daily/2022/22-11-17.md\"> 22-11-17 </a>",
@@ -1432,8 +1438,7 @@
         "<a class=\"internal-link\" href=\"personal/lifehacks/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"personal/music/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"personal/job-hunting/Untitled.md\"> Untitled </a>",
-        "<a class=\"internal-link\" href=\"daily/11-12-22.md\"> 11-12-22 </a>",
-        "<a class=\"internal-link\" href=\"daily/11-11-22.md\"> 11-11-22 </a>"
+        "<a class=\"internal-link\" href=\"daily/11-12-22.md\"> 11-12-22 </a>"
       ],
       "Renamed": [
         "<a class=\"internal-link\" href=\"personal/blog/People Just Do Not Know What They Do Not Know.md\"> People Just Do Not Know What They Do Not Know </a>",
