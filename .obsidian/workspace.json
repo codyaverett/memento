@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "48dea03b87f4a300",
+        "id": "7b52ea42311ca112",
         "type": "tabs",
         "children": [
           {
-            "id": "27e6dedc0d306204",
+            "id": "c470b80b2f1d71e7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "personal/blog/People Just Do Not Know What They Do Not Know.md",
+                "file": "personal/daily/2022/22-11-18.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -78,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "personal/blog/People Just Do Not Know What They Do Not Know.md",
+                "file": "personal/daily/2022/22-11-18.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,7 +95,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "personal/blog/People Just Do Not Know What They Do Not Know.md"
+                "file": "personal/daily/2022/22-11-18.md"
               }
             }
           },
@@ -122,8 +122,10 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "27e6dedc0d306204",
+  "active": "c470b80b2f1d71e7",
   "lastOpenFiles": [
+    "learning/farming/Compost has four ingredients.md",
+    "personal/blog/People Just Do Not Know What They Do Not Know.md",
     "README.md",
     "learning/computing/software/data ETL/trino.md",
     "personal/task board.md",
@@ -131,8 +133,6 @@
     "learning/computing/programming/languages/Lisp programming language.md",
     "learning/computing/software/letsencrypt/letsencrypt.md",
     "learning/computing/programming/authentication/JSON Web Token.md",
-    "learning/computing/software/git/git reflog.md",
-    "learning/computing/programming/python/building python extensions with Rust.md",
-    "learning/computing/software/containers/docker-compose/create compose from multiple dockerfiles.md"
+    "learning/computing/software/git/git reflog.md"
   ]
 }
