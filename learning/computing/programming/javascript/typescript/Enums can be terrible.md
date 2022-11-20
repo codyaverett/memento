@@ -15,8 +15,8 @@ enum AuthMethod {
 }
 
 console.log(Object.value(AuthMethod)) // gives all the keys and all the values
-
-
 ```
+
+During runtime, javascript creates strings with the corresponding keys and the keys and the values.
 
 

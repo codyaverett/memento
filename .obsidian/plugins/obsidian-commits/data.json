@@ -1293,12 +1293,17 @@
       "size": 0,
       "tags": 0,
       "links": 0
+    },
+    "learning/computing/programming/javascript/typescript/Enums can be terrible.md": {
+      "size": 0,
+      "tags": 0,
+      "links": 0
     }
   },
   "commitTypes": {
     "/": {
       "Refactor": 1388,
-      "Create": 262,
+      "Create": 263,
       "Link": 96,
       "Expand": 97
     }
@@ -1318,7 +1323,7 @@
       "10": 12,
       "11": 10,
       "12": 6,
-      "13": 50,
+      "13": 51,
       "14": 40,
       "15": 56,
       "16": 1199,
@@ -1339,7 +1344,7 @@
       "Thu": 135,
       "Fri": 115,
       "Sat": 0,
-      "Sun": 81
+      "Sun": 82
     }
   },
   "recentCommits": {
@@ -1398,6 +1403,7 @@
         "<a class=\"internal-link\" href=\"personal/job-hunting/jb-hunt-topics.md\"> jb-hunt-topics </a>"
       ],
       "Created": [
+        "<a class=\"internal-link\" href=\"learning/computing/programming/javascript/typescript/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"learning/mental/emotions/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"personal/daily/2022/22-11-19.md\"> 22-11-19 </a>",
         "<a class=\"internal-link\" href=\"personal/daily/2022/22-11-18.md\"> 22-11-18 </a>",
@@ -1447,8 +1453,7 @@
         "<a class=\"internal-link\" href=\"software/jupyter notebooks/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"templates/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"software/sed/Untitled.md\"> Untitled </a>",
-        "<a class=\"internal-link\" href=\"personal/lifehacks/Untitled.md\"> Untitled </a>",
-        "<a class=\"internal-link\" href=\"personal/music/Untitled.md\"> Untitled </a>"
+        "<a class=\"internal-link\" href=\"personal/lifehacks/Untitled.md\"> Untitled </a>"
       ],
       "Renamed": [
         "<a class=\"internal-link\" href=\"personal/blog/People Just Do Not Know What They Do Not Know.md\"> People Just Do Not Know What They Do Not Know </a>",
