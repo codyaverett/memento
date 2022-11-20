@@ -1318,12 +1318,17 @@
       "size": 0,
       "tags": 0,
       "links": 0
+    },
+    "learning/financial/career/code tests/tips on completing a timed code test.md": {
+      "size": 0,
+      "tags": 0,
+      "links": 0
     }
   },
   "commitTypes": {
     "/": {
-      "Refactor": 1390,
-      "Create": 267,
+      "Refactor": 1391,
+      "Create": 268,
       "Link": 98,
       "Expand": 97
     }
@@ -1345,7 +1350,7 @@
       "12": 6,
       "13": 51,
       "14": 44,
-      "15": 60,
+      "15": 62,
       "16": 1199,
       "17": 66,
       "18": 29,
@@ -1364,7 +1369,7 @@
       "Thu": 135,
       "Fri": 115,
       "Sat": 0,
-      "Sun": 90
+      "Sun": 92
     }
   },
   "recentCommits": {
@@ -1423,6 +1428,7 @@
         "<a class=\"internal-link\" href=\"personal/job-hunting/jb-hunt-topics.md\"> jb-hunt-topics </a>"
       ],
       "Created": [
+        "<a class=\"internal-link\" href=\"learning/financial/career/code tests/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"learning/computing/programming/javascript/nodejs/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"learning/computing/programming/general/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"learning/computing/programming/SQL/reference/Untitled.md\"> Untitled </a>",
@@ -1472,10 +1478,10 @@
         "<a class=\"internal-link\" href=\"self/daily/22-11-14.md\"> 22-11-14 </a>",
         "<a class=\"internal-link\" href=\"software/linux/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"daily/11-14-22.md\"> 11-14-22 </a>",
-        "<a class=\"internal-link\" href=\"programming/shell/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"programming/shell/Untitled.md\"> Untitled </a>"
       ],
       "Renamed": [
+        "<a class=\"internal-link\" href=\"learning/financial/career/code tests/tips on completing a timed code test.md\"> tips on completing a timed code test </a>",
         "<a class=\"internal-link\" href=\"learning/computing/programming/SQL/reference/create DB elements.md\"> create DB elements </a>",
         "<a class=\"internal-link\" href=\"learning/computing/programming/SQL/reference/create DB and table.md\"> create DB and table </a>",
         "<a class=\"internal-link\" href=\"personal/blog/People Just Do Not Know What They Do Not Know.md\"> People Just Do Not Know What They Do Not Know </a>",
@@ -1525,8 +1531,7 @@
         "<a class=\"internal-link\" href=\"learning/bugs/brown recluse spider.md\"> brown recluse spider </a>",
         "<a class=\"internal-link\" href=\"learning/hobby/transporting lumber with a roof rack.md\"> transporting lumber with a roof rack </a>",
         "<a class=\"internal-link\" href=\"learning/reading/tips for reading quickly.md\"> tips for reading quickly </a>",
-        "<a class=\"internal-link\" href=\"learning/reading/reading quickly.md\"> reading quickly </a>",
-        "<a class=\"internal-link\" href=\"learning/productivity/general productivity tips.md\"> general productivity tips </a>"
+        "<a class=\"internal-link\" href=\"learning/reading/reading quickly.md\"> reading quickly </a>"
       ],
       "Tagged": [
         "<a class=\"internal-link\" href=\"personal/job-hunting/jb-hunt-topics.md\"> jb-hunt-topics </a>",
