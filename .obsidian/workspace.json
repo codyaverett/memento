@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "personal/daily/2022/22-11-18.md",
+                "file": "personal/daily/2022/22-11-19.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -78,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "personal/daily/2022/22-11-18.md",
+                "file": "personal/daily/2022/22-11-19.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,7 +95,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "personal/daily/2022/22-11-18.md"
+                "file": "personal/daily/2022/22-11-19.md"
               }
             }
           },
@@ -116,7 +116,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -124,6 +124,8 @@
   },
   "active": "c470b80b2f1d71e7",
   "lastOpenFiles": [
+    "personal/daily/2022/22-11-18.md",
+    "personal/daily/2022/22-11-19.md",
     "learning/farming/Compost has four ingredients.md",
     "personal/blog/People Just Do Not Know What They Do Not Know.md",
     "README.md",
@@ -131,8 +133,6 @@
     "personal/task board.md",
     "learning/computing/software/data ETL/snowflake.md",
     "learning/computing/programming/languages/Lisp programming language.md",
-    "learning/computing/software/letsencrypt/letsencrypt.md",
-    "learning/computing/programming/authentication/JSON Web Token.md",
-    "learning/computing/software/git/git reflog.md"
+    "learning/computing/software/letsencrypt/letsencrypt.md"
   ]
 }
