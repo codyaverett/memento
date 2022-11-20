@@ -19,8 +19,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "83e240bf205863c6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "learning/financial/career/code tests/tips on completing a timed code test.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -78,7 +92,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "learning/computing/programming/javascript/nodejs/nodejs memory limits.md",
+                "file": "learning/financial/career/code tests/tips on completing a timed code test.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,7 +109,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "learning/computing/programming/javascript/nodejs/nodejs memory limits.md"
+                "file": "learning/financial/career/code tests/tips on completing a timed code test.md"
               }
             }
           },
@@ -122,10 +136,10 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "dc9e26634eb00314",
+  "active": "83e240bf205863c6",
   "lastOpenFiles": [
-    "learning/computing/programming/SQL/SQL Joins.md",
     "learning/computing/programming/javascript/nodejs/nodejs memory limits.md",
+    "learning/computing/programming/SQL/SQL Joins.md",
     "personal/daily/2022/22-11-19.md",
     "learning/mental/emotions/Untitled.md",
     "learning/computing/programming/SQL/reference/create DB elements.md",
