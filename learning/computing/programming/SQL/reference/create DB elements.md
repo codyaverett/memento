@@ -3,7 +3,7 @@ name: Create DB Elements
 created: 2022-11-20T14:57:25-06:00
 updated: 2022-11-20T15:05:22-06:00
 aliases: 
-tags: 
+tags: sql create
 ---
 # Create DB Elements
 
