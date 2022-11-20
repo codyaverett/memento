@@ -1308,12 +1308,17 @@
       "size": 0,
       "tags": 2,
       "links": 0
+    },
+    "learning/computing/programming/general/heap memory.md": {
+      "size": 0,
+      "tags": 0,
+      "links": 0
     }
   },
   "commitTypes": {
     "/": {
       "Refactor": 1390,
-      "Create": 265,
+      "Create": 266,
       "Link": 98,
       "Expand": 97
     }
@@ -1335,7 +1340,7 @@
       "12": 6,
       "13": 51,
       "14": 44,
-      "15": 58,
+      "15": 59,
       "16": 1199,
       "17": 66,
       "18": 29,
@@ -1354,7 +1359,7 @@
       "Thu": 135,
       "Fri": 115,
       "Sat": 0,
-      "Sun": 88
+      "Sun": 89
     }
   },
   "recentCommits": {
@@ -1413,6 +1418,7 @@
         "<a class=\"internal-link\" href=\"personal/job-hunting/jb-hunt-topics.md\"> jb-hunt-topics </a>"
       ],
       "Created": [
+        "<a class=\"internal-link\" href=\"learning/computing/programming/general/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"learning/computing/programming/SQL/reference/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"learning/computing/programming/SQL/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"learning/computing/programming/javascript/typescript/Untitled.md\"> Untitled </a>",
@@ -1462,8 +1468,7 @@
         "<a class=\"internal-link\" href=\"daily/11-14-22.md\"> 11-14-22 </a>",
         "<a class=\"internal-link\" href=\"programming/shell/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"programming/shell/Untitled.md\"> Untitled </a>",
-        "<a class=\"internal-link\" href=\"software/jupyter notebooks/Untitled.md\"> Untitled </a>",
-        "<a class=\"internal-link\" href=\"templates/Untitled.md\"> Untitled </a>"
+        "<a class=\"internal-link\" href=\"software/jupyter notebooks/Untitled.md\"> Untitled </a>"
       ],
       "Renamed": [
         "<a class=\"internal-link\" href=\"learning/computing/programming/SQL/reference/create DB elements.md\"> create DB elements </a>",

@@ -58,9 +58,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "dc9e26634eb00314",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "learning/computing/programming/javascript/nodejs/Untitled.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -118,7 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "learning/computing/programming/SQL/reference/create DB elements.md",
+                "file": "learning/computing/programming/javascript/nodejs/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "learning/computing/programming/SQL/reference/create DB elements.md"
+                "file": "learning/computing/programming/javascript/nodejs/Untitled.md"
               }
             }
           },
@@ -162,10 +175,10 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "a331554d4e1a5fdf",
+  "active": "dc9e26634eb00314",
   "lastOpenFiles": [
-    "learning/computing/programming/general/heap memory.md",
     "learning/computing/programming/SQL/reference/create DB elements.md",
+    "learning/computing/programming/general/heap memory.md",
     "learning/computing/programming/SQL/SQL Joins.md",
     "learning/computing/programming/SQL/SQL order of execution.md",
     "learning/mental/emotions/Untitled.md",
