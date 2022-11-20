@@ -9,6 +9,24 @@ tags:
 ```toc
 ```
 
+# Arrays
+Arrays are similar to variables, but can hold more than one value.
+
+## Syntax
+
+```c#
+DataType[ ] ArrayName = { Comma Separated Values } // Array of any size 
+
+DataType[] ArrayName = new DataType[3] {Command Separated Values } //Expects 3 values
+```
+
+## Example
+
+```C#
+string[] MyGames = {"Banjo Kazooie", "Skyrim"};
+string[] MyMovies = new string[3] {"Spiderman", "Interstellar", "Limitless"};
+```
+
 # Intro
 C# is a powerful Object Orientated language, for those coming from Java or C++ you should be able to pick up the syntax for C# quickly. 
 
@@ -38,24 +56,6 @@ DataType variableName = value;
 ```c#
 string Name = "string example";
 int Year = 2022;
-```
-
-# Arrays
-Arrays are similar to variables, but can hold more than one value.
-
-## Syntax
-
-```c#
-DataType[ ] ArrayName = { Comma Separated Values } // Array of any size 
-
-DataType[] ArrayName = new DataType[3] {Command Separated Values } //Expects 3 values
-```
-
-## Example
-
-```C#
-string[] MyGames = {"Banjo Kazooie", "Skyrim"};
-string[] MyMovies = new string[3] {"Spiderman", "Interstellar", "Limitless"};
 ```
 
 # Strings
