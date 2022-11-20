@@ -1301,15 +1301,20 @@
     },
     "learning/computing/programming/SQL/SQL Joins.md": {
       "size": 0,
+      "tags": 1,
+      "links": 0
+    },
+    "learning/computing/programming/SQL/reference/create DB elements.md": {
+      "size": 0,
       "tags": 0,
       "links": 0
     }
   },
   "commitTypes": {
     "/": {
-      "Refactor": 1388,
-      "Create": 264,
-      "Link": 96,
+      "Refactor": 1390,
+      "Create": 265,
+      "Link": 97,
       "Expand": 97
     }
   },
@@ -1329,8 +1334,8 @@
       "11": 10,
       "12": 6,
       "13": 51,
-      "14": 41,
-      "15": 56,
+      "14": 44,
+      "15": 57,
       "16": 1199,
       "17": 66,
       "18": 29,
@@ -1349,7 +1354,7 @@
       "Thu": 135,
       "Fri": 115,
       "Sat": 0,
-      "Sun": 83
+      "Sun": 87
     }
   },
   "recentCommits": {
@@ -1408,6 +1413,7 @@
         "<a class=\"internal-link\" href=\"personal/job-hunting/jb-hunt-topics.md\"> jb-hunt-topics </a>"
       ],
       "Created": [
+        "<a class=\"internal-link\" href=\"learning/computing/programming/SQL/reference/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"learning/computing/programming/SQL/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"learning/computing/programming/javascript/typescript/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"learning/mental/emotions/Untitled.md\"> Untitled </a>",
@@ -1457,10 +1463,11 @@
         "<a class=\"internal-link\" href=\"programming/shell/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"programming/shell/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"software/jupyter notebooks/Untitled.md\"> Untitled </a>",
-        "<a class=\"internal-link\" href=\"templates/Untitled.md\"> Untitled </a>",
-        "<a class=\"internal-link\" href=\"software/sed/Untitled.md\"> Untitled </a>"
+        "<a class=\"internal-link\" href=\"templates/Untitled.md\"> Untitled </a>"
       ],
       "Renamed": [
+        "<a class=\"internal-link\" href=\"learning/computing/programming/SQL/reference/create DB elements.md\"> create DB elements </a>",
+        "<a class=\"internal-link\" href=\"learning/computing/programming/SQL/reference/create DB and table.md\"> create DB and table </a>",
         "<a class=\"internal-link\" href=\"personal/blog/People Just Do Not Know What They Do Not Know.md\"> People Just Do Not Know What They Do Not Know </a>",
         "<a class=\"internal-link\" href=\"learning/computing/cryptocurrency/oracles/Chainlink/Fair Sequencing Services (FSS).md\"> Fair Sequencing Services (FSS) </a>",
         "<a class=\"internal-link\" href=\"learning/computing/software/obsidian/Graph and Local Graph View.md\"> Graph and Local Graph View </a>",
@@ -1509,9 +1516,7 @@
         "<a class=\"internal-link\" href=\"learning/hobby/transporting lumber with a roof rack.md\"> transporting lumber with a roof rack </a>",
         "<a class=\"internal-link\" href=\"learning/reading/tips for reading quickly.md\"> tips for reading quickly </a>",
         "<a class=\"internal-link\" href=\"learning/reading/reading quickly.md\"> reading quickly </a>",
-        "<a class=\"internal-link\" href=\"learning/productivity/general productivity tips.md\"> general productivity tips </a>",
-        "<a class=\"internal-link\" href=\"learning/productivity/productivity tips.md\"> productivity tips </a>",
-        "<a class=\"internal-link\" href=\"learning/productivity/how to have time for everything.md\"> how to have time for everything </a>"
+        "<a class=\"internal-link\" href=\"learning/productivity/general productivity tips.md\"> general productivity tips </a>"
       ],
       "Tagged": [
         "<a class=\"internal-link\" href=\"personal/job-hunting/jb-hunt-topics.md\"> jb-hunt-topics </a>",
@@ -1528,7 +1533,8 @@
         "<a class=\"internal-link\" href=\"learning/computing/software/DNS/dns.md\"> dns </a>",
         "<a class=\"internal-link\" href=\"learning/computing/programming/python/building python extensions with Rust.md\"> building python extensions with Rust </a>",
         "<a class=\"internal-link\" href=\"learning/computing/programming/languages/Lisp programming language.md\"> Lisp programming language </a>",
-        "<a class=\"internal-link\" href=\"learning/computing/programming/authentication/JSON Web Token.md\"> JSON Web Token </a>"
+        "<a class=\"internal-link\" href=\"learning/computing/programming/authentication/JSON Web Token.md\"> JSON Web Token </a>",
+        "<a class=\"internal-link\" href=\"learning/computing/programming/SQL/SQL Joins.md\"> SQL Joins </a>"
       ],
       "Refactored": [],
       "Deleted": [
