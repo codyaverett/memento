@@ -12,4 +12,9 @@ tags:
 - Take note of your start time! Incase the test box doesn't tell you how much time you have left
 - Read through all the questions before you start any of the questions.
 	- There may be questions that you can answer more quickly and easily than the others
-	- Prioritize those to remove the stress
+	- Prioritize the easier questions to remove overall stress
+- Minimize switching between problems
+- All problems are tested against public and private test cases
+- Submit at least something for every problem
+- If you don't know the solution for every problem try to figure out at least one
+- 
