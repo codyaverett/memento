@@ -8,51 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "c470b80b2f1d71e7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "personal/daily/2022/22-11-19.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "014a0e96b6ebe5f4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "learning/mental/emotions/Untitled.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
             "id": "5da02f23a58db96e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "learning/computing/programming/SQL/SQL Joins.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a331554d4e1a5fdf",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "learning/computing/programming/SQL/reference/create DB elements.md",
+                "file": "learning/computing/programming/javascript/nodejs/nodejs memory limits.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -72,8 +33,7 @@
               }
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -175,17 +135,17 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "dc9e26634eb00314",
+  "active": "5da02f23a58db96e",
   "lastOpenFiles": [
+    "learning/computing/programming/SQL/SQL Joins.md",
+    "learning/computing/programming/javascript/nodejs/nodejs memory limits.md",
+    "personal/daily/2022/22-11-19.md",
+    "learning/mental/emotions/Untitled.md",
     "learning/computing/programming/SQL/reference/create DB elements.md",
     "learning/computing/programming/general/heap memory.md",
-    "learning/computing/programming/SQL/SQL Joins.md",
     "learning/computing/programming/SQL/SQL order of execution.md",
-    "learning/mental/emotions/Untitled.md",
     "learning/computing/programming/c-sharp/C-sharp cheatsheet.md",
     "learning/computing/programming/javascript/Javascript oddities.md",
-    "learning/computing/programming/javascript/typescript/Enums can be terrible.md",
-    "personal/daily/2022/22-11-19.md",
-    "personal/daily/2022/22-11-18.md"
+    "learning/computing/programming/javascript/typescript/Enums can be terrible.md"
   ]
 }
