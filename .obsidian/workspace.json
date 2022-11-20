@@ -8,19 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "5da02f23a58db96e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "learning/computing/programming/javascript/nodejs/nodejs memory limits.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
             "id": "dc9e26634eb00314",
             "type": "leaf",
             "state": {
@@ -135,7 +122,7 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "5da02f23a58db96e",
+  "active": "dc9e26634eb00314",
   "lastOpenFiles": [
     "learning/computing/programming/SQL/SQL Joins.md",
     "learning/computing/programming/javascript/nodejs/nodejs memory limits.md",
