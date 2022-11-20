@@ -1306,7 +1306,7 @@
     },
     "learning/computing/programming/SQL/reference/create DB elements.md": {
       "size": 0,
-      "tags": 0,
+      "tags": 2,
       "links": 0
     }
   },
@@ -1314,7 +1314,7 @@
     "/": {
       "Refactor": 1390,
       "Create": 265,
-      "Link": 97,
+      "Link": 98,
       "Expand": 97
     }
   },
@@ -1335,7 +1335,7 @@
       "12": 6,
       "13": 51,
       "14": 44,
-      "15": 57,
+      "15": 58,
       "16": 1199,
       "17": 66,
       "18": 29,
@@ -1354,7 +1354,7 @@
       "Thu": 135,
       "Fri": 115,
       "Sat": 0,
-      "Sun": 87
+      "Sun": 88
     }
   },
   "recentCommits": {
@@ -1534,7 +1534,8 @@
         "<a class=\"internal-link\" href=\"learning/computing/programming/python/building python extensions with Rust.md\"> building python extensions with Rust </a>",
         "<a class=\"internal-link\" href=\"learning/computing/programming/languages/Lisp programming language.md\"> Lisp programming language </a>",
         "<a class=\"internal-link\" href=\"learning/computing/programming/authentication/JSON Web Token.md\"> JSON Web Token </a>",
-        "<a class=\"internal-link\" href=\"learning/computing/programming/SQL/SQL Joins.md\"> SQL Joins </a>"
+        "<a class=\"internal-link\" href=\"learning/computing/programming/SQL/SQL Joins.md\"> SQL Joins </a>",
+        "<a class=\"internal-link\" href=\"learning/computing/programming/SQL/reference/create DB elements.md\"> create DB elements </a>"
       ],
       "Refactored": [],
       "Deleted": [
