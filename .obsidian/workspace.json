@@ -45,9 +45,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "a331554d4e1a5fdf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "learning/computing/programming/SQL/reference/create DB elements.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -105,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "learning/computing/programming/SQL/SQL Joins.md",
+                "file": "learning/computing/programming/SQL/reference/create DB elements.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "learning/computing/programming/SQL/SQL Joins.md"
+                "file": "learning/computing/programming/SQL/reference/create DB elements.md"
               }
             }
           },
@@ -149,8 +162,9 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "5da02f23a58db96e",
+  "active": "a331554d4e1a5fdf",
   "lastOpenFiles": [
+    "learning/computing/programming/SQL/SQL Joins.md",
     "learning/mental/emotions/Untitled.md",
     "learning/computing/programming/c-sharp/C-sharp cheatsheet.md",
     "learning/computing/programming/javascript/Javascript oddities.md",
@@ -159,7 +173,6 @@
     "personal/daily/2022/22-11-18.md",
     "learning/farming/Compost has four ingredients.md",
     "personal/blog/People Just Do Not Know What They Do Not Know.md",
-    "README.md",
-    "learning/computing/software/data ETL/trino.md"
+    "README.md"
   ]
 }
