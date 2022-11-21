@@ -1343,13 +1343,18 @@
       "size": 0,
       "tags": 0,
       "links": 0
+    },
+    "learning/computing/programming/javascript/deno/deno linter.md": {
+      "size": 0,
+      "tags": 2,
+      "links": 0
     }
   },
   "commitTypes": {
     "/": {
       "Refactor": 1391,
-      "Create": 272,
-      "Link": 102,
+      "Create": 273,
+      "Link": 103,
       "Expand": 98
     }
   },
@@ -1357,8 +1362,8 @@
     "/": {
       "0": 46,
       "1": 29,
-      "2": 41,
-      "3": 32,
+      "2": 42,
+      "3": 33,
       "4": 3,
       "5": 3,
       "6": 5,
@@ -1383,7 +1388,7 @@
   },
   "weeklyCommits": {
     "/": {
-      "Mon": 1243,
+      "Mon": 1245,
       "Tue": 102,
       "Wed": 171,
       "Thu": 135,
@@ -1450,6 +1455,7 @@
       "Created": [
         "<a class=\"internal-link\" href=\"learning/computing/programming/javascript/deno/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"learning/computing/programming/javascript/deno/Untitled.md\"> Untitled </a>",
+        "<a class=\"internal-link\" href=\"learning/computing/programming/javascript/deno/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"learning/financial/career/interview questions/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"learning/financial/career/interview questions/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"learning/financial/career/code tests/Untitled.md\"> Untitled </a>",
@@ -1497,8 +1503,7 @@
         "<a class=\"internal-link\" href=\"personal/Untitled Kanban.md\"> Untitled Kanban </a>",
         "<a class=\"internal-link\" href=\"personal/daily/2022/22-11-15.md\"> 22-11-15 </a>",
         "<a class=\"internal-link\" href=\"learning/computing/software/containers/kubernetes/Untitled.md\"> Untitled </a>",
-        "<a class=\"internal-link\" href=\"learning/computing/programming/java/Untitled.md\"> Untitled </a>",
-        "<a class=\"internal-link\" href=\"learning/computing/programming/c-sharp/Untitled.md\"> Untitled </a>"
+        "<a class=\"internal-link\" href=\"learning/computing/programming/java/Untitled.md\"> Untitled </a>"
       ],
       "Renamed": [
         "<a class=\"internal-link\" href=\"learning/financial/career/code tests/tips on completing a timed code test.md\"> tips on completing a timed code test </a>",
@@ -1574,7 +1579,8 @@
         "<a class=\"internal-link\" href=\"learning/financial/career/interview questions/api considerations for client.md\"> api considerations for client </a>",
         "<a class=\"internal-link\" href=\"learning/financial/career/interview questions/tough problem.md\"> tough problem </a>",
         "<a class=\"internal-link\" href=\"learning/computing/programming/javascript/deno/deno-deploy.md\"> deno-deploy </a>",
-        "<a class=\"internal-link\" href=\"learning/computing/programming/javascript/deno/deno-deploy.md\"> deno-deploy </a>"
+        "<a class=\"internal-link\" href=\"learning/computing/programming/javascript/deno/deno-deploy.md\"> deno-deploy </a>",
+        "<a class=\"internal-link\" href=\"learning/computing/programming/javascript/deno/deno linter.md\"> deno linter </a>"
       ],
       "Refactored": [],
       "Deleted": [
