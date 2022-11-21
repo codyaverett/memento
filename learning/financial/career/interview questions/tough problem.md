@@ -34,3 +34,4 @@ My team was tasked with modernizing a legacy process used to parse and format tr
   - Enabled transaction level research across the entire organization.
   - Greatly reduced time required to research transactions through a print queue and optimized searching.
   - Presented the solution to several teams thorough the organization which gave my area significant political capital to innovate in other areas.
+  - Modernized critical infrastructure
