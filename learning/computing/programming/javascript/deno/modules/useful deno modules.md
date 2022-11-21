@@ -1,7 +1,7 @@
 ---
 name: Useful Deno Modules
 created: 2022-11-21T04:29:40-06:00
-updated: 2022-11-21T07:42:10-06:00
+updated: 2022-11-21T07:51:27-06:00
 aliases: 
 repository: https://github.com/pietvanzoen/deno-dotenv
 tags: list, deno, links
@@ -22,3 +22,6 @@ tags: list, deno, links
 	- Levenshtein distance calculator.  Comparing two strings.
 - https://deno.land/x/hmac@v2.0.1
 	- Generate an HMAC identifier for a encrypted hash
+- https://deno.land/x/ramda@v0.27.2/mod.ts
+	- Functional programming helper functions
+- 
