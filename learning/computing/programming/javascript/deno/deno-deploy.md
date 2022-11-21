@@ -7,11 +7,8 @@ tags: cloud, deno, edge
 ---
 # Deno-deploy
 
-Deno deploy is a global distributed cloud function service for the deno ecosystem.
-
-Runs application at the edge.  Serverless pay per request, free for low traffic/demo apps
-
-No config - reduced boilerplate.
-
+- Deno deploy is a global distributed cloud function service for the deno ecosystem.
+- Runs application at the edge.  Serverless pay per request, free for low traffic/demo apps
+- No config - reduced boilerplate.
 
 ## 
