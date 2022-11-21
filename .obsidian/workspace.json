@@ -86,6 +86,19 @@
             }
           },
           {
+            "id": "9d94a1ad6fd13d68",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "learning/computing/programming/javascript/deno/deno std library.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
             "id": "6d46965eee99176a",
             "type": "leaf",
             "state": {
@@ -99,7 +112,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -157,7 +170,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "learning/computing/programming/javascript/deno/deno example code.md",
+                "file": "learning/computing/programming/javascript/deno/deno std library.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -174,7 +187,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "learning/computing/programming/javascript/deno/deno example code.md"
+                "file": "learning/computing/programming/javascript/deno/deno std library.md"
               }
             }
           },
@@ -201,8 +214,9 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "9aa90eeea1ecec85",
+  "active": "9d94a1ad6fd13d68",
   "lastOpenFiles": [
+    "learning/computing/programming/javascript/deno/deno example code.md",
     "learning/computing/programming/javascript/deno/modules/fresh.md",
     "learning/computing/programming/javascript/deno/deno tasks.md",
     "learning/computing/programming/javascript/deno/deno-deploy.md",
@@ -211,7 +225,6 @@
     "learning/computing/programming/javascript/deno/modules/Untitled database.md",
     "learning/computing/programming/javascript/deno/Untitled database.md",
     "learning/computing/programming/javascript/deno/running deno tooling locally.md",
-    "learning/computing/programming/javascript/deno/node to deno cheatsheet.md",
-    "learning/computing/programming/javascript/deno/deno configuration.md"
+    "learning/computing/programming/javascript/deno/node to deno cheatsheet.md"
   ]
 }
