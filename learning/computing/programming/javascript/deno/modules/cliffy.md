@@ -138,3 +138,102 @@ while (true) {
   }
 }
 ```
+
+### Keypress
+
+```typescript
+// keypress.ts
+// deno run --unstable https://deno.land/x/cliffy@v0.25.4/examples/keypress.ts
+
+import { keypress, KeyPressEvent } from "https://deno.land/x/cliffy@v0.25.4/keypress/mod.ts";
+
+/** Promise */
+const event: KeyPressEvent = await keypress();
+console.log("Key pressed: %s", event.key);
+
+/** AsyncIterator */
+for await (const event: KeyPressEvent of keypress()) {
+  console.log("Key pressed: %s", event.key);
+  if (event.ctrlKey && event.key === "c") {
+    console.log("exit");
+    break;
+  }
+}
+
+/** EventTarget */
+keypress().addEventListener("keydown", (event: KeyPressEvent) => {
+  console.log("Key pressed: %s", event.key);
+  if (event.ctrlKey && event.key === "c") {
+    console.log("exit");
+    keypress().dispose();
+  }
+});
+```
+
+### Prompt
+
+```typescript
+// prompt.ts
+// deno run --unstable https://deno.land/x/cliffy@v0.25.4/examples/prompt.ts
+
+import { Confirm, Input, Number, Secret } from "https://deno.land/x/cliffy@v0.25.4/prompt/mod.ts";
+
+let hostname: string, port: number, password: string;
+
+await main();
+
+async function main() {
+  hostname = await Input.prompt({
+    message: "Enter the hostname",
+    default: hostname ?? "localhost",
+  });
+
+  port = await Number.prompt({
+    message: "Enter the port number",
+    default: port ?? 80,
+  });
+
+  password = await Secret.prompt({
+    message: "Enter your password",
+    default: password,
+  });
+
+  console.log({ port, hostname, password });
+  if (!await Confirm.prompt("Is everything correct?")) {
+    await main();
+  }
+}
+```
+
+## Table
+
+```typescript
+// table.ts
+// deno run https://deno.land/x/cliffy@v0.25.4/examples/table.ts
+
+import { Cell, Table } from "https://deno.land/x/cliffy@v0.25.4/table/mod.ts";
+
+const table = new Table(
+  [
+    new Cell("Row 1 & 2 / Column 1").rowSpan(2),
+    "Row 1 / Column 2",
+    "Row 1 / Column 3",
+  ],
+  [new Cell("Row 2 / Column 2 & 3").colSpan(2)],
+  [
+    new Cell("Row 3 & 4 / Column 1").rowSpan(2),
+    "Row 3 / Column 2",
+    "Row 3 / Column 3",
+  ],
+  [new Cell("Row 4 / Column 2 & 3").colSpan(2)],
+  [
+    "Row 5 / Column 1",
+    new Cell("Row 5 & 6 / Column 2 & 3").rowSpan(2).colSpan(2),
+  ],
+);
+
+table.push(["Row 6 / Column 1"]);
+
+table.border(true).render();
+
+```
