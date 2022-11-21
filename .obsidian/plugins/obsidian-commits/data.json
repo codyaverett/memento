@@ -1325,7 +1325,7 @@
       "links": 0
     },
     "learning/financial/career/interview questions/tough problem.md": {
-      "size": 0,
+      "size": 2264,
       "tags": 0,
       "links": 0
     },
@@ -1340,7 +1340,7 @@
       "Refactor": 1391,
       "Create": 270,
       "Link": 98,
-      "Expand": 97
+      "Expand": 98
     }
   },
   "dailyCommits": {
@@ -1363,7 +1363,7 @@
       "15": 62,
       "16": 1199,
       "17": 68,
-      "18": 29,
+      "18": 30,
       "19": 25,
       "20": 33,
       "21": 72,
@@ -1379,12 +1379,13 @@
       "Thu": 135,
       "Fri": 115,
       "Sat": 0,
-      "Sun": 94
+      "Sun": 95
     }
   },
   "recentCommits": {
     "/": {
       "Expanded": [
+        "<a class=\"internal-link\" href=\"learning/financial/career/interview questions/tough problem.md\"> tough problem </a>",
         "<a class=\"internal-link\" href=\"learning/computing/programming/python/useful python standard library modules.md\"> useful python standard library modules </a>",
         "<a class=\"internal-link\" href=\"learning/computing/programming/databases/postgres/timescaleDB.md\"> timescaleDB </a>",
         "<a class=\"internal-link\" href=\"learning/financial/career/social/Charisma.md\"> Charisma </a>",
@@ -1434,7 +1435,6 @@
         "<a class=\"internal-link\" href=\"programming/haskell/working with lists.md\"> working with lists </a>",
         "<a class=\"internal-link\" href=\"personal/social/Charisma.md\"> Charisma </a>",
         "<a class=\"internal-link\" href=\"personal/social/Charisma.md\"> Charisma </a>",
-        "<a class=\"internal-link\" href=\"personal/job-hunting/jb-hunt-topics.md\"> jb-hunt-topics </a>",
         "<a class=\"internal-link\" href=\"personal/job-hunting/jb-hunt-topics.md\"> jb-hunt-topics </a>"
       ],
       "Created": [
