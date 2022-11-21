@@ -47,6 +47,19 @@
             }
           },
           {
+            "id": "560233e6d90d7855",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "learning/computing/programming/javascript/deno/Interesting deno projects.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
             "id": "6d46965eee99176a",
             "type": "leaf",
             "state": {
@@ -60,7 +73,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -118,7 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "learning/computing/programming/javascript/deno/modules/cliffy.md",
+                "file": "learning/computing/programming/javascript/deno/Interesting deno projects.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "learning/computing/programming/javascript/deno/modules/cliffy.md"
+                "file": "learning/computing/programming/javascript/deno/Interesting deno projects.md"
               }
             }
           },
@@ -162,8 +175,9 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "b8a762740b58fb05",
+  "active": "560233e6d90d7855",
   "lastOpenFiles": [
+    "learning/computing/programming/javascript/deno/modules/cliffy.md",
     "learning/computing/programming/javascript/deno/modules/Untitled database.md",
     "learning/computing/programming/javascript/deno/Untitled database.md",
     "learning/computing/programming/javascript/deno/running deno tooling locally.md",
@@ -172,7 +186,6 @@
     "learning/computing/programming/javascript/deno/deno configuration.md",
     "learning/financial/career/interview questions/api considerations for client.md",
     "learning/computing/programming/algorithms/data-structures/left-leaning red black trees.md",
-    "learning/computing/programming/javascript/Javascript oddities.md",
-    "learning/computing/programming/javascript/deno/deno debugger.md"
+    "learning/computing/programming/javascript/Javascript oddities.md"
   ]
 }
