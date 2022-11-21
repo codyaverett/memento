@@ -1323,12 +1323,22 @@
       "size": 0,
       "tags": 0,
       "links": 0
+    },
+    "learning/financial/career/interview questions/tough problem.md": {
+      "size": 0,
+      "tags": 0,
+      "links": 0
+    },
+    "learning/financial/career/interview questions/api considerations for client.md": {
+      "size": 0,
+      "tags": 0,
+      "links": 0
     }
   },
   "commitTypes": {
     "/": {
       "Refactor": 1391,
-      "Create": 268,
+      "Create": 270,
       "Link": 98,
       "Expand": 97
     }
@@ -1352,7 +1362,7 @@
       "14": 44,
       "15": 62,
       "16": 1199,
-      "17": 66,
+      "17": 68,
       "18": 29,
       "19": 25,
       "20": 33,
@@ -1369,7 +1379,7 @@
       "Thu": 135,
       "Fri": 115,
       "Sat": 0,
-      "Sun": 92
+      "Sun": 94
     }
   },
   "recentCommits": {
@@ -1428,6 +1438,8 @@
         "<a class=\"internal-link\" href=\"personal/job-hunting/jb-hunt-topics.md\"> jb-hunt-topics </a>"
       ],
       "Created": [
+        "<a class=\"internal-link\" href=\"learning/financial/career/interview questions/Untitled.md\"> Untitled </a>",
+        "<a class=\"internal-link\" href=\"learning/financial/career/interview questions/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"learning/financial/career/code tests/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"learning/computing/programming/javascript/nodejs/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"learning/computing/programming/general/Untitled.md\"> Untitled </a>",
@@ -1476,9 +1488,7 @@
         "<a class=\"internal-link\" href=\"learning/computing/programming/java/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"learning/computing/programming/c-sharp/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"self/daily/22-11-14.md\"> 22-11-14 </a>",
-        "<a class=\"internal-link\" href=\"software/linux/Untitled.md\"> Untitled </a>",
-        "<a class=\"internal-link\" href=\"daily/11-14-22.md\"> 11-14-22 </a>",
-        "<a class=\"internal-link\" href=\"programming/shell/Untitled.md\"> Untitled </a>"
+        "<a class=\"internal-link\" href=\"software/linux/Untitled.md\"> Untitled </a>"
       ],
       "Renamed": [
         "<a class=\"internal-link\" href=\"learning/financial/career/code tests/tips on completing a timed code test.md\"> tips on completing a timed code test </a>",
