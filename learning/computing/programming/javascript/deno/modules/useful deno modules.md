@@ -14,3 +14,6 @@ tags: list, deno, links
 	- Take screenshots of websites
 - https://deno.land/x/dotenv
 	- Pull values out of a dotenv file
+- https://deno.land/x/denoflate@2.0.2
+	- Deflate, Gzip, and Zlib for webassembly
+- 
