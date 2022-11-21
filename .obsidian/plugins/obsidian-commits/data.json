@@ -1378,13 +1378,18 @@
       "size": 0,
       "tags": 2,
       "links": 0
+    },
+    "learning/computing/programming/javascript/deno/deno tasks.md": {
+      "size": 0,
+      "tags": 2,
+      "links": 0
     }
   },
   "commitTypes": {
     "/": {
       "Refactor": 1395,
-      "Create": 281,
-      "Link": 123,
+      "Create": 282,
+      "Link": 124,
       "Expand": 100
     }
   },
@@ -1394,7 +1399,7 @@
       "1": 29,
       "2": 42,
       "3": 52,
-      "4": 18,
+      "4": 20,
       "5": 3,
       "6": 5,
       "7": 0,
@@ -1418,7 +1423,7 @@
   },
   "weeklyCommits": {
     "/": {
-      "Mon": 1279,
+      "Mon": 1281,
       "Tue": 102,
       "Wed": 171,
       "Thu": 135,
@@ -1483,6 +1488,7 @@
         "<a class=\"internal-link\" href=\"personal/social/Charisma.md\"> Charisma </a>"
       ],
       "Created": [
+        "<a class=\"internal-link\" href=\"learning/computing/programming/javascript/deno/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"learning/computing/programming/javascript/deno/modules/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"learning/computing/programming/javascript/deno/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"learning/computing/programming/javascript/deno/modules/Untitled.md\"> Untitled </a>",
@@ -1532,8 +1538,7 @@
         "<a class=\"internal-link\" href=\"learning/computing/programming/languages/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"learning/computing/programming/languages/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"learning/computing/programming/c and c++/Untitled.md\"> Untitled </a>",
-        "<a class=\"internal-link\" href=\"learning/mental/ADHD/Untitled.md\"> Untitled </a>",
-        "<a class=\"internal-link\" href=\"learning/mental/health/Untitled.md\"> Untitled </a>"
+        "<a class=\"internal-link\" href=\"learning/mental/ADHD/Untitled.md\"> Untitled </a>"
       ],
       "Renamed": [
         "<a class=\"internal-link\" href=\"learning/computing/programming/javascript/deno/modules/useful deno modules.md\"> useful deno modules </a>",
@@ -1628,7 +1633,8 @@
         "<a class=\"internal-link\" href=\"learning/computing/programming/javascript/deno/deno configuration.md\"> deno configuration </a>",
         "<a class=\"internal-link\" href=\"learning/computing/programming/javascript/deno/modules/cliffy.md\"> cliffy </a>",
         "<a class=\"internal-link\" href=\"learning/computing/programming/javascript/deno/modules/useful deno modules.md\"> useful deno modules </a>",
-        "<a class=\"internal-link\" href=\"learning/computing/programming/javascript/deno/modules/fresh.md\"> fresh </a>"
+        "<a class=\"internal-link\" href=\"learning/computing/programming/javascript/deno/modules/fresh.md\"> fresh </a>",
+        "<a class=\"internal-link\" href=\"learning/computing/programming/javascript/deno/deno tasks.md\"> deno tasks </a>"
       ],
       "Refactored": [],
       "Deleted": [
