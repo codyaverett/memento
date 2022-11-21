@@ -1,15 +1,14 @@
 ---
-name: deno std library
+name: Deno Std Library
 created: 2022-11-21T05:20:35-06:00
-updated: 2022-11-21T05:22:54-06:00
+updated: 2022-11-21T05:23:17-06:00
 aliases: 
 link: https://deno.land/std?doc
-tags: deno, std, module
+tags: deno, std, module, list
 ---
 # Deno Std Library
 
-The deno standard library is the answer to the missing javascript standard library.
-
+The [deno standard library](https://deno.land/std?doc) is the answer to the missing javascript standard library.
 
 ## Categories
 - async
