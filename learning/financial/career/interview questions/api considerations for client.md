@@ -1,7 +1,7 @@
 ---
 name: Api Considerations for Client
 created: 2022-11-20T17:46:39-06:00
-updated: 2022-11-20T20:58:12-06:00
+updated: 2022-11-20T21:04:00-06:00
 aliases: 
 tags: prompt
 ---
@@ -25,23 +25,29 @@ An enterprise company is interested in building a web service complete with fron
 - What kind of role based access requirements are there for the application and web service?
 
 - Application Architecture
-	- Documentation and future developer onboarding.
-	- Application Scalability
-		- Stateless apps?
-		- Stateful sets?
-		- Application Containers
-	- Maintainability
-		- API versioning
-		- Dependency injection
-		- Minimize hard coupling between backend components
-		- Maximize functional cohesion of api handlers
-		- CICD Pipeline and minimal downtime on upgrades and downgrades
-	- Testing strategy
-		- Behavioral Unit tests at a minimum
-		- Load testing
-	 - Application Telemetry
-		 - Usage Statistics
-		 - Uptime
-	- Logging
-		- Retention periods
-		- Log Levels
+- Business logic
+	- Domain vs Application logic
+- Documentation and future developer onboarding.
+- Application Scalability
+	- Stateless apps?
+	- Stateful sets?
+	- Application Containers
+	- Integrations
+- Maintainability
+	- API versioning
+	- Dependency injection
+	- Minimize hard coupling between backend components
+	- Maximize functional cohesion of api handlers
+	- Automated CICD Pipeline and minimal downtime on upgrades and downgrades
+- Testing strategy
+	- Behavioral Unit tests at a minimum
+	- Load testing
+ - Application Telemetry
+	 - Usage Statistics
+	 - Uptime
+- Logging
+	- Retention periods
+	- Log Levels
+- Alerting
+	- Upon critical application failure
+	- heartbeat reporting
