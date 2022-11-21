@@ -241,7 +241,7 @@
     },
     "learning/computing/programming/authentication/JSON Web Token.md": {
       "size": 0,
-      "tags": 1,
+      "tags": 3,
       "links": 0
     },
     "learning/computing/programming/data ETL/OLAP data models.md": {
@@ -306,7 +306,7 @@
     },
     "learning/computing/programming/data streams/Data streams vs buffers.md": {
       "size": 0,
-      "tags": 0,
+      "tags": 3,
       "links": 0
     },
     "learning/computing/programming/frontend/list of dope websites.md": {
@@ -321,7 +321,7 @@
     },
     "learning/computing/programming/cli/python cli hide user input.md": {
       "size": 0,
-      "tags": 0,
+      "tags": 2,
       "links": 0
     },
     "learning/computing/programming/machine learning/machine learning.md": {
@@ -331,12 +331,12 @@
     },
     "learning/computing/programming/c and c++/Glut graphics framework.md": {
       "size": 0,
-      "tags": 0,
+      "tags": 2,
       "links": 0
     },
     "learning/computing/programming/c and c++/c++ package managers.md": {
       "size": 7133,
-      "tags": 0,
+      "tags": 2,
       "links": 0
     },
     "learning/computing/programming/general/backtracking.md": {
@@ -346,7 +346,7 @@
     },
     "learning/computing/programming/c and c++/opencv.md": {
       "size": 0,
-      "tags": 0,
+      "tags": 3,
       "links": 3
     },
     "learning/computing/programming/machine learning/interesting ml and ai products.md": {
@@ -536,12 +536,12 @@
     },
     "learning/computing/programming/algorithms/data-structures/left-leaning red black trees.md": {
       "size": 0,
-      "tags": 0,
+      "tags": 2,
       "links": 0
     },
     "learning/computing/programming/databases/postgres/timescaleDB.md": {
       "size": 2064,
-      "tags": 0,
+      "tags": 1,
       "links": 0
     },
     "learning/computing/programming/general/beginner project ideas/Build a user interface wrapper for a CLI tool.md": {
@@ -551,7 +551,7 @@
     },
     "learning/computing/programming/cli/loading/loading spinners and representing updates in a CLI application.md": {
       "size": 0,
-      "tags": 0,
+      "tags": 2,
       "links": 1
     },
     "learning/computing/programming/python/ansible/use ansible_runner from python module.md": {
@@ -561,7 +561,7 @@
     },
     "learning/computing/programming/databases/postgres/postgres materialized views.md": {
       "size": 0,
-      "tags": 0,
+      "tags": 2,
       "links": 0
     },
     "learning/computing/programming/python/ansible/ansible for network automation.md": {
@@ -1341,7 +1341,7 @@
     },
     "learning/computing/programming/javascript/deno/running deno tooling locally.md": {
       "size": 0,
-      "tags": 0,
+      "tags": 2,
       "links": 0
     },
     "learning/computing/programming/javascript/deno/deno linter.md": {
@@ -1354,7 +1354,7 @@
     "/": {
       "Refactor": 1391,
       "Create": 273,
-      "Link": 103,
+      "Link": 114,
       "Expand": 98
     }
   },
@@ -1363,7 +1363,7 @@
       "0": 46,
       "1": 29,
       "2": 42,
-      "3": 33,
+      "3": 44,
       "4": 3,
       "5": 3,
       "6": 5,
@@ -1388,7 +1388,7 @@
   },
   "weeklyCommits": {
     "/": {
-      "Mon": 1245,
+      "Mon": 1256,
       "Tue": 102,
       "Wed": 171,
       "Thu": 135,
@@ -1580,7 +1580,18 @@
         "<a class=\"internal-link\" href=\"learning/financial/career/interview questions/tough problem.md\"> tough problem </a>",
         "<a class=\"internal-link\" href=\"learning/computing/programming/javascript/deno/deno-deploy.md\"> deno-deploy </a>",
         "<a class=\"internal-link\" href=\"learning/computing/programming/javascript/deno/deno-deploy.md\"> deno-deploy </a>",
-        "<a class=\"internal-link\" href=\"learning/computing/programming/javascript/deno/deno linter.md\"> deno linter </a>"
+        "<a class=\"internal-link\" href=\"learning/computing/programming/javascript/deno/deno linter.md\"> deno linter </a>",
+        "<a class=\"internal-link\" href=\"learning/computing/programming/javascript/deno/running deno tooling locally.md\"> running deno tooling locally </a>",
+        "<a class=\"internal-link\" href=\"learning/computing/programming/databases/postgres/timescaleDB.md\"> timescaleDB </a>",
+        "<a class=\"internal-link\" href=\"learning/computing/programming/databases/postgres/postgres materialized views.md\"> postgres materialized views </a>",
+        "<a class=\"internal-link\" href=\"learning/computing/programming/data streams/Data streams vs buffers.md\"> Data streams vs buffers </a>",
+        "<a class=\"internal-link\" href=\"learning/computing/programming/cli/python cli hide user input.md\"> python cli hide user input </a>",
+        "<a class=\"internal-link\" href=\"learning/computing/programming/cli/loading/loading spinners and representing updates in a CLI application.md\"> loading spinners and representing updates in a CLI application </a>",
+        "<a class=\"internal-link\" href=\"learning/computing/programming/c and c++/opencv.md\"> opencv </a>",
+        "<a class=\"internal-link\" href=\"learning/computing/programming/c and c++/c++ package managers.md\"> c++ package managers </a>",
+        "<a class=\"internal-link\" href=\"learning/computing/programming/c and c++/Glut graphics framework.md\"> Glut graphics framework </a>",
+        "<a class=\"internal-link\" href=\"learning/computing/programming/authentication/JSON Web Token.md\"> JSON Web Token </a>",
+        "<a class=\"internal-link\" href=\"learning/computing/programming/algorithms/data-structures/left-leaning red black trees.md\"> left-leaning red black trees </a>"
       ],
       "Refactored": [],
       "Deleted": [

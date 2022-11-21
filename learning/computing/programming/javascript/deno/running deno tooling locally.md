@@ -1,9 +1,9 @@
 ---
-name: running deno tooling locally
+name: Running Deno Tooling Locally
 created: 2022-11-21T01:14:42-06:00
-updated: 2022-11-21T01:16:21-06:00
+updated: 2022-11-21T03:02:46-06:00
 aliases: 
-tags: 
+tags: deno, cli
 ---
 # Running Deno Tooling Locally
 

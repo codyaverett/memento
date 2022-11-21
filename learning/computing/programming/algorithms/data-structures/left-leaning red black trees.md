@@ -1,9 +1,9 @@
 ---
 name: Left-Leaning Red Black Trees
 created: 2022-11-16T15:42:15-06:00
-updated: 2022-11-16T16:52:06-06:00
-aliases: 
-tags: 
+updated: 2022-11-21T03:06:02-06:00
+aliases: LRB trees
+tags: tree, algo
 ---
 
 
