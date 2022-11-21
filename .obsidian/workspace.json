@@ -73,6 +73,19 @@
             }
           },
           {
+            "id": "9aa90eeea1ecec85",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "learning/computing/programming/javascript/deno/deno example code.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
             "id": "6d46965eee99176a",
             "type": "leaf",
             "state": {
@@ -86,7 +99,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -144,7 +157,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "learning/computing/programming/javascript/deno/modules/fresh.md",
+                "file": "learning/computing/programming/javascript/deno/deno example code.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -161,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "learning/computing/programming/javascript/deno/modules/fresh.md"
+                "file": "learning/computing/programming/javascript/deno/deno example code.md"
               }
             }
           },
@@ -188,11 +201,11 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "c3f0c261f41c01af",
+  "active": "9aa90eeea1ecec85",
   "lastOpenFiles": [
+    "learning/computing/programming/javascript/deno/modules/fresh.md",
     "learning/computing/programming/javascript/deno/deno tasks.md",
     "learning/computing/programming/javascript/deno/deno-deploy.md",
-    "learning/computing/programming/javascript/deno/modules/fresh.md",
     "learning/computing/programming/javascript/deno/modules/useful deno modules.md",
     "learning/computing/programming/javascript/deno/modules/cliffy.md",
     "learning/computing/programming/javascript/deno/modules/Untitled database.md",
