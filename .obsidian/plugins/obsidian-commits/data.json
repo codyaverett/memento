@@ -1365,7 +1365,7 @@
       "links": 0
     },
     "learning/computing/programming/javascript/deno/modules/cliffy.md": {
-      "size": 3385,
+      "size": 5602,
       "tags": 4,
       "links": 0
     }
@@ -1375,7 +1375,7 @@
       "Refactor": 1393,
       "Create": 279,
       "Link": 121,
-      "Expand": 99
+      "Expand": 100
     }
   },
   "dailyCommits": {
@@ -1384,7 +1384,7 @@
       "1": 29,
       "2": 42,
       "3": 52,
-      "4": 11,
+      "4": 12,
       "5": 3,
       "6": 5,
       "7": 0,
@@ -1408,7 +1408,7 @@
   },
   "weeklyCommits": {
     "/": {
-      "Mon": 1272,
+      "Mon": 1273,
       "Tue": 102,
       "Wed": 171,
       "Thu": 135,
@@ -1420,6 +1420,7 @@
   "recentCommits": {
     "/": {
       "Expanded": [
+        "<a class=\"internal-link\" href=\"learning/computing/programming/javascript/deno/modules/cliffy.md\"> cliffy </a>",
         "<a class=\"internal-link\" href=\"learning/computing/programming/javascript/deno/modules/cliffy.md\"> cliffy </a>",
         "<a class=\"internal-link\" href=\"learning/financial/career/interview questions/tough problem.md\"> tough problem </a>",
         "<a class=\"internal-link\" href=\"learning/computing/programming/python/useful python standard library modules.md\"> useful python standard library modules </a>",
@@ -1469,7 +1470,6 @@
         "<a class=\"internal-link\" href=\"programming/python/python extensions with rust.md\"> python extensions with rust </a>",
         "<a class=\"internal-link\" href=\"programming/python/python extensions with rust.md\"> python extensions with rust </a>",
         "<a class=\"internal-link\" href=\"programming/haskell/working with lists.md\"> working with lists </a>",
-        "<a class=\"internal-link\" href=\"personal/social/Charisma.md\"> Charisma </a>",
         "<a class=\"internal-link\" href=\"personal/social/Charisma.md\"> Charisma </a>"
       ],
       "Created": [
