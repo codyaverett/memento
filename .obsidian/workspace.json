@@ -136,17 +136,17 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "c836407f6b9b32a7",
+  "active": "33a2bab88d111215",
   "lastOpenFiles": [
+    "learning/computing/programming/javascript/Javascript oddities.md",
+    "learning/computing/programming/javascript/typescript/Enums can be terrible.md",
+    "learning/computing/programming/javascript/deno/deno-deploy.md",
     "learning/financial/career/interview questions/api considerations for client.md",
     "learning/financial/career/interview questions/tough problem.md",
     "learning/financial/career/job-hunting/buf.build.md",
     "learning/financial/career/job-hunting/RevUnit.md",
     "learning/financial/career/code tests/tips on completing a timed code test.md",
     "learning/computing/programming/javascript/nodejs/nodejs memory limits.md",
-    "learning/computing/programming/SQL/SQL Joins.md",
-    "personal/daily/2022/22-11-19.md",
-    "learning/mental/emotions/Untitled.md",
-    "learning/computing/programming/SQL/reference/create DB elements.md"
+    "learning/computing/programming/SQL/SQL Joins.md"
   ]
 }
