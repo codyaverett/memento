@@ -1336,22 +1336,27 @@
     },
     "learning/computing/programming/javascript/deno/deno-deploy.md": {
       "size": 0,
-      "tags": 1,
+      "tags": 3,
+      "links": 0
+    },
+    "learning/computing/programming/javascript/deno/running deno tooling locally.md": {
+      "size": 0,
+      "tags": 0,
       "links": 0
     }
   },
   "commitTypes": {
     "/": {
       "Refactor": 1391,
-      "Create": 271,
-      "Link": 101,
+      "Create": 272,
+      "Link": 102,
       "Expand": 98
     }
   },
   "dailyCommits": {
     "/": {
-      "0": 45,
-      "1": 28,
+      "0": 46,
+      "1": 29,
       "2": 41,
       "3": 32,
       "4": 3,
@@ -1378,7 +1383,7 @@
   },
   "weeklyCommits": {
     "/": {
-      "Mon": 1241,
+      "Mon": 1243,
       "Tue": 102,
       "Wed": 171,
       "Thu": 135,
@@ -1444,6 +1449,7 @@
       ],
       "Created": [
         "<a class=\"internal-link\" href=\"learning/computing/programming/javascript/deno/Untitled.md\"> Untitled </a>",
+        "<a class=\"internal-link\" href=\"learning/computing/programming/javascript/deno/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"learning/financial/career/interview questions/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"learning/financial/career/interview questions/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"learning/financial/career/code tests/Untitled.md\"> Untitled </a>",
@@ -1492,8 +1498,7 @@
         "<a class=\"internal-link\" href=\"personal/daily/2022/22-11-15.md\"> 22-11-15 </a>",
         "<a class=\"internal-link\" href=\"learning/computing/software/containers/kubernetes/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"learning/computing/programming/java/Untitled.md\"> Untitled </a>",
-        "<a class=\"internal-link\" href=\"learning/computing/programming/c-sharp/Untitled.md\"> Untitled </a>",
-        "<a class=\"internal-link\" href=\"self/daily/22-11-14.md\"> 22-11-14 </a>"
+        "<a class=\"internal-link\" href=\"learning/computing/programming/c-sharp/Untitled.md\"> Untitled </a>"
       ],
       "Renamed": [
         "<a class=\"internal-link\" href=\"learning/financial/career/code tests/tips on completing a timed code test.md\"> tips on completing a timed code test </a>",
@@ -1568,6 +1573,7 @@
         "<a class=\"internal-link\" href=\"learning/computing/programming/SQL/reference/create DB elements.md\"> create DB elements </a>",
         "<a class=\"internal-link\" href=\"learning/financial/career/interview questions/api considerations for client.md\"> api considerations for client </a>",
         "<a class=\"internal-link\" href=\"learning/financial/career/interview questions/tough problem.md\"> tough problem </a>",
+        "<a class=\"internal-link\" href=\"learning/computing/programming/javascript/deno/deno-deploy.md\"> deno-deploy </a>",
         "<a class=\"internal-link\" href=\"learning/computing/programming/javascript/deno/deno-deploy.md\"> deno-deploy </a>"
       ],
       "Refactored": [],
