@@ -60,6 +60,19 @@
             }
           },
           {
+            "id": "c3f0c261f41c01af",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "learning/computing/programming/javascript/deno/modules/fresh.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
             "id": "6d46965eee99176a",
             "type": "leaf",
             "state": {
@@ -73,7 +86,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -131,7 +144,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "learning/computing/programming/javascript/deno/modules/useful deno modules.md",
+                "file": "learning/computing/programming/javascript/deno/modules/fresh.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -148,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "learning/computing/programming/javascript/deno/modules/useful deno modules.md"
+                "file": "learning/computing/programming/javascript/deno/modules/fresh.md"
               }
             }
           },
@@ -175,8 +188,9 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "560233e6d90d7855",
+  "active": "c3f0c261f41c01af",
   "lastOpenFiles": [
+    "learning/computing/programming/javascript/deno/modules/useful deno modules.md",
     "learning/computing/programming/javascript/deno/modules/cliffy.md",
     "learning/computing/programming/javascript/deno/modules/Untitled database.md",
     "learning/computing/programming/javascript/deno/Untitled database.md",
@@ -185,7 +199,6 @@
     "learning/computing/programming/javascript/deno/node to deno cheatsheet.md",
     "learning/computing/programming/javascript/deno/deno configuration.md",
     "learning/financial/career/interview questions/api considerations for client.md",
-    "learning/computing/programming/algorithms/data-structures/left-leaning red black trees.md",
-    "learning/computing/programming/javascript/Javascript oddities.md"
+    "learning/computing/programming/algorithms/data-structures/left-leaning red black trees.md"
   ]
 }
