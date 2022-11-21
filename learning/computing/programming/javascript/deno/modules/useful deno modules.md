@@ -24,4 +24,7 @@ tags: list, deno, links
 	- Generate an HMAC identifier for a encrypted hash
 - https://deno.land/x/ramda@v0.27.2/mod.ts
 	- Functional programming helper functions
+- https://github.com/kach/nearley
+	- Generate expressive DSL, compiler and parser
+	- https://deno.land/x/nearley?pos=171&qid=a2a85267a085f2969deed3dd5ea9e36a
 - 
