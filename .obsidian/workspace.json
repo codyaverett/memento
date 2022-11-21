@@ -32,9 +32,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "3910c05ff8a0878b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "learning/computing/programming/javascript/deno/running deno tooling locally.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -92,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "learning/computing/programming/javascript/deno/deno-deploy.md",
+                "file": "learning/computing/programming/javascript/deno/running deno tooling locally.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,7 +122,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "learning/computing/programming/javascript/deno/deno-deploy.md"
+                "file": "learning/computing/programming/javascript/deno/running deno tooling locally.md"
               }
             }
           },
@@ -136,11 +149,11 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "33a2bab88d111215",
+  "active": "3910c05ff8a0878b",
   "lastOpenFiles": [
+    "learning/computing/programming/javascript/deno/deno-deploy.md",
     "learning/computing/programming/javascript/Javascript oddities.md",
     "learning/computing/programming/javascript/typescript/Enums can be terrible.md",
-    "learning/computing/programming/javascript/deno/deno-deploy.md",
     "learning/financial/career/interview questions/api considerations for client.md",
     "learning/financial/career/interview questions/tough problem.md",
     "learning/financial/career/job-hunting/buf.build.md",
