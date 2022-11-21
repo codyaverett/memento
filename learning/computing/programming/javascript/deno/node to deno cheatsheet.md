@@ -1,9 +1,9 @@
 ---
 name: Node to Deno Cheatsheet
 created: 2022-11-21T03:43:06-06:00
-updated: 2022-11-21T03:52:56-06:00
+updated: 2022-11-21T03:55:37-06:00
 aliases: 
-tags: 
+tags: cheatsheet, node, deno, cli
 ---
 # Node to Deno Cheatsheet
 
