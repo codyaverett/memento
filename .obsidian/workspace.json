@@ -4,63 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "7b52ea42311ca112",
+        "id": "ed24e39065d4b3a6",
         "type": "tabs",
         "children": [
           {
-            "id": "dc9e26634eb00314",
+            "id": "d3a8342acf406277",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "learning/computing/programming/javascript/nodejs/nodejs memory limits.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "83e240bf205863c6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "learning/financial/career/code tests/tips on completing a timed code test.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f8b124e2f5ac9992",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "learning/financial/career/interview questions/tough problem.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "497e14b430f60da3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "learning/financial/career/interview questions/api considerations for client.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -118,7 +73,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "learning/financial/career/interview questions/api considerations for client.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,9 +88,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "learning/financial/career/interview questions/api considerations for client.md"
-              }
+              "state": {}
             }
           },
           {
@@ -162,12 +114,12 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "497e14b430f60da3",
+  "active": "d3a8342acf406277",
   "lastOpenFiles": [
-    "learning/financial/career/interview questions/tough problem.md",
     "learning/financial/career/job-hunting/buf.build.md",
-    "learning/financial/career/job-hunting/RevUnit.md",
     "learning/financial/career/interview questions/api considerations for client.md",
+    "learning/financial/career/interview questions/tough problem.md",
+    "learning/financial/career/job-hunting/RevUnit.md",
     "learning/financial/career/code tests/tips on completing a timed code test.md",
     "learning/computing/programming/javascript/nodejs/nodejs memory limits.md",
     "learning/computing/programming/SQL/SQL Joins.md",
