@@ -1,7 +1,7 @@
 ---
 name: Javascript Oddities
 created: 2022-10-18T18:30:05-05:00
-updated: 2022-11-21T03:12:14-06:00
+updated: 2022-11-21T05:26:10-06:00
 aliases: 
 tags: javascript, operators
 ---
@@ -18,4 +18,3 @@ console.log("3" - "1"); //? 2
 
 ## Related
 - [[javascript programming language]]
-* *[[javascript programming language]]

@@ -1,9 +1,9 @@
 ---
 name: Enums Can Be Terrible
 created: 2022-11-20T13:56:14-06:00
-updated: 2022-11-20T14:08:51-06:00
+updated: 2022-11-21T05:29:20-06:00
 aliases: 
-tags: 
+tags: [[typescript programming language]]
 ---
 # Enums Can Be Terrible
 
