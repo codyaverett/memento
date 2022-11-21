@@ -1,7 +1,7 @@
 ---
-name: deno debugger
+name: Deno Debugger
 created: 2022-11-21T03:06:35-06:00
-updated: 2022-11-21T03:09:38-06:00
+updated: 2022-11-21T03:11:30-06:00
 aliases: 
 tags: deno, debug
 ---
@@ -17,4 +17,6 @@ If you open the chrome inspector `chrome://inspect` you will see a deno process 
 
 ![[Pasted image 20221121030930.png]]
 
-Click inspect
+Click inspect and a chrome debug window will appear.
+
+![[Pasted image 20221121031120.png]]
