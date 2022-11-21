@@ -1326,12 +1326,12 @@
     },
     "learning/financial/career/interview questions/tough problem.md": {
       "size": 2264,
-      "tags": 0,
+      "tags": 1,
       "links": 0
     },
     "learning/financial/career/interview questions/api considerations for client.md": {
       "size": 0,
-      "tags": 0,
+      "tags": 1,
       "links": 0
     }
   },
@@ -1339,7 +1339,7 @@
     "/": {
       "Refactor": 1391,
       "Create": 270,
-      "Link": 98,
+      "Link": 100,
       "Expand": 98
     }
   },
@@ -1366,7 +1366,7 @@
       "18": 30,
       "19": 25,
       "20": 33,
-      "21": 72,
+      "21": 74,
       "22": 55,
       "23": 34
     }
@@ -1379,7 +1379,7 @@
       "Thu": 135,
       "Fri": 115,
       "Sat": 0,
-      "Sun": 95
+      "Sun": 97
     }
   },
   "recentCommits": {
@@ -1560,7 +1560,9 @@
         "<a class=\"internal-link\" href=\"learning/computing/programming/languages/Lisp programming language.md\"> Lisp programming language </a>",
         "<a class=\"internal-link\" href=\"learning/computing/programming/authentication/JSON Web Token.md\"> JSON Web Token </a>",
         "<a class=\"internal-link\" href=\"learning/computing/programming/SQL/SQL Joins.md\"> SQL Joins </a>",
-        "<a class=\"internal-link\" href=\"learning/computing/programming/SQL/reference/create DB elements.md\"> create DB elements </a>"
+        "<a class=\"internal-link\" href=\"learning/computing/programming/SQL/reference/create DB elements.md\"> create DB elements </a>",
+        "<a class=\"internal-link\" href=\"learning/financial/career/interview questions/api considerations for client.md\"> api considerations for client </a>",
+        "<a class=\"internal-link\" href=\"learning/financial/career/interview questions/tough problem.md\"> tough problem </a>"
       ],
       "Refactored": [],
       "Deleted": [
