@@ -1386,12 +1386,12 @@
     },
     "learning/computing/programming/javascript/deno/deno std library.md": {
       "size": 0,
-      "tags": 3,
+      "tags": 4,
       "links": 0
     },
     "learning/computing/programming/javascript/deno/A fresh look at Deno - Brian Barrow.md": {
       "size": 2730,
-      "tags": 0,
+      "tags": 2,
       "links": 0
     }
   },
@@ -1399,7 +1399,7 @@
     "/": {
       "Refactor": 1397,
       "Create": 284,
-      "Link": 126,
+      "Link": 128,
       "Expand": 100
     }
   },
@@ -1410,7 +1410,7 @@
       "2": 42,
       "3": 52,
       "4": 20,
-      "5": 9,
+      "5": 11,
       "6": 5,
       "7": 0,
       "8": 1,
@@ -1433,7 +1433,7 @@
   },
   "weeklyCommits": {
     "/": {
-      "Mon": 1287,
+      "Mon": 1289,
       "Tue": 102,
       "Wed": 171,
       "Thu": 135,
@@ -1646,6 +1646,8 @@
         "<a class=\"internal-link\" href=\"learning/computing/programming/javascript/deno/modules/fresh.md\"> fresh </a>",
         "<a class=\"internal-link\" href=\"learning/computing/programming/javascript/deno/deno tasks.md\"> deno tasks </a>",
         "<a class=\"internal-link\" href=\"learning/computing/programming/javascript/deno/deno example code.md\"> deno example code </a>",
+        "<a class=\"internal-link\" href=\"learning/computing/programming/javascript/deno/deno std library.md\"> deno std library </a>",
+        "<a class=\"internal-link\" href=\"learning/computing/programming/javascript/deno/A fresh look at Deno - Brian Barrow.md\"> A fresh look at Deno - Brian Barrow </a>",
         "<a class=\"internal-link\" href=\"learning/computing/programming/javascript/deno/deno std library.md\"> deno std library </a>"
       ],
       "Refactored": [],
