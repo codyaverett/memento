@@ -65,7 +65,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "learning/computing/programming/javascript/deno/deno debugger.md",
+                "file": "learning/computing/programming/javascript/Javascript oddities.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -131,7 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "learning/computing/programming/javascript/deno/deno debugger.md",
+                "file": "learning/computing/programming/javascript/Javascript oddities.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -148,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "learning/computing/programming/javascript/deno/deno debugger.md"
+                "file": "learning/computing/programming/javascript/Javascript oddities.md"
               }
             }
           },
@@ -177,15 +177,15 @@
   },
   "active": "6d46965eee99176a",
   "lastOpenFiles": [
+    "learning/computing/programming/javascript/deno/deno debugger.md",
+    "learning/computing/programming/javascript/deno/deno linter.md",
+    "learning/computing/programming/javascript/deno/deno-deploy.md",
+    "learning/computing/programming/javascript/deno/running deno tooling locally.md",
     "learning/computing/programming/algorithms/data-structures/left-leaning red black trees.md",
     "learning/computing/programming/algorithms/algorithms.md",
     "learning/computing/programming/authentication/JSON Web Token.md",
     "learning/computing/programming/c and c++/c++ package managers.md",
     "learning/computing/programming/c and c++/Glut graphics framework.md",
-    "learning/computing/programming/c and c++/opencv.md",
-    "learning/computing/programming/data streams/Data streams vs buffers.md",
-    "learning/computing/programming/databases/postgres/postgres materialized views.md",
-    "learning/computing/programming/databases/postgres/timescaleDB.md",
-    "learning/computing/programming/cli/loading/loading spinners and representing updates in a CLI application.md"
+    "learning/computing/programming/c and c++/opencv.md"
   ]
 }
