@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "learning/financial/career/interview questions/api considerations for client.md",
+                "file": "learning/financial/career/interview questions/tough problem.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -78,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "learning/financial/career/interview questions/api considerations for client.md",
+                "file": "learning/financial/career/interview questions/tough problem.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,7 +95,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "learning/financial/career/interview questions/api considerations for client.md"
+                "file": "learning/financial/career/interview questions/tough problem.md"
               }
             }
           },
@@ -124,8 +124,8 @@
   },
   "active": "d3a8342acf406277",
   "lastOpenFiles": [
-    "learning/financial/career/job-hunting/buf.build.md",
     "learning/financial/career/interview questions/api considerations for client.md",
+    "learning/financial/career/job-hunting/buf.build.md",
     "learning/financial/career/interview questions/tough problem.md",
     "learning/financial/career/job-hunting/RevUnit.md",
     "learning/financial/career/code tests/tips on completing a timed code test.md",
