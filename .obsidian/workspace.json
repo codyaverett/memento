@@ -13,14 +13,28 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "learning/financial/career/interview questions/tough problem.md",
+                "file": "learning/financial/career/interview questions/api considerations for client.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c836407f6b9b32a7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "learning/computing/programming/javascript/deno/deno-deploy.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -78,7 +92,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "learning/financial/career/interview questions/tough problem.md",
+                "file": "learning/computing/programming/javascript/deno/deno-deploy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,7 +109,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "learning/financial/career/interview questions/tough problem.md"
+                "file": "learning/computing/programming/javascript/deno/deno-deploy.md"
               }
             }
           },
@@ -122,11 +136,11 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "d3a8342acf406277",
+  "active": "c836407f6b9b32a7",
   "lastOpenFiles": [
     "learning/financial/career/interview questions/api considerations for client.md",
-    "learning/financial/career/job-hunting/buf.build.md",
     "learning/financial/career/interview questions/tough problem.md",
+    "learning/financial/career/job-hunting/buf.build.md",
     "learning/financial/career/job-hunting/RevUnit.md",
     "learning/financial/career/code tests/tips on completing a timed code test.md",
     "learning/computing/programming/javascript/nodejs/nodejs memory limits.md",
