@@ -21,6 +21,19 @@
             }
           },
           {
+            "id": "8920252e33f5cb7c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "learning/computing/programming/javascript/deno/node to deno cheatsheet.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
             "id": "6d46965eee99176a",
             "type": "leaf",
             "state": {
@@ -33,7 +46,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -91,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "learning/computing/programming/javascript/deno/deno-deploy.md",
+                "file": "learning/computing/programming/javascript/deno/node to deno cheatsheet.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,7 +122,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "learning/computing/programming/javascript/deno/deno-deploy.md"
+                "file": "learning/computing/programming/javascript/deno/node to deno cheatsheet.md"
               }
             }
           },
@@ -135,10 +149,10 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "c836407f6b9b32a7",
+  "active": "8920252e33f5cb7c",
   "lastOpenFiles": [
-    "learning/financial/career/interview questions/api considerations for client.md",
     "learning/computing/programming/javascript/deno/deno-deploy.md",
+    "learning/financial/career/interview questions/api considerations for client.md",
     "learning/computing/programming/javascript/deno/running deno tooling locally.md",
     "learning/computing/programming/algorithms/data-structures/left-leaning red black trees.md",
     "learning/computing/programming/javascript/Javascript oddities.md",
