@@ -369,11 +369,6 @@
       "tags": 0,
       "links": 0
     },
-    "learning/computing/programming/deno/A fresh look at Deno - Brian Barrow.md": {
-      "size": 2730,
-      "tags": 0,
-      "links": 0
-    },
     "learning/computing/programming/python/building python extensions with Rust.md": {
       "size": 0,
       "tags": 1,
@@ -1393,11 +1388,16 @@
       "size": 0,
       "tags": 3,
       "links": 0
+    },
+    "learning/computing/programming/javascript/deno/A fresh look at Deno - Brian Barrow.md": {
+      "size": 2730,
+      "tags": 0,
+      "links": 0
     }
   },
   "commitTypes": {
     "/": {
-      "Refactor": 1395,
+      "Refactor": 1397,
       "Create": 284,
       "Link": 126,
       "Expand": 100
@@ -1410,7 +1410,7 @@
       "2": 42,
       "3": 52,
       "4": 20,
-      "5": 7,
+      "5": 9,
       "6": 5,
       "7": 0,
       "8": 1,
@@ -1433,7 +1433,7 @@
   },
   "weeklyCommits": {
     "/": {
-      "Mon": 1285,
+      "Mon": 1287,
       "Tue": 102,
       "Wed": 171,
       "Thu": 135,
@@ -1551,6 +1551,8 @@
         "<a class=\"internal-link\" href=\"learning/computing/programming/languages/Untitled.md\"> Untitled </a>"
       ],
       "Renamed": [
+        "<a class=\"internal-link\" href=\"learning/computing/programming/javascript/deno/A fresh look at Deno - Brian Barrow.md\"> A fresh look at Deno - Brian Barrow </a>",
+        "<a class=\"internal-link\" href=\"learning/computing/programming/javascript/A fresh look at Deno - Brian Barrow.md\"> A fresh look at Deno - Brian Barrow </a>",
         "<a class=\"internal-link\" href=\"learning/computing/programming/javascript/deno/modules/useful deno modules.md\"> useful deno modules </a>",
         "<a class=\"internal-link\" href=\"learning/computing/programming/javascript/deno/modules/Interesting deno projects.md\"> Interesting deno projects </a>",
         "<a class=\"internal-link\" href=\"learning/financial/career/code tests/tips on completing a timed code test.md\"> tips on completing a timed code test </a>",
@@ -1599,9 +1601,7 @@
         "<a class=\"internal-link\" href=\"personal/daily/2022/22-06-10.md\"> 22-06-10 </a>",
         "<a class=\"internal-link\" href=\"personal/daily/2022/22-06-09.md\"> 22-06-09 </a>",
         "<a class=\"internal-link\" href=\"learning/nature/insects/brown recluse spider.md\"> brown recluse spider </a>",
-        "<a class=\"internal-link\" href=\"learning/insects/brown recluse spider.md\"> brown recluse spider </a>",
-        "<a class=\"internal-link\" href=\"learning/bugs/brown recluse spider.md\"> brown recluse spider </a>",
-        "<a class=\"internal-link\" href=\"learning/hobby/transporting lumber with a roof rack.md\"> transporting lumber with a roof rack </a>"
+        "<a class=\"internal-link\" href=\"learning/insects/brown recluse spider.md\"> brown recluse spider </a>"
       ],
       "Tagged": [
         "<a class=\"internal-link\" href=\"personal/job-hunting/jb-hunt-topics.md\"> jb-hunt-topics </a>",
