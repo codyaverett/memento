@@ -52,7 +52,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "learning/computing/programming/javascript/deno/Interesting deno projects.md",
+                "file": "learning/computing/programming/javascript/deno/modules/useful deno modules.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -131,7 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "learning/computing/programming/javascript/deno/Interesting deno projects.md",
+                "file": "learning/computing/programming/javascript/deno/modules/useful deno modules.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -148,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "learning/computing/programming/javascript/deno/Interesting deno projects.md"
+                "file": "learning/computing/programming/javascript/deno/modules/useful deno modules.md"
               }
             }
           },
