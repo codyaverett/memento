@@ -1,7 +1,7 @@
 ---
-name: tough problem
+name: Tough Problem
 created: 2022-11-20T17:46:24-06:00
-updated: 2022-11-20T17:46:36-06:00
+updated: 2022-11-20T21:19:11-06:00
 aliases: 
 tags: prompt
 ---
@@ -28,10 +28,10 @@ My team was tasked with modernizing a legacy process used to parse and format tr
 - I lead my team in the redesign and implementation of a frontend solution that would allow researchers to research transactions across multiple days and multiple business units, queue transactions of interest, view transaction signatures, and print a list of transactions from their queue.
 - After the standard environment solution was ready we adapted the process to work within the secure PCI environment.  This was a significant effort due to limitations of our existing server infrastructure.
 - I requested newer Redhat Linux servers for that environment and was able to deploy and iterate on the application after the new PCI server environment was set up.
-- Had to partner with an internal data encryption team to set up a description mechanism for some of the PCI related data.
+- I partnered with an internal data encryption team to set up a description mechanism for some of the PCI related data.
   
-  ## Outcome
-  - Enabled transaction level research across the entire organization.
+## Outcomes
+  - Enabled simple transaction level research across the entire organization.
   - Greatly reduced time required to research transactions through a print queue and optimized searching.
   - Presented the solution to several teams thorough the organization which gave my area significant political capital to innovate in other areas.
-  - Modernized critical infrastructure
+  - Modernized critical PCI infrastructure
