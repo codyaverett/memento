@@ -1393,13 +1393,23 @@
       "size": 2730,
       "tags": 2,
       "links": 0
+    },
+    "learning/computing/programming/javascript/deno/the deno javascript runtime.md": {
+      "size": 0,
+      "tags": 0,
+      "links": 2
+    },
+    "learning/computing/programming/languages/typescript programming language.md": {
+      "size": 0,
+      "tags": 0,
+      "links": 1
     }
   },
   "commitTypes": {
     "/": {
       "Refactor": 1397,
-      "Create": 284,
-      "Link": 128,
+      "Create": 286,
+      "Link": 130,
       "Expand": 100
     }
   },
@@ -1410,7 +1420,7 @@
       "2": 42,
       "3": 52,
       "4": 20,
-      "5": 11,
+      "5": 15,
       "6": 5,
       "7": 0,
       "8": 1,
@@ -1433,7 +1443,7 @@
   },
   "weeklyCommits": {
     "/": {
-      "Mon": 1289,
+      "Mon": 1293,
       "Tue": 102,
       "Wed": 171,
       "Thu": 135,
@@ -1498,6 +1508,8 @@
         "<a class=\"internal-link\" href=\"personal/social/Charisma.md\"> Charisma </a>"
       ],
       "Created": [
+        "<a class=\"internal-link\" href=\"learning/computing/programming/languages/Untitled.md\"> Untitled </a>",
+        "<a class=\"internal-link\" href=\"learning/computing/programming/javascript/deno/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"learning/computing/programming/javascript/deno/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"learning/computing/programming/javascript/deno/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"learning/computing/programming/javascript/deno/Untitled.md\"> Untitled </a>",
@@ -1541,8 +1553,6 @@
         "<a class=\"internal-link\" href=\"data/Untitled database.md\"> Untitled database </a>",
         "<a class=\"internal-link\" href=\"learning/computing/programming/languages/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"learning/computing/programming/java/Untitled.md\"> Untitled </a>",
-        "<a class=\"internal-link\" href=\"learning/computing/programming/languages/Untitled.md\"> Untitled </a>",
-        "<a class=\"internal-link\" href=\"learning/computing/programming/languages/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"learning/computing/programming/languages/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"learning/computing/programming/languages/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"learning/computing/programming/languages/Untitled.md\"> Untitled </a>",
@@ -1705,6 +1715,8 @@
         "<a class=\"internal-link\" href=\"learning/computing/programming/python/django/Untitled.md\"> Untitled </a>"
       ],
       "Linked": [
+        "<a class=\"internal-link\" href=\"learning/computing/programming/javascript/deno/the deno javascript runtime.md\"> the deno javascript runtime </a>",
+        "<a class=\"internal-link\" href=\"learning/computing/programming/languages/typescript programming language.md\"> typescript programming language </a>",
         "<a class=\"internal-link\" href=\"learning/computing/programming/javascript/deno/deno debugger.md\"> deno debugger </a>",
         "<a class=\"internal-link\" href=\"learning/computing/programming/javascript/deno/deno debugger.md\"> deno debugger </a>",
         "<a class=\"internal-link\" href=\"personal/notes/Learn about Memory Controllers and non-uniform memory access.md\"> Learn about Memory Controllers and non-uniform memory access </a>",
@@ -1753,8 +1765,6 @@
         "<a class=\"internal-link\" href=\"Current Stuff.md\"> Current Stuff </a>",
         "<a class=\"internal-link\" href=\"programming/cli/loading/loading spinners and representing updates in a CLI application.md\"> loading spinners and representing updates in a CLI application </a>",
         "<a class=\"internal-link\" href=\"software/data ETL/apache paraquet.md\"> apache paraquet </a>",
-        "<a class=\"internal-link\" href=\"personal/job-hunting/Lextegrity.md\"> Lextegrity </a>",
-        "<a class=\"internal-link\" href=\"personal/job-hunting/Lextegrity.md\"> Lextegrity </a>",
         "<a class=\"internal-link\" href=\"personal/job-hunting/Lextegrity.md\"> Lextegrity </a>"
       ],
       "Removed Tags from": [
