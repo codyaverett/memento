@@ -1363,14 +1363,19 @@
       "size": 0,
       "tags": 2,
       "links": 0
+    },
+    "learning/computing/programming/javascript/deno/modules/cliffy.md": {
+      "size": 3385,
+      "tags": 4,
+      "links": 0
     }
   },
   "commitTypes": {
     "/": {
-      "Refactor": 1391,
-      "Create": 276,
-      "Link": 120,
-      "Expand": 98
+      "Refactor": 1393,
+      "Create": 279,
+      "Link": 121,
+      "Expand": 99
     }
   },
   "dailyCommits": {
@@ -1379,7 +1384,7 @@
       "1": 29,
       "2": 42,
       "3": 52,
-      "4": 4,
+      "4": 11,
       "5": 3,
       "6": 5,
       "7": 0,
@@ -1403,7 +1408,7 @@
   },
   "weeklyCommits": {
     "/": {
-      "Mon": 1265,
+      "Mon": 1272,
       "Tue": 102,
       "Wed": 171,
       "Thu": 135,
@@ -1415,6 +1420,7 @@
   "recentCommits": {
     "/": {
       "Expanded": [
+        "<a class=\"internal-link\" href=\"learning/computing/programming/javascript/deno/modules/cliffy.md\"> cliffy </a>",
         "<a class=\"internal-link\" href=\"learning/financial/career/interview questions/tough problem.md\"> tough problem </a>",
         "<a class=\"internal-link\" href=\"learning/computing/programming/python/useful python standard library modules.md\"> useful python standard library modules </a>",
         "<a class=\"internal-link\" href=\"learning/computing/programming/databases/postgres/timescaleDB.md\"> timescaleDB </a>",
@@ -1464,10 +1470,12 @@
         "<a class=\"internal-link\" href=\"programming/python/python extensions with rust.md\"> python extensions with rust </a>",
         "<a class=\"internal-link\" href=\"programming/haskell/working with lists.md\"> working with lists </a>",
         "<a class=\"internal-link\" href=\"personal/social/Charisma.md\"> Charisma </a>",
-        "<a class=\"internal-link\" href=\"personal/social/Charisma.md\"> Charisma </a>",
-        "<a class=\"internal-link\" href=\"personal/job-hunting/jb-hunt-topics.md\"> jb-hunt-topics </a>"
+        "<a class=\"internal-link\" href=\"personal/social/Charisma.md\"> Charisma </a>"
       ],
       "Created": [
+        "<a class=\"internal-link\" href=\"learning/computing/programming/javascript/deno/modules/Untitled.md\"> Untitled </a>",
+        "<a class=\"internal-link\" href=\"learning/computing/programming/javascript/deno/modules/Untitled database.md\"> Untitled database </a>",
+        "<a class=\"internal-link\" href=\"learning/computing/programming/javascript/deno/Untitled database.md\"> Untitled database </a>",
         "<a class=\"internal-link\" href=\"learning/computing/programming/javascript/deno/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"learning/computing/programming/javascript/deno/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"learning/computing/programming/javascript/deno/Untitled.md\"> Untitled </a>",
@@ -1515,10 +1523,7 @@
         "<a class=\"internal-link\" href=\"learning/mental/ADHD/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"learning/mental/health/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"learning/mental/health/Untitled.md\"> Untitled </a>",
-        "<a class=\"internal-link\" href=\"learning/mental/health/Untitled.md\"> Untitled </a>",
-        "<a class=\"internal-link\" href=\"personal/notes/Ben Levin's course  Blender for musicians.md\"> Ben Levin's course  Blender for musicians </a>",
-        "<a class=\"internal-link\" href=\"personal/notes/Follow up on Insurance transition.md\"> Follow up on Insurance transition </a>",
-        "<a class=\"internal-link\" href=\"personal/Untitled Kanban.md\"> Untitled Kanban </a>"
+        "<a class=\"internal-link\" href=\"learning/mental/health/Untitled.md\"> Untitled </a>"
       ],
       "Renamed": [
         "<a class=\"internal-link\" href=\"learning/financial/career/code tests/tips on completing a timed code test.md\"> tips on completing a timed code test </a>",
@@ -1610,10 +1615,13 @@
         "<a class=\"internal-link\" href=\"learning/computing/programming/javascript/deno/deno debugger.md\"> deno debugger </a>",
         "<a class=\"internal-link\" href=\"learning/computing/programming/javascript/Javascript oddities.md\"> Javascript oddities </a>",
         "<a class=\"internal-link\" href=\"learning/computing/programming/javascript/deno/node to deno cheatsheet.md\"> node to deno cheatsheet </a>",
-        "<a class=\"internal-link\" href=\"learning/computing/programming/javascript/deno/deno configuration.md\"> deno configuration </a>"
+        "<a class=\"internal-link\" href=\"learning/computing/programming/javascript/deno/deno configuration.md\"> deno configuration </a>",
+        "<a class=\"internal-link\" href=\"learning/computing/programming/javascript/deno/modules/cliffy.md\"> cliffy </a>"
       ],
       "Refactored": [],
       "Deleted": [
+        "<a class=\"internal-link\" href=\"learning/computing/programming/javascript/deno/modules/Untitled database.md\"> Untitled database </a>",
+        "<a class=\"internal-link\" href=\"learning/computing/programming/javascript/deno/Untitled database.md\"> Untitled database </a>",
         "<a class=\"internal-link\" href=\"personal/notes/Todo.md\"> Todo </a>",
         "<a class=\"internal-link\" href=\"personal/job-hunting/jbHunt-topics/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"personal/software/Untitled.md\"> Untitled </a>",
@@ -1662,9 +1670,7 @@
         "<a class=\"internal-link\" href=\"learning/computing/programming/c and c++/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"data/woop.md\"> woop </a>",
         "<a class=\"internal-link\" href=\"learning/adsf.md\"> adsf </a>",
-        "<a class=\"internal-link\" href=\"learning/computing/programming/python/django/Untitled.md\"> Untitled </a>",
-        "<a class=\"internal-link\" href=\"templates/frontmatter.md\"> frontmatter </a>",
-        "<a class=\"internal-link\" href=\"learning/Untitled.md\"> Untitled </a>"
+        "<a class=\"internal-link\" href=\"learning/computing/programming/python/django/Untitled.md\"> Untitled </a>"
       ],
       "Linked": [
         "<a class=\"internal-link\" href=\"learning/computing/programming/javascript/deno/deno debugger.md\"> deno debugger </a>",
