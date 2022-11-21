@@ -91,7 +91,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "learning/computing/programming/javascript/deno/deno std library.md",
+                "file": "learning/computing/programming/javascript/A fresh look at Deno - Brian Barrow.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -170,7 +170,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "learning/computing/programming/javascript/deno/deno std library.md",
+                "file": "learning/computing/programming/javascript/A fresh look at Deno - Brian Barrow.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -187,7 +187,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "learning/computing/programming/javascript/deno/deno std library.md"
+                "file": "learning/computing/programming/javascript/A fresh look at Deno - Brian Barrow.md"
               }
             }
           },
@@ -214,8 +214,10 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "9d94a1ad6fd13d68",
+  "active": "33a2bab88d111215",
   "lastOpenFiles": [
+    "learning/computing/programming/javascript/Javascript oddities.md",
+    "learning/computing/programming/javascript/deno/deno std library.md",
     "learning/computing/programming/javascript/deno/deno example code.md",
     "learning/computing/programming/javascript/deno/modules/fresh.md",
     "learning/computing/programming/javascript/deno/deno tasks.md",
@@ -223,8 +225,6 @@
     "learning/computing/programming/javascript/deno/modules/useful deno modules.md",
     "learning/computing/programming/javascript/deno/modules/cliffy.md",
     "learning/computing/programming/javascript/deno/modules/Untitled database.md",
-    "learning/computing/programming/javascript/deno/Untitled database.md",
-    "learning/computing/programming/javascript/deno/running deno tooling locally.md",
-    "learning/computing/programming/javascript/deno/node to deno cheatsheet.md"
+    "learning/computing/programming/javascript/deno/Untitled database.md"
   ]
 }
