@@ -52,7 +52,20 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "learning/computing/programming/javascript/deno/deno linter.md",
+                "file": "learning/computing/programming/algorithms/data-structures/left-leaning red black trees.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6d46965eee99176a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "learning/computing/programming/javascript/deno/deno debugger.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -60,7 +73,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -118,7 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "learning/computing/programming/javascript/deno/deno linter.md",
+                "file": "learning/computing/programming/javascript/deno/deno debugger.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "learning/computing/programming/javascript/deno/deno linter.md"
+                "file": "learning/computing/programming/javascript/deno/deno debugger.md"
               }
             }
           },
@@ -162,17 +175,17 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "40b2fe923679672b",
+  "active": "6d46965eee99176a",
   "lastOpenFiles": [
-    "learning/computing/programming/javascript/deno/running deno tooling locally.md",
-    "learning/computing/programming/javascript/deno/deno-deploy.md",
-    "learning/computing/programming/javascript/Javascript oddities.md",
-    "learning/computing/programming/javascript/typescript/Enums can be terrible.md",
-    "learning/financial/career/interview questions/api considerations for client.md",
-    "learning/financial/career/interview questions/tough problem.md",
-    "learning/financial/career/job-hunting/buf.build.md",
-    "learning/financial/career/job-hunting/RevUnit.md",
-    "learning/financial/career/code tests/tips on completing a timed code test.md",
-    "learning/computing/programming/javascript/nodejs/nodejs memory limits.md"
+    "learning/computing/programming/algorithms/data-structures/left-leaning red black trees.md",
+    "learning/computing/programming/algorithms/algorithms.md",
+    "learning/computing/programming/authentication/JSON Web Token.md",
+    "learning/computing/programming/c and c++/c++ package managers.md",
+    "learning/computing/programming/c and c++/Glut graphics framework.md",
+    "learning/computing/programming/c and c++/opencv.md",
+    "learning/computing/programming/data streams/Data streams vs buffers.md",
+    "learning/computing/programming/databases/postgres/postgres materialized views.md",
+    "learning/computing/programming/databases/postgres/timescaleDB.md",
+    "learning/computing/programming/cli/loading/loading spinners and representing updates in a CLI application.md"
   ]
 }

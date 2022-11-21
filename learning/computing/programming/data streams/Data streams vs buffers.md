@@ -1,9 +1,9 @@
 ---
 name: Data Streams Vs Buffers
 created: 2022-10-07T20:11:20-05:00
-updated: 2022-11-16T16:52:06-06:00
+updated: 2022-11-21T03:03:40-06:00
 aliases: 
-tags: 
+tags: concept, stream, buffer
 ---
 # Data Streams Vs Buffers
 

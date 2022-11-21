@@ -1,9 +1,9 @@
 ---
 name: Timescale DB
 created: 2022-10-27T15:08:06-05:00
-updated: 2022-11-16T16:52:06-06:00
+updated: 2022-11-21T03:03:13-06:00
 aliases: 
-tags: 
+tags: db
 ---
 
 # Timescale DB

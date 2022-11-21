@@ -1,9 +1,9 @@
 ---
 name: Loading Spinners and Representing Updates in a CLI Application
 created: 2022-09-28T22:21:01-05:00
-updated: 2022-11-16T16:52:06-06:00
+updated: 2022-11-21T03:03:00-06:00
 aliases: 
-tags: 
+tags: python, cli
 ---
 # Loading Spinners and Representing Updates in a CLI Application
 

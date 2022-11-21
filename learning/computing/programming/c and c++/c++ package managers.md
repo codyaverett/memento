@@ -1,9 +1,9 @@
 ---
 name: c++ Package Managers
 created: 2022-10-19T20:15:36-05:00
-updated: 2022-11-16T16:52:06-06:00
+updated: 2022-11-21T03:04:38-06:00
 aliases: 
-tags: 
+tags: c++, packaging
 ---
 # c++ Package Managers
 
