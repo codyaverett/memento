@@ -1358,13 +1358,18 @@
       "size": 0,
       "tags": 4,
       "links": 0
+    },
+    "learning/computing/programming/javascript/deno/deno configuration.md": {
+      "size": 0,
+      "tags": 2,
+      "links": 0
     }
   },
   "commitTypes": {
     "/": {
       "Refactor": 1391,
-      "Create": 275,
-      "Link": 119,
+      "Create": 276,
+      "Link": 120,
       "Expand": 98
     }
   },
@@ -1373,8 +1378,8 @@
       "0": 46,
       "1": 29,
       "2": 42,
-      "3": 51,
-      "4": 3,
+      "3": 52,
+      "4": 4,
       "5": 3,
       "6": 5,
       "7": 0,
@@ -1398,7 +1403,7 @@
   },
   "weeklyCommits": {
     "/": {
-      "Mon": 1263,
+      "Mon": 1265,
       "Tue": 102,
       "Wed": 171,
       "Thu": 135,
@@ -1468,6 +1473,7 @@
         "<a class=\"internal-link\" href=\"learning/computing/programming/javascript/deno/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"learning/computing/programming/javascript/deno/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"learning/computing/programming/javascript/deno/Untitled.md\"> Untitled </a>",
+        "<a class=\"internal-link\" href=\"learning/computing/programming/javascript/deno/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"learning/financial/career/interview questions/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"learning/financial/career/interview questions/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"learning/financial/career/code tests/Untitled.md\"> Untitled </a>",
@@ -1512,8 +1518,7 @@
         "<a class=\"internal-link\" href=\"learning/mental/health/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"personal/notes/Ben Levin's course  Blender for musicians.md\"> Ben Levin's course  Blender for musicians </a>",
         "<a class=\"internal-link\" href=\"personal/notes/Follow up on Insurance transition.md\"> Follow up on Insurance transition </a>",
-        "<a class=\"internal-link\" href=\"personal/Untitled Kanban.md\"> Untitled Kanban </a>",
-        "<a class=\"internal-link\" href=\"personal/daily/2022/22-11-15.md\"> 22-11-15 </a>"
+        "<a class=\"internal-link\" href=\"personal/Untitled Kanban.md\"> Untitled Kanban </a>"
       ],
       "Renamed": [
         "<a class=\"internal-link\" href=\"learning/financial/career/code tests/tips on completing a timed code test.md\"> tips on completing a timed code test </a>",
@@ -1604,7 +1609,8 @@
         "<a class=\"internal-link\" href=\"learning/computing/programming/algorithms/data-structures/left-leaning red black trees.md\"> left-leaning red black trees </a>",
         "<a class=\"internal-link\" href=\"learning/computing/programming/javascript/deno/deno debugger.md\"> deno debugger </a>",
         "<a class=\"internal-link\" href=\"learning/computing/programming/javascript/Javascript oddities.md\"> Javascript oddities </a>",
-        "<a class=\"internal-link\" href=\"learning/computing/programming/javascript/deno/node to deno cheatsheet.md\"> node to deno cheatsheet </a>"
+        "<a class=\"internal-link\" href=\"learning/computing/programming/javascript/deno/node to deno cheatsheet.md\"> node to deno cheatsheet </a>",
+        "<a class=\"internal-link\" href=\"learning/computing/programming/javascript/deno/deno configuration.md\"> deno configuration </a>"
       ],
       "Refactored": [],
       "Deleted": [
