@@ -26,7 +26,20 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "learning/computing/programming/javascript/deno/node to deno cheatsheet.md",
+                "file": "learning/computing/programming/javascript/deno/deno-deploy.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b8a762740b58fb05",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "learning/computing/programming/javascript/deno/deno configuration.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -47,7 +60,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -105,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "learning/computing/programming/javascript/deno/node to deno cheatsheet.md",
+                "file": "learning/computing/programming/javascript/deno/deno configuration.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "learning/computing/programming/javascript/deno/node to deno cheatsheet.md"
+                "file": "learning/computing/programming/javascript/deno/deno configuration.md"
               }
             }
           },
@@ -149,9 +162,10 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "8920252e33f5cb7c",
+  "active": "b8a762740b58fb05",
   "lastOpenFiles": [
     "learning/computing/programming/javascript/deno/deno-deploy.md",
+    "learning/computing/programming/javascript/deno/node to deno cheatsheet.md",
     "learning/financial/career/interview questions/api considerations for client.md",
     "learning/computing/programming/javascript/deno/running deno tooling locally.md",
     "learning/computing/programming/algorithms/data-structures/left-leaning red black trees.md",
@@ -159,7 +173,6 @@
     "learning/computing/programming/javascript/deno/deno debugger.md",
     "learning/computing/programming/javascript/deno/deno linter.md",
     "learning/computing/programming/algorithms/algorithms.md",
-    "learning/computing/programming/authentication/JSON Web Token.md",
-    "learning/computing/programming/c and c++/c++ package managers.md"
+    "learning/computing/programming/authentication/JSON Web Token.md"
   ]
 }

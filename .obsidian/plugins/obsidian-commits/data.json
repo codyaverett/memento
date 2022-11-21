@@ -1356,7 +1356,7 @@
     },
     "learning/computing/programming/javascript/deno/node to deno cheatsheet.md": {
       "size": 0,
-      "tags": 0,
+      "tags": 4,
       "links": 0
     }
   },
@@ -1364,7 +1364,7 @@
     "/": {
       "Refactor": 1391,
       "Create": 275,
-      "Link": 118,
+      "Link": 119,
       "Expand": 98
     }
   },
@@ -1373,7 +1373,7 @@
       "0": 46,
       "1": 29,
       "2": 42,
-      "3": 50,
+      "3": 51,
       "4": 3,
       "5": 3,
       "6": 5,
@@ -1398,7 +1398,7 @@
   },
   "weeklyCommits": {
     "/": {
-      "Mon": 1262,
+      "Mon": 1263,
       "Tue": 102,
       "Wed": 171,
       "Thu": 135,
@@ -1603,7 +1603,8 @@
         "<a class=\"internal-link\" href=\"learning/computing/programming/authentication/JSON Web Token.md\"> JSON Web Token </a>",
         "<a class=\"internal-link\" href=\"learning/computing/programming/algorithms/data-structures/left-leaning red black trees.md\"> left-leaning red black trees </a>",
         "<a class=\"internal-link\" href=\"learning/computing/programming/javascript/deno/deno debugger.md\"> deno debugger </a>",
-        "<a class=\"internal-link\" href=\"learning/computing/programming/javascript/Javascript oddities.md\"> Javascript oddities </a>"
+        "<a class=\"internal-link\" href=\"learning/computing/programming/javascript/Javascript oddities.md\"> Javascript oddities </a>",
+        "<a class=\"internal-link\" href=\"learning/computing/programming/javascript/deno/node to deno cheatsheet.md\"> node to deno cheatsheet </a>"
       ],
       "Refactored": [],
       "Deleted": [
