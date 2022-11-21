@@ -296,7 +296,7 @@
     },
     "learning/computing/programming/javascript/Javascript oddities.md": {
       "size": 0,
-      "tags": 0,
+      "tags": 2,
       "links": 1
     },
     "learning/computing/programming/general/catamorphism.md": {
@@ -1352,14 +1352,19 @@
     "learning/computing/programming/javascript/deno/deno debugger.md": {
       "size": 0,
       "tags": 2,
-      "links": 1
+      "links": 2
+    },
+    "learning/computing/programming/javascript/deno/node to deno cheatsheet.md": {
+      "size": 0,
+      "tags": 0,
+      "links": 0
     }
   },
   "commitTypes": {
     "/": {
       "Refactor": 1391,
-      "Create": 274,
-      "Link": 116,
+      "Create": 275,
+      "Link": 118,
       "Expand": 98
     }
   },
@@ -1368,7 +1373,7 @@
       "0": 46,
       "1": 29,
       "2": 42,
-      "3": 47,
+      "3": 50,
       "4": 3,
       "5": 3,
       "6": 5,
@@ -1393,7 +1398,7 @@
   },
   "weeklyCommits": {
     "/": {
-      "Mon": 1259,
+      "Mon": 1262,
       "Tue": 102,
       "Wed": 171,
       "Thu": 135,
@@ -1462,6 +1467,7 @@
         "<a class=\"internal-link\" href=\"learning/computing/programming/javascript/deno/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"learning/computing/programming/javascript/deno/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"learning/computing/programming/javascript/deno/Untitled.md\"> Untitled </a>",
+        "<a class=\"internal-link\" href=\"learning/computing/programming/javascript/deno/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"learning/financial/career/interview questions/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"learning/financial/career/interview questions/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"learning/financial/career/code tests/Untitled.md\"> Untitled </a>",
@@ -1507,8 +1513,7 @@
         "<a class=\"internal-link\" href=\"personal/notes/Ben Levin's course  Blender for musicians.md\"> Ben Levin's course  Blender for musicians </a>",
         "<a class=\"internal-link\" href=\"personal/notes/Follow up on Insurance transition.md\"> Follow up on Insurance transition </a>",
         "<a class=\"internal-link\" href=\"personal/Untitled Kanban.md\"> Untitled Kanban </a>",
-        "<a class=\"internal-link\" href=\"personal/daily/2022/22-11-15.md\"> 22-11-15 </a>",
-        "<a class=\"internal-link\" href=\"learning/computing/software/containers/kubernetes/Untitled.md\"> Untitled </a>"
+        "<a class=\"internal-link\" href=\"personal/daily/2022/22-11-15.md\"> 22-11-15 </a>"
       ],
       "Renamed": [
         "<a class=\"internal-link\" href=\"learning/financial/career/code tests/tips on completing a timed code test.md\"> tips on completing a timed code test </a>",
@@ -1597,7 +1602,8 @@
         "<a class=\"internal-link\" href=\"learning/computing/programming/c and c++/Glut graphics framework.md\"> Glut graphics framework </a>",
         "<a class=\"internal-link\" href=\"learning/computing/programming/authentication/JSON Web Token.md\"> JSON Web Token </a>",
         "<a class=\"internal-link\" href=\"learning/computing/programming/algorithms/data-structures/left-leaning red black trees.md\"> left-leaning red black trees </a>",
-        "<a class=\"internal-link\" href=\"learning/computing/programming/javascript/deno/deno debugger.md\"> deno debugger </a>"
+        "<a class=\"internal-link\" href=\"learning/computing/programming/javascript/deno/deno debugger.md\"> deno debugger </a>",
+        "<a class=\"internal-link\" href=\"learning/computing/programming/javascript/Javascript oddities.md\"> Javascript oddities </a>"
       ],
       "Refactored": [],
       "Deleted": [
@@ -1655,6 +1661,7 @@
       ],
       "Linked": [
         "<a class=\"internal-link\" href=\"learning/computing/programming/javascript/deno/deno debugger.md\"> deno debugger </a>",
+        "<a class=\"internal-link\" href=\"learning/computing/programming/javascript/deno/deno debugger.md\"> deno debugger </a>",
         "<a class=\"internal-link\" href=\"personal/notes/Learn about Memory Controllers and non-uniform memory access.md\"> Learn about Memory Controllers and non-uniform memory access </a>",
         "<a class=\"internal-link\" href=\"personal/task board.md\"> task board </a>",
         "<a class=\"internal-link\" href=\"learning/computing/programming/languages/Lisp programming language.md\"> Lisp programming language </a>",
@@ -1703,8 +1710,7 @@
         "<a class=\"internal-link\" href=\"software/data ETL/apache paraquet.md\"> apache paraquet </a>",
         "<a class=\"internal-link\" href=\"personal/job-hunting/Lextegrity.md\"> Lextegrity </a>",
         "<a class=\"internal-link\" href=\"personal/job-hunting/Lextegrity.md\"> Lextegrity </a>",
-        "<a class=\"internal-link\" href=\"personal/job-hunting/Lextegrity.md\"> Lextegrity </a>",
-        "<a class=\"internal-link\" href=\"daily/10-05-22.md\"> 10-05-22 </a>"
+        "<a class=\"internal-link\" href=\"personal/job-hunting/Lextegrity.md\"> Lextegrity </a>"
       ],
       "Removed Tags from": [
         "<a class=\"internal-link\" href=\"learning/computing/programming/python/python extensions.md\"> python extensions </a>",
