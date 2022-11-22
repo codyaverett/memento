@@ -125,6 +125,19 @@
             }
           },
           {
+            "id": "96b8b43e85897f16",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "learning/computing/software/jq/jq.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
             "id": "6d46965eee99176a",
             "type": "leaf",
             "state": {
@@ -138,7 +151,7 @@
             }
           }
         ],
-        "currentTab": 8
+        "currentTab": 9
       }
     ],
     "direction": "vertical"
@@ -196,7 +209,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "learning/computing/programming/javascript/deno/modules/useful deno modules.md",
+                "file": "learning/computing/software/jq/jq.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -213,7 +226,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "learning/computing/programming/javascript/deno/modules/useful deno modules.md"
+                "file": "learning/computing/software/jq/jq.md"
               }
             }
           },
@@ -240,8 +253,9 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "c3312f62b7d77921",
+  "active": "96b8b43e85897f16",
   "lastOpenFiles": [
+    "learning/computing/programming/javascript/deno/modules/useful deno modules.md",
     "learning/computing/programming/javascript/typescript/Enums can be terrible.md",
     "learning/computing/programming/languages/typescript programming language.md",
     "learning/computing/programming/javascript/deno/the deno javascript runtime.md",
@@ -250,7 +264,6 @@
     "learning/computing/programming/javascript/deno/A fresh look at Deno - Brian Barrow.md",
     "learning/computing/programming/javascript/deno/deno std library.md",
     "learning/computing/programming/javascript/deno/deno example code.md",
-    "learning/computing/programming/javascript/deno/modules/fresh.md",
-    "learning/computing/programming/javascript/deno/deno tasks.md"
+    "learning/computing/programming/javascript/deno/modules/fresh.md"
   ]
 }
