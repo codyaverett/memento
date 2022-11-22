@@ -1413,12 +1413,17 @@
       "size": 0,
       "tags": 0,
       "links": 0
+    },
+    "Untitled.md": {
+      "size": 0,
+      "tags": 0,
+      "links": 0
     }
   },
   "commitTypes": {
     "/": {
       "Refactor": 1397,
-      "Create": 288,
+      "Create": 289,
       "Link": 135,
       "Expand": 100
     }
@@ -1438,7 +1443,7 @@
       "10": 12,
       "11": 10,
       "12": 6,
-      "13": 51,
+      "13": 52,
       "14": 44,
       "15": 62,
       "16": 1199,
@@ -1454,7 +1459,7 @@
   "weeklyCommits": {
     "/": {
       "Mon": 1300,
-      "Tue": 102,
+      "Tue": 103,
       "Wed": 171,
       "Thu": 135,
       "Fri": 115,
@@ -1518,6 +1523,7 @@
         "<a class=\"internal-link\" href=\"personal/social/Charisma.md\"> Charisma </a>"
       ],
       "Created": [
+        "<a class=\"internal-link\" href=\"Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"sed.md\"> sed </a>",
         "<a class=\"internal-link\" href=\"learning/computing/software/jq/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"learning/computing/programming/languages/Untitled.md\"> Untitled </a>",
@@ -1565,7 +1571,6 @@
         "<a class=\"internal-link\" href=\"data/Untitled database.md\"> Untitled database </a>",
         "<a class=\"internal-link\" href=\"learning/computing/programming/languages/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"learning/computing/programming/java/Untitled.md\"> Untitled </a>",
-        "<a class=\"internal-link\" href=\"learning/computing/programming/languages/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"learning/computing/programming/languages/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"learning/computing/programming/languages/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"learning/computing/programming/languages/Untitled.md\"> Untitled </a>"
