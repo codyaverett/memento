@@ -1403,13 +1403,18 @@
       "size": 0,
       "tags": 0,
       "links": 1
+    },
+    "learning/computing/software/jq/jq.md": {
+      "size": 0,
+      "tags": 2,
+      "links": 1
     }
   },
   "commitTypes": {
     "/": {
       "Refactor": 1397,
-      "Create": 286,
-      "Link": 130,
+      "Create": 287,
+      "Link": 132,
       "Expand": 100
     }
   },
@@ -1434,16 +1439,16 @@
       "16": 1199,
       "17": 68,
       "18": 30,
-      "19": 25,
+      "19": 26,
       "20": 33,
-      "21": 74,
+      "21": 76,
       "22": 55,
       "23": 34
     }
   },
   "weeklyCommits": {
     "/": {
-      "Mon": 1293,
+      "Mon": 1296,
       "Tue": 102,
       "Wed": 171,
       "Thu": 135,
@@ -1508,6 +1513,7 @@
         "<a class=\"internal-link\" href=\"personal/social/Charisma.md\"> Charisma </a>"
       ],
       "Created": [
+        "<a class=\"internal-link\" href=\"learning/computing/software/jq/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"learning/computing/programming/languages/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"learning/computing/programming/javascript/deno/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"learning/computing/programming/javascript/deno/Untitled.md\"> Untitled </a>",
@@ -1553,7 +1559,6 @@
         "<a class=\"internal-link\" href=\"data/Untitled database.md\"> Untitled database </a>",
         "<a class=\"internal-link\" href=\"learning/computing/programming/languages/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"learning/computing/programming/java/Untitled.md\"> Untitled </a>",
-        "<a class=\"internal-link\" href=\"learning/computing/programming/languages/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"learning/computing/programming/languages/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"learning/computing/programming/languages/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"learning/computing/programming/languages/Untitled.md\"> Untitled </a>",
@@ -1658,7 +1663,8 @@
         "<a class=\"internal-link\" href=\"learning/computing/programming/javascript/deno/deno example code.md\"> deno example code </a>",
         "<a class=\"internal-link\" href=\"learning/computing/programming/javascript/deno/deno std library.md\"> deno std library </a>",
         "<a class=\"internal-link\" href=\"learning/computing/programming/javascript/deno/A fresh look at Deno - Brian Barrow.md\"> A fresh look at Deno - Brian Barrow </a>",
-        "<a class=\"internal-link\" href=\"learning/computing/programming/javascript/deno/deno std library.md\"> deno std library </a>"
+        "<a class=\"internal-link\" href=\"learning/computing/programming/javascript/deno/deno std library.md\"> deno std library </a>",
+        "<a class=\"internal-link\" href=\"learning/computing/software/jq/jq.md\"> jq </a>"
       ],
       "Refactored": [],
       "Deleted": [
@@ -1715,6 +1721,7 @@
         "<a class=\"internal-link\" href=\"learning/computing/programming/python/django/Untitled.md\"> Untitled </a>"
       ],
       "Linked": [
+        "<a class=\"internal-link\" href=\"learning/computing/software/jq/jq.md\"> jq </a>",
         "<a class=\"internal-link\" href=\"learning/computing/programming/javascript/deno/the deno javascript runtime.md\"> the deno javascript runtime </a>",
         "<a class=\"internal-link\" href=\"learning/computing/programming/languages/typescript programming language.md\"> typescript programming language </a>",
         "<a class=\"internal-link\" href=\"learning/computing/programming/javascript/deno/deno debugger.md\"> deno debugger </a>",
@@ -1764,8 +1771,7 @@
         "<a class=\"internal-link\" href=\"programming/neural networks/different types of neural networks.md\"> different types of neural networks </a>",
         "<a class=\"internal-link\" href=\"Current Stuff.md\"> Current Stuff </a>",
         "<a class=\"internal-link\" href=\"programming/cli/loading/loading spinners and representing updates in a CLI application.md\"> loading spinners and representing updates in a CLI application </a>",
-        "<a class=\"internal-link\" href=\"software/data ETL/apache paraquet.md\"> apache paraquet </a>",
-        "<a class=\"internal-link\" href=\"personal/job-hunting/Lextegrity.md\"> Lextegrity </a>"
+        "<a class=\"internal-link\" href=\"software/data ETL/apache paraquet.md\"> apache paraquet </a>"
       ],
       "Removed Tags from": [
         "<a class=\"internal-link\" href=\"learning/computing/programming/python/python extensions.md\"> python extensions </a>",
