@@ -846,12 +846,12 @@
     },
     "learning/mathematics/Kepler.md": {
       "size": 113,
-      "tags": 0,
+      "tags": 1,
       "links": 0
     },
     "learning/mathematics/linear interpolation.md": {
       "size": 0,
-      "tags": 0,
+      "tags": 1,
       "links": 1
     },
     "learning/crafting/make your own t-shirt.md": {
@@ -1419,7 +1419,7 @@
     "/": {
       "Refactor": 1397,
       "Create": 288,
-      "Link": 133,
+      "Link": 135,
       "Expand": 100
     }
   },
@@ -1448,12 +1448,12 @@
       "20": 33,
       "21": 77,
       "22": 56,
-      "23": 34
+      "23": 36
     }
   },
   "weeklyCommits": {
     "/": {
-      "Mon": 1298,
+      "Mon": 1300,
       "Tue": 102,
       "Wed": 171,
       "Thu": 135,
@@ -1669,7 +1669,9 @@
         "<a class=\"internal-link\" href=\"learning/computing/programming/javascript/deno/deno std library.md\"> deno std library </a>",
         "<a class=\"internal-link\" href=\"learning/computing/programming/javascript/deno/A fresh look at Deno - Brian Barrow.md\"> A fresh look at Deno - Brian Barrow </a>",
         "<a class=\"internal-link\" href=\"learning/computing/programming/javascript/deno/deno std library.md\"> deno std library </a>",
-        "<a class=\"internal-link\" href=\"learning/computing/software/jq/jq.md\"> jq </a>"
+        "<a class=\"internal-link\" href=\"learning/computing/software/jq/jq.md\"> jq </a>",
+        "<a class=\"internal-link\" href=\"learning/mathematics/linear interpolation.md\"> linear interpolation </a>",
+        "<a class=\"internal-link\" href=\"learning/mathematics/Kepler.md\"> Kepler </a>"
       ],
       "Refactored": [],
       "Deleted": [
