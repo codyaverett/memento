@@ -181,7 +181,7 @@
               "type": "search",
               "state": {
                 "query": "",
-                "matchingCase": true,
+                "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
@@ -253,7 +253,7 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "96b8b43e85897f16",
+  "active": "33a2bab88d111215",
   "lastOpenFiles": [
     "learning/computing/programming/javascript/deno/modules/useful deno modules.md",
     "learning/computing/programming/javascript/typescript/Enums can be terrible.md",
