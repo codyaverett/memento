@@ -1475,7 +1475,7 @@
       "links": 0
     },
     "personal/notes/Learning and documenting rust.md": {
-      "size": 0,
+      "size": 3000,
       "tags": 2,
       "links": 4
     },
@@ -1491,7 +1491,7 @@
     },
     "learning/computing/programming/rust/basics/variable data types.md": {
       "size": 4883,
-      "tags": 2,
+      "tags": 3,
       "links": 0
     },
     "learning/computing/programming/rust/errors/type annotations needed.md": {
@@ -1529,13 +1529,13 @@
     "/": {
       "Refactor": 1409,
       "Create": 311,
-      "Link": 166,
-      "Expand": 109
+      "Link": 167,
+      "Expand": 110
     }
   },
   "dailyCommits": {
     "/": {
-      "0": 58,
+      "0": 60,
       "1": 29,
       "2": 42,
       "3": 52,
@@ -1566,7 +1566,7 @@
       "Mon": 1300,
       "Tue": 103,
       "Wed": 234,
-      "Thu": 146,
+      "Thu": 148,
       "Fri": 115,
       "Sat": 0,
       "Sun": 97
@@ -1575,6 +1575,7 @@
   "recentCommits": {
     "/": {
       "Expanded": [
+        "<a class=\"internal-link\" href=\"personal/notes/Learning and documenting rust.md\"> Learning and documenting rust </a>",
         "<a class=\"internal-link\" href=\"learning/computing/programming/rust/basics/control flow.md\"> control flow </a>",
         "<a class=\"internal-link\" href=\"learning/computing/programming/rust/basics/control flow.md\"> control flow </a>",
         "<a class=\"internal-link\" href=\"learning/computing/programming/rust/basics/functions.md\"> functions </a>",
@@ -1624,7 +1625,6 @@
         "<a class=\"internal-link\" href=\"programming/python/handle SIGTERM events in python.md\"> handle SIGTERM events in python </a>",
         "<a class=\"internal-link\" href=\"programming/python/python decorators primer.md\"> python decorators primer </a>",
         "<a class=\"internal-link\" href=\"programming/python/create a minimal python package.md\"> create a minimal python package </a>",
-        "<a class=\"internal-link\" href=\"programming/python/python package name collisions.md\"> python package name collisions </a>",
         "<a class=\"internal-link\" href=\"programming/python/python package name collisions.md\"> python package name collisions </a>"
       ],
       "Created": [
@@ -1734,6 +1734,7 @@
         "<a class=\"internal-link\" href=\"personal/daily/2022/22-09-30.md\"> 22-09-30 </a>"
       ],
       "Tagged": [
+        "<a class=\"internal-link\" href=\"learning/computing/programming/rust/basics/variable data types.md\"> variable data types </a>",
         "<a class=\"internal-link\" href=\"learning/computing/programming/rust/basics/comments.md\"> comments </a>",
         "<a class=\"internal-link\" href=\"learning/computing/programming/rust/basics/control flow.md\"> control flow </a>",
         "<a class=\"internal-link\" href=\"learning/computing/programming/rust/errors/expression position issues.md\"> expression position issues </a>",
@@ -1783,8 +1784,7 @@
         "<a class=\"internal-link\" href=\"learning/computing/programming/databases/postgres/postgres materialized views.md\"> postgres materialized views </a>",
         "<a class=\"internal-link\" href=\"learning/computing/programming/data streams/Data streams vs buffers.md\"> Data streams vs buffers </a>",
         "<a class=\"internal-link\" href=\"learning/computing/programming/cli/python cli hide user input.md\"> python cli hide user input </a>",
-        "<a class=\"internal-link\" href=\"learning/computing/programming/cli/loading/loading spinners and representing updates in a CLI application.md\"> loading spinners and representing updates in a CLI application </a>",
-        "<a class=\"internal-link\" href=\"learning/computing/programming/c and c++/opencv.md\"> opencv </a>"
+        "<a class=\"internal-link\" href=\"learning/computing/programming/cli/loading/loading spinners and representing updates in a CLI application.md\"> loading spinners and representing updates in a CLI application </a>"
       ],
       "Refactored": [],
       "Deleted": [

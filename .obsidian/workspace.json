@@ -42,74 +42,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "5ade3ba48b361820",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "README.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "419705f0a24d936e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "learning/computing/programming/rust/basics/functions.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a2f2df19ec21b579",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "learning/computing/programming/rust/basics/comments.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8d0c8cc0fdecfa94",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "learning/computing/programming/rust/basics/variables and mutability.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "118d31b053659c23",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "learning/computing/programming/rust/errors/integer overflow.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 6
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -167,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "learning/computing/programming/rust/basics/variables and mutability.md",
+                "file": "personal/notes/Learning and documenting rust.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -184,7 +119,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "learning/computing/programming/rust/basics/variables and mutability.md"
+                "file": "personal/notes/Learning and documenting rust.md"
               }
             }
           },
@@ -212,17 +147,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "8d0c8cc0fdecfa94",
+  "active": "e7ca8e18b99fce10",
   "lastOpenFiles": [
-    "learning/computing/programming/rust/basics/variable data types.md",
-    "learning/computing/programming/rust/basics/importing rust modules.md",
+    "personal/notes/Create a meta-repo cli tool replacement with rust.md",
+    "README.md",
     "learning/computing/programming/rust/basics/functions.md",
     "learning/computing/programming/rust/basics/comments.md",
+    "learning/computing/programming/rust/basics/variables and mutability.md",
+    "learning/computing/programming/rust/basics/variable data types.md",
+    "learning/computing/programming/rust/basics/importing rust modules.md",
     "learning/computing/programming/rust/basics/control flow.md",
     "learning/computing/programming/rust/errors/expression position issues.md",
-    "README.md",
-    "learning/computing/programming/rust/errors/integer overflow.md",
-    "learning/computing/programming/rust/errors/type annotations needed.md",
-    "learning/computing/programming/rust/basics/variables and mutability.md"
+    "learning/computing/programming/rust/errors/integer overflow.md"
   ]
 }
