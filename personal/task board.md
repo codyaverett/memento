@@ -23,6 +23,7 @@ tags: null
 - [ ] [[Learn about Memory Controllers and non-uniform memory access]]
 - [ ] [[Setup a bind9 DNS server]]
 - [ ] [[create a deno plugin]]
+- [ ] Learn github actions and compare to concord
 
 
 ## Todo
