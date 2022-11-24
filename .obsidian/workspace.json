@@ -21,12 +21,12 @@
             }
           },
           {
-            "id": "95b86279eb9c8ddd",
+            "id": "56e5784554480e19",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Untitled.md",
+                "file": "learning/computing/programming/rust/basics/importing rust modules.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -72,8 +72,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -93,7 +92,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled.md",
+                "file": "learning/computing/programming/rust/basics/importing rust modules.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +109,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled.md"
+                "file": "learning/computing/programming/rust/basics/importing rust modules.md"
               }
             }
           },
@@ -137,17 +136,17 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "95b86279eb9c8ddd",
+  "active": "33a2bab88d111215",
   "lastOpenFiles": [
+    "learning/computing/programming/rust/errors/mismatched types.md",
+    "learning/computing/programming/rust/basics/importing rust modules.md",
     "personal/daily/2022/22-09-02.md",
+    "Untitled.md",
     "learning/computing/software/data ETL/apache airflow/Airflow Deployments.md",
     "learning/computing/programming/python/pyspark/python basics.md",
     "learning/computing/programming/machine learning/interesting ml and ai products.md",
     "learning/mathematics/Kepler.md",
     "learning/mathematics/linear interpolation.md",
-    "learning/computing/programming/javascript/deno/deno-deploy.md",
-    "learning/computing/programming/javascript/deno/modules/useful deno modules.md",
-    "sed.md",
-    "learning/computing/software/jq/jq.md"
+    "learning/computing/programming/javascript/deno/deno-deploy.md"
   ]
 }
