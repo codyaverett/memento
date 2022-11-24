@@ -70,6 +70,32 @@
             }
           },
           {
+            "id": "a2f2df19ec21b579",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "learning/computing/programming/rust/basics/comments.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8d0c8cc0fdecfa94",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "learning/computing/programming/rust/basics/control flow.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
             "id": "118d31b053659c23",
             "type": "leaf",
             "state": {
@@ -83,7 +109,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -141,7 +167,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "learning/computing/programming/rust/basics/functions.md",
+                "file": "learning/computing/programming/rust/basics/control flow.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -158,7 +184,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "learning/computing/programming/rust/basics/functions.md"
+                "file": "learning/computing/programming/rust/basics/control flow.md"
               }
             }
           },
@@ -186,17 +212,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "419705f0a24d936e",
+  "active": "8d0c8cc0fdecfa94",
   "lastOpenFiles": [
+    "learning/computing/programming/rust/basics/comments.md",
+    "learning/computing/programming/rust/basics/functions.md",
+    "learning/computing/programming/rust/errors/expression position issues.md",
     "README.md",
     "learning/computing/programming/rust/basics/variable data types.md",
     "learning/computing/programming/rust/errors/integer overflow.md",
     "learning/computing/programming/rust/errors/type annotations needed.md",
     "learning/computing/programming/rust/basics/variables and mutability.md",
     "learning/computing/programming/rust/errors/mismatched types.md",
-    "learning/computing/programming/rust/errors/cannot assign twice to immutable variable.md",
-    "personal/notes/Create a meta-repo cli tool replacement with rust.md",
-    "learning/computing/programming/rust/basics/importing rust modules.md",
-    "personal/task board.md"
+    "learning/computing/programming/rust/errors/cannot assign twice to immutable variable.md"
   ]
 }
