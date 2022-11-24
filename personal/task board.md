@@ -9,6 +9,10 @@ tags: null
 
 ---
 
+## Project Ideas
+
+
+
 ## Backlog
 
 - [ ] [[Ben Levin's course  Blender for musicians]]
@@ -25,6 +29,7 @@ tags: null
 
 - [ ] [[Demo project using tailwindcss]]
 - [ ] [[Demo webapp project Val and Riz]]
+- [ ] File Benton County Taxes
 
 
 ## WIP

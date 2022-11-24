@@ -364,11 +364,6 @@
       "tags": 0,
       "links": 1
     },
-    "learning/computing/programming/rust/rust types.md": {
-      "size": 0,
-      "tags": 0,
-      "links": 0
-    },
     "learning/computing/programming/python/building python extensions with Rust.md": {
       "size": 0,
       "tags": 1,
@@ -1479,22 +1474,32 @@
       "tags": 2,
       "links": 0
     },
-    "learning/computing/programming/rust/basics/Variables and mutability.md": {
-      "size": 0,
-      "tags": 2,
-      "links": 0
-    },
     "personal/notes/Learning and documenting rust.md": {
       "size": 0,
       "tags": 2,
       "links": 4
+    },
+    "learning/computing/programming/rust/basics/data types.md": {
+      "size": 0,
+      "tags": 2,
+      "links": 0
+    },
+    "learning/computing/programming/rust/basics/variables and mutability.md": {
+      "size": 0,
+      "tags": 2,
+      "links": 0
+    },
+    "learning/computing/programming/rust/errors/cannot assign twice to immutable variable.md": {
+      "size": 0,
+      "tags": 2,
+      "links": 0
     }
   },
   "commitTypes": {
     "/": {
-      "Refactor": 1405,
-      "Create": 304,
-      "Link": 158,
+      "Refactor": 1408,
+      "Create": 305,
+      "Link": 160,
       "Expand": 102
     }
   },
@@ -1523,14 +1528,14 @@
       "20": 46,
       "21": 90,
       "22": 77,
-      "23": 36
+      "23": 42
     }
   },
   "weeklyCommits": {
     "/": {
       "Mon": 1300,
       "Tue": 103,
-      "Wed": 219,
+      "Wed": 225,
       "Thu": 135,
       "Fri": 115,
       "Sat": 0,
@@ -1593,6 +1598,7 @@
         "<a class=\"internal-link\" href=\"programming/python/python extensions with rust.md\"> python extensions with rust </a>"
       ],
       "Created": [
+        "<a class=\"internal-link\" href=\"learning/computing/programming/rust/errors/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"learning/computing/programming/rust/basics/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"personal/notes/Learning rust.md\"> Learning rust </a>",
         "<a class=\"internal-link\" href=\"learning/computing/programming/rust/macros/Untitled.md\"> Untitled </a>",
@@ -1642,10 +1648,12 @@
         "<a class=\"internal-link\" href=\"learning/computing/cryptocurrency/standards/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"personal/daily/2022/22-11-17.md\"> 22-11-17 </a>",
         "<a class=\"internal-link\" href=\"learning/computing/software/obsidian/Untitled.md\"> Untitled </a>",
-        "<a class=\"internal-link\" href=\"learning/Untitled.md\"> Untitled </a>",
-        "<a class=\"internal-link\" href=\"learning/computing/software/obsidian/Untitled.md\"> Untitled </a>"
+        "<a class=\"internal-link\" href=\"learning/Untitled.md\"> Untitled </a>"
       ],
       "Renamed": [
+        "<a class=\"internal-link\" href=\"learning/computing/programming/rust/basics/variables and mutability.md\"> variables and mutability </a>",
+        "<a class=\"internal-link\" href=\"learning/computing/programming/rust/basics/data types.md\"> data types </a>",
+        "<a class=\"internal-link\" href=\"learning/computing/programming/rust/basics/rust types.md\"> rust types </a>",
         "<a class=\"internal-link\" href=\"personal/notes/Learning and documenting rust.md\"> Learning and documenting rust </a>",
         "<a class=\"internal-link\" href=\"learning/computing/programming/rust/basics/importing rust modules.md\"> importing rust modules </a>",
         "<a class=\"internal-link\" href=\"learning/computing/programming/rust/basic/importing rust modules.md\"> importing rust modules </a>",
@@ -1693,12 +1701,11 @@
         "<a class=\"internal-link\" href=\"personal/daily/2022/22-10-05.md\"> 22-10-05 </a>",
         "<a class=\"internal-link\" href=\"personal/daily/2022/22-10-01.md\"> 22-10-01 </a>",
         "<a class=\"internal-link\" href=\"personal/daily/2022/22-09-30.md\"> 22-09-30 </a>",
-        "<a class=\"internal-link\" href=\"personal/daily/2022/22-09-28.md\"> 22-09-28 </a>",
-        "<a class=\"internal-link\" href=\"personal/daily/2022/22-09-27.md\"> 22-09-27 </a>",
-        "<a class=\"internal-link\" href=\"personal/daily/2022/22-09-26.md\"> 22-09-26 </a>",
-        "<a class=\"internal-link\" href=\"personal/daily/2022/22-09-22.md\"> 22-09-22 </a>"
+        "<a class=\"internal-link\" href=\"personal/daily/2022/22-09-28.md\"> 22-09-28 </a>"
       ],
       "Tagged": [
+        "<a class=\"internal-link\" href=\"learning/computing/programming/rust/errors/cannot assign twice to immutable variable.md\"> cannot assign twice to immutable variable </a>",
+        "<a class=\"internal-link\" href=\"learning/computing/programming/rust/basics/data types.md\"> data types </a>",
         "<a class=\"internal-link\" href=\"learning/computing/programming/rust/basics/Variables and mutability.md\"> Variables and mutability </a>",
         "<a class=\"internal-link\" href=\"learning/computing/programming/rust/snippets/Get Current Working Directory.md\"> Get Current Working Directory </a>",
         "<a class=\"internal-link\" href=\"personal/notes/Learning rust.md\"> Learning rust </a>",
@@ -1747,9 +1754,7 @@
         "<a class=\"internal-link\" href=\"learning/computing/programming/authentication/JSON Web Token.md\"> JSON Web Token </a>",
         "<a class=\"internal-link\" href=\"learning/computing/programming/algorithms/data-structures/left-leaning red black trees.md\"> left-leaning red black trees </a>",
         "<a class=\"internal-link\" href=\"learning/computing/programming/javascript/deno/deno debugger.md\"> deno debugger </a>",
-        "<a class=\"internal-link\" href=\"learning/computing/programming/javascript/Javascript oddities.md\"> Javascript oddities </a>",
-        "<a class=\"internal-link\" href=\"learning/computing/programming/javascript/deno/node to deno cheatsheet.md\"> node to deno cheatsheet </a>",
-        "<a class=\"internal-link\" href=\"learning/computing/programming/javascript/deno/deno configuration.md\"> deno configuration </a>"
+        "<a class=\"internal-link\" href=\"learning/computing/programming/javascript/Javascript oddities.md\"> Javascript oddities </a>"
       ],
       "Refactored": [],
       "Deleted": [
