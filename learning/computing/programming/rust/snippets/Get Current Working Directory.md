@@ -1,9 +1,9 @@
 ---
 name: Get Current Working Directory
 created: 2022-11-23T20:37:43-06:00
-updated: 2022-11-23T20:38:34-06:00
+updated: 2022-11-23T22:20:53-06:00
 aliases: 
-tags: rust
+tags: rust, snippet
 ---
 # Get Current Working Directory
 
