@@ -20,16 +20,16 @@
         ]
       },
       {
-        "id": "c9c7a346f601f726",
+        "id": "1c8151e8b79e99af",
         "type": "tabs",
         "children": [
           {
-            "id": "81aefeeb9a688c2a",
+            "id": "fb44b66d9d96992c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "personal/notes/create a deno plugin.md",
+                "file": "personal/notes/Create a meta-repo cli tool replacement with rust.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "personal/notes/create a deno plugin.md",
+                "file": "personal/notes/Create a meta-repo cli tool replacement with rust.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "personal/notes/create a deno plugin.md"
+                "file": "personal/notes/Create a meta-repo cli tool replacement with rust.md"
               }
             }
           },
@@ -136,11 +136,13 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
-  "active": "81aefeeb9a688c2a",
+  "active": "fb44b66d9d96992c",
   "lastOpenFiles": [
     "personal/task board.md",
+    "personal/notes/create a deno plugin.md",
     "personal/notes/Setup a bind9 DNS server.md",
     "learning/computing/programming/languages/programming languages.md",
     "learning/computing/programming/languages/rust programming language.md",
@@ -148,7 +150,6 @@
     "learning/computing/programming/languages/Lisp programming language.md",
     "learning/computing/programming/rust/rust programming language.md",
     "learning/computing/software/obsidian/Obsidian Dataview plugin.md",
-    "learning/computing/programming/rust/basics/importing rust modules.md",
-    "personal/daily/2022/22-09-02.md"
+    "learning/computing/programming/rust/basics/importing rust modules.md"
   ]
 }
