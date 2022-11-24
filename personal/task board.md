@@ -30,6 +30,7 @@ tags: null
 ## WIP
 
 - [ ] [[Create a meta-repo cli tool replacement with rust]]
+- [ ] [[Learning rust]]
 
 
 ## Done
