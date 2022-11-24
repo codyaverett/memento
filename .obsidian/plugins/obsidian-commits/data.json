@@ -356,7 +356,7 @@
     },
     "learning/computing/programming/rust/rust programming language.md": {
       "size": 0,
-      "tags": 0,
+      "tags": 1,
       "links": 0
     },
     "learning/computing/programming/neural networks/different types of neural networks.md": {
@@ -1439,7 +1439,7 @@
     "/": {
       "Refactor": 1399,
       "Create": 293,
-      "Link": 141,
+      "Link": 142,
       "Expand": 101
     }
   },
@@ -1465,7 +1465,7 @@
       "17": 68,
       "18": 30,
       "19": 26,
-      "20": 45,
+      "20": 46,
       "21": 77,
       "22": 56,
       "23": 36
@@ -1475,7 +1475,7 @@
     "/": {
       "Mon": 1300,
       "Tue": 103,
-      "Wed": 184,
+      "Wed": 185,
       "Thu": 135,
       "Fri": 115,
       "Sat": 0,
@@ -1644,6 +1644,7 @@
         "<a class=\"internal-link\" href=\"learning/nature/insects/brown recluse spider.md\"> brown recluse spider </a>"
       ],
       "Tagged": [
+        "<a class=\"internal-link\" href=\"learning/computing/programming/rust/rust programming language.md\"> rust programming language </a>",
         "<a class=\"internal-link\" href=\"learning/computing/programming/languages/programming languages.md\"> programming languages </a>",
         "<a class=\"internal-link\" href=\"learning/computing/programming/languages/rust programming language.md\"> rust programming language </a>",
         "<a class=\"internal-link\" href=\"learning/computing/programming/rust/errors/mismatched types.md\"> mismatched types </a>",
@@ -1693,8 +1694,7 @@
         "<a class=\"internal-link\" href=\"learning/computing/programming/javascript/deno/A fresh look at Deno - Brian Barrow.md\"> A fresh look at Deno - Brian Barrow </a>",
         "<a class=\"internal-link\" href=\"learning/computing/programming/javascript/deno/deno std library.md\"> deno std library </a>",
         "<a class=\"internal-link\" href=\"learning/computing/software/jq/jq.md\"> jq </a>",
-        "<a class=\"internal-link\" href=\"learning/mathematics/linear interpolation.md\"> linear interpolation </a>",
-        "<a class=\"internal-link\" href=\"learning/mathematics/Kepler.md\"> Kepler </a>"
+        "<a class=\"internal-link\" href=\"learning/mathematics/linear interpolation.md\"> linear interpolation </a>"
       ],
       "Refactored": [],
       "Deleted": [

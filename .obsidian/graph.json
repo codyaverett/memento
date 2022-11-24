@@ -22,10 +22,10 @@
       }
     },
     {
-      "query": "tag:javascript",
+      "query": "tag:javascript, tag:typescript",
       "color": {
         "a": 1,
-        "rgb": 11657298
+        "rgb": 54783
       }
     }
   ],
@@ -39,6 +39,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.18056977303122174,
-  "close": false
+  "scale": 0.3875106029510628,
+  "close": true
 }
