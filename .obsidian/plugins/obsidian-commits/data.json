@@ -1503,19 +1503,24 @@
       "size": 0,
       "tags": 2,
       "links": 0
+    },
+    "learning/computing/programming/rust/basics/functions.md": {
+      "size": 0,
+      "tags": 2,
+      "links": 0
     }
   },
   "commitTypes": {
     "/": {
       "Refactor": 1409,
-      "Create": 307,
-      "Link": 162,
+      "Create": 308,
+      "Link": 163,
       "Expand": 106
     }
   },
   "dailyCommits": {
     "/": {
-      "0": 47,
+      "0": 49,
       "1": 29,
       "2": 42,
       "3": 52,
@@ -1546,7 +1551,7 @@
       "Mon": 1300,
       "Tue": 103,
       "Wed": 234,
-      "Thu": 135,
+      "Thu": 137,
       "Fri": 115,
       "Sat": 0,
       "Sun": 97
@@ -1608,6 +1613,7 @@
         "<a class=\"internal-link\" href=\"software/data ETL/apache airflow/apache airflow quickstart.md\"> apache airflow quickstart </a>"
       ],
       "Created": [
+        "<a class=\"internal-link\" href=\"learning/computing/programming/rust/basics/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"learning/computing/programming/rust/errors/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"learning/computing/programming/rust/errors/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"learning/computing/programming/rust/errors/Untitled.md\"> Untitled </a>",
@@ -1657,8 +1663,7 @@
         "<a class=\"internal-link\" href=\"personal/daily/2022/22-11-19.md\"> 22-11-19 </a>",
         "<a class=\"internal-link\" href=\"personal/daily/2022/22-11-18.md\"> 22-11-18 </a>",
         "<a class=\"internal-link\" href=\"personal/blog/Untitled.md\"> Untitled </a>",
-        "<a class=\"internal-link\" href=\"learning/computing/cryptocurrency/standards/Untitled.md\"> Untitled </a>",
-        "<a class=\"internal-link\" href=\"personal/daily/2022/22-11-17.md\"> 22-11-17 </a>"
+        "<a class=\"internal-link\" href=\"learning/computing/cryptocurrency/standards/Untitled.md\"> Untitled </a>"
       ],
       "Renamed": [
         "<a class=\"internal-link\" href=\"learning/computing/programming/rust/basics/variable data types.md\"> variable data types </a>",
@@ -1714,6 +1719,7 @@
         "<a class=\"internal-link\" href=\"personal/daily/2022/22-09-30.md\"> 22-09-30 </a>"
       ],
       "Tagged": [
+        "<a class=\"internal-link\" href=\"learning/computing/programming/rust/basics/functions.md\"> functions </a>",
         "<a class=\"internal-link\" href=\"learning/computing/programming/rust/errors/integer overflow.md\"> integer overflow </a>",
         "<a class=\"internal-link\" href=\"learning/computing/programming/rust/errors/type annotations needed.md\"> type annotations needed </a>",
         "<a class=\"internal-link\" href=\"learning/computing/programming/rust/errors/cannot assign twice to immutable variable.md\"> cannot assign twice to immutable variable </a>",
@@ -1763,8 +1769,7 @@
         "<a class=\"internal-link\" href=\"learning/computing/programming/c and c++/opencv.md\"> opencv </a>",
         "<a class=\"internal-link\" href=\"learning/computing/programming/c and c++/c++ package managers.md\"> c++ package managers </a>",
         "<a class=\"internal-link\" href=\"learning/computing/programming/c and c++/Glut graphics framework.md\"> Glut graphics framework </a>",
-        "<a class=\"internal-link\" href=\"learning/computing/programming/authentication/JSON Web Token.md\"> JSON Web Token </a>",
-        "<a class=\"internal-link\" href=\"learning/computing/programming/algorithms/data-structures/left-leaning red black trees.md\"> left-leaning red black trees </a>"
+        "<a class=\"internal-link\" href=\"learning/computing/programming/authentication/JSON Web Token.md\"> JSON Web Token </a>"
       ],
       "Refactored": [],
       "Deleted": [
