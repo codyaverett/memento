@@ -6,7 +6,6 @@
       {
         "id": "5d3c969702282cd6",
         "type": "tabs",
-        "dimension": 47.7088948787062,
         "children": [
           {
             "id": "56e5784554480e19",
@@ -15,26 +14,6 @@
               "type": "kanban",
               "state": {
                 "file": "personal/task board.md"
-              }
-            }
-          }
-        ]
-      },
-      {
-        "id": "f03f03b1483ed8fd",
-        "type": "tabs",
-        "dimension": 52.2911051212938,
-        "children": [
-          {
-            "id": "4d3ed16d2284684d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "personal/notes/Demo webapp project Val and Riz.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
               }
             }
           }
@@ -96,7 +75,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "personal/notes/Demo webapp project Val and Riz.md",
+                "file": "personal/task board.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +92,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "personal/notes/Demo webapp project Val and Riz.md"
+                "file": "personal/task board.md"
               }
             }
           },
@@ -141,8 +120,9 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "4d3ed16d2284684d",
+  "active": "56e5784554480e19",
   "lastOpenFiles": [
+    "personal/notes/Demo webapp project Val and Riz.md",
     "personal/task board.md",
     "personal/notes/Demo project using tailwindcss.md",
     "personal/notes/Create a meta-repo cli tool replacement with rust.md",
@@ -151,7 +131,6 @@
     "learning/computing/programming/languages/programming languages.md",
     "learning/computing/programming/languages/rust programming language.md",
     "learning/computing/programming/languages/zig programming language.md",
-    "learning/computing/programming/languages/Lisp programming language.md",
-    "learning/computing/programming/rust/rust programming language.md"
+    "learning/computing/programming/languages/Lisp programming language.md"
   ]
 }
