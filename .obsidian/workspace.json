@@ -43,8 +43,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -102,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "personal/notes/Learning and documenting rust.md",
+                "file": "personal/task board.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +118,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "personal/notes/Learning and documenting rust.md"
+                "file": "personal/task board.md"
               }
             }
           },
@@ -147,8 +146,9 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "e7ca8e18b99fce10",
+  "active": "56e5784554480e19",
   "lastOpenFiles": [
+    "personal/notes/Learning and documenting rust.md",
     "personal/notes/Create a meta-repo cli tool replacement with rust.md",
     "README.md",
     "learning/computing/programming/rust/basics/functions.md",
@@ -157,7 +157,6 @@
     "learning/computing/programming/rust/basics/variable data types.md",
     "learning/computing/programming/rust/basics/importing rust modules.md",
     "learning/computing/programming/rust/basics/control flow.md",
-    "learning/computing/programming/rust/errors/expression position issues.md",
-    "learning/computing/programming/rust/errors/integer overflow.md"
+    "learning/computing/programming/rust/errors/expression position issues.md"
   ]
 }
