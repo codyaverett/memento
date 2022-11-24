@@ -9,13 +9,13 @@ tags: rust, learning
 
 ## Topics to Document
 
-This is a brief first list of topics I'd like to perhaps cover
+This is a brief first list of topics I'd like to perhaps cover.
+Most of the topics are from this [online version of "The rust programming language"](https://doc.rust-lang.org/book/)
 
-- [ ] Tooling
+- [x] Tooling and setup
 	- [x] [[cargo]]
 	- [x] [[rustc]]
 	- [x] [[rustup]]
-	- [ ] documentation generation
 - [x] Basics
 	- [x] Comments
 	- [x] Control flow
