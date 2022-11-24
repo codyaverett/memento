@@ -1433,13 +1433,18 @@
       "size": 2016,
       "tags": 3,
       "links": 0
+    },
+    "learning/computing/programming/languages/zig programming language.md": {
+      "size": 0,
+      "tags": 1,
+      "links": 0
     }
   },
   "commitTypes": {
     "/": {
       "Refactor": 1399,
-      "Create": 293,
-      "Link": 142,
+      "Create": 294,
+      "Link": 143,
       "Expand": 101
     }
   },
@@ -1466,7 +1471,7 @@
       "18": 30,
       "19": 26,
       "20": 46,
-      "21": 77,
+      "21": 79,
       "22": 56,
       "23": 36
     }
@@ -1475,7 +1480,7 @@
     "/": {
       "Mon": 1300,
       "Tue": 103,
-      "Wed": 185,
+      "Wed": 187,
       "Thu": 135,
       "Fri": 115,
       "Sat": 0,
@@ -1538,6 +1543,7 @@
         "<a class=\"internal-link\" href=\"programming/haskell/working with lists.md\"> working with lists </a>"
       ],
       "Created": [
+        "<a class=\"internal-link\" href=\"learning/computing/programming/languages/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"learning/computing/programming/rust/cargo/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"learning/computing/programming/rust/snippets/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"learning/computing/programming/rust/errors/Untitled.md\"> Untitled </a>",
@@ -1587,8 +1593,7 @@
         "<a class=\"internal-link\" href=\"learning/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"templates/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"data/woop.md\"> woop </a>",
-        "<a class=\"internal-link\" href=\"data/Untitled database.md\"> Untitled database </a>",
-        "<a class=\"internal-link\" href=\"learning/computing/programming/languages/Untitled.md\"> Untitled </a>"
+        "<a class=\"internal-link\" href=\"data/Untitled database.md\"> Untitled database </a>"
       ],
       "Renamed": [
         "<a class=\"internal-link\" href=\"learning/computing/programming/rust/basics/importing rust modules.md\"> importing rust modules </a>",
@@ -1644,6 +1649,7 @@
         "<a class=\"internal-link\" href=\"learning/nature/insects/brown recluse spider.md\"> brown recluse spider </a>"
       ],
       "Tagged": [
+        "<a class=\"internal-link\" href=\"learning/computing/programming/languages/zig programming language.md\"> zig programming language </a>",
         "<a class=\"internal-link\" href=\"learning/computing/programming/rust/rust programming language.md\"> rust programming language </a>",
         "<a class=\"internal-link\" href=\"learning/computing/programming/languages/programming languages.md\"> programming languages </a>",
         "<a class=\"internal-link\" href=\"learning/computing/programming/languages/rust programming language.md\"> rust programming language </a>",
@@ -1693,8 +1699,7 @@
         "<a class=\"internal-link\" href=\"learning/computing/programming/javascript/deno/deno std library.md\"> deno std library </a>",
         "<a class=\"internal-link\" href=\"learning/computing/programming/javascript/deno/A fresh look at Deno - Brian Barrow.md\"> A fresh look at Deno - Brian Barrow </a>",
         "<a class=\"internal-link\" href=\"learning/computing/programming/javascript/deno/deno std library.md\"> deno std library </a>",
-        "<a class=\"internal-link\" href=\"learning/computing/software/jq/jq.md\"> jq </a>",
-        "<a class=\"internal-link\" href=\"learning/mathematics/linear interpolation.md\"> linear interpolation </a>"
+        "<a class=\"internal-link\" href=\"learning/computing/software/jq/jq.md\"> jq </a>"
       ],
       "Refactored": [],
       "Deleted": [
