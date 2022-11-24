@@ -1474,20 +1474,20 @@
       "tags": 2,
       "links": 0
     },
-    "learning/computing/programming/rust/basic/importing rust modules.md": {
-      "size": 0,
-      "tags": 2,
-      "links": 0
-    },
     "personal/notes/Learning rust.md": {
       "size": 0,
       "tags": 2,
       "links": 4
+    },
+    "learning/computing/programming/rust/basics/importing rust modules.md": {
+      "size": 0,
+      "tags": 2,
+      "links": 0
     }
   },
   "commitTypes": {
     "/": {
-      "Refactor": 1403,
+      "Refactor": 1404,
       "Create": 303,
       "Link": 157,
       "Expand": 102
@@ -1517,7 +1517,7 @@
       "19": 26,
       "20": 46,
       "21": 90,
-      "22": 73,
+      "22": 74,
       "23": 36
     }
   },
@@ -1525,7 +1525,7 @@
     "/": {
       "Mon": 1300,
       "Tue": 103,
-      "Wed": 215,
+      "Wed": 216,
       "Thu": 135,
       "Fri": 115,
       "Sat": 0,
@@ -1641,6 +1641,7 @@
         "<a class=\"internal-link\" href=\"learning/computing/software/obsidian/Untitled.md\"> Untitled </a>"
       ],
       "Renamed": [
+        "<a class=\"internal-link\" href=\"learning/computing/programming/rust/basics/importing rust modules.md\"> importing rust modules </a>",
         "<a class=\"internal-link\" href=\"learning/computing/programming/rust/basic/importing rust modules.md\"> importing rust modules </a>",
         "<a class=\"internal-link\" href=\"learning/computing/programming/rust/tooling/cargo.md\"> cargo </a>",
         "<a class=\"internal-link\" href=\"learning/computing/programming/rust/tooling/usage.md\"> usage </a>",
@@ -1690,8 +1691,7 @@
         "<a class=\"internal-link\" href=\"personal/daily/2022/22-09-27.md\"> 22-09-27 </a>",
         "<a class=\"internal-link\" href=\"personal/daily/2022/22-09-26.md\"> 22-09-26 </a>",
         "<a class=\"internal-link\" href=\"personal/daily/2022/22-09-22.md\"> 22-09-22 </a>",
-        "<a class=\"internal-link\" href=\"personal/daily/2022/22-09-15.md\"> 22-09-15 </a>",
-        "<a class=\"internal-link\" href=\"personal/daily/2022/22-09-02.md\"> 22-09-02 </a>"
+        "<a class=\"internal-link\" href=\"personal/daily/2022/22-09-15.md\"> 22-09-15 </a>"
       ],
       "Tagged": [
         "<a class=\"internal-link\" href=\"learning/computing/programming/rust/snippets/Get Current Working Directory.md\"> Get Current Working Directory </a>",
