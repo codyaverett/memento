@@ -1416,21 +1416,31 @@
     },
     "learning/computing/programming/rust/errors/mismatched types.md": {
       "size": 0,
-      "tags": 0,
+      "tags": 2,
       "links": 0
     },
     "learning/computing/programming/rust/basics/importing rust modules.md": {
       "size": 0,
       "tags": 2,
       "links": 0
+    },
+    "learning/computing/programming/rust/snippets/Get Current Working Directory.md": {
+      "size": 0,
+      "tags": 1,
+      "links": 0
+    },
+    "learning/computing/programming/rust/cargo/usage.md": {
+      "size": 2016,
+      "tags": 3,
+      "links": 0
     }
   },
   "commitTypes": {
     "/": {
       "Refactor": 1399,
-      "Create": 291,
-      "Link": 136,
-      "Expand": 100
+      "Create": 293,
+      "Link": 139,
+      "Expand": 101
     }
   },
   "dailyCommits": {
@@ -1455,7 +1465,7 @@
       "17": 68,
       "18": 30,
       "19": 26,
-      "20": 37,
+      "20": 43,
       "21": 77,
       "22": 56,
       "23": 36
@@ -1465,7 +1475,7 @@
     "/": {
       "Mon": 1300,
       "Tue": 103,
-      "Wed": 176,
+      "Wed": 182,
       "Thu": 135,
       "Fri": 115,
       "Sat": 0,
@@ -1475,6 +1485,7 @@
   "recentCommits": {
     "/": {
       "Expanded": [
+        "<a class=\"internal-link\" href=\"learning/computing/programming/rust/cargo/usage.md\"> usage </a>",
         "<a class=\"internal-link\" href=\"learning/computing/programming/javascript/deno/modules/cliffy.md\"> cliffy </a>",
         "<a class=\"internal-link\" href=\"learning/computing/programming/javascript/deno/modules/cliffy.md\"> cliffy </a>",
         "<a class=\"internal-link\" href=\"learning/financial/career/interview questions/tough problem.md\"> tough problem </a>",
@@ -1524,10 +1535,11 @@
         "<a class=\"internal-link\" href=\"programming/python/python extensions with rust.md\"> python extensions with rust </a>",
         "<a class=\"internal-link\" href=\"programming/python/python extensions with rust.md\"> python extensions with rust </a>",
         "<a class=\"internal-link\" href=\"programming/python/python extensions with rust.md\"> python extensions with rust </a>",
-        "<a class=\"internal-link\" href=\"programming/haskell/working with lists.md\"> working with lists </a>",
-        "<a class=\"internal-link\" href=\"personal/social/Charisma.md\"> Charisma </a>"
+        "<a class=\"internal-link\" href=\"programming/haskell/working with lists.md\"> working with lists </a>"
       ],
       "Created": [
+        "<a class=\"internal-link\" href=\"learning/computing/programming/rust/cargo/Untitled.md\"> Untitled </a>",
+        "<a class=\"internal-link\" href=\"learning/computing/programming/rust/snippets/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"learning/computing/programming/rust/errors/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"learning/computing/programming/rust/basics/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"Untitled.md\"> Untitled </a>",
@@ -1576,8 +1588,6 @@
         "<a class=\"internal-link\" href=\"templates/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"data/woop.md\"> woop </a>",
         "<a class=\"internal-link\" href=\"data/Untitled database.md\"> Untitled database </a>",
-        "<a class=\"internal-link\" href=\"learning/computing/programming/languages/Untitled.md\"> Untitled </a>",
-        "<a class=\"internal-link\" href=\"learning/computing/programming/java/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"learning/computing/programming/languages/Untitled.md\"> Untitled </a>"
       ],
       "Renamed": [
@@ -1634,6 +1644,7 @@
         "<a class=\"internal-link\" href=\"learning/nature/insects/brown recluse spider.md\"> brown recluse spider </a>"
       ],
       "Tagged": [
+        "<a class=\"internal-link\" href=\"learning/computing/programming/rust/errors/mismatched types.md\"> mismatched types </a>",
         "<a class=\"internal-link\" href=\"personal/job-hunting/jb-hunt-topics.md\"> jb-hunt-topics </a>",
         "<a class=\"internal-link\" href=\"programming/python/python extensions.md\"> python extensions </a>",
         "<a class=\"internal-link\" href=\"programming/python/python cheatsheet.md\"> python cheatsheet </a>",
@@ -1682,7 +1693,8 @@
         "<a class=\"internal-link\" href=\"learning/computing/software/jq/jq.md\"> jq </a>",
         "<a class=\"internal-link\" href=\"learning/mathematics/linear interpolation.md\"> linear interpolation </a>",
         "<a class=\"internal-link\" href=\"learning/mathematics/Kepler.md\"> Kepler </a>",
-        "<a class=\"internal-link\" href=\"learning/computing/programming/rust/basics/rust importing modules.md\"> rust importing modules </a>"
+        "<a class=\"internal-link\" href=\"learning/computing/programming/rust/basics/rust importing modules.md\"> rust importing modules </a>",
+        "<a class=\"internal-link\" href=\"learning/computing/programming/rust/snippets/Get Current Working Directory.md\"> Get Current Working Directory </a>"
       ],
       "Refactored": [],
       "Deleted": [
