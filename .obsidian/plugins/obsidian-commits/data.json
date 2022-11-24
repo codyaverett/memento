@@ -1520,7 +1520,7 @@
       "links": 0
     },
     "learning/computing/programming/rust/basics/control flow.md": {
-      "size": 0,
+      "size": 2740,
       "tags": 2,
       "links": 0
     }
@@ -1530,12 +1530,12 @@
       "Refactor": 1409,
       "Create": 311,
       "Link": 166,
-      "Expand": 107
+      "Expand": 108
     }
   },
   "dailyCommits": {
     "/": {
-      "0": 56,
+      "0": 57,
       "1": 29,
       "2": 42,
       "3": 52,
@@ -1566,7 +1566,7 @@
       "Mon": 1300,
       "Tue": 103,
       "Wed": 234,
-      "Thu": 144,
+      "Thu": 145,
       "Fri": 115,
       "Sat": 0,
       "Sun": 97
@@ -1575,6 +1575,7 @@
   "recentCommits": {
     "/": {
       "Expanded": [
+        "<a class=\"internal-link\" href=\"learning/computing/programming/rust/basics/control flow.md\"> control flow </a>",
         "<a class=\"internal-link\" href=\"learning/computing/programming/rust/basics/functions.md\"> functions </a>",
         "<a class=\"internal-link\" href=\"learning/computing/programming/rust/basics/variable data types.md\"> variable data types </a>",
         "<a class=\"internal-link\" href=\"learning/computing/programming/rust/basics/variable data types.md\"> variable data types </a>",
@@ -1624,8 +1625,7 @@
         "<a class=\"internal-link\" href=\"programming/python/create a minimal python package.md\"> create a minimal python package </a>",
         "<a class=\"internal-link\" href=\"programming/python/python package name collisions.md\"> python package name collisions </a>",
         "<a class=\"internal-link\" href=\"programming/python/python package name collisions.md\"> python package name collisions </a>",
-        "<a class=\"internal-link\" href=\"software/data ETL/apache airflow/airflow CLI.md\"> airflow CLI </a>",
-        "<a class=\"internal-link\" href=\"software/data ETL/apache airflow/apache airflow.md\"> apache airflow </a>"
+        "<a class=\"internal-link\" href=\"software/data ETL/apache airflow/airflow CLI.md\"> airflow CLI </a>"
       ],
       "Created": [
         "<a class=\"internal-link\" href=\"learning/computing/programming/rust/basics/Untitled.md\"> Untitled </a>",
