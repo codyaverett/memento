@@ -1429,11 +1429,6 @@
       "tags": 1,
       "links": 0
     },
-    "learning/computing/programming/rust/cargo/usage.md": {
-      "size": 2016,
-      "tags": 3,
-      "links": 0
-    },
     "learning/computing/programming/languages/zig programming language.md": {
       "size": 0,
       "tags": 1,
@@ -1463,13 +1458,23 @@
       "size": 0,
       "tags": 0,
       "links": 0
+    },
+    "learning/computing/programming/rust/tooling/rustup.md": {
+      "size": 0,
+      "tags": 2,
+      "links": 2
+    },
+    "learning/computing/programming/rust/tooling/cargo.md": {
+      "size": 2016,
+      "tags": 3,
+      "links": 0
     }
   },
   "commitTypes": {
     "/": {
-      "Refactor": 1399,
-      "Create": 299,
-      "Link": 149,
+      "Refactor": 1401,
+      "Create": 300,
+      "Link": 151,
       "Expand": 101
     }
   },
@@ -1497,7 +1502,7 @@
       "19": 26,
       "20": 46,
       "21": 90,
-      "22": 56,
+      "22": 61,
       "23": 36
     }
   },
@@ -1505,7 +1510,7 @@
     "/": {
       "Mon": 1300,
       "Tue": 103,
-      "Wed": 198,
+      "Wed": 203,
       "Thu": 135,
       "Fri": 115,
       "Sat": 0,
@@ -1568,6 +1573,7 @@
         "<a class=\"internal-link\" href=\"programming/haskell/working with lists.md\"> working with lists </a>"
       ],
       "Created": [
+        "<a class=\"internal-link\" href=\"learning/computing/programming/rust/tooling/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"personal/notes/Demo webapp project Val and Riz.md\"> Demo webapp project Val and Riz </a>",
         "<a class=\"internal-link\" href=\"personal/notes/Demo project using tailwindcss.md\"> Demo project using tailwindcss </a>",
         "<a class=\"internal-link\" href=\"personal/notes/Create a meta-repo cli tool replacement with rust.md\"> Create a meta-repo cli tool replacement with rust </a>",
@@ -1617,10 +1623,11 @@
         "<a class=\"internal-link\" href=\"learning/computing/software/obsidian/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"personal/notes/Learn about Memory Controllers and non-uniform memory access.md\"> Learn about Memory Controllers and non-uniform memory access </a>",
         "<a class=\"internal-link\" href=\"personal/notes/Document burnout.md\"> Document burnout </a>",
-        "<a class=\"internal-link\" href=\"personal/notes/Cardano Blockchain.md\"> Cardano Blockchain </a>",
-        "<a class=\"internal-link\" href=\"personal/notes/Simon Dev's 3d programming course.md\"> Simon Dev's 3d programming course </a>"
+        "<a class=\"internal-link\" href=\"personal/notes/Cardano Blockchain.md\"> Cardano Blockchain </a>"
       ],
       "Renamed": [
+        "<a class=\"internal-link\" href=\"learning/computing/programming/rust/tooling/cargo.md\"> cargo </a>",
+        "<a class=\"internal-link\" href=\"learning/computing/programming/rust/tooling/usage.md\"> usage </a>",
         "<a class=\"internal-link\" href=\"learning/computing/programming/rust/basics/importing rust modules.md\"> importing rust modules </a>",
         "<a class=\"internal-link\" href=\"learning/computing/programming/javascript/deno/A fresh look at Deno - Brian Barrow.md\"> A fresh look at Deno - Brian Barrow </a>",
         "<a class=\"internal-link\" href=\"learning/computing/programming/javascript/A fresh look at Deno - Brian Barrow.md\"> A fresh look at Deno - Brian Barrow </a>",
@@ -1669,11 +1676,10 @@
         "<a class=\"internal-link\" href=\"personal/daily/2022/22-09-22.md\"> 22-09-22 </a>",
         "<a class=\"internal-link\" href=\"personal/daily/2022/22-09-15.md\"> 22-09-15 </a>",
         "<a class=\"internal-link\" href=\"personal/daily/2022/22-09-02.md\"> 22-09-02 </a>",
-        "<a class=\"internal-link\" href=\"personal/daily/2022/22-06-10.md\"> 22-06-10 </a>",
-        "<a class=\"internal-link\" href=\"personal/daily/2022/22-06-09.md\"> 22-06-09 </a>",
-        "<a class=\"internal-link\" href=\"learning/nature/insects/brown recluse spider.md\"> brown recluse spider </a>"
+        "<a class=\"internal-link\" href=\"personal/daily/2022/22-06-10.md\"> 22-06-10 </a>"
       ],
       "Tagged": [
+        "<a class=\"internal-link\" href=\"learning/computing/programming/rust/tooling/rustup.md\"> rustup </a>",
         "<a class=\"internal-link\" href=\"personal/notes/Demo project using tailwindcss.md\"> Demo project using tailwindcss </a>",
         "<a class=\"internal-link\" href=\"personal/notes/Create a meta-repo cli tool replacement with rust.md\"> Create a meta-repo cli tool replacement with rust </a>",
         "<a class=\"internal-link\" href=\"personal/notes/create a deno plugin.md\"> create a deno plugin </a>",
@@ -1723,8 +1729,7 @@
         "<a class=\"internal-link\" href=\"learning/computing/programming/javascript/deno/modules/useful deno modules.md\"> useful deno modules </a>",
         "<a class=\"internal-link\" href=\"learning/computing/programming/javascript/deno/modules/fresh.md\"> fresh </a>",
         "<a class=\"internal-link\" href=\"learning/computing/programming/javascript/deno/deno tasks.md\"> deno tasks </a>",
-        "<a class=\"internal-link\" href=\"learning/computing/programming/javascript/deno/deno example code.md\"> deno example code </a>",
-        "<a class=\"internal-link\" href=\"learning/computing/programming/javascript/deno/deno std library.md\"> deno std library </a>"
+        "<a class=\"internal-link\" href=\"learning/computing/programming/javascript/deno/deno example code.md\"> deno example code </a>"
       ],
       "Refactored": [],
       "Deleted": [
@@ -1781,6 +1786,7 @@
         "<a class=\"internal-link\" href=\"learning/adsf.md\"> adsf </a>"
       ],
       "Linked": [
+        "<a class=\"internal-link\" href=\"learning/computing/programming/rust/tooling/rustup.md\"> rustup </a>",
         "<a class=\"internal-link\" href=\"personal/task board.md\"> task board </a>",
         "<a class=\"internal-link\" href=\"personal/task board.md\"> task board </a>",
         "<a class=\"internal-link\" href=\"personal/task board.md\"> task board </a>",
@@ -1830,7 +1836,6 @@
         "<a class=\"internal-link\" href=\"programming/python/python programming language.md\"> python programming language </a>",
         "<a class=\"internal-link\" href=\"programming/python/python programming language.md\"> python programming language </a>",
         "<a class=\"internal-link\" href=\"programming/python/pyspark.md\"> pyspark </a>",
-        "<a class=\"internal-link\" href=\"personal/job-hunting/Federal-reserve-bank-topics.md\"> Federal-reserve-bank-topics </a>",
         "<a class=\"internal-link\" href=\"personal/job-hunting/Federal-reserve-bank-topics.md\"> Federal-reserve-bank-topics </a>"
       ],
       "Removed Tags from": [

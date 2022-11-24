@@ -1,12 +1,14 @@
 ---
-name: Usage
+name: Cargo
 created: 2022-11-23T20:38:42-06:00
-updated: 2022-11-23T20:39:39-06:00
+updated: 2022-11-23T22:11:36-06:00
 aliases: rust cargo usage
-tags: rust, cargo, usage
+tags: rust, tooling
 ---
-# Usage
+# Cargo
 
+
+## Usage
 ```shell
 Rust's package manager
 
