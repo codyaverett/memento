@@ -1474,22 +1474,27 @@
       "tags": 2,
       "links": 0
     },
-    "personal/notes/Learning rust.md": {
-      "size": 0,
-      "tags": 2,
-      "links": 4
-    },
     "learning/computing/programming/rust/basics/importing rust modules.md": {
       "size": 0,
       "tags": 2,
       "links": 0
+    },
+    "learning/computing/programming/rust/basics/Variables and mutability.md": {
+      "size": 0,
+      "tags": 2,
+      "links": 0
+    },
+    "personal/notes/Learning and documenting rust.md": {
+      "size": 0,
+      "tags": 2,
+      "links": 4
     }
   },
   "commitTypes": {
     "/": {
-      "Refactor": 1404,
-      "Create": 303,
-      "Link": 157,
+      "Refactor": 1405,
+      "Create": 304,
+      "Link": 158,
       "Expand": 102
     }
   },
@@ -1517,7 +1522,7 @@
       "19": 26,
       "20": 46,
       "21": 90,
-      "22": 74,
+      "22": 77,
       "23": 36
     }
   },
@@ -1525,7 +1530,7 @@
     "/": {
       "Mon": 1300,
       "Tue": 103,
-      "Wed": 216,
+      "Wed": 219,
       "Thu": 135,
       "Fri": 115,
       "Sat": 0,
@@ -1588,6 +1593,7 @@
         "<a class=\"internal-link\" href=\"programming/python/python extensions with rust.md\"> python extensions with rust </a>"
       ],
       "Created": [
+        "<a class=\"internal-link\" href=\"learning/computing/programming/rust/basics/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"personal/notes/Learning rust.md\"> Learning rust </a>",
         "<a class=\"internal-link\" href=\"learning/computing/programming/rust/macros/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"learning/computing/programming/rust/tooling/Untitled.md\"> Untitled </a>",
@@ -1637,10 +1643,10 @@
         "<a class=\"internal-link\" href=\"personal/daily/2022/22-11-17.md\"> 22-11-17 </a>",
         "<a class=\"internal-link\" href=\"learning/computing/software/obsidian/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"learning/Untitled.md\"> Untitled </a>",
-        "<a class=\"internal-link\" href=\"learning/computing/software/obsidian/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"learning/computing/software/obsidian/Untitled.md\"> Untitled </a>"
       ],
       "Renamed": [
+        "<a class=\"internal-link\" href=\"personal/notes/Learning and documenting rust.md\"> Learning and documenting rust </a>",
         "<a class=\"internal-link\" href=\"learning/computing/programming/rust/basics/importing rust modules.md\"> importing rust modules </a>",
         "<a class=\"internal-link\" href=\"learning/computing/programming/rust/basic/importing rust modules.md\"> importing rust modules </a>",
         "<a class=\"internal-link\" href=\"learning/computing/programming/rust/tooling/cargo.md\"> cargo </a>",
@@ -1690,10 +1696,10 @@
         "<a class=\"internal-link\" href=\"personal/daily/2022/22-09-28.md\"> 22-09-28 </a>",
         "<a class=\"internal-link\" href=\"personal/daily/2022/22-09-27.md\"> 22-09-27 </a>",
         "<a class=\"internal-link\" href=\"personal/daily/2022/22-09-26.md\"> 22-09-26 </a>",
-        "<a class=\"internal-link\" href=\"personal/daily/2022/22-09-22.md\"> 22-09-22 </a>",
-        "<a class=\"internal-link\" href=\"personal/daily/2022/22-09-15.md\"> 22-09-15 </a>"
+        "<a class=\"internal-link\" href=\"personal/daily/2022/22-09-22.md\"> 22-09-22 </a>"
       ],
       "Tagged": [
+        "<a class=\"internal-link\" href=\"learning/computing/programming/rust/basics/Variables and mutability.md\"> Variables and mutability </a>",
         "<a class=\"internal-link\" href=\"learning/computing/programming/rust/snippets/Get Current Working Directory.md\"> Get Current Working Directory </a>",
         "<a class=\"internal-link\" href=\"personal/notes/Learning rust.md\"> Learning rust </a>",
         "<a class=\"internal-link\" href=\"learning/computing/programming/rust/macros/rust macro references.md\"> rust macro references </a>",
@@ -1743,8 +1749,7 @@
         "<a class=\"internal-link\" href=\"learning/computing/programming/javascript/deno/deno debugger.md\"> deno debugger </a>",
         "<a class=\"internal-link\" href=\"learning/computing/programming/javascript/Javascript oddities.md\"> Javascript oddities </a>",
         "<a class=\"internal-link\" href=\"learning/computing/programming/javascript/deno/node to deno cheatsheet.md\"> node to deno cheatsheet </a>",
-        "<a class=\"internal-link\" href=\"learning/computing/programming/javascript/deno/deno configuration.md\"> deno configuration </a>",
-        "<a class=\"internal-link\" href=\"learning/computing/programming/javascript/deno/modules/cliffy.md\"> cliffy </a>"
+        "<a class=\"internal-link\" href=\"learning/computing/programming/javascript/deno/deno configuration.md\"> deno configuration </a>"
       ],
       "Refactored": [],
       "Deleted": [

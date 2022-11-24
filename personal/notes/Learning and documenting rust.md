@@ -1,13 +1,13 @@
 ---
-name: Learning rust
+name: Learning and Documenting Rust
 created: 2022-11-23T22:24:57-06:00
-updated: 2022-11-23T22:24:58-06:00
+updated: 2022-11-23T22:48:05-06:00
 aliases: 
 tags: rust, learning
 ---
-# Learning rust
+# Learning and Documenting Rust
 
-## Topics to document
+## Topics to Document
 
 This is a brief first list of topics I'd like to perhaps cover
 
