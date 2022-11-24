@@ -1505,6 +1505,21 @@
       "links": 0
     },
     "learning/computing/programming/rust/basics/functions.md": {
+      "size": 2134,
+      "tags": 2,
+      "links": 0
+    },
+    "learning/computing/programming/rust/errors/expression position issues.md": {
+      "size": 0,
+      "tags": 2,
+      "links": 0
+    },
+    "learning/computing/programming/rust/basics/comments.md": {
+      "size": 0,
+      "tags": 2,
+      "links": 0
+    },
+    "learning/computing/programming/rust/basics/control flow.md": {
       "size": 0,
       "tags": 2,
       "links": 0
@@ -1513,14 +1528,14 @@
   "commitTypes": {
     "/": {
       "Refactor": 1409,
-      "Create": 308,
-      "Link": 163,
-      "Expand": 106
+      "Create": 311,
+      "Link": 166,
+      "Expand": 107
     }
   },
   "dailyCommits": {
     "/": {
-      "0": 49,
+      "0": 56,
       "1": 29,
       "2": 42,
       "3": 52,
@@ -1551,7 +1566,7 @@
       "Mon": 1300,
       "Tue": 103,
       "Wed": 234,
-      "Thu": 137,
+      "Thu": 144,
       "Fri": 115,
       "Sat": 0,
       "Sun": 97
@@ -1560,6 +1575,7 @@
   "recentCommits": {
     "/": {
       "Expanded": [
+        "<a class=\"internal-link\" href=\"learning/computing/programming/rust/basics/functions.md\"> functions </a>",
         "<a class=\"internal-link\" href=\"learning/computing/programming/rust/basics/variable data types.md\"> variable data types </a>",
         "<a class=\"internal-link\" href=\"learning/computing/programming/rust/basics/variable data types.md\"> variable data types </a>",
         "<a class=\"internal-link\" href=\"learning/computing/programming/rust/basics/variable data types.md\"> variable data types </a>",
@@ -1609,10 +1625,12 @@
         "<a class=\"internal-link\" href=\"programming/python/python package name collisions.md\"> python package name collisions </a>",
         "<a class=\"internal-link\" href=\"programming/python/python package name collisions.md\"> python package name collisions </a>",
         "<a class=\"internal-link\" href=\"software/data ETL/apache airflow/airflow CLI.md\"> airflow CLI </a>",
-        "<a class=\"internal-link\" href=\"software/data ETL/apache airflow/apache airflow.md\"> apache airflow </a>",
-        "<a class=\"internal-link\" href=\"software/data ETL/apache airflow/apache airflow quickstart.md\"> apache airflow quickstart </a>"
+        "<a class=\"internal-link\" href=\"software/data ETL/apache airflow/apache airflow.md\"> apache airflow </a>"
       ],
       "Created": [
+        "<a class=\"internal-link\" href=\"learning/computing/programming/rust/basics/Untitled.md\"> Untitled </a>",
+        "<a class=\"internal-link\" href=\"learning/computing/programming/rust/basics/Untitled.md\"> Untitled </a>",
+        "<a class=\"internal-link\" href=\"learning/computing/programming/rust/errors/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"learning/computing/programming/rust/basics/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"learning/computing/programming/rust/errors/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"learning/computing/programming/rust/errors/Untitled.md\"> Untitled </a>",
@@ -1660,10 +1678,7 @@
         "<a class=\"internal-link\" href=\"learning/computing/programming/SQL/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"learning/computing/programming/javascript/typescript/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"learning/mental/emotions/Untitled.md\"> Untitled </a>",
-        "<a class=\"internal-link\" href=\"personal/daily/2022/22-11-19.md\"> 22-11-19 </a>",
-        "<a class=\"internal-link\" href=\"personal/daily/2022/22-11-18.md\"> 22-11-18 </a>",
-        "<a class=\"internal-link\" href=\"personal/blog/Untitled.md\"> Untitled </a>",
-        "<a class=\"internal-link\" href=\"learning/computing/cryptocurrency/standards/Untitled.md\"> Untitled </a>"
+        "<a class=\"internal-link\" href=\"personal/daily/2022/22-11-19.md\"> 22-11-19 </a>"
       ],
       "Renamed": [
         "<a class=\"internal-link\" href=\"learning/computing/programming/rust/basics/variable data types.md\"> variable data types </a>",
@@ -1719,6 +1734,9 @@
         "<a class=\"internal-link\" href=\"personal/daily/2022/22-09-30.md\"> 22-09-30 </a>"
       ],
       "Tagged": [
+        "<a class=\"internal-link\" href=\"learning/computing/programming/rust/basics/comments.md\"> comments </a>",
+        "<a class=\"internal-link\" href=\"learning/computing/programming/rust/basics/control flow.md\"> control flow </a>",
+        "<a class=\"internal-link\" href=\"learning/computing/programming/rust/errors/expression position issues.md\"> expression position issues </a>",
         "<a class=\"internal-link\" href=\"learning/computing/programming/rust/basics/functions.md\"> functions </a>",
         "<a class=\"internal-link\" href=\"learning/computing/programming/rust/errors/integer overflow.md\"> integer overflow </a>",
         "<a class=\"internal-link\" href=\"learning/computing/programming/rust/errors/type annotations needed.md\"> type annotations needed </a>",
@@ -1766,10 +1784,7 @@
         "<a class=\"internal-link\" href=\"learning/computing/programming/data streams/Data streams vs buffers.md\"> Data streams vs buffers </a>",
         "<a class=\"internal-link\" href=\"learning/computing/programming/cli/python cli hide user input.md\"> python cli hide user input </a>",
         "<a class=\"internal-link\" href=\"learning/computing/programming/cli/loading/loading spinners and representing updates in a CLI application.md\"> loading spinners and representing updates in a CLI application </a>",
-        "<a class=\"internal-link\" href=\"learning/computing/programming/c and c++/opencv.md\"> opencv </a>",
-        "<a class=\"internal-link\" href=\"learning/computing/programming/c and c++/c++ package managers.md\"> c++ package managers </a>",
-        "<a class=\"internal-link\" href=\"learning/computing/programming/c and c++/Glut graphics framework.md\"> Glut graphics framework </a>",
-        "<a class=\"internal-link\" href=\"learning/computing/programming/authentication/JSON Web Token.md\"> JSON Web Token </a>"
+        "<a class=\"internal-link\" href=\"learning/computing/programming/c and c++/opencv.md\"> opencv </a>"
       ],
       "Refactored": [],
       "Deleted": [
