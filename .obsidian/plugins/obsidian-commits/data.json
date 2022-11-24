@@ -1077,7 +1077,7 @@
     "personal/task board.md": {
       "size": 0,
       "tags": 0,
-      "links": 7
+      "links": 8
     },
     "personal/notes/Ben Levin's course  Blender for musicians.md": {
       "size": 0,
@@ -1448,13 +1448,18 @@
       "size": 0,
       "tags": 1,
       "links": 0
+    },
+    "personal/notes/Create a meta-repo cli tool replacement with rust.md": {
+      "size": 0,
+      "tags": 1,
+      "links": 0
     }
   },
   "commitTypes": {
     "/": {
       "Refactor": 1399,
-      "Create": 296,
-      "Link": 145,
+      "Create": 297,
+      "Link": 147,
       "Expand": 101
     }
   },
@@ -1481,7 +1486,7 @@
       "18": 30,
       "19": 26,
       "20": 46,
-      "21": 83,
+      "21": 86,
       "22": 56,
       "23": 36
     }
@@ -1490,7 +1495,7 @@
     "/": {
       "Mon": 1300,
       "Tue": 103,
-      "Wed": 191,
+      "Wed": 194,
       "Thu": 135,
       "Fri": 115,
       "Sat": 0,
@@ -1553,6 +1558,7 @@
         "<a class=\"internal-link\" href=\"programming/haskell/working with lists.md\"> working with lists </a>"
       ],
       "Created": [
+        "<a class=\"internal-link\" href=\"personal/notes/Create a meta-repo cli tool replacement with rust.md\"> Create a meta-repo cli tool replacement with rust </a>",
         "<a class=\"internal-link\" href=\"personal/notes/create a deno plugin.md\"> create a deno plugin </a>",
         "<a class=\"internal-link\" href=\"personal/notes/Setup a bind9 DNS server.md\"> Setup a bind9 DNS server </a>",
         "<a class=\"internal-link\" href=\"learning/computing/programming/languages/Untitled.md\"> Untitled </a>",
@@ -1602,8 +1608,7 @@
         "<a class=\"internal-link\" href=\"personal/notes/Cardano Blockchain.md\"> Cardano Blockchain </a>",
         "<a class=\"internal-link\" href=\"personal/notes/Simon Dev's 3d programming course.md\"> Simon Dev's 3d programming course </a>",
         "<a class=\"internal-link\" href=\"personal/daily/2022/22-11-16.md\"> 22-11-16 </a>",
-        "<a class=\"internal-link\" href=\"learning/Untitled.md\"> Untitled </a>",
-        "<a class=\"internal-link\" href=\"templates/Untitled.md\"> Untitled </a>"
+        "<a class=\"internal-link\" href=\"learning/Untitled.md\"> Untitled </a>"
       ],
       "Renamed": [
         "<a class=\"internal-link\" href=\"learning/computing/programming/rust/basics/importing rust modules.md\"> importing rust modules </a>",
@@ -1659,6 +1664,7 @@
         "<a class=\"internal-link\" href=\"learning/nature/insects/brown recluse spider.md\"> brown recluse spider </a>"
       ],
       "Tagged": [
+        "<a class=\"internal-link\" href=\"personal/notes/Create a meta-repo cli tool replacement with rust.md\"> Create a meta-repo cli tool replacement with rust </a>",
         "<a class=\"internal-link\" href=\"personal/notes/create a deno plugin.md\"> create a deno plugin </a>",
         "<a class=\"internal-link\" href=\"learning/computing/programming/languages/zig programming language.md\"> zig programming language </a>",
         "<a class=\"internal-link\" href=\"learning/computing/programming/rust/rust programming language.md\"> rust programming language </a>",
@@ -1708,8 +1714,7 @@
         "<a class=\"internal-link\" href=\"learning/computing/programming/javascript/deno/deno tasks.md\"> deno tasks </a>",
         "<a class=\"internal-link\" href=\"learning/computing/programming/javascript/deno/deno example code.md\"> deno example code </a>",
         "<a class=\"internal-link\" href=\"learning/computing/programming/javascript/deno/deno std library.md\"> deno std library </a>",
-        "<a class=\"internal-link\" href=\"learning/computing/programming/javascript/deno/A fresh look at Deno - Brian Barrow.md\"> A fresh look at Deno - Brian Barrow </a>",
-        "<a class=\"internal-link\" href=\"learning/computing/programming/javascript/deno/deno std library.md\"> deno std library </a>"
+        "<a class=\"internal-link\" href=\"learning/computing/programming/javascript/deno/A fresh look at Deno - Brian Barrow.md\"> A fresh look at Deno - Brian Barrow </a>"
       ],
       "Refactored": [],
       "Deleted": [
@@ -1767,6 +1772,7 @@
       ],
       "Linked": [
         "<a class=\"internal-link\" href=\"personal/task board.md\"> task board </a>",
+        "<a class=\"internal-link\" href=\"personal/task board.md\"> task board </a>",
         "<a class=\"internal-link\" href=\"learning/computing/software/jq/jq.md\"> jq </a>",
         "<a class=\"internal-link\" href=\"learning/computing/software/jq/jq.md\"> jq </a>",
         "<a class=\"internal-link\" href=\"learning/computing/programming/javascript/deno/the deno javascript runtime.md\"> the deno javascript runtime </a>",
@@ -1815,8 +1821,7 @@
         "<a class=\"internal-link\" href=\"programming/python/pyspark.md\"> pyspark </a>",
         "<a class=\"internal-link\" href=\"personal/job-hunting/Federal-reserve-bank-topics.md\"> Federal-reserve-bank-topics </a>",
         "<a class=\"internal-link\" href=\"personal/job-hunting/Federal-reserve-bank-topics.md\"> Federal-reserve-bank-topics </a>",
-        "<a class=\"internal-link\" href=\"programming/neural networks/different types of neural networks.md\"> different types of neural networks </a>",
-        "<a class=\"internal-link\" href=\"Current Stuff.md\"> Current Stuff </a>"
+        "<a class=\"internal-link\" href=\"programming/neural networks/different types of neural networks.md\"> different types of neural networks </a>"
       ],
       "Removed Tags from": [
         "<a class=\"internal-link\" href=\"learning/computing/programming/python/python extensions.md\"> python extensions </a>",
