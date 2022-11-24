@@ -28,3 +28,8 @@ The value of x is: 6
 ## Constants
 
 - These values are explicitly not allowed to change
+
+```rust
+const THREE_HOURS_IN_SECONDS: u32 = 60 * 60 * 3;
+```
+
