@@ -10,7 +10,7 @@ tags:
 
 # Memento
 
-This repository is for capturing notes and ideas and I learn in public.
+This repository is for capturing notes and ideas as I learn in public.
 
 ## About Me
 

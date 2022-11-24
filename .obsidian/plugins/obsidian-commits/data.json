@@ -1490,7 +1490,7 @@
       "links": 0
     },
     "learning/computing/programming/rust/basics/variable data types.md": {
-      "size": 3735,
+      "size": 4883,
       "tags": 2,
       "links": 0
     },
@@ -1510,7 +1510,7 @@
       "Refactor": 1409,
       "Create": 307,
       "Link": 162,
-      "Expand": 105
+      "Expand": 106
     }
   },
   "dailyCommits": {
@@ -1538,14 +1538,14 @@
       "20": 46,
       "21": 90,
       "22": 77,
-      "23": 50
+      "23": 51
     }
   },
   "weeklyCommits": {
     "/": {
       "Mon": 1300,
       "Tue": 103,
-      "Wed": 233,
+      "Wed": 234,
       "Thu": 135,
       "Fri": 115,
       "Sat": 0,
@@ -1555,6 +1555,7 @@
   "recentCommits": {
     "/": {
       "Expanded": [
+        "<a class=\"internal-link\" href=\"learning/computing/programming/rust/basics/variable data types.md\"> variable data types </a>",
         "<a class=\"internal-link\" href=\"learning/computing/programming/rust/basics/variable data types.md\"> variable data types </a>",
         "<a class=\"internal-link\" href=\"learning/computing/programming/rust/basics/variable data types.md\"> variable data types </a>",
         "<a class=\"internal-link\" href=\"learning/computing/programming/rust/basics/variable data types.md\"> variable data types </a>",
@@ -1604,8 +1605,7 @@
         "<a class=\"internal-link\" href=\"programming/python/python package name collisions.md\"> python package name collisions </a>",
         "<a class=\"internal-link\" href=\"software/data ETL/apache airflow/airflow CLI.md\"> airflow CLI </a>",
         "<a class=\"internal-link\" href=\"software/data ETL/apache airflow/apache airflow.md\"> apache airflow </a>",
-        "<a class=\"internal-link\" href=\"software/data ETL/apache airflow/apache airflow quickstart.md\"> apache airflow quickstart </a>",
-        "<a class=\"internal-link\" href=\"software/data ETL/apache airflow/apache airflow.md\"> apache airflow </a>"
+        "<a class=\"internal-link\" href=\"software/data ETL/apache airflow/apache airflow quickstart.md\"> apache airflow quickstart </a>"
       ],
       "Created": [
         "<a class=\"internal-link\" href=\"learning/computing/programming/rust/errors/Untitled.md\"> Untitled </a>",
