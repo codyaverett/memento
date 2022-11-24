@@ -49,20 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "learning/computing/programming/rust/basics/variables and mutability.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "44aaba97216f5ff1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "learning/computing/programming/rust/basics/variables and mutability.md",
+                "file": "learning/computing/programming/rust/basics/variable data types.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -70,7 +57,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -128,7 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "learning/computing/programming/rust/basics/variables and mutability.md",
+                "file": "learning/computing/programming/rust/basics/variable data types.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +132,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "learning/computing/programming/rust/basics/variables and mutability.md"
+                "file": "learning/computing/programming/rust/basics/variable data types.md"
               }
             }
           },
@@ -173,17 +160,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "44aaba97216f5ff1",
+  "active": "5ade3ba48b361820",
   "lastOpenFiles": [
-    "learning/computing/programming/rust/errors/cannot assign twice to immutable variable.md",
+    "learning/computing/programming/rust/errors/type annotations needed.md",
+    "learning/computing/programming/rust/basics/variable data types.md",
     "learning/computing/programming/rust/basics/variables and mutability.md",
-    "learning/computing/programming/rust/basics/data types.md",
+    "learning/computing/programming/rust/errors/mismatched types.md",
+    "learning/computing/programming/rust/errors/cannot assign twice to immutable variable.md",
     "personal/notes/Create a meta-repo cli tool replacement with rust.md",
     "learning/computing/programming/rust/basics/importing rust modules.md",
     "personal/task board.md",
     "learning/computing/programming/rust/tooling/rustup.md",
-    "personal/notes/Learning and documenting rust.md",
-    "learning/computing/programming/rust/rust programming language.md",
-    "learning/computing/programming/rust/errors/mismatched types.md"
+    "personal/notes/Learning and documenting rust.md"
   ]
 }

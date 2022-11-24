@@ -1479,11 +1479,6 @@
       "tags": 2,
       "links": 4
     },
-    "learning/computing/programming/rust/basics/data types.md": {
-      "size": 0,
-      "tags": 2,
-      "links": 0
-    },
     "learning/computing/programming/rust/basics/variables and mutability.md": {
       "size": 0,
       "tags": 2,
@@ -1493,11 +1488,16 @@
       "size": 0,
       "tags": 2,
       "links": 0
+    },
+    "learning/computing/programming/rust/basics/variable data types.md": {
+      "size": 0,
+      "tags": 2,
+      "links": 0
     }
   },
   "commitTypes": {
     "/": {
-      "Refactor": 1408,
+      "Refactor": 1409,
       "Create": 305,
       "Link": 160,
       "Expand": 102
@@ -1528,14 +1528,14 @@
       "20": 46,
       "21": 90,
       "22": 77,
-      "23": 42
+      "23": 43
     }
   },
   "weeklyCommits": {
     "/": {
       "Mon": 1300,
       "Tue": 103,
-      "Wed": 225,
+      "Wed": 226,
       "Thu": 135,
       "Fri": 115,
       "Sat": 0,
@@ -1651,6 +1651,7 @@
         "<a class=\"internal-link\" href=\"learning/Untitled.md\"> Untitled </a>"
       ],
       "Renamed": [
+        "<a class=\"internal-link\" href=\"learning/computing/programming/rust/basics/variable data types.md\"> variable data types </a>",
         "<a class=\"internal-link\" href=\"learning/computing/programming/rust/basics/variables and mutability.md\"> variables and mutability </a>",
         "<a class=\"internal-link\" href=\"learning/computing/programming/rust/basics/data types.md\"> data types </a>",
         "<a class=\"internal-link\" href=\"learning/computing/programming/rust/basics/rust types.md\"> rust types </a>",
@@ -1700,8 +1701,7 @@
         "<a class=\"internal-link\" href=\"personal/daily/2022/22-10-06.md\"> 22-10-06 </a>",
         "<a class=\"internal-link\" href=\"personal/daily/2022/22-10-05.md\"> 22-10-05 </a>",
         "<a class=\"internal-link\" href=\"personal/daily/2022/22-10-01.md\"> 22-10-01 </a>",
-        "<a class=\"internal-link\" href=\"personal/daily/2022/22-09-30.md\"> 22-09-30 </a>",
-        "<a class=\"internal-link\" href=\"personal/daily/2022/22-09-28.md\"> 22-09-28 </a>"
+        "<a class=\"internal-link\" href=\"personal/daily/2022/22-09-30.md\"> 22-09-30 </a>"
       ],
       "Tagged": [
         "<a class=\"internal-link\" href=\"learning/computing/programming/rust/errors/cannot assign twice to immutable variable.md\"> cannot assign twice to immutable variable </a>",
