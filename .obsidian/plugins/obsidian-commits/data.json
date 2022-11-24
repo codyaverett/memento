@@ -1490,11 +1490,16 @@
       "links": 0
     },
     "learning/computing/programming/rust/basics/variable data types.md": {
-      "size": 0,
+      "size": 3735,
       "tags": 2,
       "links": 0
     },
     "learning/computing/programming/rust/errors/type annotations needed.md": {
+      "size": 0,
+      "tags": 2,
+      "links": 0
+    },
+    "learning/computing/programming/rust/errors/integer overflow.md": {
       "size": 0,
       "tags": 2,
       "links": 0
@@ -1503,9 +1508,9 @@
   "commitTypes": {
     "/": {
       "Refactor": 1409,
-      "Create": 306,
-      "Link": 161,
-      "Expand": 102
+      "Create": 307,
+      "Link": 162,
+      "Expand": 105
     }
   },
   "dailyCommits": {
@@ -1533,14 +1538,14 @@
       "20": 46,
       "21": 90,
       "22": 77,
-      "23": 45
+      "23": 50
     }
   },
   "weeklyCommits": {
     "/": {
       "Mon": 1300,
       "Tue": 103,
-      "Wed": 228,
+      "Wed": 233,
       "Thu": 135,
       "Fri": 115,
       "Sat": 0,
@@ -1550,6 +1555,9 @@
   "recentCommits": {
     "/": {
       "Expanded": [
+        "<a class=\"internal-link\" href=\"learning/computing/programming/rust/basics/variable data types.md\"> variable data types </a>",
+        "<a class=\"internal-link\" href=\"learning/computing/programming/rust/basics/variable data types.md\"> variable data types </a>",
+        "<a class=\"internal-link\" href=\"learning/computing/programming/rust/basics/variable data types.md\"> variable data types </a>",
         "<a class=\"internal-link\" href=\"learning/computing/programming/rust/tooling/rustc.md\"> rustc </a>",
         "<a class=\"internal-link\" href=\"learning/computing/programming/rust/cargo/usage.md\"> usage </a>",
         "<a class=\"internal-link\" href=\"learning/computing/programming/javascript/deno/modules/cliffy.md\"> cliffy </a>",
@@ -1597,12 +1605,10 @@
         "<a class=\"internal-link\" href=\"software/data ETL/apache airflow/airflow CLI.md\"> airflow CLI </a>",
         "<a class=\"internal-link\" href=\"software/data ETL/apache airflow/apache airflow.md\"> apache airflow </a>",
         "<a class=\"internal-link\" href=\"software/data ETL/apache airflow/apache airflow quickstart.md\"> apache airflow quickstart </a>",
-        "<a class=\"internal-link\" href=\"software/data ETL/apache airflow/apache airflow.md\"> apache airflow </a>",
-        "<a class=\"internal-link\" href=\"programming/python/python extensions with rust.md\"> python extensions with rust </a>",
-        "<a class=\"internal-link\" href=\"programming/python/python extensions with rust.md\"> python extensions with rust </a>",
-        "<a class=\"internal-link\" href=\"programming/python/python extensions with rust.md\"> python extensions with rust </a>"
+        "<a class=\"internal-link\" href=\"software/data ETL/apache airflow/apache airflow.md\"> apache airflow </a>"
       ],
       "Created": [
+        "<a class=\"internal-link\" href=\"learning/computing/programming/rust/errors/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"learning/computing/programming/rust/errors/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"learning/computing/programming/rust/errors/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"learning/computing/programming/rust/basics/Untitled.md\"> Untitled </a>",
@@ -1652,8 +1658,7 @@
         "<a class=\"internal-link\" href=\"personal/daily/2022/22-11-18.md\"> 22-11-18 </a>",
         "<a class=\"internal-link\" href=\"personal/blog/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"learning/computing/cryptocurrency/standards/Untitled.md\"> Untitled </a>",
-        "<a class=\"internal-link\" href=\"personal/daily/2022/22-11-17.md\"> 22-11-17 </a>",
-        "<a class=\"internal-link\" href=\"learning/computing/software/obsidian/Untitled.md\"> Untitled </a>"
+        "<a class=\"internal-link\" href=\"personal/daily/2022/22-11-17.md\"> 22-11-17 </a>"
       ],
       "Renamed": [
         "<a class=\"internal-link\" href=\"learning/computing/programming/rust/basics/variable data types.md\"> variable data types </a>",
@@ -1709,6 +1714,7 @@
         "<a class=\"internal-link\" href=\"personal/daily/2022/22-09-30.md\"> 22-09-30 </a>"
       ],
       "Tagged": [
+        "<a class=\"internal-link\" href=\"learning/computing/programming/rust/errors/integer overflow.md\"> integer overflow </a>",
         "<a class=\"internal-link\" href=\"learning/computing/programming/rust/errors/type annotations needed.md\"> type annotations needed </a>",
         "<a class=\"internal-link\" href=\"learning/computing/programming/rust/errors/cannot assign twice to immutable variable.md\"> cannot assign twice to immutable variable </a>",
         "<a class=\"internal-link\" href=\"learning/computing/programming/rust/basics/data types.md\"> data types </a>",
@@ -1758,8 +1764,7 @@
         "<a class=\"internal-link\" href=\"learning/computing/programming/c and c++/c++ package managers.md\"> c++ package managers </a>",
         "<a class=\"internal-link\" href=\"learning/computing/programming/c and c++/Glut graphics framework.md\"> Glut graphics framework </a>",
         "<a class=\"internal-link\" href=\"learning/computing/programming/authentication/JSON Web Token.md\"> JSON Web Token </a>",
-        "<a class=\"internal-link\" href=\"learning/computing/programming/algorithms/data-structures/left-leaning red black trees.md\"> left-leaning red black trees </a>",
-        "<a class=\"internal-link\" href=\"learning/computing/programming/javascript/deno/deno debugger.md\"> deno debugger </a>"
+        "<a class=\"internal-link\" href=\"learning/computing/programming/algorithms/data-structures/left-leaning red black trees.md\"> left-leaning red black trees </a>"
       ],
       "Refactored": [],
       "Deleted": [
