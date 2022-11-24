@@ -13,14 +13,23 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "learning/computing/programming/rust/basics/importing rust modules.md",
+                "file": "learning/computing/programming/languages/rust programming language.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               }
             }
+          },
+          {
+            "id": "8e3c689777d44a2f",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -49,7 +58,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "\"ai",
+                "query": "tag:#rust",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -78,7 +87,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "learning/computing/programming/rust/basics/importing rust modules.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,9 +102,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "learning/computing/programming/rust/basics/importing rust modules.md"
-              }
+              "state": {}
             }
           },
           {
@@ -122,17 +128,17 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "56e5784554480e19",
+  "active": "8e3c689777d44a2f",
   "lastOpenFiles": [
-    "personal/daily/2022/22-09-02.md",
-    "learning/computing/programming/rust/basics/importing rust modules.md",
     "learning/computing/programming/rust/rust programming language.md",
+    "learning/computing/programming/languages/programming languages.md",
+    "learning/computing/programming/languages/rust programming language.md",
+    "learning/computing/software/obsidian/Obsidian Dataview plugin.md",
+    "learning/computing/programming/rust/basics/importing rust modules.md",
+    "personal/daily/2022/22-09-02.md",
     "learning/computing/programming/rust/errors/mismatched types.md",
     "personal/daily/2022/22-10-05.md",
     "learning/computing/programming/rust/cargo/usage.md",
-    "learning/computing/programming/rust/snippets/Get Current Working Directory.md",
-    "Untitled.md",
-    "learning/computing/software/data ETL/apache airflow/Airflow Deployments.md",
-    "learning/computing/programming/python/pyspark/python basics.md"
+    "learning/computing/programming/rust/snippets/Get Current Working Directory.md"
   ]
 }
