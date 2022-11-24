@@ -1,7 +1,7 @@
 ---
 name: Rust Programming Language
 created: 2022-11-16T15:11:30-06:00
-updated: 2022-11-23T20:52:27-06:00
+updated: 2022-11-23T22:50:14-06:00
 aliases: 
 tags: rust
 ---
@@ -15,7 +15,8 @@ Rust is a low level systems programming language that is a spiritual successor t
 ## References
 
 - [Rust Cookbook](https://rust-lang-nursery.github.io/rust-cookbook)
-- 
+- [Official book](https://doc.rust-lang.org/book/)
+- "The Rust Programming language" by Klabnik and Nichols
 
 ## List of Contents
 

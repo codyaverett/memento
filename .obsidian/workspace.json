@@ -42,28 +42,22 @@
                 "source": false
               }
             }
-          }
-        ],
-        "currentTab": 1
-      },
-      {
-        "id": "2575f3911382d7cf",
-        "type": "tabs",
-        "children": [
+          },
           {
             "id": "5ade3ba48b361820",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "learning/computing/programming/rust/rust programming language.md",
+                "file": "learning/computing/programming/rust/basics/Variables and mutability.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -121,7 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "learning/computing/programming/rust/rust programming language.md",
+                "file": "learning/computing/programming/rust/basics/Variables and mutability.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +132,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "learning/computing/programming/rust/rust programming language.md"
+                "file": "learning/computing/programming/rust/basics/Variables and mutability.md"
               }
             }
           },
@@ -168,8 +162,8 @@
   },
   "active": "5ade3ba48b361820",
   "lastOpenFiles": [
-    "personal/task board.md",
     "learning/computing/programming/rust/rust programming language.md",
+    "personal/task board.md",
     "personal/notes/Learning and documenting rust.md",
     "learning/computing/programming/rust/basics/Variables and mutability.md",
     "personal/notes/Create a meta-repo cli tool replacement with rust.md",
