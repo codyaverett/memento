@@ -1156,7 +1156,7 @@
     },
     "learning/computing/programming/languages/rust programming language.md": {
       "size": 0,
-      "tags": 0,
+      "tags": 1,
       "links": 1
     },
     "learning/computing/programming/languages/closure programming language.md": {
@@ -1176,7 +1176,7 @@
     },
     "learning/computing/programming/languages/programming languages.md": {
       "size": 0,
-      "tags": 0,
+      "tags": 1,
       "links": 0
     },
     "learning/computing/programming/languages/c-sharp programming language.md": {
@@ -1439,7 +1439,7 @@
     "/": {
       "Refactor": 1399,
       "Create": 293,
-      "Link": 139,
+      "Link": 141,
       "Expand": 101
     }
   },
@@ -1465,7 +1465,7 @@
       "17": 68,
       "18": 30,
       "19": 26,
-      "20": 43,
+      "20": 45,
       "21": 77,
       "22": 56,
       "23": 36
@@ -1475,7 +1475,7 @@
     "/": {
       "Mon": 1300,
       "Tue": 103,
-      "Wed": 182,
+      "Wed": 184,
       "Thu": 135,
       "Fri": 115,
       "Sat": 0,
@@ -1644,6 +1644,8 @@
         "<a class=\"internal-link\" href=\"learning/nature/insects/brown recluse spider.md\"> brown recluse spider </a>"
       ],
       "Tagged": [
+        "<a class=\"internal-link\" href=\"learning/computing/programming/languages/programming languages.md\"> programming languages </a>",
+        "<a class=\"internal-link\" href=\"learning/computing/programming/languages/rust programming language.md\"> rust programming language </a>",
         "<a class=\"internal-link\" href=\"learning/computing/programming/rust/errors/mismatched types.md\"> mismatched types </a>",
         "<a class=\"internal-link\" href=\"personal/job-hunting/jb-hunt-topics.md\"> jb-hunt-topics </a>",
         "<a class=\"internal-link\" href=\"programming/python/python extensions.md\"> python extensions </a>",
@@ -1692,9 +1694,7 @@
         "<a class=\"internal-link\" href=\"learning/computing/programming/javascript/deno/deno std library.md\"> deno std library </a>",
         "<a class=\"internal-link\" href=\"learning/computing/software/jq/jq.md\"> jq </a>",
         "<a class=\"internal-link\" href=\"learning/mathematics/linear interpolation.md\"> linear interpolation </a>",
-        "<a class=\"internal-link\" href=\"learning/mathematics/Kepler.md\"> Kepler </a>",
-        "<a class=\"internal-link\" href=\"learning/computing/programming/rust/basics/rust importing modules.md\"> rust importing modules </a>",
-        "<a class=\"internal-link\" href=\"learning/computing/programming/rust/snippets/Get Current Working Directory.md\"> Get Current Working Directory </a>"
+        "<a class=\"internal-link\" href=\"learning/mathematics/Kepler.md\"> Kepler </a>"
       ],
       "Refactored": [],
       "Deleted": [
