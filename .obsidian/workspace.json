@@ -11,11 +11,43 @@
             "id": "a0b36ecbd0243481",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "learning/computing/programming/rust/basics/importing rust modules.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "510cdbd4cbc14d3f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "learning/computing/programming/rust/tooling/rustup.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e5eaf3a9bc2e6116",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "learning/computing/programming/rust/tooling/rustup.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -73,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "personal/notes/Create a meta-repo cli tool replacement with rust.md",
+                "file": "learning/computing/programming/rust/tooling/rustup.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -90,7 +122,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "personal/notes/Create a meta-repo cli tool replacement with rust.md"
+                "file": "learning/computing/programming/rust/tooling/rustup.md"
               }
             }
           },
@@ -167,17 +199,17 @@
       }
     ]
   },
-  "active": "e7ca8e18b99fce10",
+  "active": "e5eaf3a9bc2e6116",
   "lastOpenFiles": [
-    "personal/task board.md",
+    "learning/computing/programming/rust/tooling/cargo.md",
+    "learning/computing/programming/rust/tooling/rustc.md",
+    "learning/computing/programming/rust/tooling/rustup.md",
+    "learning/computing/programming/rust/basics/importing rust modules.md",
     "personal/notes/Create a meta-repo cli tool replacement with rust.md",
+    "personal/task board.md",
     "personal/notes/Demo webapp project Val and Riz.md",
     "personal/notes/Demo project using tailwindcss.md",
     "personal/notes/create a deno plugin.md",
-    "personal/notes/Setup a bind9 DNS server.md",
-    "learning/computing/programming/languages/programming languages.md",
-    "learning/computing/programming/languages/rust programming language.md",
-    "learning/computing/programming/languages/zig programming language.md",
-    "learning/computing/programming/languages/Lisp programming language.md"
+    "personal/notes/Setup a bind9 DNS server.md"
   ]
 }
