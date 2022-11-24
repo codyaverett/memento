@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "learning/computing/programming/languages/rust programming language.md",
+                "file": "learning/computing/programming/languages/programming languages.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -78,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "learning/computing/programming/languages/rust programming language.md",
+                "file": "learning/computing/programming/languages/programming languages.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,7 +95,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "learning/computing/programming/languages/rust programming language.md"
+                "file": "learning/computing/programming/languages/programming languages.md"
               }
             }
           },
@@ -124,15 +124,15 @@
   },
   "active": "56e5784554480e19",
   "lastOpenFiles": [
+    "learning/computing/programming/languages/rust programming language.md",
+    "learning/computing/programming/languages/zig programming language.md",
     "learning/computing/programming/languages/Lisp programming language.md",
     "learning/computing/programming/rust/rust programming language.md",
     "learning/computing/programming/languages/programming languages.md",
-    "learning/computing/programming/languages/rust programming language.md",
     "learning/computing/software/obsidian/Obsidian Dataview plugin.md",
     "learning/computing/programming/rust/basics/importing rust modules.md",
     "personal/daily/2022/22-09-02.md",
     "learning/computing/programming/rust/errors/mismatched types.md",
-    "personal/daily/2022/22-10-05.md",
-    "learning/computing/programming/rust/cargo/usage.md"
+    "personal/daily/2022/22-10-05.md"
   ]
 }
