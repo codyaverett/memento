@@ -1077,7 +1077,7 @@
     "personal/task board.md": {
       "size": 0,
       "tags": 0,
-      "links": 10
+      "links": 11
     },
     "personal/notes/Ben Levin's course  Blender for musicians.md": {
       "size": 0,
@@ -1421,7 +1421,7 @@
     },
     "learning/computing/programming/rust/snippets/Get Current Working Directory.md": {
       "size": 0,
-      "tags": 1,
+      "tags": 2,
       "links": 0
     },
     "learning/computing/programming/languages/zig programming language.md": {
@@ -1478,13 +1478,18 @@
       "size": 0,
       "tags": 2,
       "links": 0
+    },
+    "personal/notes/Learning rust.md": {
+      "size": 0,
+      "tags": 2,
+      "links": 4
     }
   },
   "commitTypes": {
     "/": {
       "Refactor": 1403,
-      "Create": 302,
-      "Link": 153,
+      "Create": 303,
+      "Link": 157,
       "Expand": 102
     }
   },
@@ -1512,7 +1517,7 @@
       "19": 26,
       "20": 46,
       "21": 90,
-      "22": 68,
+      "22": 73,
       "23": 36
     }
   },
@@ -1520,7 +1525,7 @@
     "/": {
       "Mon": 1300,
       "Tue": 103,
-      "Wed": 210,
+      "Wed": 215,
       "Thu": 135,
       "Fri": 115,
       "Sat": 0,
@@ -1583,6 +1588,7 @@
         "<a class=\"internal-link\" href=\"programming/python/python extensions with rust.md\"> python extensions with rust </a>"
       ],
       "Created": [
+        "<a class=\"internal-link\" href=\"personal/notes/Learning rust.md\"> Learning rust </a>",
         "<a class=\"internal-link\" href=\"learning/computing/programming/rust/macros/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"learning/computing/programming/rust/tooling/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"learning/computing/programming/rust/tooling/Untitled.md\"> Untitled </a>",
@@ -1632,8 +1638,7 @@
         "<a class=\"internal-link\" href=\"learning/computing/software/obsidian/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"learning/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"learning/computing/software/obsidian/Untitled.md\"> Untitled </a>",
-        "<a class=\"internal-link\" href=\"learning/computing/software/obsidian/Untitled.md\"> Untitled </a>",
-        "<a class=\"internal-link\" href=\"personal/notes/Learn about Memory Controllers and non-uniform memory access.md\"> Learn about Memory Controllers and non-uniform memory access </a>"
+        "<a class=\"internal-link\" href=\"learning/computing/software/obsidian/Untitled.md\"> Untitled </a>"
       ],
       "Renamed": [
         "<a class=\"internal-link\" href=\"learning/computing/programming/rust/basic/importing rust modules.md\"> importing rust modules </a>",
@@ -1689,6 +1694,8 @@
         "<a class=\"internal-link\" href=\"personal/daily/2022/22-09-02.md\"> 22-09-02 </a>"
       ],
       "Tagged": [
+        "<a class=\"internal-link\" href=\"learning/computing/programming/rust/snippets/Get Current Working Directory.md\"> Get Current Working Directory </a>",
+        "<a class=\"internal-link\" href=\"personal/notes/Learning rust.md\"> Learning rust </a>",
         "<a class=\"internal-link\" href=\"learning/computing/programming/rust/macros/rust macro references.md\"> rust macro references </a>",
         "<a class=\"internal-link\" href=\"learning/computing/programming/rust/tooling/rustc.md\"> rustc </a>",
         "<a class=\"internal-link\" href=\"learning/computing/programming/rust/tooling/rustup.md\"> rustup </a>",
@@ -1737,9 +1744,7 @@
         "<a class=\"internal-link\" href=\"learning/computing/programming/javascript/Javascript oddities.md\"> Javascript oddities </a>",
         "<a class=\"internal-link\" href=\"learning/computing/programming/javascript/deno/node to deno cheatsheet.md\"> node to deno cheatsheet </a>",
         "<a class=\"internal-link\" href=\"learning/computing/programming/javascript/deno/deno configuration.md\"> deno configuration </a>",
-        "<a class=\"internal-link\" href=\"learning/computing/programming/javascript/deno/modules/cliffy.md\"> cliffy </a>",
-        "<a class=\"internal-link\" href=\"learning/computing/programming/javascript/deno/modules/useful deno modules.md\"> useful deno modules </a>",
-        "<a class=\"internal-link\" href=\"learning/computing/programming/javascript/deno/modules/fresh.md\"> fresh </a>"
+        "<a class=\"internal-link\" href=\"learning/computing/programming/javascript/deno/modules/cliffy.md\"> cliffy </a>"
       ],
       "Refactored": [],
       "Deleted": [
@@ -1796,6 +1801,8 @@
         "<a class=\"internal-link\" href=\"learning/adsf.md\"> adsf </a>"
       ],
       "Linked": [
+        "<a class=\"internal-link\" href=\"personal/notes/Learning rust.md\"> Learning rust </a>",
+        "<a class=\"internal-link\" href=\"personal/task board.md\"> task board </a>",
         "<a class=\"internal-link\" href=\"learning/computing/programming/rust/tooling/rustup.md\"> rustup </a>",
         "<a class=\"internal-link\" href=\"personal/task board.md\"> task board </a>",
         "<a class=\"internal-link\" href=\"personal/task board.md\"> task board </a>",
@@ -1844,9 +1851,7 @@
         "<a class=\"internal-link\" href=\"Python research.md\"> Python research </a>",
         "<a class=\"internal-link\" href=\"django class models.md\"> django class models </a>",
         "<a class=\"internal-link\" href=\"programming/python/python programming language.md\"> python programming language </a>",
-        "<a class=\"internal-link\" href=\"programming/python/python programming language.md\"> python programming language </a>",
-        "<a class=\"internal-link\" href=\"programming/python/pyspark.md\"> pyspark </a>",
-        "<a class=\"internal-link\" href=\"personal/job-hunting/Federal-reserve-bank-topics.md\"> Federal-reserve-bank-topics </a>"
+        "<a class=\"internal-link\" href=\"programming/python/python programming language.md\"> python programming language </a>"
       ],
       "Removed Tags from": [
         "<a class=\"internal-link\" href=\"learning/computing/programming/python/python extensions.md\"> python extensions </a>",
