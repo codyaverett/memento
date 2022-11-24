@@ -8,12 +8,25 @@
         "type": "tabs",
         "children": [
           {
-            "id": "a0b36ecbd0243481",
+            "id": "56e5784554480e19",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "learning/computing/programming/rust/basic/importing rust modules.md",
+                "file": "learning/computing/programming/rust/tooling/rustup.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e7ca8e18b99fce10",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "personal/notes/Create a meta-repo cli tool replacement with rust.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -78,7 +91,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "learning/computing/programming/rust/basic/importing rust modules.md",
+                "file": "learning/computing/programming/rust/tooling/rustup.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,7 +108,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "learning/computing/programming/rust/basic/importing rust modules.md"
+                "file": "learning/computing/programming/rust/tooling/rustup.md"
               }
             }
           },
@@ -123,66 +136,17 @@
     "width": 300,
     "collapsed": true
   },
-  "floating": {
-    "id": "316650c5e95fef12",
-    "type": "floating",
-    "children": [
-      {
-        "id": "3c64c57471613548",
-        "type": "window",
-        "children": [
-          {
-            "id": "aabfa783c3ddca29",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "56e5784554480e19",
-                "type": "leaf",
-                "state": {
-                  "type": "kanban",
-                  "state": {
-                    "file": "personal/task board.md"
-                  }
-                }
-              },
-              {
-                "id": "e7ca8e18b99fce10",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "personal/notes/Create a meta-repo cli tool replacement with rust.md",
-                    "mode": "source",
-                    "backlinks": false,
-                    "source": false
-                  }
-                }
-              }
-            ],
-            "currentTab": 1
-          }
-        ],
-        "direction": "vertical",
-        "x": 0,
-        "y": 0,
-        "width": 1112.5,
-        "height": 860,
-        "maximize": true,
-        "zoom": 0
-      }
-    ]
-  },
-  "active": "a0b36ecbd0243481",
+  "active": "56e5784554480e19",
   "lastOpenFiles": [
+    "learning/computing/programming/rust/basic/importing rust modules.md",
+    "learning/computing/programming/rust/errors/mismatched types.md",
+    "learning/computing/programming/rust/macros/rust macro references.md",
+    "learning/computing/programming/rust/snippets/Get Current Working Directory.md",
+    "personal/task board.md",
+    "personal/notes/Create a meta-repo cli tool replacement with rust.md",
     "learning/computing/programming/rust/tooling/rustup.md",
     "learning/computing/programming/rust/rust types.md",
-    "learning/computing/programming/rust/macros/rust macro references.md",
     "learning/computing/programming/rust/rust programming language.md",
-    "learning/computing/programming/rust/tooling/cargo.md",
-    "learning/computing/programming/rust/tooling/rustc.md",
-    "learning/computing/programming/rust/basic/importing rust modules.md",
-    "personal/notes/Create a meta-repo cli tool replacement with rust.md",
-    "personal/task board.md",
-    "personal/notes/Demo webapp project Val and Riz.md"
+    "learning/computing/programming/rust/tooling/cargo.md"
   ]
 }
