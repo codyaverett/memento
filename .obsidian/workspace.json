@@ -19,17 +19,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "8e3c689777d44a2f",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -87,6 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "learning/computing/programming/languages/rust programming language.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +94,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "learning/computing/programming/languages/rust programming language.md"
+              }
             }
           },
           {
@@ -128,8 +122,9 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "8e3c689777d44a2f",
+  "active": "56e5784554480e19",
   "lastOpenFiles": [
+    "learning/computing/programming/languages/Lisp programming language.md",
     "learning/computing/programming/rust/rust programming language.md",
     "learning/computing/programming/languages/programming languages.md",
     "learning/computing/programming/languages/rust programming language.md",
@@ -138,7 +133,6 @@
     "personal/daily/2022/22-09-02.md",
     "learning/computing/programming/rust/errors/mismatched types.md",
     "personal/daily/2022/22-10-05.md",
-    "learning/computing/programming/rust/cargo/usage.md",
-    "learning/computing/programming/rust/snippets/Get Current Working Directory.md"
+    "learning/computing/programming/rust/cargo/usage.md"
   ]
 }
