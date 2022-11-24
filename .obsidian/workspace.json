@@ -11,22 +11,6 @@
             "id": "56e5784554480e19",
             "type": "leaf",
             "state": {
-              "type": "kanban",
-              "state": {
-                "file": "personal/task board.md"
-              }
-            }
-          }
-        ]
-      },
-      {
-        "id": "1c8151e8b79e99af",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "fb44b66d9d96992c",
-            "type": "leaf",
-            "state": {
               "type": "markdown",
               "state": {
                 "file": "personal/notes/Create a meta-repo cli tool replacement with rust.md",
@@ -139,9 +123,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "fb44b66d9d96992c",
+  "active": "56e5784554480e19",
   "lastOpenFiles": [
     "personal/task board.md",
+    "personal/notes/Create a meta-repo cli tool replacement with rust.md",
     "personal/notes/create a deno plugin.md",
     "personal/notes/Setup a bind9 DNS server.md",
     "learning/computing/programming/languages/programming languages.md",
@@ -149,7 +134,6 @@
     "learning/computing/programming/languages/zig programming language.md",
     "learning/computing/programming/languages/Lisp programming language.md",
     "learning/computing/programming/rust/rust programming language.md",
-    "learning/computing/software/obsidian/Obsidian Dataview plugin.md",
-    "learning/computing/programming/rust/basics/importing rust modules.md"
+    "learning/computing/software/obsidian/Obsidian Dataview plugin.md"
   ]
 }
