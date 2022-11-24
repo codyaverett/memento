@@ -17,6 +17,7 @@ tags: null
 - [ ] Build a chrome extension
 - [ ] [[Document burnout]]
 - [ ] [[Learn about Memory Controllers and non-uniform memory access]]
+- [ ] Setup a bind9 DNS server
 
 
 ## Todo
