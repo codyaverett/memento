@@ -12,6 +12,11 @@ tags: rust
 
 Rust is a low level systems programming language that is a spiritual successor to the c and C++ programming languages.  It features compile time checks and syntactic structure useful for preventing common memory leak and common pointer related coding bugs. 
 
+## References
+
+- [Rust Cookbook](https://rust-lang-nursery.github.io/rust-cookbook)
+- 
+
 ## List of Contents
 
 ```dataview
