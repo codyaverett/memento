@@ -88,7 +88,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "learning/computing/programming/rust/basics/control flow.md",
+                "file": "learning/computing/programming/rust/basics/variables and mutability.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -151,7 +151,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 283.50235176086426
+    "width": 489.5
   },
   "right": {
     "id": "27aa3db891e6815a",
@@ -167,7 +167,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "learning/computing/programming/rust/basics/control flow.md",
+                "file": "learning/computing/programming/rust/basics/variables and mutability.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -184,7 +184,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "learning/computing/programming/rust/basics/control flow.md"
+                "file": "learning/computing/programming/rust/basics/variables and mutability.md"
               }
             }
           },
@@ -214,15 +214,15 @@
   },
   "active": "8d0c8cc0fdecfa94",
   "lastOpenFiles": [
-    "learning/computing/programming/rust/basics/comments.md",
+    "learning/computing/programming/rust/basics/variable data types.md",
+    "learning/computing/programming/rust/basics/importing rust modules.md",
     "learning/computing/programming/rust/basics/functions.md",
+    "learning/computing/programming/rust/basics/comments.md",
+    "learning/computing/programming/rust/basics/control flow.md",
     "learning/computing/programming/rust/errors/expression position issues.md",
     "README.md",
-    "learning/computing/programming/rust/basics/variable data types.md",
     "learning/computing/programming/rust/errors/integer overflow.md",
     "learning/computing/programming/rust/errors/type annotations needed.md",
-    "learning/computing/programming/rust/basics/variables and mutability.md",
-    "learning/computing/programming/rust/errors/mismatched types.md",
-    "learning/computing/programming/rust/errors/cannot assign twice to immutable variable.md"
+    "learning/computing/programming/rust/basics/variables and mutability.md"
   ]
 }
