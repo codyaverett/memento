@@ -11,10 +11,8 @@
             "id": "56e5784554480e19",
             "type": "leaf",
             "state": {
-              "type": "kanban",
-              "state": {
-                "file": "personal/task board.md"
-              }
+              "type": "graph",
+              "state": {}
             }
           },
           {
@@ -43,7 +41,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +84,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 489.5
+    "width": 489.5,
+    "collapsed": true
   },
   "right": {
     "id": "27aa3db891e6815a",
@@ -101,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "personal/task board.md",
+                "file": "personal/notes/Learning and documenting rust.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "personal/task board.md"
+                "file": "personal/notes/Learning and documenting rust.md"
               }
             }
           },
@@ -146,8 +146,9 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "56e5784554480e19",
+  "active": "e7ca8e18b99fce10",
   "lastOpenFiles": [
+    "personal/task board.md",
     "personal/notes/Learning and documenting rust.md",
     "personal/notes/Create a meta-repo cli tool replacement with rust.md",
     "README.md",
@@ -156,7 +157,6 @@
     "learning/computing/programming/rust/basics/variables and mutability.md",
     "learning/computing/programming/rust/basics/variable data types.md",
     "learning/computing/programming/rust/basics/importing rust modules.md",
-    "learning/computing/programming/rust/basics/control flow.md",
-    "learning/computing/programming/rust/errors/expression position issues.md"
+    "learning/computing/programming/rust/basics/control flow.md"
   ]
 }
