@@ -1,9 +1,9 @@
 ---
 name: Apache Airflow
 created: 2022-10-05T14:01:50-05:00
-updated: 2022-11-16T16:52:05-06:00
+updated: 2022-11-28T17:57:49-06:00
 aliases: 
-tags: 
+tags: airflow, python
 ---
 # Apache Airflow
 
