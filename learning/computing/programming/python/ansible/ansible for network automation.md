@@ -1,9 +1,9 @@
 ---
 name: Ansible for Network Automation
 created: 2022-09-14T02:38:36-05:00
-updated: 2022-11-16T16:52:05-06:00
+updated: 2022-11-28T17:54:31-06:00
 aliases: 
-tags: 
+tags: ansible, networking, automation
 ---
 # Ansible for Network Automation
 

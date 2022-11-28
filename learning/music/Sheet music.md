@@ -1,9 +1,9 @@
 ---
 name: Sheet Music
 created: 2022-11-12T17:47:01-06:00
-updated: 2022-11-16T16:52:03-06:00
+updated: 2022-11-28T17:51:58-06:00
 aliases: 
-tags: 
+tags: music, theory
 ---
 # Sheet Music
 

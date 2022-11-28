@@ -51,7 +51,7 @@
     },
     "learning/computing/software/github actions/github actions for a django project.md": {
       "size": 0,
-      "tags": 0,
+      "tags": 4,
       "links": 0
     },
     "learning/computing/software/letsencrypt/letsencrypt.md": {
@@ -81,12 +81,12 @@
     },
     "learning/computing/software/nginx/nginx webserver.md": {
       "size": 0,
-      "tags": 0,
+      "tags": 2,
       "links": 0
     },
     "learning/computing/software/linux/create linux superuser.md": {
       "size": 4415,
-      "tags": 0,
+      "tags": 2,
       "links": 0
     },
     "learning/computing/software/data ETL/apache paraquet.md": {
@@ -106,7 +106,7 @@
     },
     "learning/computing/software/data ETL/apache NiFi.md": {
       "size": 0,
-      "tags": 0,
+      "tags": 2,
       "links": 0
     },
     "learning/computing/software/data ETL/databricks.md": {
@@ -161,7 +161,7 @@
     },
     "learning/computing/software/data ETL/apache airflow/airflow configuration.md": {
       "size": 0,
-      "tags": 0,
+      "tags": 1,
       "links": 0
     },
     "learning/computing/software/data ETL/apache airflow/airflow flower.md": {
@@ -176,7 +176,7 @@
     },
     "learning/computing/software/data ETL/apache airflow/airflow hooks.md": {
       "size": 0,
-      "tags": 0,
+      "tags": 2,
       "links": 0
     },
     "learning/computing/software/data ETL/apache airflow/airflow operators.md": {
@@ -196,7 +196,7 @@
     },
     "learning/computing/software/data ETL/apache airflow/airflow module management.md": {
       "size": 6950,
-      "tags": 0,
+      "tags": 2,
       "links": 0
     },
     "learning/computing/software/data ETL/apache airflow/when are airflow plugins reloaded.md": {
@@ -261,7 +261,7 @@
     },
     "learning/computing/programming/data ETL/ETL basics.md": {
       "size": 0,
-      "tags": 0,
+      "tags": 4,
       "links": 0
     },
     "learning/computing/programming/SQL/SQL order of execution.md": {
@@ -371,7 +371,7 @@
     },
     "learning/computing/programming/python/clean python sorting.md": {
       "size": 0,
-      "tags": 0,
+      "tags": 2,
       "links": 0
     },
     "learning/computing/programming/python/convert an image to ASCII art.md": {
@@ -381,7 +381,7 @@
     },
     "learning/computing/programming/python/concurrency in python.md": {
       "size": 2045,
-      "tags": 0,
+      "tags": 4,
       "links": 0
     },
     "learning/computing/programming/python/common python programming errors.md": {
@@ -556,7 +556,7 @@
     },
     "learning/computing/programming/python/ansible/ansible for network automation.md": {
       "size": 0,
-      "tags": 0,
+      "tags": 3,
       "links": 0
     },
     "learning/computing/programming/python/cli/building and distributing a CLI app with python.md": {
@@ -641,7 +641,7 @@
     },
     "learning/computing/programming/python/pyspark/pyspark reference.md": {
       "size": 2026,
-      "tags": 0,
+      "tags": 2,
       "links": 1
     },
     "learning/computing/programming/python/pyspark/pyspark dataframes.md": {
@@ -651,7 +651,7 @@
     },
     "learning/computing/programming/python/package management/python virtual environments.md": {
       "size": 4910,
-      "tags": 0,
+      "tags": 2,
       "links": 0
     },
     "learning/computing/programming/python/pyspark/python basics.md": {
@@ -661,7 +661,7 @@
     },
     "learning/computing/programming/python/django/Authentication Systems/django authentication system.md": {
       "size": 0,
-      "tags": 0,
+      "tags": 2,
       "links": 0
     },
     "learning/computing/programming/shell/sed/sed examples to print lines from a file.md": {
@@ -721,7 +721,7 @@
     },
     "learning/computing/cryptocurrency/Handshake.md": {
       "size": 50,
-      "tags": 0,
+      "tags": 3,
       "links": 0
     },
     "learning/computing/cryptocurrency/NFTQuickLinks.md": {
@@ -736,7 +736,7 @@
     },
     "learning/computing/cryptocurrency/NFTs/Anyone could use any of the assets for any of the NFT collections.md": {
       "size": 548,
-      "tags": 0,
+      "tags": 4,
       "links": 0
     },
     "learning/computing/cryptocurrency/L2 networks/milkomeda/milkomeda network.md": {
@@ -751,7 +751,7 @@
     },
     "learning/computing/cryptocurrency/L1 networks/Ethereum/Ethereum.md": {
       "size": 1154,
-      "tags": 0,
+      "tags": 3,
       "links": 0
     },
     "learning/computing/cryptocurrency/L1 networks/Solana/SolanaList.md": {
@@ -836,7 +836,7 @@
     },
     "learning/computing/cryptocurrency/L1 networks/Avalanche.md": {
       "size": 104,
-      "tags": 0,
+      "tags": 3,
       "links": 0
     },
     "learning/mathematics/Kepler.md": {
@@ -856,12 +856,12 @@
     },
     "learning/music/theory/Try only using major 7th chords to create a chord progression.md": {
       "size": 0,
-      "tags": 0,
+      "tags": 2,
       "links": 0
     },
     "learning/music/Sheet music.md": {
       "size": 0,
-      "tags": 0,
+      "tags": 2,
       "links": 4
     },
     "learning/music/Tunings.md": {
@@ -1001,17 +1001,17 @@
     },
     "personal/daily/2022/22-09-28.md": {
       "size": 0,
-      "tags": 0,
+      "tags": 2,
       "links": 0
     },
     "personal/daily/2022/22-09-30.md": {
       "size": 0,
-      "tags": 0,
+      "tags": 2,
       "links": 0
     },
     "personal/daily/2022/22-10-01.md": {
       "size": 0,
-      "tags": 0,
+      "tags": 2,
       "links": 0
     },
     "personal/daily/2022/22-10-05.md": {
@@ -1041,12 +1041,12 @@
     },
     "personal/daily/2022/22-11-12.md": {
       "size": 0,
-      "tags": 0,
+      "tags": 2,
       "links": 0
     },
     "learning/financial/career/management/transitioning from dev to manager.md": {
       "size": 210,
-      "tags": 0,
+      "tags": 1,
       "links": 0
     },
     "learning/computing/programming/java/java dependency management.md": {
@@ -1061,7 +1061,7 @@
     },
     "learning/computing/programming/c-sharp/C-sharp cheatsheet.md": {
       "size": 5419,
-      "tags": 1,
+      "tags": 2,
       "links": 0
     },
     "personal/task board.md": {
@@ -1091,12 +1091,12 @@
     },
     "learning/mental/productivity/general productivity tips.md": {
       "size": 0,
-      "tags": 0,
+      "tags": 2,
       "links": 0
     },
     "learning/mental/productivity/all failures are learning opportunities.md": {
       "size": 0,
-      "tags": 0,
+      "tags": 3,
       "links": 0
     },
     "learning/computing/really useful websites.md": {
@@ -1231,7 +1231,7 @@
     },
     "learning/computing/software/obsidian/Graph and Local Graph View.md": {
       "size": 0,
-      "tags": 0,
+      "tags": 2,
       "links": 0
     },
     "learning/computing/software/obsidian/Obsidian Aliases.md": {
@@ -1291,7 +1291,7 @@
     },
     "learning/computing/programming/general/heap memory.md": {
       "size": 0,
-      "tags": 0,
+      "tags": 2,
       "links": 0
     },
     "learning/computing/programming/javascript/nodejs/nodejs memory limits.md": {
@@ -1549,7 +1549,7 @@
     "/": {
       "Refactor": 1413,
       "Create": 317,
-      "Link": 258,
+      "Link": 288,
       "Expand": 111
     }
   },
@@ -1572,7 +1572,7 @@
       "14": 44,
       "15": 62,
       "16": 1199,
-      "17": 164,
+      "17": 194,
       "18": 30,
       "19": 26,
       "20": 46,
@@ -1583,7 +1583,7 @@
   },
   "weeklyCommits": {
     "/": {
-      "Mon": 1396,
+      "Mon": 1426,
       "Tue": 103,
       "Wed": 234,
       "Thu": 148,
@@ -1754,6 +1754,36 @@
         "<a class=\"internal-link\" href=\"personal/daily/2022/22-10-05.md\"> 22-10-05 </a>"
       ],
       "Tagged": [
+        "<a class=\"internal-link\" href=\"learning/computing/cryptocurrency/Handshake.md\"> Handshake </a>",
+        "<a class=\"internal-link\" href=\"learning/computing/cryptocurrency/L1 networks/Avalanche.md\"> Avalanche </a>",
+        "<a class=\"internal-link\" href=\"learning/computing/programming/data ETL/ETL basics.md\"> ETL basics </a>",
+        "<a class=\"internal-link\" href=\"learning/computing/programming/general/heap memory.md\"> heap memory </a>",
+        "<a class=\"internal-link\" href=\"learning/computing/programming/python/ansible/ansible for network automation.md\"> ansible for network automation </a>",
+        "<a class=\"internal-link\" href=\"learning/computing/programming/python/clean python sorting.md\"> clean python sorting </a>",
+        "<a class=\"internal-link\" href=\"learning/computing/programming/python/concurrency in python.md\"> concurrency in python </a>",
+        "<a class=\"internal-link\" href=\"learning/computing/programming/python/package management/python virtual environments.md\"> python virtual environments </a>",
+        "<a class=\"internal-link\" href=\"learning/computing/software/data ETL/apache airflow/airflow configuration.md\"> airflow configuration </a>",
+        "<a class=\"internal-link\" href=\"learning/computing/software/data ETL/apache airflow/airflow hooks.md\"> airflow hooks </a>",
+        "<a class=\"internal-link\" href=\"learning/computing/software/github actions/github actions for a django project.md\"> github actions for a django project </a>",
+        "<a class=\"internal-link\" href=\"learning/computing/software/nginx/nginx webserver.md\"> nginx webserver </a>",
+        "<a class=\"internal-link\" href=\"learning/financial/career/management/transitioning from dev to manager.md\"> transitioning from dev to manager </a>",
+        "<a class=\"internal-link\" href=\"learning/music/Sheet music.md\"> Sheet music </a>",
+        "<a class=\"internal-link\" href=\"learning/music/theory/Try only using major 7th chords to create a chord progression.md\"> Try only using major 7th chords to create a chord progression </a>",
+        "<a class=\"internal-link\" href=\"personal/daily/2022/22-09-28.md\"> 22-09-28 </a>",
+        "<a class=\"internal-link\" href=\"personal/daily/2022/22-09-30.md\"> 22-09-30 </a>",
+        "<a class=\"internal-link\" href=\"personal/daily/2022/22-10-01.md\"> 22-10-01 </a>",
+        "<a class=\"internal-link\" href=\"learning/computing/cryptocurrency/L1 networks/Ethereum/Ethereum.md\"> Ethereum </a>",
+        "<a class=\"internal-link\" href=\"learning/computing/cryptocurrency/NFTs/Anyone could use any of the assets for any of the NFT collections.md\"> Anyone could use any of the assets for any of the NFT collections </a>",
+        "<a class=\"internal-link\" href=\"learning/computing/programming/c-sharp/C-sharp cheatsheet.md\"> C-sharp cheatsheet </a>",
+        "<a class=\"internal-link\" href=\"learning/computing/programming/python/django/Authentication Systems/django authentication system.md\"> django authentication system </a>",
+        "<a class=\"internal-link\" href=\"learning/computing/programming/python/pyspark/pyspark reference.md\"> pyspark reference </a>",
+        "<a class=\"internal-link\" href=\"learning/computing/software/data ETL/apache NiFi.md\"> apache NiFi </a>",
+        "<a class=\"internal-link\" href=\"learning/computing/software/data ETL/apache airflow/airflow module management.md\"> airflow module management </a>",
+        "<a class=\"internal-link\" href=\"learning/computing/software/linux/create linux superuser.md\"> create linux superuser </a>",
+        "<a class=\"internal-link\" href=\"learning/computing/software/obsidian/Graph and Local Graph View.md\"> Graph and Local Graph View </a>",
+        "<a class=\"internal-link\" href=\"learning/mental/productivity/all failures are learning opportunities.md\"> all failures are learning opportunities </a>",
+        "<a class=\"internal-link\" href=\"learning/mental/productivity/general productivity tips.md\"> general productivity tips </a>",
+        "<a class=\"internal-link\" href=\"personal/daily/2022/22-11-12.md\"> 22-11-12 </a>",
         "<a class=\"internal-link\" href=\"learning/computing/programming/c-sharp/C-sharp cheatsheet.md\"> C-sharp cheatsheet </a>",
         "<a class=\"internal-link\" href=\"learning/computing/programming/data ETL/OLTP vs OLAP.md\"> OLTP vs OLAP </a>",
         "<a class=\"internal-link\" href=\"learning/computing/programming/frontend/list of dope websites.md\"> list of dope websites </a>",
@@ -1774,37 +1804,7 @@
         "<a class=\"internal-link\" href=\"learning/computing/cryptocurrency/L1 networks/Cardano/CardanoAssetIds.md\"> CardanoAssetIds </a>",
         "<a class=\"internal-link\" href=\"learning/computing/cryptocurrency/NFTQuickLinks.md\"> NFTQuickLinks </a>",
         "<a class=\"internal-link\" href=\"learning/computing/programming/data ETL/OLAP data models.md\"> OLAP data models </a>",
-        "<a class=\"internal-link\" href=\"learning/computing/programming/data ETL/data modeling.md\"> data modeling </a>",
-        "<a class=\"internal-link\" href=\"learning/computing/programming/general/pointers.md\"> pointers </a>",
-        "<a class=\"internal-link\" href=\"learning/computing/programming/general/polymorphism.md\"> polymorphism </a>",
-        "<a class=\"internal-link\" href=\"learning/computing/programming/javascript/typescript/Enums can be terrible.md\"> Enums can be terrible </a>",
-        "<a class=\"internal-link\" href=\"learning/computing/programming/machine learning/interesting ml and ai products.md\"> interesting ml and ai products </a>",
-        "<a class=\"internal-link\" href=\"learning/computing/programming/python/django/django middleware.md\"> django middleware </a>",
-        "<a class=\"internal-link\" href=\"learning/computing/programming/python/package management/pipenv usage.md\"> pipenv usage </a>",
-        "<a class=\"internal-link\" href=\"learning/computing/programming/python/python extensions with rust.md\"> python extensions with rust </a>",
-        "<a class=\"internal-link\" href=\"learning/computing/programming/python/python pyenv.md\"> python pyenv </a>",
-        "<a class=\"internal-link\" href=\"learning/computing/software/containers/docker/run docker commands without sudo.md\"> run docker commands without sudo </a>",
-        "<a class=\"internal-link\" href=\"learning/computing/software/data ETL/apache airflow/Airflow Deployments.md\"> Airflow Deployments </a>",
-        "<a class=\"internal-link\" href=\"learning/computing/software/data ETL/apache airflow/airflow grid view.md\"> airflow grid view </a>",
-        "<a class=\"internal-link\" href=\"learning/computing/software/obsidian/Obsidian Aliases.md\"> Obsidian Aliases </a>",
-        "<a class=\"internal-link\" href=\"learning/computing/software/obsidian/Obsidian Dataview plugin.md\"> Obsidian Dataview plugin </a>",
-        "<a class=\"internal-link\" href=\"learning/hobby/games/stardew valley/stardew valley item codes.md\"> stardew valley item codes </a>",
-        "<a class=\"internal-link\" href=\"personal/daily/2022/22-11-16.md\"> 22-11-16 </a>",
-        "<a class=\"internal-link\" href=\"README.md\"> README </a>",
-        "<a class=\"internal-link\" href=\"learning/computing/cryptocurrency/L1 networks/Elrond.md\"> Elrond </a>",
-        "<a class=\"internal-link\" href=\"learning/computing/cryptocurrency/L1 networks/Solana/SolanaList.md\"> SolanaList </a>",
-        "<a class=\"internal-link\" href=\"learning/computing/cryptocurrency/MetamaskNetworks.md\"> MetamaskNetworks </a>",
-        "<a class=\"internal-link\" href=\"learning/computing/programming/SQL/SQL order of execution.md\"> SQL order of execution </a>",
-        "<a class=\"internal-link\" href=\"learning/computing/programming/languages/c-sharp programming language.md\"> c-sharp programming language </a>",
-        "<a class=\"internal-link\" href=\"learning/computing/programming/neural networks/different types of neural networks.md\"> different types of neural networks </a>",
-        "<a class=\"internal-link\" href=\"learning/computing/programming/python/create a minimal python package.md\"> create a minimal python package </a>",
-        "<a class=\"internal-link\" href=\"learning/computing/programming/python/pyspark/pyspark dataframes.md\"> pyspark dataframes </a>",
-        "<a class=\"internal-link\" href=\"learning/computing/software/data ETL/apache airflow/airflow flower.md\"> airflow flower </a>",
-        "<a class=\"internal-link\" href=\"learning/computing/software/data ETL/apache airflow/airflow operators.md\"> airflow operators </a>",
-        "<a class=\"internal-link\" href=\"learning/computing/software/obsidian/first impressions.md\"> first impressions </a>",
-        "<a class=\"internal-link\" href=\"learning/farming/Compost has four ingredients.md\"> Compost has four ingredients </a>",
-        "<a class=\"internal-link\" href=\"learning/financial/career/code tests/tips on completing a timed code test.md\"> tips on completing a timed code test </a>",
-        "<a class=\"internal-link\" href=\"personal/daily/2022/22-11-14.md\"> 22-11-14 </a>"
+        "<a class=\"internal-link\" href=\"learning/computing/programming/data ETL/data modeling.md\"> data modeling </a>"
       ],
       "Refactored": [],
       "Deleted": [
