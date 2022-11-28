@@ -5,7 +5,7 @@ updated: 2022-11-16T18:33:28-06:00
 aliases: 
 dg-home: true
 dg-publish: false
-tags: 
+tags: readme
 ---
 
 # Memento

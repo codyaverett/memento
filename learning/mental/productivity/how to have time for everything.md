@@ -1,9 +1,9 @@
 ---
 name: How to Have Time for Everything
 created: 2022-11-12T18:26:16-06:00
-updated: 2022-11-16T16:52:04-06:00
+updated: 2022-11-28T17:26:12-06:00
 aliases: 
-tags: 
+tags: productivity
 ---
 # How to Have Time for Everything
 

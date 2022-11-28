@@ -1,9 +1,9 @@
 ---
 name: Run Docker Commands without Sudo
 created: 2022-10-21T13:55:06-05:00
-updated: 2022-11-16T16:52:05-06:00
+updated: 2022-11-28T17:40:11-06:00
 aliases: 
-tags: 
+tags: docker, linux
 ---
 # Run Docker Commands without Sudo
 

@@ -1,9 +1,9 @@
 ---
 name: Convert an Image to ASCII Art
 created: 2022-08-16T16:25:06-05:00
-updated: 2022-11-16T16:52:05-06:00
+updated: 2022-11-28T17:21:53-06:00
 aliases: 
-tags: 
+tags: cli, ascii
 ---
 # Convert an Image to ASCII Art
 

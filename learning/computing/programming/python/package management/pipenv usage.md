@@ -1,9 +1,9 @@
 ---
 name: Pipenv Usage
 created: 2022-10-07T17:22:30-05:00
-updated: 2022-11-16T16:52:05-06:00
+updated: 2022-11-28T17:38:03-06:00
 aliases: 
-tags: 
+tags: python, environment
 ---
 # Pipenv Usage
 

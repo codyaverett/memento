@@ -1,9 +1,9 @@
 ---
 name: Brown Recluse Spider
 created: 2022-07-25T02:47:41-05:00
-updated: 2022-11-16T16:52:03-06:00
+updated: 2022-11-28T17:26:26-06:00
 aliases: 
-tags: 
+tags: insect, spider
 ---
 # Brown Recluse Spider
 

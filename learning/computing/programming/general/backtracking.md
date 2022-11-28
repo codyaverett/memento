@@ -1,13 +1,13 @@
 ---
 name: Backtracking
 created: 2022-09-19T20:30:03-05:00
-updated: 2022-11-16T16:52:06-06:00
+updated: 2022-11-28T17:42:31-06:00
 aliases: 
-tags: 
+tags: programming, concept
 ---
 # Backtracking
 
-Backtracking is a recursive algorithm useful to retry previous branches in logic if current branches end up in a undesirable result aka a dead end.
+Backtracking is a recursive algorithm useful to retry previous branches in logic if current branches end up in an undesirable result aka a dead end.
 
 They are useful for maze solving and the n-queens problem
 

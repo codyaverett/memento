@@ -1,9 +1,9 @@
 ---
 name: Documenting Python Code with Sphinx
 created: 2022-09-12T20:32:01-05:00
-updated: 2022-11-16T16:52:05-06:00
+updated: 2022-11-28T17:42:13-06:00
 aliases: 
-tags: 
+tags: python, documentation, package
 ---
 # Documenting Python Code with Sphinx
 

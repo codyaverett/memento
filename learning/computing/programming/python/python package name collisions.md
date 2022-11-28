@@ -1,9 +1,9 @@
 ---
 name: Python Package Name Collisions
 created: 2022-11-16T15:11:30-06:00
-updated: 2022-11-16T16:52:05-06:00
+updated: 2022-11-28T17:43:00-06:00
 aliases: 
-tags: 
+tags: python, packaging
 ---
 # Python Package Name Collisions
 

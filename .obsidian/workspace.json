@@ -4,97 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "b82af1858bf62ded",
+        "id": "9da44d95270e4cc9",
         "type": "tabs",
         "children": [
           {
-            "id": "56e5784554480e19",
+            "id": "d2d971ba47a8c8b5",
             "type": "leaf",
             "state": {
               "type": "graph",
               "state": {}
             }
-          },
-          {
-            "id": "b27e66f23fbd37a3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "learning/computing/programming/react/good practices.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "dad7e427a98733c5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "learning/computing/programming/react/patterns/higher-order components.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "05d571a35b3ded08",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "learning/computing/programming/react/good practices.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0e4b82c49835a2e5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "learning/computing/programming/react/extending a native html component.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e7ca8e18b99fce10",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "personal/notes/Learning and documenting rust.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4be0b63d2c49dcc6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "personal/notes/Create a meta-repo cli tool replacement with rust.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -152,7 +73,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "learning/computing/programming/react/extending a native html component.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -168,9 +88,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "learning/computing/programming/react/extending a native html component.md"
-              }
+              "state": {}
             }
           },
           {
@@ -197,17 +115,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "0e4b82c49835a2e5",
+  "active": "d2d971ba47a8c8b5",
   "lastOpenFiles": [
-    "learning/computing/programming/react/good practices.md",
-    "learning/computing/programming/react/patterns/function-as-children component.md",
-    "learning/computing/programming/react/patterns/higher-order components.md",
-    "personal/notes/Create a meta-repo cli tool replacement with rust.md",
-    "personal/notes/Learning and documenting rust.md",
-    "personal/task board.md",
-    "README.md",
-    "learning/computing/programming/rust/basics/functions.md",
-    "learning/computing/programming/rust/basics/comments.md",
-    "learning/computing/programming/rust/basics/variables and mutability.md"
+    "learning/mental/productivity/all failures are learning opportunities.md",
+    "personal/daily/2022/22-11-12.md",
+    "learning/computing/cryptocurrency/L1 networks/Ethereum/Ethereum.md",
+    "learning/computing/software/data ETL/apache airflow/airflow module management.md",
+    "learning/computing/software/data ETL/apache NiFi.md",
+    "learning/mental/productivity/general productivity tips.md",
+    "learning/computing/programming/python/pyspark/pyspark reference.md",
+    "learning/computing/software/linux/create linux superuser.md",
+    "learning/computing/programming/python/django/Authentication Systems/django authentication system.md",
+    "learning/computing/programming/c-sharp/C-sharp cheatsheet.md"
   ]
 }
