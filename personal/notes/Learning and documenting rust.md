@@ -23,7 +23,7 @@ Most of the topics are from this [online version of "The rust programming langua
 	- [x] Variable data types
 	- [x] Variables and mutability rules
 - [ ] Ownership
-	- [x] What is ownership
+	- [ ] What is ownership
 	- [ ] References and borrowing
 	- [ ] The slice type
 - [ ] Using structs to structure related data
