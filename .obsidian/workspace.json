@@ -47,7 +47,20 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "learning/computing/programming/react/patterns/function-as-children component.md",
+                "file": "learning/computing/programming/react/good practices.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0e4b82c49835a2e5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "learning/computing/programming/react/extending a native html component.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -81,7 +94,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -139,7 +152,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "learning/computing/programming/react/patterns/function-as-children component.md",
+                "file": "learning/computing/programming/react/extending a native html component.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -156,7 +169,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "learning/computing/programming/react/patterns/function-as-children component.md"
+                "file": "learning/computing/programming/react/extending a native html component.md"
               }
             }
           },
@@ -184,17 +197,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "05d571a35b3ded08",
+  "active": "0e4b82c49835a2e5",
   "lastOpenFiles": [
-    "learning/computing/programming/react/patterns/higher-order components.md",
     "learning/computing/programming/react/good practices.md",
+    "learning/computing/programming/react/patterns/function-as-children component.md",
+    "learning/computing/programming/react/patterns/higher-order components.md",
     "personal/notes/Create a meta-repo cli tool replacement with rust.md",
     "personal/notes/Learning and documenting rust.md",
     "personal/task board.md",
     "README.md",
     "learning/computing/programming/rust/basics/functions.md",
     "learning/computing/programming/rust/basics/comments.md",
-    "learning/computing/programming/rust/basics/variables and mutability.md",
-    "learning/computing/programming/rust/basics/variable data types.md"
+    "learning/computing/programming/rust/basics/variables and mutability.md"
   ]
 }
