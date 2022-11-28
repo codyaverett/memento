@@ -1,9 +1,9 @@
 ---
 name: ADHD Medications
 created: 2022-11-16T13:41:15-06:00
-updated: 2022-11-16T16:52:04-06:00
+updated: 2022-11-28T17:20:14-06:00
 aliases: 
-tags: 
+tags: adhd, medicine
 ---
 
 # ADHD Medications

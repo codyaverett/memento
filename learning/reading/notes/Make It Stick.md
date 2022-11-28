@@ -1,9 +1,9 @@
 ---
 name: Make It Stick
 created: 2022-11-04T20:34:34-05:00
-updated: 2022-11-16T16:52:03-06:00
+updated: 2022-11-28T17:22:19-06:00
 aliases: 
-tags: 
+tags: book, learning
 ---
 # Make It Stick
 

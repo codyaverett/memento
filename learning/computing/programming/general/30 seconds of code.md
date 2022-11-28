@@ -1,9 +1,9 @@
 ---
 name: 30 Seconds of Code
 created: 2022-09-19T17:08:25-05:00
-updated: 2022-11-16T16:52:06-06:00
+updated: 2022-11-28T17:25:43-06:00
 aliases: 
-tags: 
+tags: snippets
 ---
 # 30 Seconds of Code
 

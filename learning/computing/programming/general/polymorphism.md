@@ -1,9 +1,9 @@
 ---
 name: Polymorphism
 created: 2022-09-24T22:40:49-05:00
-updated: 2022-11-16T16:52:05-06:00
+updated: 2022-11-28T17:36:50-06:00
 aliases: 
-tags: 
+tags: programming, concept
 ---
 # Polymorphism
 

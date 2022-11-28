@@ -1,9 +1,9 @@
 ---
 name: Vegan Stocking Your Pantry Tips
 created: 2022-07-25T06:04:49-05:00
-updated: 2022-11-16T16:52:05-06:00
+updated: 2022-11-28T17:45:09-06:00
 aliases: 
-tags: 
+tags: vegan, food
 ---
 # Vegan Stocking Your Pantry Tips
 

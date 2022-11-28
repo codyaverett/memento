@@ -1,9 +1,9 @@
 ---
 name: Functional Python Programming
 created: 2022-09-13T00:30:32-05:00
-updated: 2022-11-16T16:52:05-06:00
+updated: 2022-11-28T17:40:42-06:00
 aliases: 
-tags: 
+tags: python, functional
 ---
 # Functional Python Programming
 

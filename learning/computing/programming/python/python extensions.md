@@ -1,9 +1,9 @@
 ---
 name: Python Extensions
 created: 2022-09-12T14:17:11-05:00
-updated: 2022-11-16T16:52:05-06:00
+updated: 2022-11-28T17:27:22-06:00
 aliases: 
-tags: 
+tags: python, productivity
 ---
 # Python Extensions
 

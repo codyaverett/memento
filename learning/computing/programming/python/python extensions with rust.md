@@ -1,9 +1,9 @@
 ---
 name: Python Extensions with Rust
 created: 2022-11-16T15:11:30-06:00
-updated: 2022-11-16T16:52:05-06:00
+updated: 2022-11-28T17:38:52-06:00
 aliases: 
-tags: 
+tags: python, rust, native
 ---
 # Python Extensions with Rust
 

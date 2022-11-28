@@ -1,9 +1,9 @@
 ---
 name: SQL Order of Execution
 created: 2022-11-16T15:11:31-06:00
-updated: 2022-11-16T16:52:06-06:00
+updated: 2022-11-28T17:33:35-06:00
 aliases: 
-tags: 
+tags: sql, list
 ---
 # SQL Order of Execution
 

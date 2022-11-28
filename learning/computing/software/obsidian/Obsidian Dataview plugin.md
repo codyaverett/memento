@@ -1,17 +1,17 @@
 ---
 name: Obsidian Dataview plugin
 created: 2022-11-16T17:21:06-06:00
-updated: 2022-11-16T17:21:29-06:00
+updated: 2022-11-28T17:39:16-06:00
 aliases: 
-tags: 
+tags: obsidian, plugin
 ---
-# Obsidian Dataview plugin
+# Obsidian Dataview Plugin
 
 https://www.youtube.com/watch?v=JTObSymEvWA
 
-## Annotating your notes
+## Annotating Your Notes
 
-### with frontmatter
+### With Frontmatter
 ```python
 ---
 date_met: 2013-20-12
@@ -19,13 +19,13 @@ tags
 ---
 ```
 
-### with inline notes
+### With Inline Notes
 
 e.g. 
 `type::person`
 `location::Singapore`
 
-## Querying your notes
+## Querying Your Notes
 
 use dataview or dataviewjs code blocks
 
@@ -35,7 +35,7 @@ Support types:
 - Task
 - Calendar
 
-### From clause
+### From Clause
 - `FROM "FOLDERNAME"`
 - `FROM #FILES_THAT_HAVE_THIS_TAG`
 
@@ -53,7 +53,7 @@ Support types:
 
 ### Examples
 
-#### Table 
+#### Table
 ```dataview
 TABLE name, created, updated
 FROM "personal/daily"

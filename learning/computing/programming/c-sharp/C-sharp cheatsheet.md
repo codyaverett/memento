@@ -1,9 +1,9 @@
 ---
-name: Intro
+name: Arrays
 created: 2022-11-14T23:29:59-06:00
-updated: 2022-11-16T16:52:06-06:00
+updated: 2022-11-28T17:45:27-06:00
 aliases: 
-tags: 
+tags: c-sharp, cheatsheet
 ---
 
 ```toc

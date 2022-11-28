@@ -1,9 +1,9 @@
 ---
 name: People Just Do Not Know What They Do Not Know
 created: 2022-11-17T02:01:13-06:00
-updated: 2022-11-17T11:50:17-06:00
+updated: 2022-11-28T17:28:54-06:00
 aliases: 
-tags: 
+tags: blog, knowledge
 ---
 # People Just Do Not Know What They Do Not Know
 

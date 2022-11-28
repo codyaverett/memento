@@ -1,9 +1,9 @@
 ---
 name: Airflow Module Management
 created: 2022-10-27T20:04:01-05:00
-updated: 2022-11-16T16:52:05-06:00
+updated: 2022-11-28T17:46:39-06:00
 aliases: 
-tags: 
+tags: airflow, packageing
 ---
 # Airflow Module Management
 

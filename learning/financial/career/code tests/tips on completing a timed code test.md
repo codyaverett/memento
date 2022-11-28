@@ -1,11 +1,11 @@
 ---
-name: tips on completing a code test
+name: tips on completing a timed code test
 created: 2022-11-20T15:42:51-06:00
-updated: 2022-11-20T15:43:11-06:00
+updated: 2022-11-28T17:34:15-06:00
 aliases: 
-tags: 
+tags: interviewing
 ---
-# tips on completing a timed code test
+# Tips on Completing a Timed Code Test
 
 - Companies filter out candidates with the results of hackerrank and leetcode timed exams.
 - You need to become familiar with the platforms you 
