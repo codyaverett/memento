@@ -1,9 +1,9 @@
 ---
-name: heap memory
+name: Heap Memory
 created: 2022-11-20T15:29:03-06:00
-updated: 2022-11-20T15:30:53-06:00
+updated: 2022-11-28T17:51:15-06:00
 aliases: 
-tags: 
+tags: programming, concept
 ---
 # Heap Memory
 

@@ -44,7 +44,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#rust",
+                "query": "tag:#cloud",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -53,7 +53,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -117,15 +118,15 @@
   },
   "active": "d2d971ba47a8c8b5",
   "lastOpenFiles": [
-    "learning/mental/productivity/all failures are learning opportunities.md",
-    "personal/daily/2022/22-11-12.md",
-    "learning/computing/cryptocurrency/L1 networks/Ethereum/Ethereum.md",
-    "learning/computing/software/data ETL/apache airflow/airflow module management.md",
-    "learning/computing/software/data ETL/apache NiFi.md",
-    "learning/mental/productivity/general productivity tips.md",
-    "learning/computing/programming/python/pyspark/pyspark reference.md",
-    "learning/computing/software/linux/create linux superuser.md",
-    "learning/computing/programming/python/django/Authentication Systems/django authentication system.md",
-    "learning/computing/programming/c-sharp/C-sharp cheatsheet.md"
+    "learning/computing/programming/python/ansible/use ansible_runner from python module.md",
+    "learning/computing/programming/python/concurrency in python.md",
+    "learning/financial/career/management/transitioning from dev to manager.md",
+    "learning/computing/software/github actions/github actions for a django project.md",
+    "learning/computing/programming/python/ansible/ansible for network automation.md",
+    "learning/computing/software/data ETL/apache airflow/airflow hooks.md",
+    "learning/computing/programming/data ETL/ETL basics.md",
+    "learning/computing/cryptocurrency/L1 networks/Avalanche.md",
+    "personal/daily/2022/22-09-30.md",
+    "learning/computing/programming/python/clean python sorting.md"
   ]
 }
