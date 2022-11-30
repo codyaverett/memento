@@ -1548,12 +1548,17 @@
       "size": 2090,
       "tags": 2,
       "links": 0
+    },
+    "learning/mental/productivity/Untitled.md": {
+      "size": 0,
+      "tags": 0,
+      "links": 0
     }
   },
   "commitTypes": {
     "/": {
       "Refactor": 1413,
-      "Create": 318,
+      "Create": 319,
       "Link": 291,
       "Expand": 112
     }
@@ -1577,7 +1582,7 @@
       "14": 44,
       "15": 62,
       "16": 1199,
-      "17": 194,
+      "17": 195,
       "18": 32,
       "19": 26,
       "20": 46,
@@ -1590,7 +1595,7 @@
     "/": {
       "Mon": 1428,
       "Tue": 106,
-      "Wed": 234,
+      "Wed": 235,
       "Thu": 148,
       "Fri": 115,
       "Sat": 0,
@@ -1653,6 +1658,7 @@
         "<a class=\"internal-link\" href=\"programming/python/python decorators primer.md\"> python decorators primer </a>"
       ],
       "Created": [
+        "<a class=\"internal-link\" href=\"learning/mental/productivity/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"learning/computing/programming/SQL/hacks/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"game loop.md\"> game loop </a>",
         "<a class=\"internal-link\" href=\"learning/mental/ADHD/Untitled.md\"> Untitled </a>",
@@ -1702,8 +1708,7 @@
         "<a class=\"internal-link\" href=\"learning/computing/programming/javascript/deno/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"learning/computing/programming/javascript/deno/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"learning/financial/career/interview questions/Untitled.md\"> Untitled </a>",
-        "<a class=\"internal-link\" href=\"learning/financial/career/interview questions/Untitled.md\"> Untitled </a>",
-        "<a class=\"internal-link\" href=\"learning/financial/career/code tests/Untitled.md\"> Untitled </a>"
+        "<a class=\"internal-link\" href=\"learning/financial/career/interview questions/Untitled.md\"> Untitled </a>"
       ],
       "Renamed": [
         "<a class=\"internal-link\" href=\"learning/computing/software/sed.md\"> sed </a>",

@@ -32,9 +32,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "7523c5e065a2a7ec",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "learning/mental/productivity/remote work.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -92,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "learning/computing/programming/SQL/hacks/Integer Table.md",
+                "file": "learning/mental/productivity/remote work.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,7 +122,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "learning/computing/programming/SQL/hacks/Integer Table.md"
+                "file": "learning/mental/productivity/remote work.md"
               }
             }
           },
@@ -137,8 +150,9 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "b5e2be9210abd910",
+  "active": "7523c5e065a2a7ec",
   "lastOpenFiles": [
+    "learning/computing/programming/SQL/hacks/Integer Table.md",
     "learning/computing/programming/python/common python programming errors.md",
     "learning/computing/software/data ETL/apache airflow/apache airflow.md",
     "learning/computing/software/data ETL/apache airflow/airflow hooks.md",
@@ -147,7 +161,6 @@
     "learning/financial/career/management/transitioning from dev to manager.md",
     "learning/computing/software/github actions/github actions for a django project.md",
     "learning/computing/programming/python/ansible/ansible for network automation.md",
-    "learning/computing/programming/data ETL/ETL basics.md",
-    "learning/computing/cryptocurrency/L1 networks/Avalanche.md"
+    "learning/computing/programming/data ETL/ETL basics.md"
   ]
 }
