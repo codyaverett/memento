@@ -105,11 +105,11 @@ ORDER
 
 ```sql
 SELECT 
-	Date(DATE(), printf("+%02d day", 10*t.i+u.i)) AS next_30_dates
+	Date(DATE(), printf("-%02d day", 10*t.i+u.i)) AS next_30_dates
 	FROM integers u
 CROSS
 	JOIN integers t
-WHERE 10*t.i+u.i BETWEEN 0 AND 29
+WHERE 10*t.i+u.i BETWEEN 0 AND 60
 ORDER
 	BY next_30_dates;
 ```
