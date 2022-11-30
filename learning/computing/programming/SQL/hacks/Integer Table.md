@@ -104,8 +104,8 @@ ORDER
 - Adding dates in sqlite is different, [see: add days to a date in sqlite](https://database.guide/add-days-to-a-date-in-sqlite/)
 
 ```sql
-SELECT Date()
-		+ 10*t.i+u.i AS next_30_dates
+SELECT 
+	Date(DATE(), printf("+%02d day", 10*t.i+u.i)) AS next_30_dates
 	FROM integers u
 CROSS
 	JOIN integers t
