@@ -102,3 +102,14 @@ ORDER
 #### Sqlite
 
 - Adding dates in sqlite is different, [see: add days to a date in sqlite](https://database.guide/add-days-to-a-date-in-sqlite/)
+
+```sql
+SELECT printf("")
+		+10*t.i+u.i AS next_30_dates
+	FROM integers u
+CROSS
+	JOIN integers t
+WHERE 10*t.i+u.i BETWEEN 0 AND 29
+ORDER
+	BY next_30_dates;
+```
