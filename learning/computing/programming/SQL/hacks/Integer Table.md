@@ -24,11 +24,9 @@ INSERT INTO integers (i) VALUES (0);
 
 ## Generate Sequential Data
 
-
 ### Numbers 0-99
 
 Join the table to itself to generate more numbers
-
 ```sql
 
 -- Multiply the first digits by 10
@@ -50,3 +48,30 @@ SELECT 10*t.i+u.i AS number
 ORDER
 	BY number;
 ```
+
+### Letters A-Z
+
+You can use integer tables to generate the alphabet
+```sql
+SELECT SUBSTRING('ABCDEFGHIJKLMNOPQRSTUVWXYZ'
+			, FROM 10*t.i_u.i FOR 1) AS letter
+	FROM integers u
+CROSS
+	JOIN integers t
+WHERE 10*t.i+u.i BETWEEN 1 AND 26
+ORDER
+	BY letter;
+```
+
+#### SQL Server
+```sql
+SELECT SUBSTRING('ABCDEFGHIJKLMNOPQRSTUVWXYZ'
+			, 10*t.i_u.i, 1) AS letter
+	FROM integers u
+CROSS
+	JOIN integers t
+WHERE 10*t.i+u.i BETWEEN 1 AND 26
+ORDER
+	BY letter;
+```
+
