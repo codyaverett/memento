@@ -54,7 +54,7 @@ ORDER
 You can use integer tables to generate the alphabet
 ```sql
 SELECT SUBSTRING('ABCDEFGHIJKLMNOPQRSTUVWXYZ'
-			, FROM 10*t.i_u.i FOR 1) AS letter
+			, FROM 10*t.i+u.i FOR 1) AS letter
 	FROM integers u
 CROSS
 	JOIN integers t
@@ -63,10 +63,10 @@ ORDER
 	BY letter;
 ```
 
-#### SQL Server
+#### SQL Server and sqlite
 ```sql
 SELECT SUBSTRING('ABCDEFGHIJKLMNOPQRSTUVWXYZ'
-			, 10*t.i_u.i, 1) AS letter
+			, 10*t.i+u.i, 1) AS letter
 	FROM integers u
 CROSS
 	JOIN integers t
@@ -75,3 +75,15 @@ ORDER
 	BY letter;
 ```
 
+### Double letters
+
+```sql
+SELECT SUBSTRING('ABCDEFGHIJKLMNOPQRSTUVWXYZ'
+			, 10*t.i+u.i, 1) AS letter
+	FROM integers u
+CROSS
+	JOIN integers t
+WHERE 10*t.i+u.i BETWEEN 1 AND 26
+ORDER
+	BY letter;
+```
