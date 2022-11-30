@@ -89,8 +89,8 @@ ORDER
 #### SQL Server
 
 ```sql
-SELECT GETDATE()
-		+10*t.i+u.i AS next_30_dates
+SELECT GETDATE() --CURRENT_DATE
+		+ 10*t.i+u.i AS next_30_dates
 	FROM integers u
 CROSS
 	JOIN integers t
@@ -104,8 +104,8 @@ ORDER
 - Adding dates in sqlite is different, [see: add days to a date in sqlite](https://database.guide/add-days-to-a-date-in-sqlite/)
 
 ```sql
-SELECT printf("")
-		+10*t.i+u.i AS next_30_dates
+SELECT Date(printf("")
+		+ 10*t.i+u.i AS next_30_dates
 	FROM integers u
 CROSS
 	JOIN integers t
