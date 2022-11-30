@@ -1545,7 +1545,7 @@
       "links": 0
     },
     "learning/computing/programming/SQL/hacks/Integer Table.md": {
-      "size": 0,
+      "size": 2090,
       "tags": 2,
       "links": 0
     }
@@ -1555,7 +1555,7 @@
       "Refactor": 1413,
       "Create": 318,
       "Link": 291,
-      "Expand": 111
+      "Expand": 112
     }
   },
   "dailyCommits": {
@@ -1583,13 +1583,13 @@
       "20": 46,
       "21": 90,
       "22": 85,
-      "23": 51
+      "23": 52
     }
   },
   "weeklyCommits": {
     "/": {
       "Mon": 1428,
-      "Tue": 105,
+      "Tue": 106,
       "Wed": 234,
       "Thu": 148,
       "Fri": 115,
@@ -1600,6 +1600,7 @@
   "recentCommits": {
     "/": {
       "Expanded": [
+        "<a class=\"internal-link\" href=\"learning/computing/programming/SQL/hacks/Integer Table.md\"> Integer Table </a>",
         "<a class=\"internal-link\" href=\"learning/mental/ADHD/ADHD and successful thinking.md\"> ADHD and successful thinking </a>",
         "<a class=\"internal-link\" href=\"personal/notes/Learning and documenting rust.md\"> Learning and documenting rust </a>",
         "<a class=\"internal-link\" href=\"learning/computing/programming/rust/basics/control flow.md\"> control flow </a>",
@@ -1649,8 +1650,7 @@
         "<a class=\"internal-link\" href=\"programming/deno/A fresh look at Deno - Brian Barrow.md\"> A fresh look at Deno - Brian Barrow </a>",
         "<a class=\"internal-link\" href=\"personal/job-hunting/data etl project.md\"> data etl project </a>",
         "<a class=\"internal-link\" href=\"programming/python/handle SIGTERM events in python.md\"> handle SIGTERM events in python </a>",
-        "<a class=\"internal-link\" href=\"programming/python/python decorators primer.md\"> python decorators primer </a>",
-        "<a class=\"internal-link\" href=\"programming/python/create a minimal python package.md\"> create a minimal python package </a>"
+        "<a class=\"internal-link\" href=\"programming/python/python decorators primer.md\"> python decorators primer </a>"
       ],
       "Created": [
         "<a class=\"internal-link\" href=\"learning/computing/programming/SQL/hacks/Untitled.md\"> Untitled </a>",
