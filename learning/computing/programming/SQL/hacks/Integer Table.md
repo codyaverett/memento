@@ -1,7 +1,7 @@
 ---
 name: Integer Table
 created: 2022-11-29T22:46:08-06:00
-updated: 2022-11-29T23:15:44-06:00
+updated: 2022-11-29T23:26:48-06:00
 aliases: 
 tags: sql, hack
 ---
@@ -84,11 +84,13 @@ ORDER
 	BY letter;
 ```
 
-### Date ranges
+### Date Ranges
+
+#### SQL Server
 
 ```sql
-SELECT current_date
-		+ 10*t.i+u.i AS next_30_dates
+SELECT GETDATE()
+		+10*t.i+u.i AS next_30_dates
 	FROM integers u
 CROSS
 	JOIN integers t
@@ -96,3 +98,7 @@ WHERE 10*t.i+u.i BETWEEN 0 AND 29
 ORDER
 	BY next_30_dates;
 ```
+
+#### Sqlite
+
+- Adding dates in sqlite is different, [see: add days to a date in sqlite](https://database.guide/add-days-to-a-date-in-sqlite/)
