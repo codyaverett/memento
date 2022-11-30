@@ -1,7 +1,7 @@
 ---
 name: Integer Table
 created: 2022-11-29T22:46:08-06:00
-updated: 2022-11-29T22:55:48-06:00
+updated: 2022-11-29T23:15:44-06:00
 aliases: 
 tags: sql, hack
 ---
@@ -20,6 +20,15 @@ INSERT INTO integers (i) VALUES (0),(1),(2),(3),(4),(5),(6),(7),(8),(9);
 If the above syntax is not available in your database use the following
 ```sql
 INSERT INTO integers (i) VALUES (0);
+INSERT INTO integers (i) VALUES (1);
+INSERT INTO integers (i) VALUES (2);
+INSERT INTO integers (i) VALUES (3);
+INSERT INTO integers (i) VALUES (4);
+INSERT INTO integers (i) VALUES (5);
+INSERT INTO integers (i) VALUES (6);
+INSERT INTO integers (i) VALUES (7);
+INSERT INTO integers (i) VALUES (8);
+INSERT INTO integers (i) VALUES (9);
 ```
 
 ## Generate Sequential Data
@@ -63,7 +72,7 @@ ORDER
 	BY letter;
 ```
 
-#### SQL Server and sqlite
+#### SQL Server and Sqlite
 ```sql
 SELECT SUBSTRING('ABCDEFGHIJKLMNOPQRSTUVWXYZ'
 			, 10*t.i+u.i, 1) AS letter
@@ -75,7 +84,7 @@ ORDER
 	BY letter;
 ```
 
-### Double letters
+### Double Letters
 
 ```sql
 SELECT SUBSTRING('ABCDEFGHIJKLMNOPQRSTUVWXYZ'
