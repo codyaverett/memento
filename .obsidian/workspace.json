@@ -11,11 +11,30 @@
             "id": "d2d971ba47a8c8b5",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "learning/computing/programming/python/common python programming errors.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b5e2be9210abd910",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "learning/computing/programming/SQL/hacks/Integer Table.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -53,12 +72,11 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 489.5
+    "width": 359.5
   },
   "right": {
     "id": "27aa3db891e6815a",
@@ -74,6 +92,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "learning/computing/programming/SQL/hacks/Integer Table.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,7 +108,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "learning/computing/programming/SQL/hacks/Integer Table.md"
+              }
             }
           },
           {
@@ -116,8 +137,9 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "d2d971ba47a8c8b5",
+  "active": "b5e2be9210abd910",
   "lastOpenFiles": [
+    "learning/computing/programming/python/common python programming errors.md",
     "learning/computing/software/data ETL/apache airflow/apache airflow.md",
     "learning/computing/software/data ETL/apache airflow/airflow hooks.md",
     "learning/computing/programming/python/ansible/use ansible_runner from python module.md",
@@ -126,7 +148,6 @@
     "learning/computing/software/github actions/github actions for a django project.md",
     "learning/computing/programming/python/ansible/ansible for network automation.md",
     "learning/computing/programming/data ETL/ETL basics.md",
-    "learning/computing/cryptocurrency/L1 networks/Avalanche.md",
-    "personal/daily/2022/22-09-30.md"
+    "learning/computing/cryptocurrency/L1 networks/Avalanche.md"
   ]
 }

@@ -211,7 +211,7 @@
     },
     "learning/computing/software/data ETL/apache airflow/apache airflow.md": {
       "size": 2453,
-      "tags": 0,
+      "tags": 2,
       "links": 0
     },
     "learning/computing/software/data ETL/apache airflow/create airflow user.md": {
@@ -546,7 +546,7 @@
     },
     "learning/computing/programming/python/ansible/use ansible_runner from python module.md": {
       "size": 0,
-      "tags": 0,
+      "tags": 3,
       "links": 0
     },
     "learning/computing/programming/databases/postgres/postgres materialized views.md": {
@@ -1543,13 +1543,18 @@
       "size": 0,
       "tags": 3,
       "links": 0
+    },
+    "learning/computing/programming/SQL/hacks/Integer Table.md": {
+      "size": 0,
+      "tags": 2,
+      "links": 0
     }
   },
   "commitTypes": {
     "/": {
       "Refactor": 1413,
-      "Create": 317,
-      "Link": 288,
+      "Create": 318,
+      "Link": 291,
       "Expand": 111
     }
   },
@@ -1573,18 +1578,18 @@
       "15": 62,
       "16": 1199,
       "17": 194,
-      "18": 30,
+      "18": 32,
       "19": 26,
       "20": 46,
       "21": 90,
-      "22": 83,
+      "22": 85,
       "23": 51
     }
   },
   "weeklyCommits": {
     "/": {
-      "Mon": 1426,
-      "Tue": 103,
+      "Mon": 1428,
+      "Tue": 105,
       "Wed": 234,
       "Thu": 148,
       "Fri": 115,
@@ -1648,6 +1653,7 @@
         "<a class=\"internal-link\" href=\"programming/python/create a minimal python package.md\"> create a minimal python package </a>"
       ],
       "Created": [
+        "<a class=\"internal-link\" href=\"learning/computing/programming/SQL/hacks/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"game loop.md\"> game loop </a>",
         "<a class=\"internal-link\" href=\"learning/mental/ADHD/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"learning/computing/programming/react/Untitled.md\"> Untitled </a>",
@@ -1697,8 +1703,7 @@
         "<a class=\"internal-link\" href=\"learning/computing/programming/javascript/deno/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"learning/financial/career/interview questions/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"learning/financial/career/interview questions/Untitled.md\"> Untitled </a>",
-        "<a class=\"internal-link\" href=\"learning/financial/career/code tests/Untitled.md\"> Untitled </a>",
-        "<a class=\"internal-link\" href=\"learning/computing/programming/javascript/nodejs/Untitled.md\"> Untitled </a>"
+        "<a class=\"internal-link\" href=\"learning/financial/career/code tests/Untitled.md\"> Untitled </a>"
       ],
       "Renamed": [
         "<a class=\"internal-link\" href=\"learning/computing/software/sed.md\"> sed </a>",
@@ -1754,6 +1759,9 @@
         "<a class=\"internal-link\" href=\"personal/daily/2022/22-10-05.md\"> 22-10-05 </a>"
       ],
       "Tagged": [
+        "<a class=\"internal-link\" href=\"learning/computing/programming/SQL/hacks/Integer Table.md\"> Integer Table </a>",
+        "<a class=\"internal-link\" href=\"learning/computing/programming/python/ansible/use ansible_runner from python module.md\"> use ansible_runner from python module </a>",
+        "<a class=\"internal-link\" href=\"learning/computing/software/data ETL/apache airflow/apache airflow.md\"> apache airflow </a>",
         "<a class=\"internal-link\" href=\"learning/computing/cryptocurrency/Handshake.md\"> Handshake </a>",
         "<a class=\"internal-link\" href=\"learning/computing/cryptocurrency/L1 networks/Avalanche.md\"> Avalanche </a>",
         "<a class=\"internal-link\" href=\"learning/computing/programming/data ETL/ETL basics.md\"> ETL basics </a>",
@@ -1801,10 +1809,7 @@
         "<a class=\"internal-link\" href=\"personal/daily/2022/22-11-18.md\"> 22-11-18 </a>",
         "<a class=\"internal-link\" href=\"game loop.md\"> game loop </a>",
         "<a class=\"internal-link\" href=\"learning/computing/cryptocurrency/CommunityBuilding.md\"> CommunityBuilding </a>",
-        "<a class=\"internal-link\" href=\"learning/computing/cryptocurrency/L1 networks/Cardano/CardanoAssetIds.md\"> CardanoAssetIds </a>",
-        "<a class=\"internal-link\" href=\"learning/computing/cryptocurrency/NFTQuickLinks.md\"> NFTQuickLinks </a>",
-        "<a class=\"internal-link\" href=\"learning/computing/programming/data ETL/OLAP data models.md\"> OLAP data models </a>",
-        "<a class=\"internal-link\" href=\"learning/computing/programming/data ETL/data modeling.md\"> data modeling </a>"
+        "<a class=\"internal-link\" href=\"learning/computing/cryptocurrency/L1 networks/Cardano/CardanoAssetIds.md\"> CardanoAssetIds </a>"
       ],
       "Refactored": [],
       "Deleted": [
