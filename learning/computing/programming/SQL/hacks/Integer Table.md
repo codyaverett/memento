@@ -84,15 +84,15 @@ ORDER
 	BY letter;
 ```
 
-### Double Letters
+### Date ranges
 
 ```sql
-SELECT SUBSTRING('ABCDEFGHIJKLMNOPQRSTUVWXYZ'
-			, 10*t.i+u.i, 1) AS letter
+SELECT current_date
+		+ 10*t.i+u.i AS next_30_dates
 	FROM integers u
 CROSS
 	JOIN integers t
-WHERE 10*t.i+u.i BETWEEN 1 AND 26
+WHERE 10*t.i+u.i BETWEEN 0 AND 29
 ORDER
-	BY letter;
+	BY next_30_dates;
 ```
