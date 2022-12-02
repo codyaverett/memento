@@ -1549,9 +1549,9 @@
       "tags": 2,
       "links": 0
     },
-    "learning/mental/productivity/Untitled.md": {
+    "learning/mental/productivity/remote work.md": {
       "size": 0,
-      "tags": 0,
+      "tags": 1,
       "links": 0
     }
   },
@@ -1559,7 +1559,7 @@
     "/": {
       "Refactor": 1413,
       "Create": 319,
-      "Link": 291,
+      "Link": 292,
       "Expand": 112
     }
   },
@@ -1583,7 +1583,7 @@
       "15": 62,
       "16": 1199,
       "17": 195,
-      "18": 32,
+      "18": 33,
       "19": 26,
       "20": 46,
       "21": 90,
@@ -1595,7 +1595,7 @@
     "/": {
       "Mon": 1428,
       "Tue": 106,
-      "Wed": 235,
+      "Wed": 236,
       "Thu": 148,
       "Fri": 115,
       "Sat": 0,
@@ -1764,6 +1764,7 @@
         "<a class=\"internal-link\" href=\"personal/daily/2022/22-10-05.md\"> 22-10-05 </a>"
       ],
       "Tagged": [
+        "<a class=\"internal-link\" href=\"learning/mental/productivity/remote work.md\"> remote work </a>",
         "<a class=\"internal-link\" href=\"learning/computing/programming/SQL/hacks/Integer Table.md\"> Integer Table </a>",
         "<a class=\"internal-link\" href=\"learning/computing/programming/python/ansible/use ansible_runner from python module.md\"> use ansible_runner from python module </a>",
         "<a class=\"internal-link\" href=\"learning/computing/software/data ETL/apache airflow/apache airflow.md\"> apache airflow </a>",
@@ -1813,8 +1814,7 @@
         "<a class=\"internal-link\" href=\"learning/financial/career/job-hunting/RevUnit.md\"> RevUnit </a>",
         "<a class=\"internal-link\" href=\"personal/daily/2022/22-11-18.md\"> 22-11-18 </a>",
         "<a class=\"internal-link\" href=\"game loop.md\"> game loop </a>",
-        "<a class=\"internal-link\" href=\"learning/computing/cryptocurrency/CommunityBuilding.md\"> CommunityBuilding </a>",
-        "<a class=\"internal-link\" href=\"learning/computing/cryptocurrency/L1 networks/Cardano/CardanoAssetIds.md\"> CardanoAssetIds </a>"
+        "<a class=\"internal-link\" href=\"learning/computing/cryptocurrency/CommunityBuilding.md\"> CommunityBuilding </a>"
       ],
       "Refactored": [],
       "Deleted": [

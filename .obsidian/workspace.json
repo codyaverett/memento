@@ -39,7 +39,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "learning/mental/productivity/remote work.md",
+                "file": "personal/notes/Learning and documenting rust.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -105,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "learning/mental/productivity/remote work.md",
+                "file": "personal/notes/Learning and documenting rust.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +122,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "learning/mental/productivity/remote work.md"
+                "file": "personal/notes/Learning and documenting rust.md"
               }
             }
           },
@@ -152,6 +152,8 @@
   },
   "active": "7523c5e065a2a7ec",
   "lastOpenFiles": [
+    "personal/task board.md",
+    "learning/mental/productivity/remote work.md",
     "learning/computing/programming/SQL/hacks/Integer Table.md",
     "learning/computing/programming/python/common python programming errors.md",
     "learning/computing/software/data ETL/apache airflow/apache airflow.md",
@@ -159,8 +161,6 @@
     "learning/computing/programming/python/ansible/use ansible_runner from python module.md",
     "learning/computing/programming/python/concurrency in python.md",
     "learning/financial/career/management/transitioning from dev to manager.md",
-    "learning/computing/software/github actions/github actions for a django project.md",
-    "learning/computing/programming/python/ansible/ansible for network automation.md",
-    "learning/computing/programming/data ETL/ETL basics.md"
+    "learning/computing/software/github actions/github actions for a django project.md"
   ]
 }
