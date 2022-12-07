@@ -124,7 +124,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "learning/music/Tunings.md",
+                "file": "personal/notes/Chainsaw Man.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -141,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "learning/music/Tunings.md"
+                "file": "personal/notes/Chainsaw Man.md"
               }
             }
           },
@@ -169,12 +169,12 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "7523c5e065a2a7ec",
+  "active": "d7c7d1cca2b1c9d8",
   "lastOpenFiles": [
+    "learning/music/Tunings.md",
     "personal/shows.md",
     "personal/notes/Chainsaw Man.md",
     "learning/music/Common Chord Progressions.md",
-    "learning/music/Tunings.md",
     "learning/music/Sheet music.md",
     "personal/notes/Learning and documenting rust.md",
     "personal/task board.md",
