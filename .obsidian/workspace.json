@@ -63,36 +63,14 @@
             "id": "a3633fa1832195c0",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "kanban",
               "state": {
-                "file": "learning/techniques/black boxing.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
+                "file": "personal/shows.md"
               }
             }
           }
         ],
         "currentTab": 4
-      },
-      {
-        "id": "5c5fe379834426e7",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "d7c7d1cca2b1c9d8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "personal/notes/Simon Dev's 3d programming course.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          }
-        ]
       }
     ],
     "direction": "vertical"
@@ -150,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "learning/techniques/black boxing.md",
+                "file": "personal/shows.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -167,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "learning/techniques/black boxing.md"
+                "file": "personal/shows.md"
               }
             }
           },
@@ -197,6 +175,7 @@
   },
   "active": "a3633fa1832195c0",
   "lastOpenFiles": [
+    "learning/techniques/black boxing.md",
     "personal/numbers.md",
     "game loop.md",
     "learning/music/Tunings.md",
@@ -205,7 +184,6 @@
     "personal/shows.md",
     "personal/notes/Chainsaw Man.md",
     "learning/music/Common Chord Progressions.md",
-    "learning/music/Sheet music.md",
-    "personal/notes/Learning and documenting rust.md"
+    "learning/music/Sheet music.md"
   ]
 }
