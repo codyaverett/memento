@@ -4,17 +4,25 @@ kanban-plugin: basic
 
 ---
 
-## Watch
+## Backlog
 
+- [ ] Jujitsu Kaizen
+- [ ] Mushoku Tensei
+- [ ] Demon Slayer
 
 
 ## Watching
 
 - [ ] [[Chainsaw Man]]
+- [ ] Boruto - Naruto the next generation
+- [ ] Fullmetal Alchemist - Brotherhood
+- [ ] Castle
 
 
 ## Finished
 
+- [ ] Naruto
+- [ ] Naruto Shipuden
 
 
 
