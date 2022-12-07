@@ -58,9 +58,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "a3633fa1832195c0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "learning/techniques/black boxing.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       },
       {
         "id": "5c5fe379834426e7",
@@ -137,7 +150,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "personal/numbers.md",
+                "file": "learning/techniques/black boxing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -154,7 +167,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "personal/numbers.md"
+                "file": "learning/techniques/black boxing.md"
               }
             }
           },
@@ -182,8 +195,9 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "110fc1c4280ac260",
+  "active": "a3633fa1832195c0",
   "lastOpenFiles": [
+    "personal/numbers.md",
     "game loop.md",
     "learning/music/Tunings.md",
     "personal/notes/Simon Dev's 3d programming course.md",
@@ -192,7 +206,6 @@
     "personal/notes/Chainsaw Man.md",
     "learning/music/Common Chord Progressions.md",
     "learning/music/Sheet music.md",
-    "personal/notes/Learning and documenting rust.md",
-    "learning/mental/productivity/remote work.md"
+    "personal/notes/Learning and documenting rust.md"
   ]
 }
