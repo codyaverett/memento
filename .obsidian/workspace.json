@@ -59,7 +59,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "personal/notes/Chainsaw Man.md",
+                "file": "personal/notes/Simon Dev's 3d programming course.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -124,7 +124,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "personal/notes/Chainsaw Man.md",
+                "file": "learning/music/Tunings.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -141,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "personal/notes/Chainsaw Man.md"
+                "file": "learning/music/Tunings.md"
               }
             }
           },
@@ -169,17 +169,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "d7c7d1cca2b1c9d8",
+  "active": "7523c5e065a2a7ec",
   "lastOpenFiles": [
-    "learning/music/Tunings.md",
+    "personal/notes/Simon Dev's 3d programming course.md",
+    "personal/task board.md",
     "personal/shows.md",
     "personal/notes/Chainsaw Man.md",
+    "learning/music/Tunings.md",
     "learning/music/Common Chord Progressions.md",
     "learning/music/Sheet music.md",
     "personal/notes/Learning and documenting rust.md",
-    "personal/task board.md",
     "learning/mental/productivity/remote work.md",
-    "learning/computing/programming/SQL/hacks/Integer Table.md",
-    "learning/computing/programming/python/common python programming errors.md"
+    "learning/computing/programming/SQL/hacks/Integer Table.md"
   ]
 }
