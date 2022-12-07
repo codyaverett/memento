@@ -1553,13 +1553,28 @@
       "size": 0,
       "tags": 1,
       "links": 0
+    },
+    "learning/music/Common Chord Progressions.md": {
+      "size": 0,
+      "tags": 1,
+      "links": 0
+    },
+    "personal/Untitled Kanban.md": {
+      "size": 0,
+      "tags": 0,
+      "links": 1
+    },
+    "personal/notes/Chainsaw Man.md": {
+      "size": 0,
+      "tags": 1,
+      "links": 0
     }
   },
   "commitTypes": {
     "/": {
       "Refactor": 1413,
-      "Create": 319,
-      "Link": 292,
+      "Create": 322,
+      "Link": 295,
       "Expand": 112
     }
   },
@@ -1582,19 +1597,19 @@
       "14": 44,
       "15": 62,
       "16": 1199,
-      "17": 195,
-      "18": 33,
+      "17": 196,
+      "18": 34,
       "19": 26,
       "20": 46,
       "21": 90,
-      "22": 85,
+      "22": 89,
       "23": 52
     }
   },
   "weeklyCommits": {
     "/": {
-      "Mon": 1428,
-      "Tue": 106,
+      "Mon": 1430,
+      "Tue": 110,
       "Wed": 236,
       "Thu": 148,
       "Fri": 115,
@@ -1658,6 +1673,9 @@
         "<a class=\"internal-link\" href=\"programming/python/python decorators primer.md\"> python decorators primer </a>"
       ],
       "Created": [
+        "<a class=\"internal-link\" href=\"personal/notes/Chainsaw Man.md\"> Chainsaw Man </a>",
+        "<a class=\"internal-link\" href=\"personal/Untitled Kanban.md\"> Untitled Kanban </a>",
+        "<a class=\"internal-link\" href=\"learning/music/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"learning/mental/productivity/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"learning/computing/programming/SQL/hacks/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"game loop.md\"> game loop </a>",
@@ -1705,10 +1723,7 @@
         "<a class=\"internal-link\" href=\"learning/computing/programming/javascript/deno/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"learning/computing/programming/javascript/deno/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"learning/computing/programming/javascript/deno/Untitled.md\"> Untitled </a>",
-        "<a class=\"internal-link\" href=\"learning/computing/programming/javascript/deno/Untitled.md\"> Untitled </a>",
-        "<a class=\"internal-link\" href=\"learning/computing/programming/javascript/deno/Untitled.md\"> Untitled </a>",
-        "<a class=\"internal-link\" href=\"learning/financial/career/interview questions/Untitled.md\"> Untitled </a>",
-        "<a class=\"internal-link\" href=\"learning/financial/career/interview questions/Untitled.md\"> Untitled </a>"
+        "<a class=\"internal-link\" href=\"learning/computing/programming/javascript/deno/Untitled.md\"> Untitled </a>"
       ],
       "Renamed": [
         "<a class=\"internal-link\" href=\"learning/computing/software/sed.md\"> sed </a>",
@@ -1764,6 +1779,8 @@
         "<a class=\"internal-link\" href=\"personal/daily/2022/22-10-05.md\"> 22-10-05 </a>"
       ],
       "Tagged": [
+        "<a class=\"internal-link\" href=\"personal/notes/Chainsaw Man.md\"> Chainsaw Man </a>",
+        "<a class=\"internal-link\" href=\"learning/music/Common Chord Progressions.md\"> Common Chord Progressions </a>",
         "<a class=\"internal-link\" href=\"learning/mental/productivity/remote work.md\"> remote work </a>",
         "<a class=\"internal-link\" href=\"learning/computing/programming/SQL/hacks/Integer Table.md\"> Integer Table </a>",
         "<a class=\"internal-link\" href=\"learning/computing/programming/python/ansible/use ansible_runner from python module.md\"> use ansible_runner from python module </a>",
@@ -1812,9 +1829,7 @@
         "<a class=\"internal-link\" href=\"learning/computing/software/nginx/nginx reverse proxy.md\"> nginx reverse proxy </a>",
         "<a class=\"internal-link\" href=\"learning/cooking/vegan stocking your pantry tips.md\"> vegan stocking your pantry tips </a>",
         "<a class=\"internal-link\" href=\"learning/financial/career/job-hunting/RevUnit.md\"> RevUnit </a>",
-        "<a class=\"internal-link\" href=\"personal/daily/2022/22-11-18.md\"> 22-11-18 </a>",
-        "<a class=\"internal-link\" href=\"game loop.md\"> game loop </a>",
-        "<a class=\"internal-link\" href=\"learning/computing/cryptocurrency/CommunityBuilding.md\"> CommunityBuilding </a>"
+        "<a class=\"internal-link\" href=\"personal/daily/2022/22-11-18.md\"> 22-11-18 </a>"
       ],
       "Refactored": [],
       "Deleted": [
@@ -1871,6 +1886,7 @@
         "<a class=\"internal-link\" href=\"learning/computing/programming/c and c++/Untitled.md\"> Untitled </a>"
       ],
       "Linked": [
+        "<a class=\"internal-link\" href=\"personal/Untitled Kanban.md\"> Untitled Kanban </a>",
         "<a class=\"internal-link\" href=\"personal/notes/Learning rust.md\"> Learning rust </a>",
         "<a class=\"internal-link\" href=\"personal/task board.md\"> task board </a>",
         "<a class=\"internal-link\" href=\"learning/computing/programming/rust/tooling/rustup.md\"> rustup </a>",
@@ -1920,7 +1936,6 @@
         "<a class=\"internal-link\" href=\"python special strings.md\"> python special strings </a>",
         "<a class=\"internal-link\" href=\"Python research.md\"> Python research </a>",
         "<a class=\"internal-link\" href=\"django class models.md\"> django class models </a>",
-        "<a class=\"internal-link\" href=\"programming/python/python programming language.md\"> python programming language </a>",
         "<a class=\"internal-link\" href=\"programming/python/python programming language.md\"> python programming language </a>"
       ],
       "Removed Tags from": [
