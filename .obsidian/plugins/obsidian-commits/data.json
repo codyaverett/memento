@@ -1568,12 +1568,17 @@
       "size": 0,
       "tags": 0,
       "links": 1
+    },
+    "personal/numbers.md": {
+      "size": 0,
+      "tags": 0,
+      "links": 0
     }
   },
   "commitTypes": {
     "/": {
       "Refactor": 1413,
-      "Create": 322,
+      "Create": 323,
       "Link": 295,
       "Expand": 112
     }
@@ -1584,7 +1589,7 @@
       "1": 29,
       "2": 42,
       "3": 52,
-      "4": 20,
+      "4": 21,
       "5": 15,
       "6": 5,
       "7": 0,
@@ -1610,7 +1615,7 @@
     "/": {
       "Mon": 1430,
       "Tue": 110,
-      "Wed": 236,
+      "Wed": 237,
       "Thu": 148,
       "Fri": 115,
       "Sat": 0,
@@ -1673,6 +1678,7 @@
         "<a class=\"internal-link\" href=\"programming/python/python decorators primer.md\"> python decorators primer </a>"
       ],
       "Created": [
+        "<a class=\"internal-link\" href=\"personal/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"personal/notes/Chainsaw Man.md\"> Chainsaw Man </a>",
         "<a class=\"internal-link\" href=\"personal/Untitled Kanban.md\"> Untitled Kanban </a>",
         "<a class=\"internal-link\" href=\"learning/music/Untitled.md\"> Untitled </a>",
@@ -1719,7 +1725,6 @@
         "<a class=\"internal-link\" href=\"learning/computing/programming/javascript/deno/modules/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"learning/computing/programming/javascript/deno/modules/Untitled database.md\"> Untitled database </a>",
         "<a class=\"internal-link\" href=\"learning/computing/programming/javascript/deno/Untitled database.md\"> Untitled database </a>",
-        "<a class=\"internal-link\" href=\"learning/computing/programming/javascript/deno/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"learning/computing/programming/javascript/deno/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"learning/computing/programming/javascript/deno/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"learning/computing/programming/javascript/deno/Untitled.md\"> Untitled </a>",
