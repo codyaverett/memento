@@ -1559,15 +1559,15 @@
       "tags": 1,
       "links": 0
     },
-    "personal/Untitled Kanban.md": {
-      "size": 0,
-      "tags": 0,
-      "links": 1
-    },
     "personal/notes/Chainsaw Man.md": {
       "size": 0,
       "tags": 1,
       "links": 0
+    },
+    "personal/shows.md": {
+      "size": 0,
+      "tags": 0,
+      "links": 1
     }
   },
   "commitTypes": {
