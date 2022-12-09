@@ -9,6 +9,7 @@ kanban-plugin: basic
 - [ ] Jujitsu Kaizen
 - [ ] Mushoku Tensei
 - [ ] Demon Slayer
+- [ ] Sailor Moon
 
 
 ## Watching
@@ -23,6 +24,7 @@ kanban-plugin: basic
 
 - [ ] Naruto
 - [ ] Naruto Shipuden
+- [ ] Gurren Laggan
 
 
 
