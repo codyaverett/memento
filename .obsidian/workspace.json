@@ -63,9 +63,12 @@
             "id": "a3633fa1832195c0",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "markdown",
               "state": {
-                "file": "personal/shows.md"
+                "file": "learning/computing/programming/machine learning/machine learning.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
               }
             }
           }
@@ -128,7 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "personal/shows.md",
+                "file": "learning/computing/programming/machine learning/machine learning.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "personal/shows.md"
+                "file": "learning/computing/programming/machine learning/machine learning.md"
               }
             }
           },
@@ -175,15 +178,15 @@
   },
   "active": "a3633fa1832195c0",
   "lastOpenFiles": [
+    "learning/computing/programming/rust/basics/functions.md",
+    "personal/shows.md",
     "learning/techniques/black boxing.md",
     "personal/numbers.md",
     "game loop.md",
     "learning/music/Tunings.md",
     "personal/notes/Simon Dev's 3d programming course.md",
     "personal/task board.md",
-    "personal/shows.md",
     "personal/notes/Chainsaw Man.md",
-    "learning/music/Common Chord Progressions.md",
-    "learning/music/Sheet music.md"
+    "learning/music/Common Chord Progressions.md"
   ]
 }
