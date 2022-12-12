@@ -13,7 +13,7 @@
             "state": {
               "type": "kanban",
               "state": {
-                "file": "personal/shows.md"
+                "file": "personal/task board.md"
               }
             }
           }
@@ -75,7 +75,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "personal/shows.md",
+                "file": "personal/task board.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -92,7 +92,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "personal/shows.md"
+                "file": "personal/task board.md"
               }
             }
           },
@@ -122,8 +122,8 @@
   },
   "active": "110fc1c4280ac260",
   "lastOpenFiles": [
-    "personal/task board.md",
     "personal/shows.md",
+    "personal/task board.md",
     "personal/numbers.md",
     "learning/financial/debt/calculating credit card interest.md",
     "learning/computing/programming/python/common python programming errors.md",
