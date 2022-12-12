@@ -1587,8 +1587,8 @@
   },
   "commitTypes": {
     "/": {
-      "Refactor": 1413,
-      "Create": 325,
+      "Refactor": 1415,
+      "Create": 326,
       "Link": 297,
       "Expand": 112
     }
@@ -1609,7 +1609,7 @@
       "11": 10,
       "12": 6,
       "13": 52,
-      "14": 46,
+      "14": 49,
       "15": 62,
       "16": 1199,
       "17": 196,
@@ -1623,7 +1623,7 @@
   },
   "weeklyCommits": {
     "/": {
-      "Mon": 1432,
+      "Mon": 1435,
       "Tue": 110,
       "Wed": 239,
       "Thu": 148,
@@ -1689,6 +1689,7 @@
       ],
       "Created": [
         "<a class=\"internal-link\" href=\"learning/financial/debt/Untitled.md\"> Untitled </a>",
+        "<a class=\"internal-link\" href=\"learning/financial/debt/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"learning/techniques/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"personal/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"personal/notes/Chainsaw Man.md\"> Chainsaw Man </a>",
@@ -1737,10 +1738,10 @@
         "<a class=\"internal-link\" href=\"learning/computing/programming/javascript/deno/modules/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"learning/computing/programming/javascript/deno/modules/Untitled database.md\"> Untitled database </a>",
         "<a class=\"internal-link\" href=\"learning/computing/programming/javascript/deno/Untitled database.md\"> Untitled database </a>",
-        "<a class=\"internal-link\" href=\"learning/computing/programming/javascript/deno/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"learning/computing/programming/javascript/deno/Untitled.md\"> Untitled </a>"
       ],
       "Renamed": [
+        "<a class=\"internal-link\" href=\"learning/financial/debt/calculate monthly APR.md\"> calculate monthly APR </a>",
         "<a class=\"internal-link\" href=\"learning/computing/software/sed.md\"> sed </a>",
         "<a class=\"internal-link\" href=\"learning/sed.md\"> sed </a>",
         "<a class=\"internal-link\" href=\"learning/computing/programming/rust/basics/variable data types.md\"> variable data types </a>",
@@ -1790,8 +1791,7 @@
         "<a class=\"internal-link\" href=\"personal/daily/2022/22-11-11.md\"> 22-11-11 </a>",
         "<a class=\"internal-link\" href=\"personal/daily/2022/22-10-10.md\"> 22-10-10 </a>",
         "<a class=\"internal-link\" href=\"personal/daily/2022/22-10-07.md\"> 22-10-07 </a>",
-        "<a class=\"internal-link\" href=\"personal/daily/2022/22-10-06.md\"> 22-10-06 </a>",
-        "<a class=\"internal-link\" href=\"personal/daily/2022/22-10-05.md\"> 22-10-05 </a>"
+        "<a class=\"internal-link\" href=\"personal/daily/2022/22-10-06.md\"> 22-10-06 </a>"
       ],
       "Tagged": [
         "<a class=\"internal-link\" href=\"learning/financial/debt/calculating credit card interest.md\"> calculating credit card interest </a>",
@@ -1848,6 +1848,7 @@
       ],
       "Refactored": [],
       "Deleted": [
+        "<a class=\"internal-link\" href=\"learning/financial/debt/calculate monthly APR.md\"> calculate monthly APR </a>",
         "<a class=\"internal-link\" href=\"personal/daily/2022/22-11-15.md\"> 22-11-15 </a>",
         "<a class=\"internal-link\" href=\"learning/mental/emotions/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"Untitled.md\"> Untitled </a>",
@@ -1897,8 +1898,7 @@
         "<a class=\"internal-link\" href=\"learning/financial/career/job-hunting/staff engineer.md\"> staff engineer </a>",
         "<a class=\"internal-link\" href=\"learning/financial/career/job-hunting/data etl project.md\"> data etl project </a>",
         "<a class=\"internal-link\" href=\"learning/financial/career/job-hunting/data-etl-hindsight.md\"> data-etl-hindsight </a>",
-        "<a class=\"internal-link\" href=\"personal/notes/Follow up on Insurance transition.md\"> Follow up on Insurance transition </a>",
-        "<a class=\"internal-link\" href=\"learning/computing/programming/c and c++/Untitled.md\"> Untitled </a>"
+        "<a class=\"internal-link\" href=\"personal/notes/Follow up on Insurance transition.md\"> Follow up on Insurance transition </a>"
       ],
       "Linked": [
         "<a class=\"internal-link\" href=\"personal/Untitled Kanban.md\"> Untitled Kanban </a>",
