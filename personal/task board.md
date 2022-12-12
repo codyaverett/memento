@@ -15,6 +15,7 @@ tags: null
 
 ## Backlog
 
+- [ ] [[Demo project using tailwindcss]]
 - [ ] [[Ben Levin's course  Blender for musicians]]
 - [ ] [[Learn more about Cardano Blockchain]]
 - [ ] [[Simon Dev's 3d programming course]]
@@ -28,9 +29,8 @@ tags: null
 
 ## Todo
 
-- [ ] [[Demo project using tailwindcss]]
 - [ ] [[Demo webapp project Val and Riz]]
-- [ ] File Benton County Taxes
+- [ ] Learn about Snowflake DWH and document the basics
 
 
 ## WIP
@@ -44,7 +44,11 @@ tags: null
 **Complete**
 
 
+***
 
+## Archive
+
+- [x] File Benton County Taxes
 
 %% kanban:settings
 ```
