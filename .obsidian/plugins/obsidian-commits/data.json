@@ -1580,7 +1580,7 @@
       "links": 0
     },
     "learning/financial/debt/calculating credit card interest.md": {
-      "size": 0,
+      "size": 2802,
       "tags": 2,
       "links": 0
     }
@@ -1590,7 +1590,7 @@
       "Refactor": 1415,
       "Create": 326,
       "Link": 297,
-      "Expand": 112
+      "Expand": 113
     }
   },
   "dailyCommits": {
@@ -1609,7 +1609,7 @@
       "11": 10,
       "12": 6,
       "13": 52,
-      "14": 49,
+      "14": 50,
       "15": 62,
       "16": 1199,
       "17": 196,
@@ -1623,7 +1623,7 @@
   },
   "weeklyCommits": {
     "/": {
-      "Mon": 1435,
+      "Mon": 1436,
       "Tue": 110,
       "Wed": 239,
       "Thu": 148,
@@ -1635,6 +1635,7 @@
   "recentCommits": {
     "/": {
       "Expanded": [
+        "<a class=\"internal-link\" href=\"learning/financial/debt/calculating credit card interest.md\"> calculating credit card interest </a>",
         "<a class=\"internal-link\" href=\"learning/computing/programming/SQL/hacks/Integer Table.md\"> Integer Table </a>",
         "<a class=\"internal-link\" href=\"learning/mental/ADHD/ADHD and successful thinking.md\"> ADHD and successful thinking </a>",
         "<a class=\"internal-link\" href=\"personal/notes/Learning and documenting rust.md\"> Learning and documenting rust </a>",
@@ -1684,8 +1685,7 @@
         "<a class=\"internal-link\" href=\"programming/deno/A fresh look at Deno - Brian Barrow.md\"> A fresh look at Deno - Brian Barrow </a>",
         "<a class=\"internal-link\" href=\"programming/deno/A fresh look at Deno - Brian Barrow.md\"> A fresh look at Deno - Brian Barrow </a>",
         "<a class=\"internal-link\" href=\"personal/job-hunting/data etl project.md\"> data etl project </a>",
-        "<a class=\"internal-link\" href=\"programming/python/handle SIGTERM events in python.md\"> handle SIGTERM events in python </a>",
-        "<a class=\"internal-link\" href=\"programming/python/python decorators primer.md\"> python decorators primer </a>"
+        "<a class=\"internal-link\" href=\"programming/python/handle SIGTERM events in python.md\"> handle SIGTERM events in python </a>"
       ],
       "Created": [
         "<a class=\"internal-link\" href=\"learning/financial/debt/Untitled.md\"> Untitled </a>",
