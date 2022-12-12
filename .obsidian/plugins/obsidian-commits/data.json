@@ -1578,13 +1578,18 @@
       "size": 0,
       "tags": 2,
       "links": 0
+    },
+    "learning/financial/debt/calculating credit card interest.md": {
+      "size": 0,
+      "tags": 2,
+      "links": 0
     }
   },
   "commitTypes": {
     "/": {
       "Refactor": 1413,
-      "Create": 324,
-      "Link": 296,
+      "Create": 325,
+      "Link": 297,
       "Expand": 112
     }
   },
@@ -1604,7 +1609,7 @@
       "11": 10,
       "12": 6,
       "13": 52,
-      "14": 44,
+      "14": 46,
       "15": 62,
       "16": 1199,
       "17": 196,
@@ -1618,7 +1623,7 @@
   },
   "weeklyCommits": {
     "/": {
-      "Mon": 1430,
+      "Mon": 1432,
       "Tue": 110,
       "Wed": 239,
       "Thu": 148,
@@ -1683,6 +1688,7 @@
         "<a class=\"internal-link\" href=\"programming/python/python decorators primer.md\"> python decorators primer </a>"
       ],
       "Created": [
+        "<a class=\"internal-link\" href=\"learning/financial/debt/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"learning/techniques/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"personal/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"personal/notes/Chainsaw Man.md\"> Chainsaw Man </a>",
@@ -1731,7 +1737,6 @@
         "<a class=\"internal-link\" href=\"learning/computing/programming/javascript/deno/modules/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"learning/computing/programming/javascript/deno/modules/Untitled database.md\"> Untitled database </a>",
         "<a class=\"internal-link\" href=\"learning/computing/programming/javascript/deno/Untitled database.md\"> Untitled database </a>",
-        "<a class=\"internal-link\" href=\"learning/computing/programming/javascript/deno/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"learning/computing/programming/javascript/deno/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"learning/computing/programming/javascript/deno/Untitled.md\"> Untitled </a>"
       ],
@@ -1789,6 +1794,7 @@
         "<a class=\"internal-link\" href=\"personal/daily/2022/22-10-05.md\"> 22-10-05 </a>"
       ],
       "Tagged": [
+        "<a class=\"internal-link\" href=\"learning/financial/debt/calculating credit card interest.md\"> calculating credit card interest </a>",
         "<a class=\"internal-link\" href=\"learning/techniques/black boxing.md\"> black boxing </a>",
         "<a class=\"internal-link\" href=\"personal/notes/Chainsaw Man.md\"> Chainsaw Man </a>",
         "<a class=\"internal-link\" href=\"learning/music/Common Chord Progressions.md\"> Common Chord Progressions </a>",
@@ -1838,8 +1844,7 @@
         "<a class=\"internal-link\" href=\"learning/computing/programming/shell/simple curl script.md\"> simple curl script </a>",
         "<a class=\"internal-link\" href=\"learning/computing/software/LDAP/finding ldap servers with nslookup.md\"> finding ldap servers with nslookup </a>",
         "<a class=\"internal-link\" href=\"learning/computing/software/nginx/nginx reverse proxy.md\"> nginx reverse proxy </a>",
-        "<a class=\"internal-link\" href=\"learning/cooking/vegan stocking your pantry tips.md\"> vegan stocking your pantry tips </a>",
-        "<a class=\"internal-link\" href=\"learning/financial/career/job-hunting/RevUnit.md\"> RevUnit </a>"
+        "<a class=\"internal-link\" href=\"learning/cooking/vegan stocking your pantry tips.md\"> vegan stocking your pantry tips </a>"
       ],
       "Refactored": [],
       "Deleted": [
