@@ -1,7 +1,7 @@
 ---
 name: Calculating Credit Card Interest
 created: 2022-12-12T14:13:38-06:00
-updated: 2022-12-12T14:42:28-06:00
+updated: 2022-12-12T14:45:05-06:00
 aliases: 
 tags: credit, debt
 ---
@@ -45,3 +45,7 @@ The steps above will put you on the right path to not only learning how to calcu
 
 Your credit card balance can fluctuate on a daily, weekly and monthly basis. By calculating your daily and monthly APR, you can better understand how much of your money is going to interest. Understanding how much of your money is going to interest rather than your balance may also motivate you to pay off your debt or help you decide what purchases are worth putting on the credit card. By breaking down your interest rates on a daily and monthly basis, you can learn more about the interest you are accruing over time and use this information to make some of your financial decisions.
 
+## Reference
+
+- https://www.chase.com/personal/credit-cards/education/interest-apr/how-to-calculate-credit-card-apr-charges
+- https://www.cnbc.com/select/how-to-calculate-credit-card-interest/
