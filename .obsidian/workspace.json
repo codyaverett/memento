@@ -84,9 +84,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "4cee6e38751de586",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "learning/financial/debt/calculating credit card interest.md",
+                "mode": "preview",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -189,8 +202,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "f83a4a81cfb1db13",
+  "active": "4cee6e38751de586",
   "lastOpenFiles": [
+    "learning/financial/debt/calculate monthly APR.md",
+    "learning/financial/debt/calculating credit card interest.md",
     "learning/computing/programming/machine learning/machine learning.md",
     "learning/computing/programming/rust/basics/functions.md",
     "personal/shows.md",
@@ -198,8 +213,6 @@
     "personal/numbers.md",
     "game loop.md",
     "learning/music/Tunings.md",
-    "personal/notes/Simon Dev's 3d programming course.md",
-    "personal/task board.md",
-    "personal/notes/Chainsaw Man.md"
+    "personal/notes/Simon Dev's 3d programming course.md"
   ]
 }
