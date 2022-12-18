@@ -37,6 +37,7 @@ tags: null
 
 - [ ] [[Create a meta-repo cli tool replacement with rust]]
 - [ ] [[Learning and documenting rust]]
+- [ ] Financial Planning
 
 
 ## Done
