@@ -11,13 +11,25 @@
             "id": "110fc1c4280ac260",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "markdown",
               "state": {
-                "file": "personal/task board.md"
+                "file": "learning/financial/debt/calculating credit card interest.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
               }
             }
+          },
+          {
+            "id": "44b27208c171f5f5",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -75,7 +87,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "personal/task board.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -91,9 +102,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "personal/task board.md"
-              }
+              "state": {}
             }
           },
           {
@@ -120,17 +129,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "110fc1c4280ac260",
+  "active": "44b27208c171f5f5",
   "lastOpenFiles": [
+    "game loop.md",
     "personal/shows.md",
     "personal/task board.md",
-    "personal/numbers.md",
+    "learning/financial/trading/Support and resistance.md",
     "learning/financial/debt/calculating credit card interest.md",
+    "personal/numbers.md",
     "learning/computing/programming/python/common python programming errors.md",
     "learning/computing/programming/SQL/hacks/Integer Table.md",
-    "game loop.md",
     "learning/computing/programming/machine learning/machine learning.md",
-    "learning/financial/debt/calculate monthly APR.md",
-    "learning/computing/programming/rust/basics/functions.md"
+    "learning/financial/debt/calculate monthly APR.md"
   ]
 }

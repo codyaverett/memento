@@ -10,11 +10,11 @@ kanban-plugin: basic
 - [ ] Mushoku Tensei
 - [ ] Demon Slayer
 - [ ] Sailor Moon
+- [ ] Vox Machina
 
 
 ## Watching
 
-- [ ] [[Chainsaw Man]]
 - [ ] Boruto - Naruto the next generation
 - [ ] Fullmetal Alchemist - Brotherhood
 - [ ] Castle
@@ -22,6 +22,7 @@ kanban-plugin: basic
 
 ## Finished
 
+- [ ] [[Chainsaw Man]]
 - [ ] Naruto
 - [ ] Naruto Shipuden
 - [ ] Gurren Laggan
