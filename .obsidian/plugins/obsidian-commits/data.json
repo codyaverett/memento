@@ -1583,13 +1583,23 @@
       "size": 0,
       "tags": 1,
       "links": 0
+    },
+    "learning/mental/productivity/Take a brain break.md": {
+      "size": 0,
+      "tags": 1,
+      "links": 0
+    },
+    "learning/computing/programming/rust/ownership/stack and heap.md": {
+      "size": 0,
+      "tags": 3,
+      "links": 0
     }
   },
   "commitTypes": {
     "/": {
       "Refactor": 1416,
-      "Create": 327,
-      "Link": 298,
+      "Create": 329,
+      "Link": 300,
       "Expand": 113
     }
   },
@@ -1604,7 +1614,7 @@
       "6": 6,
       "7": 0,
       "8": 1,
-      "9": 0,
+      "9": 4,
       "10": 12,
       "11": 10,
       "12": 6,
@@ -1623,7 +1633,7 @@
   },
   "weeklyCommits": {
     "/": {
-      "Mon": 1436,
+      "Mon": 1440,
       "Tue": 112,
       "Wed": 239,
       "Thu": 148,
@@ -1688,6 +1698,8 @@
         "<a class=\"internal-link\" href=\"programming/python/handle SIGTERM events in python.md\"> handle SIGTERM events in python </a>"
       ],
       "Created": [
+        "<a class=\"internal-link\" href=\"learning/computing/programming/rust/ownership/Untitled.md\"> Untitled </a>",
+        "<a class=\"internal-link\" href=\"learning/mental/productivity/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"learning/financial/trading/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"learning/financial/debt/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"learning/financial/debt/Untitled.md\"> Untitled </a>",
@@ -1736,9 +1748,7 @@
         "<a class=\"internal-link\" href=\"learning/computing/programming/javascript/deno/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"learning/computing/programming/javascript/deno/modules/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"learning/computing/programming/javascript/deno/Untitled.md\"> Untitled </a>",
-        "<a class=\"internal-link\" href=\"learning/computing/programming/javascript/deno/modules/Untitled.md\"> Untitled </a>",
-        "<a class=\"internal-link\" href=\"learning/computing/programming/javascript/deno/modules/Untitled database.md\"> Untitled database </a>",
-        "<a class=\"internal-link\" href=\"learning/computing/programming/javascript/deno/Untitled database.md\"> Untitled database </a>"
+        "<a class=\"internal-link\" href=\"learning/computing/programming/javascript/deno/modules/Untitled.md\"> Untitled </a>"
       ],
       "Renamed": [
         "<a class=\"internal-link\" href=\"learning/financial/debt/calculate monthly APR.md\"> calculate monthly APR </a>",
@@ -1794,6 +1804,8 @@
         "<a class=\"internal-link\" href=\"personal/daily/2022/22-10-06.md\"> 22-10-06 </a>"
       ],
       "Tagged": [
+        "<a class=\"internal-link\" href=\"learning/computing/programming/rust/ownership/stack and heap.md\"> stack and heap </a>",
+        "<a class=\"internal-link\" href=\"learning/mental/productivity/Take a brain break.md\"> Take a brain break </a>",
         "<a class=\"internal-link\" href=\"learning/financial/trading/Support and resistance.md\"> Support and resistance </a>",
         "<a class=\"internal-link\" href=\"learning/financial/debt/calculating credit card interest.md\"> calculating credit card interest </a>",
         "<a class=\"internal-link\" href=\"learning/techniques/black boxing.md\"> black boxing </a>",
@@ -1842,9 +1854,7 @@
         "<a class=\"internal-link\" href=\"learning/computing/programming/python/functional python programming.md\"> functional python programming </a>",
         "<a class=\"internal-link\" href=\"learning/computing/programming/python/python package name collisions.md\"> python package name collisions </a>",
         "<a class=\"internal-link\" href=\"learning/computing/programming/react/patterns/function-as-children component.md\"> function-as-children component </a>",
-        "<a class=\"internal-link\" href=\"learning/computing/programming/shell/simple curl script.md\"> simple curl script </a>",
-        "<a class=\"internal-link\" href=\"learning/computing/software/LDAP/finding ldap servers with nslookup.md\"> finding ldap servers with nslookup </a>",
-        "<a class=\"internal-link\" href=\"learning/computing/software/nginx/nginx reverse proxy.md\"> nginx reverse proxy </a>"
+        "<a class=\"internal-link\" href=\"learning/computing/programming/shell/simple curl script.md\"> simple curl script </a>"
       ],
       "Refactored": [],
       "Deleted": [
