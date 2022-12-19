@@ -58,9 +58,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "3f51f383d74327d7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "learning/financial/trading/top down analysis.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -118,7 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "learning/financial/trading/trading terminology.md",
+                "file": "learning/financial/trading/top down analysis.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "learning/financial/trading/trading terminology.md"
+                "file": "learning/financial/trading/top down analysis.md"
               }
             }
           },
@@ -163,8 +176,9 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "c84a116518e4b403",
+  "active": "3f51f383d74327d7",
   "lastOpenFiles": [
+    "learning/financial/trading/trading terminology.md",
     "learning/financial/trading/trading confluence.md",
     "learning/financial/trading/tools/trading view.md",
     "learning/financial/trading/support and resistance.md",
@@ -173,7 +187,6 @@
     "personal/daily/2022/22-12-19.md",
     "learning/computing/programming/rust/ownership/stack and heap.md",
     "learning/mental/productivity/Take a brain break.md",
-    "personal/notes/Create a meta-repo cli tool replacement with rust.md",
-    "personal/task board.md"
+    "personal/notes/Create a meta-repo cli tool replacement with rust.md"
   ]
 }
