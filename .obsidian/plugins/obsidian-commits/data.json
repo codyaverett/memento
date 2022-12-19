@@ -1603,12 +1603,22 @@
       "size": 0,
       "tags": 1,
       "links": 0
+    },
+    "personal/daily/2022/22-12-19.md": {
+      "size": 0,
+      "tags": 0,
+      "links": 0
+    },
+    "learning/financial/trading/tools/trading view.md": {
+      "size": 0,
+      "tags": 0,
+      "links": 0
     }
   },
   "commitTypes": {
     "/": {
-      "Refactor": 1416,
-      "Create": 331,
+      "Refactor": 1417,
+      "Create": 334,
       "Link": 302,
       "Expand": 113
     }
@@ -1628,7 +1638,7 @@
       "10": 12,
       "11": 10,
       "12": 6,
-      "13": 56,
+      "13": 60,
       "14": 50,
       "15": 62,
       "16": 1199,
@@ -1643,7 +1653,7 @@
   },
   "weeklyCommits": {
     "/": {
-      "Mon": 1444,
+      "Mon": 1448,
       "Tue": 112,
       "Wed": 239,
       "Thu": 148,
@@ -1708,6 +1718,9 @@
         "<a class=\"internal-link\" href=\"programming/python/handle SIGTERM events in python.md\"> handle SIGTERM events in python </a>"
       ],
       "Created": [
+        "<a class=\"internal-link\" href=\"learning/financial/trading/tools/Untitled.md\"> Untitled </a>",
+        "<a class=\"internal-link\" href=\"learning/financial/trading/Untitled.md\"> Untitled </a>",
+        "<a class=\"internal-link\" href=\"personal/daily/2022/22-12-19.md\"> 22-12-19 </a>",
         "<a class=\"internal-link\" href=\"learning/financial/trading/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"learning/financial/trading/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"learning/computing/programming/rust/ownership/Untitled.md\"> Untitled </a>",
@@ -1755,10 +1768,7 @@
         "<a class=\"internal-link\" href=\"learning/computing/software/jq/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"learning/computing/programming/languages/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"learning/computing/programming/javascript/deno/Untitled.md\"> Untitled </a>",
-        "<a class=\"internal-link\" href=\"learning/computing/programming/javascript/deno/Untitled.md\"> Untitled </a>",
-        "<a class=\"internal-link\" href=\"learning/computing/programming/javascript/deno/Untitled.md\"> Untitled </a>",
-        "<a class=\"internal-link\" href=\"learning/computing/programming/javascript/deno/Untitled.md\"> Untitled </a>",
-        "<a class=\"internal-link\" href=\"learning/computing/programming/javascript/deno/modules/Untitled.md\"> Untitled </a>"
+        "<a class=\"internal-link\" href=\"learning/computing/programming/javascript/deno/Untitled.md\"> Untitled </a>"
       ],
       "Renamed": [
         "<a class=\"internal-link\" href=\"learning/financial/debt/calculate monthly APR.md\"> calculate monthly APR </a>",
@@ -1868,6 +1878,7 @@
       ],
       "Refactored": [],
       "Deleted": [
+        "<a class=\"internal-link\" href=\"learning/financial/trading/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"game loop.md\"> game loop </a>",
         "<a class=\"internal-link\" href=\"learning/financial/debt/calculate monthly APR.md\"> calculate monthly APR </a>",
         "<a class=\"internal-link\" href=\"personal/daily/2022/22-11-15.md\"> 22-11-15 </a>",
@@ -1917,8 +1928,7 @@
         "<a class=\"internal-link\" href=\"random/being impaled by a javelin.md\"> being impaled by a javelin </a>",
         "<a class=\"internal-link\" href=\"learning/financial/career/job-hunting/Drawing 2022-11-07 15.59.02.excalidraw.md\"> Drawing 2022-11-07 15.59.02.excalidraw </a>",
         "<a class=\"internal-link\" href=\"learning/financial/career/job-hunting/staff engineer.md\"> staff engineer </a>",
-        "<a class=\"internal-link\" href=\"learning/financial/career/job-hunting/data etl project.md\"> data etl project </a>",
-        "<a class=\"internal-link\" href=\"learning/financial/career/job-hunting/data-etl-hindsight.md\"> data-etl-hindsight </a>"
+        "<a class=\"internal-link\" href=\"learning/financial/career/job-hunting/data etl project.md\"> data etl project </a>"
       ],
       "Linked": [
         "<a class=\"internal-link\" href=\"personal/Untitled Kanban.md\"> Untitled Kanban </a>",

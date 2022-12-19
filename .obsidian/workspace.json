@@ -13,14 +13,28 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "learning/financial/trading/trading expectations.md",
+                "file": "learning/financial/trading/Support and resistance.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c18356194d565d87",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "learning/financial/trading/tools/trading view.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -78,7 +92,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "learning/financial/trading/trading expectations.md",
+                "file": "learning/financial/trading/tools/trading view.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,7 +109,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "learning/financial/trading/trading expectations.md"
+                "file": "learning/financial/trading/tools/trading view.md"
               }
             }
           },
@@ -123,17 +137,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "0fdfbe845a6d3f31",
+  "active": "c18356194d565d87",
   "lastOpenFiles": [
+    "learning/financial/trading/Untitled.md",
+    "learning/financial/trading/Support and resistance.md",
+    "learning/financial/trading/trading expectations.md",
     "learning/financial/trading/Types of trades.md",
     "personal/daily/2022/22-12-19.md",
-    "learning/financial/trading/trading expectations.md",
     "learning/computing/programming/rust/ownership/stack and heap.md",
     "learning/mental/productivity/Take a brain break.md",
     "personal/notes/Create a meta-repo cli tool replacement with rust.md",
     "personal/task board.md",
-    "game loop.md",
-    "personal/shows.md",
-    "learning/financial/trading/Support and resistance.md"
+    "game loop.md"
   ]
 }
