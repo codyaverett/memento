@@ -45,9 +45,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "c84a116518e4b403",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "learning/financial/trading/trading terminology.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -105,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "learning/financial/trading/trading confluence.md",
+                "file": "learning/financial/trading/trading terminology.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "learning/financial/trading/trading confluence.md"
+                "file": "learning/financial/trading/trading terminology.md"
               }
             }
           },
@@ -150,10 +163,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "60e8456dee9c25e4",
+  "active": "c84a116518e4b403",
   "lastOpenFiles": [
-    "learning/financial/trading/tools/trading view.md",
     "learning/financial/trading/trading confluence.md",
+    "learning/financial/trading/tools/trading view.md",
     "learning/financial/trading/support and resistance.md",
     "learning/financial/trading/trading expectations.md",
     "learning/financial/trading/types of trades.md",

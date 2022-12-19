@@ -1606,7 +1606,7 @@
     },
     "learning/financial/trading/trading confluence.md": {
       "size": 0,
-      "tags": 0,
+      "tags": 1,
       "links": 0
     },
     "learning/financial/trading/support and resistance.md": {
@@ -1624,7 +1624,7 @@
     "/": {
       "Refactor": 1419,
       "Create": 335,
-      "Link": 302,
+      "Link": 303,
       "Expand": 113
     }
   },
@@ -1643,7 +1643,7 @@
       "10": 12,
       "11": 10,
       "12": 6,
-      "13": 63,
+      "13": 64,
       "14": 50,
       "15": 62,
       "16": 1199,
@@ -1658,7 +1658,7 @@
   },
   "weeklyCommits": {
     "/": {
-      "Mon": 1451,
+      "Mon": 1452,
       "Tue": 112,
       "Wed": 239,
       "Thu": 148,
@@ -1829,6 +1829,7 @@
         "<a class=\"internal-link\" href=\"personal/daily/2022/22-10-10.md\"> 22-10-10 </a>"
       ],
       "Tagged": [
+        "<a class=\"internal-link\" href=\"learning/financial/trading/trading confluence.md\"> trading confluence </a>",
         "<a class=\"internal-link\" href=\"learning/financial/trading/Types of trades.md\"> Types of trades </a>",
         "<a class=\"internal-link\" href=\"learning/financial/trading/trading expectations.md\"> trading expectations </a>",
         "<a class=\"internal-link\" href=\"learning/computing/programming/rust/ownership/stack and heap.md\"> stack and heap </a>",
@@ -1878,8 +1879,7 @@
         "<a class=\"internal-link\" href=\"learning/computing/programming/general/backtracking.md\"> backtracking </a>",
         "<a class=\"internal-link\" href=\"learning/computing/programming/programming languages you must know.md\"> programming languages you must know </a>",
         "<a class=\"internal-link\" href=\"learning/computing/programming/python/documenting python code with sphinx.md\"> documenting python code with sphinx </a>",
-        "<a class=\"internal-link\" href=\"learning/computing/programming/python/functional python programming.md\"> functional python programming </a>",
-        "<a class=\"internal-link\" href=\"learning/computing/programming/python/python package name collisions.md\"> python package name collisions </a>"
+        "<a class=\"internal-link\" href=\"learning/computing/programming/python/functional python programming.md\"> functional python programming </a>"
       ],
       "Refactored": [],
       "Deleted": [
