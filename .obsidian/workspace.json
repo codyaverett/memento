@@ -71,9 +71,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "242fc85c16ccb588",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "personal/daily/2022/22-12-19.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -131,7 +144,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "learning/financial/trading/Types of trades.md",
+                "file": "personal/daily/2022/22-12-19.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -148,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "learning/financial/trading/Types of trades.md"
+                "file": "personal/daily/2022/22-12-19.md"
               }
             }
           },
@@ -176,8 +189,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "c786e09869628c17",
+  "active": "242fc85c16ccb588",
   "lastOpenFiles": [
+    "learning/financial/trading/trading expectations.md",
+    "learning/financial/trading/Types of trades.md",
     "learning/computing/programming/rust/ownership/stack and heap.md",
     "learning/mental/productivity/Take a brain break.md",
     "personal/notes/Create a meta-repo cli tool replacement with rust.md",
@@ -185,8 +200,6 @@
     "game loop.md",
     "personal/shows.md",
     "learning/financial/trading/Support and resistance.md",
-    "learning/financial/debt/calculating credit card interest.md",
-    "personal/numbers.md",
-    "learning/computing/programming/python/common python programming errors.md"
+    "learning/financial/debt/calculating credit card interest.md"
   ]
 }
