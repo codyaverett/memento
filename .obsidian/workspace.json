@@ -24,12 +24,56 @@
             "id": "44b27208c171f5f5",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "personal/notes/Create a meta-repo cli tool replacement with rust.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "16bb05a41504417b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "learning/mental/productivity/Take a brain break.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ddb2f76d11e2bf52",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "learning/computing/programming/rust/ownership/stack and heap.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c786e09869628c17",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "learning/financial/trading/Types of trades.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -87,6 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "learning/financial/trading/Types of trades.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +147,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "learning/financial/trading/Types of trades.md"
+              }
             }
           },
           {
@@ -129,17 +176,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "44b27208c171f5f5",
+  "active": "c786e09869628c17",
   "lastOpenFiles": [
+    "learning/computing/programming/rust/ownership/stack and heap.md",
+    "learning/mental/productivity/Take a brain break.md",
+    "personal/notes/Create a meta-repo cli tool replacement with rust.md",
+    "personal/task board.md",
     "game loop.md",
     "personal/shows.md",
-    "personal/task board.md",
     "learning/financial/trading/Support and resistance.md",
     "learning/financial/debt/calculating credit card interest.md",
     "personal/numbers.md",
-    "learning/computing/programming/python/common python programming errors.md",
-    "learning/computing/programming/SQL/hacks/Integer Table.md",
-    "learning/computing/programming/machine learning/machine learning.md",
-    "learning/financial/debt/calculate monthly APR.md"
+    "learning/computing/programming/python/common python programming errors.md"
   ]
 }
