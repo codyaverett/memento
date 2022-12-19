@@ -1593,13 +1593,23 @@
       "size": 0,
       "tags": 3,
       "links": 0
+    },
+    "learning/financial/trading/Types of trades.md": {
+      "size": 0,
+      "tags": 1,
+      "links": 0
+    },
+    "learning/financial/trading/trading expectations.md": {
+      "size": 0,
+      "tags": 1,
+      "links": 0
     }
   },
   "commitTypes": {
     "/": {
       "Refactor": 1416,
-      "Create": 329,
-      "Link": 300,
+      "Create": 331,
+      "Link": 302,
       "Expand": 113
     }
   },
@@ -1618,7 +1628,7 @@
       "10": 12,
       "11": 10,
       "12": 6,
-      "13": 52,
+      "13": 56,
       "14": 50,
       "15": 62,
       "16": 1199,
@@ -1633,7 +1643,7 @@
   },
   "weeklyCommits": {
     "/": {
-      "Mon": 1440,
+      "Mon": 1444,
       "Tue": 112,
       "Wed": 239,
       "Thu": 148,
@@ -1698,6 +1708,8 @@
         "<a class=\"internal-link\" href=\"programming/python/handle SIGTERM events in python.md\"> handle SIGTERM events in python </a>"
       ],
       "Created": [
+        "<a class=\"internal-link\" href=\"learning/financial/trading/Untitled.md\"> Untitled </a>",
+        "<a class=\"internal-link\" href=\"learning/financial/trading/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"learning/computing/programming/rust/ownership/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"learning/mental/productivity/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"learning/financial/trading/Untitled.md\"> Untitled </a>",
@@ -1745,8 +1757,6 @@
         "<a class=\"internal-link\" href=\"learning/computing/programming/javascript/deno/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"learning/computing/programming/javascript/deno/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"learning/computing/programming/javascript/deno/Untitled.md\"> Untitled </a>",
-        "<a class=\"internal-link\" href=\"learning/computing/programming/javascript/deno/Untitled.md\"> Untitled </a>",
-        "<a class=\"internal-link\" href=\"learning/computing/programming/javascript/deno/modules/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"learning/computing/programming/javascript/deno/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"learning/computing/programming/javascript/deno/modules/Untitled.md\"> Untitled </a>"
       ],
@@ -1804,6 +1814,8 @@
         "<a class=\"internal-link\" href=\"personal/daily/2022/22-10-06.md\"> 22-10-06 </a>"
       ],
       "Tagged": [
+        "<a class=\"internal-link\" href=\"learning/financial/trading/Types of trades.md\"> Types of trades </a>",
+        "<a class=\"internal-link\" href=\"learning/financial/trading/trading expectations.md\"> trading expectations </a>",
         "<a class=\"internal-link\" href=\"learning/computing/programming/rust/ownership/stack and heap.md\"> stack and heap </a>",
         "<a class=\"internal-link\" href=\"learning/mental/productivity/Take a brain break.md\"> Take a brain break </a>",
         "<a class=\"internal-link\" href=\"learning/financial/trading/Support and resistance.md\"> Support and resistance </a>",
@@ -1852,9 +1864,7 @@
         "<a class=\"internal-link\" href=\"learning/computing/programming/programming languages you must know.md\"> programming languages you must know </a>",
         "<a class=\"internal-link\" href=\"learning/computing/programming/python/documenting python code with sphinx.md\"> documenting python code with sphinx </a>",
         "<a class=\"internal-link\" href=\"learning/computing/programming/python/functional python programming.md\"> functional python programming </a>",
-        "<a class=\"internal-link\" href=\"learning/computing/programming/python/python package name collisions.md\"> python package name collisions </a>",
-        "<a class=\"internal-link\" href=\"learning/computing/programming/react/patterns/function-as-children component.md\"> function-as-children component </a>",
-        "<a class=\"internal-link\" href=\"learning/computing/programming/shell/simple curl script.md\"> simple curl script </a>"
+        "<a class=\"internal-link\" href=\"learning/computing/programming/python/python package name collisions.md\"> python package name collisions </a>"
       ],
       "Refactored": [],
       "Deleted": [

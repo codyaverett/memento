@@ -1,7 +1,7 @@
 ---
-name: Types of trades
+name: Types of Trades
 created: 2022-12-19T13:05:58-06:00
-updated: 2022-12-19T13:06:49-06:00
+updated: 2022-12-19T13:08:56-06:00
 aliases: 
 tags: trading
 ---
@@ -21,4 +21,3 @@ Swing trading is all about finding support and trading to the next resistance le
 
 ## Position Trading
 Position trading is like a zoomed-out version of swing trading or like the trading version of investing. Here you’ll try to build/take a long position low or short position high and then stick with that position for weeks, months, or even years.
-
