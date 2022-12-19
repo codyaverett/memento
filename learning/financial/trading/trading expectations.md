@@ -1,7 +1,7 @@
 ---
-name: trading expectations
+name: Trading Expectations
 created: 2022-12-19T13:09:58-06:00
-updated: 2022-12-19T13:10:21-06:00
+updated: 2022-12-19T13:11:46-06:00
 aliases: 
 tags: trading
 ---
