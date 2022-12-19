@@ -1539,6 +1539,11 @@
       "tags": 2,
       "links": 0
     },
+    "game loop.md": {
+      "size": 0,
+      "tags": 3,
+      "links": 0
+    },
     "learning/computing/programming/SQL/hacks/Integer Table.md": {
       "size": 2090,
       "tags": 2,
@@ -1579,18 +1584,58 @@
       "tags": 2,
       "links": 0
     },
-    "learning/mental/productivity/Take a brain break.md": {
-      "size": 0,
-      "tags": 1,
+    "learning/computing/cryptocurrency/Oracles/Chainlink/Fair Sequencing Services (FSS).md": {
+      "size": 2431,
+      "tags": 0,
+      "links": 0
+    },
+    "learning/computing/programming/rust/basics/Variables and mutability.md": {
+      "size": 1675,
+      "tags": 2,
       "links": 0
     },
     "learning/computing/programming/rust/ownership/stack and heap.md": {
-      "size": 0,
+      "size": 977,
       "tags": 3,
       "links": 0
     },
+    "learning/financial/trading/Types of trades.md": {
+      "size": 1070,
+      "tags": 1,
+      "links": 0
+    },
+    "learning/financial/trading/Support and resistance.md": {
+      "size": 339,
+      "tags": 1,
+      "links": 0
+    },
+    "learning/financial/trading/top down analysis.md": {
+      "size": 300,
+      "tags": 1,
+      "links": 0
+    },
+    "learning/financial/trading/trading confluence.md": {
+      "size": 323,
+      "tags": 1,
+      "links": 0
+    },
     "learning/financial/trading/trading expectations.md": {
-      "size": 0,
+      "size": 1034,
+      "tags": 1,
+      "links": 0
+    },
+    "learning/financial/trading/trading terminology.md": {
+      "size": 216,
+      "tags": 2,
+      "links": 0
+    },
+    "learning/financial/trading/tools/trading view.md": {
+      "size": 597,
+      "tags": 0,
+      "links": 0
+    },
+    "learning/mental/productivity/Take a brain break.md": {
+      "size": 645,
       "tags": 1,
       "links": 0
     },
@@ -1598,38 +1643,13 @@
       "size": 0,
       "tags": 0,
       "links": 0
-    },
-    "learning/financial/trading/tools/trading view.md": {
-      "size": 0,
-      "tags": 0,
-      "links": 0
-    },
-    "learning/financial/trading/trading confluence.md": {
-      "size": 0,
-      "tags": 1,
-      "links": 0
-    },
-    "learning/financial/trading/support and resistance.md": {
-      "size": 0,
-      "tags": 1,
-      "links": 0
-    },
-    "learning/financial/trading/types of trades.md": {
-      "size": 0,
-      "tags": 1,
-      "links": 0
-    },
-    "learning/financial/trading/trading terminology.md": {
-      "size": 0,
-      "tags": 2,
-      "links": 0
     }
   },
   "commitTypes": {
     "/": {
-      "Refactor": 1419,
-      "Create": 336,
-      "Link": 304,
+      "Refactor": 1417,
+      "Create": 340,
+      "Link": 306,
       "Expand": 113
     }
   },
@@ -1644,32 +1664,32 @@
       "6": 6,
       "7": 0,
       "8": 1,
-      "9": 4,
+      "9": 0,
       "10": 12,
       "11": 10,
       "12": 6,
-      "13": 66,
+      "13": 52,
       "14": 50,
-      "15": 62,
+      "15": 87,
       "16": 1199,
       "17": 196,
       "18": 34,
       "19": 26,
       "20": 46,
       "21": 90,
-      "22": 92,
+      "22": 89,
       "23": 52
     }
   },
   "weeklyCommits": {
     "/": {
-      "Mon": 1454,
-      "Tue": 112,
+      "Mon": 1461,
+      "Tue": 110,
       "Wed": 239,
       "Thu": 148,
       "Fri": 115,
       "Sat": 0,
-      "Sun": 104
+      "Sun": 103
     }
   },
   "recentCommits": {
@@ -1728,16 +1748,20 @@
         "<a class=\"internal-link\" href=\"programming/python/handle SIGTERM events in python.md\"> handle SIGTERM events in python </a>"
       ],
       "Created": [
-        "<a class=\"internal-link\" href=\"learning/financial/trading/Untitled.md\"> Untitled </a>",
-        "<a class=\"internal-link\" href=\"learning/financial/trading/Untitled.md\"> Untitled </a>",
-        "<a class=\"internal-link\" href=\"learning/financial/trading/tools/Untitled.md\"> Untitled </a>",
-        "<a class=\"internal-link\" href=\"learning/financial/trading/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"personal/daily/2022/22-12-19.md\"> 22-12-19 </a>",
-        "<a class=\"internal-link\" href=\"learning/financial/trading/Untitled.md\"> Untitled </a>",
-        "<a class=\"internal-link\" href=\"learning/financial/trading/Untitled.md\"> Untitled </a>",
-        "<a class=\"internal-link\" href=\"learning/computing/programming/rust/ownership/Untitled.md\"> Untitled </a>",
-        "<a class=\"internal-link\" href=\"learning/mental/productivity/Untitled.md\"> Untitled </a>",
-        "<a class=\"internal-link\" href=\"learning/financial/trading/Untitled.md\"> Untitled </a>",
+        "<a class=\"internal-link\" href=\"learning/mental/productivity/Take a brain break.md\"> Take a brain break </a>",
+        "<a class=\"internal-link\" href=\"learning/financial/trading/tools/trading view.md\"> trading view </a>",
+        "<a class=\"internal-link\" href=\"learning/financial/trading/trading terminology.md\"> trading terminology </a>",
+        "<a class=\"internal-link\" href=\"learning/financial/trading/trading expectations.md\"> trading expectations </a>",
+        "<a class=\"internal-link\" href=\"learning/financial/trading/trading confluence.md\"> trading confluence </a>",
+        "<a class=\"internal-link\" href=\"learning/financial/trading/top down analysis.md\"> top down analysis </a>",
+        "<a class=\"internal-link\" href=\"learning/financial/trading/Support and resistance.md\"> Support and resistance </a>",
+        "<a class=\"internal-link\" href=\"learning/financial/trading/Types of trades.md\"> Types of trades </a>",
+        "<a class=\"internal-link\" href=\"learning/computing/programming/rust/ownership/stack and heap.md\"> stack and heap </a>",
+        "<a class=\"internal-link\" href=\"personal/daily/2022/22-12-19.md\"> 22-12-19 </a>",
+        "<a class=\"internal-link\" href=\"learning/computing/programming/rust/basics/Variables and mutability.md\"> Variables and mutability </a>",
+        "<a class=\"internal-link\" href=\"learning/computing/cryptocurrency/Oracles/Chainlink/Fair Sequencing Services (FSS).md\"> Fair Sequencing Services (FSS) </a>",
+        "<a class=\"internal-link\" href=\"personal/daily/2022/22-12-14.md\"> 22-12-14 </a>",
         "<a class=\"internal-link\" href=\"learning/financial/debt/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"learning/financial/debt/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"learning/techniques/Untitled.md\"> Untitled </a>",
@@ -1774,15 +1798,9 @@
         "<a class=\"internal-link\" href=\"learning/computing/programming/rust/cargo/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"learning/computing/programming/rust/snippets/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"learning/computing/programming/rust/errors/Untitled.md\"> Untitled </a>",
-        "<a class=\"internal-link\" href=\"learning/computing/programming/rust/basics/Untitled.md\"> Untitled </a>",
-        "<a class=\"internal-link\" href=\"Untitled.md\"> Untitled </a>",
-        "<a class=\"internal-link\" href=\"sed.md\"> sed </a>",
-        "<a class=\"internal-link\" href=\"learning/computing/software/jq/Untitled.md\"> Untitled </a>",
-        "<a class=\"internal-link\" href=\"learning/computing/programming/languages/Untitled.md\"> Untitled </a>"
+        "<a class=\"internal-link\" href=\"learning/computing/programming/rust/basics/Untitled.md\"> Untitled </a>"
       ],
       "Renamed": [
-        "<a class=\"internal-link\" href=\"learning/financial/trading/types of trades.md\"> types of trades </a>",
-        "<a class=\"internal-link\" href=\"learning/financial/trading/support and resistance.md\"> support and resistance </a>",
         "<a class=\"internal-link\" href=\"learning/financial/debt/calculate monthly APR.md\"> calculate monthly APR </a>",
         "<a class=\"internal-link\" href=\"learning/computing/software/sed.md\"> sed </a>",
         "<a class=\"internal-link\" href=\"learning/sed.md\"> sed </a>",
@@ -1831,16 +1849,20 @@
         "<a class=\"internal-link\" href=\"learning/productivity/all failures are learning opportunities.md\"> all failures are learning opportunities </a>",
         "<a class=\"internal-link\" href=\"personal/daily/2022/22-11-12.md\"> 22-11-12 </a>",
         "<a class=\"internal-link\" href=\"personal/daily/2022/22-11-11.md\"> 22-11-11 </a>",
-        "<a class=\"internal-link\" href=\"personal/daily/2022/22-10-10.md\"> 22-10-10 </a>"
+        "<a class=\"internal-link\" href=\"personal/daily/2022/22-10-10.md\"> 22-10-10 </a>",
+        "<a class=\"internal-link\" href=\"personal/daily/2022/22-10-07.md\"> 22-10-07 </a>",
+        "<a class=\"internal-link\" href=\"personal/daily/2022/22-10-06.md\"> 22-10-06 </a>"
       ],
       "Tagged": [
-        "<a class=\"internal-link\" href=\"learning/financial/trading/trading terminology.md\"> trading terminology </a>",
-        "<a class=\"internal-link\" href=\"learning/financial/trading/trading confluence.md\"> trading confluence </a>",
-        "<a class=\"internal-link\" href=\"learning/financial/trading/Types of trades.md\"> Types of trades </a>",
-        "<a class=\"internal-link\" href=\"learning/financial/trading/trading expectations.md\"> trading expectations </a>",
+        "<a class=\"internal-link\" href=\"learning/computing/programming/rust/basics/Variables and mutability.md\"> Variables and mutability </a>",
         "<a class=\"internal-link\" href=\"learning/computing/programming/rust/ownership/stack and heap.md\"> stack and heap </a>",
-        "<a class=\"internal-link\" href=\"learning/mental/productivity/Take a brain break.md\"> Take a brain break </a>",
+        "<a class=\"internal-link\" href=\"learning/financial/trading/Types of trades.md\"> Types of trades </a>",
         "<a class=\"internal-link\" href=\"learning/financial/trading/Support and resistance.md\"> Support and resistance </a>",
+        "<a class=\"internal-link\" href=\"learning/financial/trading/top down analysis.md\"> top down analysis </a>",
+        "<a class=\"internal-link\" href=\"learning/financial/trading/trading confluence.md\"> trading confluence </a>",
+        "<a class=\"internal-link\" href=\"learning/financial/trading/trading expectations.md\"> trading expectations </a>",
+        "<a class=\"internal-link\" href=\"learning/financial/trading/trading terminology.md\"> trading terminology </a>",
+        "<a class=\"internal-link\" href=\"learning/mental/productivity/Take a brain break.md\"> Take a brain break </a>",
         "<a class=\"internal-link\" href=\"learning/financial/debt/calculating credit card interest.md\"> calculating credit card interest </a>",
         "<a class=\"internal-link\" href=\"learning/techniques/black boxing.md\"> black boxing </a>",
         "<a class=\"internal-link\" href=\"personal/notes/Chainsaw Man.md\"> Chainsaw Man </a>",
@@ -1882,14 +1904,12 @@
         "<a class=\"internal-link\" href=\"learning/computing/programming/c-sharp/C-sharp cheatsheet.md\"> C-sharp cheatsheet </a>",
         "<a class=\"internal-link\" href=\"learning/computing/programming/data ETL/OLTP vs OLAP.md\"> OLTP vs OLAP </a>",
         "<a class=\"internal-link\" href=\"learning/computing/programming/frontend/list of dope websites.md\"> list of dope websites </a>",
-        "<a class=\"internal-link\" href=\"learning/computing/programming/general/backtracking.md\"> backtracking </a>",
-        "<a class=\"internal-link\" href=\"learning/computing/programming/programming languages you must know.md\"> programming languages you must know </a>",
-        "<a class=\"internal-link\" href=\"learning/computing/programming/python/documenting python code with sphinx.md\"> documenting python code with sphinx </a>"
+        "<a class=\"internal-link\" href=\"learning/computing/programming/general/backtracking.md\"> backtracking </a>"
       ],
       "Refactored": [],
       "Deleted": [
-        "<a class=\"internal-link\" href=\"learning/financial/trading/Untitled.md\"> Untitled </a>",
-        "<a class=\"internal-link\" href=\"game loop.md\"> game loop </a>",
+        "<a class=\"internal-link\" href=\"personal/daily/2022/22-12-19.md\"> 22-12-19 </a>",
+        "<a class=\"internal-link\" href=\"personal/daily/2022/22-12-14.md\"> 22-12-14 </a>",
         "<a class=\"internal-link\" href=\"learning/financial/debt/calculate monthly APR.md\"> calculate monthly APR </a>",
         "<a class=\"internal-link\" href=\"personal/daily/2022/22-11-15.md\"> 22-11-15 </a>",
         "<a class=\"internal-link\" href=\"learning/mental/emotions/Untitled.md\"> Untitled </a>",
