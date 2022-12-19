@@ -1579,11 +1579,6 @@
       "tags": 2,
       "links": 0
     },
-    "learning/financial/trading/Support and resistance.md": {
-      "size": 0,
-      "tags": 1,
-      "links": 0
-    },
     "learning/mental/productivity/Take a brain break.md": {
       "size": 0,
       "tags": 1,
@@ -1592,11 +1587,6 @@
     "learning/computing/programming/rust/ownership/stack and heap.md": {
       "size": 0,
       "tags": 3,
-      "links": 0
-    },
-    "learning/financial/trading/Types of trades.md": {
-      "size": 0,
-      "tags": 1,
       "links": 0
     },
     "learning/financial/trading/trading expectations.md": {
@@ -1613,12 +1603,27 @@
       "size": 0,
       "tags": 0,
       "links": 0
+    },
+    "learning/financial/trading/trading confluence.md": {
+      "size": 0,
+      "tags": 0,
+      "links": 0
+    },
+    "learning/financial/trading/support and resistance.md": {
+      "size": 0,
+      "tags": 1,
+      "links": 0
+    },
+    "learning/financial/trading/types of trades.md": {
+      "size": 0,
+      "tags": 1,
+      "links": 0
     }
   },
   "commitTypes": {
     "/": {
-      "Refactor": 1417,
-      "Create": 334,
+      "Refactor": 1419,
+      "Create": 335,
       "Link": 302,
       "Expand": 113
     }
@@ -1638,7 +1643,7 @@
       "10": 12,
       "11": 10,
       "12": 6,
-      "13": 60,
+      "13": 63,
       "14": 50,
       "15": 62,
       "16": 1199,
@@ -1653,7 +1658,7 @@
   },
   "weeklyCommits": {
     "/": {
-      "Mon": 1448,
+      "Mon": 1451,
       "Tue": 112,
       "Wed": 239,
       "Thu": 148,
@@ -1718,6 +1723,7 @@
         "<a class=\"internal-link\" href=\"programming/python/handle SIGTERM events in python.md\"> handle SIGTERM events in python </a>"
       ],
       "Created": [
+        "<a class=\"internal-link\" href=\"learning/financial/trading/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"learning/financial/trading/tools/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"learning/financial/trading/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"personal/daily/2022/22-12-19.md\"> 22-12-19 </a>",
@@ -1767,10 +1773,11 @@
         "<a class=\"internal-link\" href=\"sed.md\"> sed </a>",
         "<a class=\"internal-link\" href=\"learning/computing/software/jq/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"learning/computing/programming/languages/Untitled.md\"> Untitled </a>",
-        "<a class=\"internal-link\" href=\"learning/computing/programming/javascript/deno/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"learning/computing/programming/javascript/deno/Untitled.md\"> Untitled </a>"
       ],
       "Renamed": [
+        "<a class=\"internal-link\" href=\"learning/financial/trading/types of trades.md\"> types of trades </a>",
+        "<a class=\"internal-link\" href=\"learning/financial/trading/support and resistance.md\"> support and resistance </a>",
         "<a class=\"internal-link\" href=\"learning/financial/debt/calculate monthly APR.md\"> calculate monthly APR </a>",
         "<a class=\"internal-link\" href=\"learning/computing/software/sed.md\"> sed </a>",
         "<a class=\"internal-link\" href=\"learning/sed.md\"> sed </a>",
@@ -1819,9 +1826,7 @@
         "<a class=\"internal-link\" href=\"learning/productivity/all failures are learning opportunities.md\"> all failures are learning opportunities </a>",
         "<a class=\"internal-link\" href=\"personal/daily/2022/22-11-12.md\"> 22-11-12 </a>",
         "<a class=\"internal-link\" href=\"personal/daily/2022/22-11-11.md\"> 22-11-11 </a>",
-        "<a class=\"internal-link\" href=\"personal/daily/2022/22-10-10.md\"> 22-10-10 </a>",
-        "<a class=\"internal-link\" href=\"personal/daily/2022/22-10-07.md\"> 22-10-07 </a>",
-        "<a class=\"internal-link\" href=\"personal/daily/2022/22-10-06.md\"> 22-10-06 </a>"
+        "<a class=\"internal-link\" href=\"personal/daily/2022/22-10-10.md\"> 22-10-10 </a>"
       ],
       "Tagged": [
         "<a class=\"internal-link\" href=\"learning/financial/trading/Types of trades.md\"> Types of trades </a>",
