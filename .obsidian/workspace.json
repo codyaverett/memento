@@ -4,76 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "79570a1094e628c9",
+        "id": "d33b2e65ab50033d",
         "type": "tabs",
         "children": [
           {
-            "id": "0fdfbe845a6d3f31",
+            "id": "d914b2a2a8f1ee67",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "learning/financial/trading/support and resistance.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c18356194d565d87",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "learning/financial/trading/tools/trading view.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "60e8456dee9c25e4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "learning/financial/trading/trading confluence.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c84a116518e4b403",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "learning/financial/trading/trading terminology.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3f51f383d74327d7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "learning/financial/trading/top down analysis.md",
+                "file": "learning/financial/trading/Support and resistance.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -131,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "learning/financial/trading/top down analysis.md",
+                "file": "learning/financial/trading/Support and resistance.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -148,7 +95,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "learning/financial/trading/top down analysis.md"
+                "file": "learning/financial/trading/Support and resistance.md"
               }
             }
           },
@@ -176,17 +123,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "3f51f383d74327d7",
+  "active": "d914b2a2a8f1ee67",
   "lastOpenFiles": [
-    "learning/financial/trading/trading terminology.md",
-    "learning/financial/trading/trading confluence.md",
-    "learning/financial/trading/tools/trading view.md",
-    "learning/financial/trading/support and resistance.md",
-    "learning/financial/trading/trading expectations.md",
-    "learning/financial/trading/types of trades.md",
     "personal/daily/2022/22-12-19.md",
-    "learning/computing/programming/rust/ownership/stack and heap.md",
-    "learning/mental/productivity/Take a brain break.md",
-    "personal/notes/Create a meta-repo cli tool replacement with rust.md"
+    "personal/daily/2022/22-12-14.md",
+    "personal/shows.md",
+    "personal/task board.md",
+    "personal/numbers.md",
+    "learning/financial/debt/calculating credit card interest.md",
+    "learning/computing/programming/python/common python programming errors.md",
+    "learning/computing/programming/SQL/hacks/Integer Table.md",
+    "game loop.md",
+    "learning/computing/programming/machine learning/machine learning.md"
   ]
 }
