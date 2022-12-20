@@ -39,7 +39,20 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "learning/computing/programming/http/http protocol.md",
+                "file": "learning/computing/programming/protocols/http/http protocol.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d9b5bf021233f547",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "learning/computing/programming/protocols/protocols for transferring data over networks.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -47,7 +60,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -105,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "learning/computing/programming/http/http protocol.md",
+                "file": "learning/computing/programming/protocols/protocols for transferring data over networks.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "learning/computing/programming/http/http protocol.md"
+                "file": "learning/computing/programming/protocols/protocols for transferring data over networks.md"
               }
             }
           },
@@ -150,8 +163,9 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "fd1229b46ab71029",
+  "active": "d9b5bf021233f547",
   "lastOpenFiles": [
+    "learning/computing/programming/protocols/http/http protocol.md",
     "learning/computing/programming/rust/snippets/Append a line to a file.md",
     "learning/language/Untitled.md",
     "learning/computing/programming/rust/tooling/rustup.md",
@@ -160,7 +174,6 @@
     "learning/financial/trading/Support and resistance.md",
     "personal/daily/2022/22-12-19.md",
     "personal/daily/2022/22-12-14.md",
-    "personal/shows.md",
-    "personal/task board.md"
+    "personal/shows.md"
   ]
 }
