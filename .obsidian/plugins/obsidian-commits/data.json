@@ -1643,13 +1643,18 @@
       "size": 0,
       "tags": 0,
       "links": 0
+    },
+    "learning/computing/programming/rust/snippets/Append a line to a file.md": {
+      "size": 0,
+      "tags": 2,
+      "links": 0
     }
   },
   "commitTypes": {
     "/": {
       "Refactor": 1418,
-      "Create": 341,
-      "Link": 306,
+      "Create": 342,
+      "Link": 307,
       "Expand": 113
     }
   },
@@ -1673,7 +1678,7 @@
       "15": 87,
       "16": 1201,
       "17": 196,
-      "18": 34,
+      "18": 36,
       "19": 26,
       "20": 46,
       "21": 90,
@@ -1683,7 +1688,7 @@
   },
   "weeklyCommits": {
     "/": {
-      "Mon": 1463,
+      "Mon": 1465,
       "Tue": 110,
       "Wed": 239,
       "Thu": 148,
@@ -1748,6 +1753,7 @@
         "<a class=\"internal-link\" href=\"programming/python/handle SIGTERM events in python.md\"> handle SIGTERM events in python </a>"
       ],
       "Created": [
+        "<a class=\"internal-link\" href=\"learning/computing/programming/rust/snippets/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"learning/language/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"personal/daily/2022/22-12-19.md\"> 22-12-19 </a>",
         "<a class=\"internal-link\" href=\"learning/mental/productivity/Take a brain break.md\"> Take a brain break </a>",
@@ -1797,8 +1803,7 @@
         "<a class=\"internal-link\" href=\"personal/notes/Setup a bind9 DNS server.md\"> Setup a bind9 DNS server </a>",
         "<a class=\"internal-link\" href=\"learning/computing/programming/languages/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"learning/computing/programming/rust/cargo/Untitled.md\"> Untitled </a>",
-        "<a class=\"internal-link\" href=\"learning/computing/programming/rust/snippets/Untitled.md\"> Untitled </a>",
-        "<a class=\"internal-link\" href=\"learning/computing/programming/rust/errors/Untitled.md\"> Untitled </a>"
+        "<a class=\"internal-link\" href=\"learning/computing/programming/rust/snippets/Untitled.md\"> Untitled </a>"
       ],
       "Renamed": [
         "<a class=\"internal-link\" href=\"learning/financial/debt/calculate monthly APR.md\"> calculate monthly APR </a>",
@@ -1854,6 +1859,7 @@
         "<a class=\"internal-link\" href=\"personal/daily/2022/22-10-06.md\"> 22-10-06 </a>"
       ],
       "Tagged": [
+        "<a class=\"internal-link\" href=\"learning/computing/programming/rust/snippets/Append a line to a file.md\"> Append a line to a file </a>",
         "<a class=\"internal-link\" href=\"learning/computing/programming/rust/basics/Variables and mutability.md\"> Variables and mutability </a>",
         "<a class=\"internal-link\" href=\"learning/computing/programming/rust/ownership/stack and heap.md\"> stack and heap </a>",
         "<a class=\"internal-link\" href=\"learning/financial/trading/Types of trades.md\"> Types of trades </a>",
@@ -1903,8 +1909,7 @@
         "<a class=\"internal-link\" href=\"personal/daily/2022/22-11-12.md\"> 22-11-12 </a>",
         "<a class=\"internal-link\" href=\"learning/computing/programming/c-sharp/C-sharp cheatsheet.md\"> C-sharp cheatsheet </a>",
         "<a class=\"internal-link\" href=\"learning/computing/programming/data ETL/OLTP vs OLAP.md\"> OLTP vs OLAP </a>",
-        "<a class=\"internal-link\" href=\"learning/computing/programming/frontend/list of dope websites.md\"> list of dope websites </a>",
-        "<a class=\"internal-link\" href=\"learning/computing/programming/general/backtracking.md\"> backtracking </a>"
+        "<a class=\"internal-link\" href=\"learning/computing/programming/frontend/list of dope websites.md\"> list of dope websites </a>"
       ],
       "Refactored": [],
       "Deleted": [
