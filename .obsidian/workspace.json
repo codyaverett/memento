@@ -71,9 +71,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "51cb12f002d36834",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "learning/computing/programming/javascript/3d cube with js.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -131,7 +144,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "learning/computing/programming/shell/sftp from a shell script.md",
+                "file": "learning/computing/programming/javascript/3d cube with js.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -148,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "learning/computing/programming/shell/sftp from a shell script.md"
+                "file": "learning/computing/programming/javascript/3d cube with js.md"
               }
             }
           },
@@ -176,8 +189,9 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "82faf32d9d110124",
+  "active": "51cb12f002d36834",
   "lastOpenFiles": [
+    "learning/computing/programming/shell/sftp from a shell script.md",
     "learning/computing/programming/protocols/protocols for transferring data over networks.md",
     "learning/computing/programming/protocols/http/http protocol.md",
     "learning/computing/programming/rust/snippets/Append a line to a file.md",
@@ -186,7 +200,6 @@
     "learning/computing/programming/rust/tooling/cargo.md",
     "learning/computing/programming/rust/rust programming language.md",
     "learning/financial/trading/Support and resistance.md",
-    "personal/daily/2022/22-12-19.md",
-    "personal/daily/2022/22-12-14.md"
+    "personal/daily/2022/22-12-19.md"
   ]
 }
