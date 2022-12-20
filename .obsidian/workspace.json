@@ -19,8 +19,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "64eb210b6fb786e4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "learning/computing/programming/rust/snippets/Append a line to a file.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -78,7 +92,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "learning/computing/programming/rust/tooling/rustup.md",
+                "file": "learning/computing/programming/rust/snippets/Append a line to a file.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,7 +109,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "learning/computing/programming/rust/tooling/rustup.md"
+                "file": "learning/computing/programming/rust/snippets/Append a line to a file.md"
               }
             }
           },
@@ -123,8 +137,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "d914b2a2a8f1ee67",
+  "active": "64eb210b6fb786e4",
   "lastOpenFiles": [
+    "learning/language/Untitled.md",
+    "learning/computing/programming/rust/tooling/rustup.md",
     "learning/computing/programming/rust/tooling/cargo.md",
     "learning/computing/programming/rust/rust programming language.md",
     "learning/financial/trading/Support and resistance.md",
@@ -132,8 +148,6 @@
     "personal/daily/2022/22-12-14.md",
     "personal/shows.md",
     "personal/task board.md",
-    "personal/numbers.md",
-    "learning/financial/debt/calculating credit card interest.md",
-    "learning/computing/programming/python/common python programming errors.md"
+    "personal/numbers.md"
   ]
 }
