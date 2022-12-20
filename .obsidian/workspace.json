@@ -84,9 +84,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "8f03a0306f1d30cd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "learning/mental/ADHD/dealing with ADHD symptoms.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -144,7 +157,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "learning/computing/programming/javascript/3d cube with js.md",
+                "file": "learning/mental/ADHD/dealing with ADHD symptoms.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -161,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "learning/computing/programming/javascript/3d cube with js.md"
+                "file": "learning/mental/ADHD/dealing with ADHD symptoms.md"
               }
             }
           },
@@ -189,8 +202,9 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "51cb12f002d36834",
+  "active": "8f03a0306f1d30cd",
   "lastOpenFiles": [
+    "learning/computing/programming/javascript/3d cube with js.md",
     "learning/computing/programming/shell/sftp from a shell script.md",
     "learning/computing/programming/protocols/protocols for transferring data over networks.md",
     "learning/computing/programming/protocols/http/http protocol.md",
@@ -199,7 +213,6 @@
     "learning/computing/programming/rust/tooling/rustup.md",
     "learning/computing/programming/rust/tooling/cargo.md",
     "learning/computing/programming/rust/rust programming language.md",
-    "learning/financial/trading/Support and resistance.md",
-    "personal/daily/2022/22-12-19.md"
+    "learning/financial/trading/Support and resistance.md"
   ]
 }

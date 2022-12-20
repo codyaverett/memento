@@ -1666,7 +1666,7 @@
     },
     "learning/computing/programming/javascript/3d cube with js.md": {
       "size": 0,
-      "tags": 1,
+      "tags": 2,
       "links": 0
     }
   },
@@ -1674,7 +1674,7 @@
     "/": {
       "Refactor": 1420,
       "Create": 346,
-      "Link": 312,
+      "Link": 313,
       "Expand": 114
     }
   },
@@ -1698,7 +1698,7 @@
       "15": 87,
       "16": 1201,
       "17": 196,
-      "18": 48,
+      "18": 49,
       "19": 26,
       "20": 46,
       "21": 90,
@@ -1708,7 +1708,7 @@
   },
   "weeklyCommits": {
     "/": {
-      "Mon": 1477,
+      "Mon": 1478,
       "Tue": 110,
       "Wed": 239,
       "Thu": 148,
@@ -1880,6 +1880,7 @@
       ],
       "Tagged": [
         "<a class=\"internal-link\" href=\"learning/computing/programming/javascript/3d cube with js.md\"> 3d cube with js </a>",
+        "<a class=\"internal-link\" href=\"learning/computing/programming/javascript/3d cube with js.md\"> 3d cube with js </a>",
         "<a class=\"internal-link\" href=\"learning/computing/programming/shell/sftp from a shell script.md\"> sftp from a shell script </a>",
         "<a class=\"internal-link\" href=\"learning/computing/programming/protocols/protocols for transferring data over networks.md\"> protocols for transferring data over networks </a>",
         "<a class=\"internal-link\" href=\"learning/computing/programming/http/http protocol.md\"> http protocol </a>",
@@ -1928,8 +1929,7 @@
         "<a class=\"internal-link\" href=\"learning/computing/software/data ETL/apache airflow/airflow module management.md\"> airflow module management </a>",
         "<a class=\"internal-link\" href=\"learning/computing/software/linux/create linux superuser.md\"> create linux superuser </a>",
         "<a class=\"internal-link\" href=\"learning/computing/software/obsidian/Graph and Local Graph View.md\"> Graph and Local Graph View </a>",
-        "<a class=\"internal-link\" href=\"learning/mental/productivity/all failures are learning opportunities.md\"> all failures are learning opportunities </a>",
-        "<a class=\"internal-link\" href=\"learning/mental/productivity/general productivity tips.md\"> general productivity tips </a>"
+        "<a class=\"internal-link\" href=\"learning/mental/productivity/all failures are learning opportunities.md\"> all failures are learning opportunities </a>"
       ],
       "Refactored": [],
       "Deleted": [
