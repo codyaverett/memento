@@ -32,9 +32,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "fd1229b46ab71029",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "learning/computing/programming/http/http protocol.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -92,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "learning/computing/programming/rust/snippets/Append a line to a file.md",
+                "file": "learning/computing/programming/http/http protocol.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,7 +122,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "learning/computing/programming/rust/snippets/Append a line to a file.md"
+                "file": "learning/computing/programming/http/http protocol.md"
               }
             }
           },
@@ -137,8 +150,9 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "64eb210b6fb786e4",
+  "active": "fd1229b46ab71029",
   "lastOpenFiles": [
+    "learning/computing/programming/rust/snippets/Append a line to a file.md",
     "learning/language/Untitled.md",
     "learning/computing/programming/rust/tooling/rustup.md",
     "learning/computing/programming/rust/tooling/cargo.md",
@@ -147,7 +161,6 @@
     "personal/daily/2022/22-12-19.md",
     "personal/daily/2022/22-12-14.md",
     "personal/shows.md",
-    "personal/task board.md",
-    "personal/numbers.md"
+    "personal/task board.md"
   ]
 }
