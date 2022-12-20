@@ -1656,15 +1656,20 @@
     },
     "learning/computing/programming/protocols/protocols for transferring data over networks.md": {
       "size": 0,
-      "tags": 0,
+      "tags": 1,
+      "links": 1
+    },
+    "learning/computing/programming/shell/sftp from a shell script.md": {
+      "size": 0,
+      "tags": 3,
       "links": 0
     }
   },
   "commitTypes": {
     "/": {
       "Refactor": 1420,
-      "Create": 344,
-      "Link": 308,
+      "Create": 345,
+      "Link": 311,
       "Expand": 114
     }
   },
@@ -1688,7 +1693,7 @@
       "15": 87,
       "16": 1201,
       "17": 196,
-      "18": 42,
+      "18": 46,
       "19": 26,
       "20": 46,
       "21": 90,
@@ -1698,7 +1703,7 @@
   },
   "weeklyCommits": {
     "/": {
-      "Mon": 1471,
+      "Mon": 1475,
       "Tue": 110,
       "Wed": 239,
       "Thu": 148,
@@ -1763,6 +1768,7 @@
         "<a class=\"internal-link\" href=\"personal/job-hunting/data etl project.md\"> data etl project </a>"
       ],
       "Created": [
+        "<a class=\"internal-link\" href=\"learning/computing/programming/shell/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"learning/computing/programming/protocols/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"learning/computing/programming/http/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"learning/computing/programming/rust/snippets/Untitled.md\"> Untitled </a>",
@@ -1812,8 +1818,7 @@
         "<a class=\"internal-link\" href=\"personal/notes/Demo project using tailwindcss.md\"> Demo project using tailwindcss </a>",
         "<a class=\"internal-link\" href=\"personal/notes/Create a meta-repo cli tool replacement with rust.md\"> Create a meta-repo cli tool replacement with rust </a>",
         "<a class=\"internal-link\" href=\"personal/notes/create a deno plugin.md\"> create a deno plugin </a>",
-        "<a class=\"internal-link\" href=\"personal/notes/Setup a bind9 DNS server.md\"> Setup a bind9 DNS server </a>",
-        "<a class=\"internal-link\" href=\"learning/computing/programming/languages/Untitled.md\"> Untitled </a>"
+        "<a class=\"internal-link\" href=\"personal/notes/Setup a bind9 DNS server.md\"> Setup a bind9 DNS server </a>"
       ],
       "Renamed": [
         "<a class=\"internal-link\" href=\"learning/computing/programming/protocols/protocols for transferring data over networks.md\"> protocols for transferring data over networks </a>",
@@ -1869,6 +1874,8 @@
         "<a class=\"internal-link\" href=\"personal/daily/2022/22-10-10.md\"> 22-10-10 </a>"
       ],
       "Tagged": [
+        "<a class=\"internal-link\" href=\"learning/computing/programming/shell/sftp from a shell script.md\"> sftp from a shell script </a>",
+        "<a class=\"internal-link\" href=\"learning/computing/programming/protocols/protocols for transferring data over networks.md\"> protocols for transferring data over networks </a>",
         "<a class=\"internal-link\" href=\"learning/computing/programming/http/http protocol.md\"> http protocol </a>",
         "<a class=\"internal-link\" href=\"learning/computing/programming/rust/snippets/Append a line to a file.md\"> Append a line to a file </a>",
         "<a class=\"internal-link\" href=\"learning/computing/programming/rust/basics/Variables and mutability.md\"> Variables and mutability </a>",
@@ -1917,9 +1924,7 @@
         "<a class=\"internal-link\" href=\"learning/computing/software/obsidian/Graph and Local Graph View.md\"> Graph and Local Graph View </a>",
         "<a class=\"internal-link\" href=\"learning/mental/productivity/all failures are learning opportunities.md\"> all failures are learning opportunities </a>",
         "<a class=\"internal-link\" href=\"learning/mental/productivity/general productivity tips.md\"> general productivity tips </a>",
-        "<a class=\"internal-link\" href=\"personal/daily/2022/22-11-12.md\"> 22-11-12 </a>",
-        "<a class=\"internal-link\" href=\"learning/computing/programming/c-sharp/C-sharp cheatsheet.md\"> C-sharp cheatsheet </a>",
-        "<a class=\"internal-link\" href=\"learning/computing/programming/data ETL/OLTP vs OLAP.md\"> OLTP vs OLAP </a>"
+        "<a class=\"internal-link\" href=\"personal/daily/2022/22-11-12.md\"> 22-11-12 </a>"
       ],
       "Refactored": [],
       "Deleted": [
@@ -1976,6 +1981,7 @@
         "<a class=\"internal-link\" href=\"learning/financial/career/job-hunting/staff engineer.md\"> staff engineer </a>"
       ],
       "Linked": [
+        "<a class=\"internal-link\" href=\"learning/computing/programming/protocols/protocols for transferring data over networks.md\"> protocols for transferring data over networks </a>",
         "<a class=\"internal-link\" href=\"personal/Untitled Kanban.md\"> Untitled Kanban </a>",
         "<a class=\"internal-link\" href=\"personal/notes/Learning rust.md\"> Learning rust </a>",
         "<a class=\"internal-link\" href=\"personal/task board.md\"> task board </a>",
@@ -2025,8 +2031,7 @@
         "<a class=\"internal-link\" href=\"programming/python/DJango quick reference.md\"> DJango quick reference </a>",
         "<a class=\"internal-link\" href=\"python special strings.md\"> python special strings </a>",
         "<a class=\"internal-link\" href=\"Python research.md\"> Python research </a>",
-        "<a class=\"internal-link\" href=\"django class models.md\"> django class models </a>",
-        "<a class=\"internal-link\" href=\"programming/python/python programming language.md\"> python programming language </a>"
+        "<a class=\"internal-link\" href=\"django class models.md\"> django class models </a>"
       ],
       "Removed Tags from": [
         "<a class=\"internal-link\" href=\"learning/computing/programming/python/python extensions.md\"> python extensions </a>",

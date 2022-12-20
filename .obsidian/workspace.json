@@ -58,9 +58,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "82faf32d9d110124",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "learning/computing/programming/shell/sftp from a shell script.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -118,7 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "learning/computing/programming/protocols/protocols for transferring data over networks.md",
+                "file": "learning/computing/programming/shell/sftp from a shell script.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "learning/computing/programming/protocols/protocols for transferring data over networks.md"
+                "file": "learning/computing/programming/shell/sftp from a shell script.md"
               }
             }
           },
@@ -163,8 +176,9 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "d9b5bf021233f547",
+  "active": "82faf32d9d110124",
   "lastOpenFiles": [
+    "learning/computing/programming/protocols/protocols for transferring data over networks.md",
     "learning/computing/programming/protocols/http/http protocol.md",
     "learning/computing/programming/rust/snippets/Append a line to a file.md",
     "learning/language/Untitled.md",
@@ -173,7 +187,6 @@
     "learning/computing/programming/rust/rust programming language.md",
     "learning/financial/trading/Support and resistance.md",
     "personal/daily/2022/22-12-19.md",
-    "personal/daily/2022/22-12-14.md",
-    "personal/shows.md"
+    "personal/daily/2022/22-12-14.md"
   ]
 }
