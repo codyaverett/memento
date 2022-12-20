@@ -1648,14 +1648,24 @@
       "size": 0,
       "tags": 2,
       "links": 0
+    },
+    "learning/computing/programming/protocols/http/http protocol.md": {
+      "size": 2051,
+      "tags": 2,
+      "links": 0
+    },
+    "learning/computing/programming/protocols/protocols for transferring data over networks.md": {
+      "size": 0,
+      "tags": 0,
+      "links": 0
     }
   },
   "commitTypes": {
     "/": {
-      "Refactor": 1418,
-      "Create": 342,
-      "Link": 307,
-      "Expand": 113
+      "Refactor": 1420,
+      "Create": 344,
+      "Link": 308,
+      "Expand": 114
     }
   },
   "dailyCommits": {
@@ -1678,7 +1688,7 @@
       "15": 87,
       "16": 1201,
       "17": 196,
-      "18": 36,
+      "18": 42,
       "19": 26,
       "20": 46,
       "21": 90,
@@ -1688,7 +1698,7 @@
   },
   "weeklyCommits": {
     "/": {
-      "Mon": 1465,
+      "Mon": 1471,
       "Tue": 110,
       "Wed": 239,
       "Thu": 148,
@@ -1700,6 +1710,7 @@
   "recentCommits": {
     "/": {
       "Expanded": [
+        "<a class=\"internal-link\" href=\"learning/computing/programming/http/http protocol.md\"> http protocol </a>",
         "<a class=\"internal-link\" href=\"learning/financial/debt/calculating credit card interest.md\"> calculating credit card interest </a>",
         "<a class=\"internal-link\" href=\"learning/computing/programming/SQL/hacks/Integer Table.md\"> Integer Table </a>",
         "<a class=\"internal-link\" href=\"learning/mental/ADHD/ADHD and successful thinking.md\"> ADHD and successful thinking </a>",
@@ -1749,10 +1760,11 @@
         "<a class=\"internal-link\" href=\"software/linux/Linux directory Structure.md\"> Linux directory Structure </a>",
         "<a class=\"internal-link\" href=\"programming/deno/A fresh look at Deno - Brian Barrow.md\"> A fresh look at Deno - Brian Barrow </a>",
         "<a class=\"internal-link\" href=\"programming/deno/A fresh look at Deno - Brian Barrow.md\"> A fresh look at Deno - Brian Barrow </a>",
-        "<a class=\"internal-link\" href=\"personal/job-hunting/data etl project.md\"> data etl project </a>",
-        "<a class=\"internal-link\" href=\"programming/python/handle SIGTERM events in python.md\"> handle SIGTERM events in python </a>"
+        "<a class=\"internal-link\" href=\"personal/job-hunting/data etl project.md\"> data etl project </a>"
       ],
       "Created": [
+        "<a class=\"internal-link\" href=\"learning/computing/programming/protocols/Untitled.md\"> Untitled </a>",
+        "<a class=\"internal-link\" href=\"learning/computing/programming/http/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"learning/computing/programming/rust/snippets/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"learning/language/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"personal/daily/2022/22-12-19.md\"> 22-12-19 </a>",
@@ -1801,11 +1813,11 @@
         "<a class=\"internal-link\" href=\"personal/notes/Create a meta-repo cli tool replacement with rust.md\"> Create a meta-repo cli tool replacement with rust </a>",
         "<a class=\"internal-link\" href=\"personal/notes/create a deno plugin.md\"> create a deno plugin </a>",
         "<a class=\"internal-link\" href=\"personal/notes/Setup a bind9 DNS server.md\"> Setup a bind9 DNS server </a>",
-        "<a class=\"internal-link\" href=\"learning/computing/programming/languages/Untitled.md\"> Untitled </a>",
-        "<a class=\"internal-link\" href=\"learning/computing/programming/rust/cargo/Untitled.md\"> Untitled </a>",
-        "<a class=\"internal-link\" href=\"learning/computing/programming/rust/snippets/Untitled.md\"> Untitled </a>"
+        "<a class=\"internal-link\" href=\"learning/computing/programming/languages/Untitled.md\"> Untitled </a>"
       ],
       "Renamed": [
+        "<a class=\"internal-link\" href=\"learning/computing/programming/protocols/protocols for transferring data over networks.md\"> protocols for transferring data over networks </a>",
+        "<a class=\"internal-link\" href=\"learning/computing/programming/protocols/http/http protocol.md\"> http protocol </a>",
         "<a class=\"internal-link\" href=\"learning/financial/debt/calculate monthly APR.md\"> calculate monthly APR </a>",
         "<a class=\"internal-link\" href=\"learning/computing/software/sed.md\"> sed </a>",
         "<a class=\"internal-link\" href=\"learning/sed.md\"> sed </a>",
@@ -1854,11 +1866,10 @@
         "<a class=\"internal-link\" href=\"learning/productivity/all failures are learning opportunities.md\"> all failures are learning opportunities </a>",
         "<a class=\"internal-link\" href=\"personal/daily/2022/22-11-12.md\"> 22-11-12 </a>",
         "<a class=\"internal-link\" href=\"personal/daily/2022/22-11-11.md\"> 22-11-11 </a>",
-        "<a class=\"internal-link\" href=\"personal/daily/2022/22-10-10.md\"> 22-10-10 </a>",
-        "<a class=\"internal-link\" href=\"personal/daily/2022/22-10-07.md\"> 22-10-07 </a>",
-        "<a class=\"internal-link\" href=\"personal/daily/2022/22-10-06.md\"> 22-10-06 </a>"
+        "<a class=\"internal-link\" href=\"personal/daily/2022/22-10-10.md\"> 22-10-10 </a>"
       ],
       "Tagged": [
+        "<a class=\"internal-link\" href=\"learning/computing/programming/http/http protocol.md\"> http protocol </a>",
         "<a class=\"internal-link\" href=\"learning/computing/programming/rust/snippets/Append a line to a file.md\"> Append a line to a file </a>",
         "<a class=\"internal-link\" href=\"learning/computing/programming/rust/basics/Variables and mutability.md\"> Variables and mutability </a>",
         "<a class=\"internal-link\" href=\"learning/computing/programming/rust/ownership/stack and heap.md\"> stack and heap </a>",
@@ -1908,8 +1919,7 @@
         "<a class=\"internal-link\" href=\"learning/mental/productivity/general productivity tips.md\"> general productivity tips </a>",
         "<a class=\"internal-link\" href=\"personal/daily/2022/22-11-12.md\"> 22-11-12 </a>",
         "<a class=\"internal-link\" href=\"learning/computing/programming/c-sharp/C-sharp cheatsheet.md\"> C-sharp cheatsheet </a>",
-        "<a class=\"internal-link\" href=\"learning/computing/programming/data ETL/OLTP vs OLAP.md\"> OLTP vs OLAP </a>",
-        "<a class=\"internal-link\" href=\"learning/computing/programming/frontend/list of dope websites.md\"> list of dope websites </a>"
+        "<a class=\"internal-link\" href=\"learning/computing/programming/data ETL/OLTP vs OLAP.md\"> OLTP vs OLAP </a>"
       ],
       "Refactored": [],
       "Deleted": [
