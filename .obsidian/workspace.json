@@ -89,12 +89,9 @@
             "id": "8f03a0306f1d30cd",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "kanban",
               "state": {
-                "file": "learning/mental/ADHD/dealing with ADHD symptoms.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
+                "file": "personal/shows.md"
               }
             }
           }
@@ -157,7 +154,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "learning/mental/ADHD/dealing with ADHD symptoms.md",
+                "file": "personal/shows.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -174,7 +171,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "learning/mental/ADHD/dealing with ADHD symptoms.md"
+                "file": "personal/shows.md"
               }
             }
           },
@@ -204,6 +201,7 @@
   },
   "active": "8f03a0306f1d30cd",
   "lastOpenFiles": [
+    "learning/mental/ADHD/dealing with ADHD symptoms.md",
     "learning/computing/programming/javascript/3d cube with js.md",
     "learning/computing/programming/shell/sftp from a shell script.md",
     "learning/computing/programming/protocols/protocols for transferring data over networks.md",
@@ -212,7 +210,6 @@
     "learning/language/Untitled.md",
     "learning/computing/programming/rust/tooling/rustup.md",
     "learning/computing/programming/rust/tooling/cargo.md",
-    "learning/computing/programming/rust/rust programming language.md",
-    "learning/financial/trading/Support and resistance.md"
+    "learning/computing/programming/rust/rust programming language.md"
   ]
 }

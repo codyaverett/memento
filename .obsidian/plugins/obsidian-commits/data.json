@@ -1668,13 +1668,18 @@
       "size": 0,
       "tags": 2,
       "links": 0
+    },
+    "learning/mental/ADHD/dealing with ADHD symptoms.md": {
+      "size": 0,
+      "tags": 1,
+      "links": 0
     }
   },
   "commitTypes": {
     "/": {
       "Refactor": 1420,
-      "Create": 346,
-      "Link": 313,
+      "Create": 347,
+      "Link": 314,
       "Expand": 114
     }
   },
@@ -1699,7 +1704,7 @@
       "16": 1201,
       "17": 196,
       "18": 49,
-      "19": 26,
+      "19": 28,
       "20": 46,
       "21": 90,
       "22": 89,
@@ -1708,7 +1713,7 @@
   },
   "weeklyCommits": {
     "/": {
-      "Mon": 1478,
+      "Mon": 1480,
       "Tue": 110,
       "Wed": 239,
       "Thu": 148,
@@ -1773,6 +1778,7 @@
         "<a class=\"internal-link\" href=\"personal/job-hunting/data etl project.md\"> data etl project </a>"
       ],
       "Created": [
+        "<a class=\"internal-link\" href=\"learning/mental/ADHD/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"learning/computing/programming/javascript/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"learning/computing/programming/shell/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"learning/computing/programming/protocols/Untitled.md\"> Untitled </a>",
@@ -1822,8 +1828,7 @@
         "<a class=\"internal-link\" href=\"learning/computing/programming/rust/tooling/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"personal/notes/Demo webapp project Val and Riz.md\"> Demo webapp project Val and Riz </a>",
         "<a class=\"internal-link\" href=\"personal/notes/Demo project using tailwindcss.md\"> Demo project using tailwindcss </a>",
-        "<a class=\"internal-link\" href=\"personal/notes/Create a meta-repo cli tool replacement with rust.md\"> Create a meta-repo cli tool replacement with rust </a>",
-        "<a class=\"internal-link\" href=\"personal/notes/create a deno plugin.md\"> create a deno plugin </a>"
+        "<a class=\"internal-link\" href=\"personal/notes/Create a meta-repo cli tool replacement with rust.md\"> Create a meta-repo cli tool replacement with rust </a>"
       ],
       "Renamed": [
         "<a class=\"internal-link\" href=\"learning/computing/programming/protocols/protocols for transferring data over networks.md\"> protocols for transferring data over networks </a>",
@@ -1879,6 +1884,7 @@
         "<a class=\"internal-link\" href=\"personal/daily/2022/22-10-10.md\"> 22-10-10 </a>"
       ],
       "Tagged": [
+        "<a class=\"internal-link\" href=\"learning/mental/ADHD/dealing with ADHD symptoms.md\"> dealing with ADHD symptoms </a>",
         "<a class=\"internal-link\" href=\"learning/computing/programming/javascript/3d cube with js.md\"> 3d cube with js </a>",
         "<a class=\"internal-link\" href=\"learning/computing/programming/javascript/3d cube with js.md\"> 3d cube with js </a>",
         "<a class=\"internal-link\" href=\"learning/computing/programming/shell/sftp from a shell script.md\"> sftp from a shell script </a>",
@@ -1928,8 +1934,7 @@
         "<a class=\"internal-link\" href=\"learning/computing/software/data ETL/apache NiFi.md\"> apache NiFi </a>",
         "<a class=\"internal-link\" href=\"learning/computing/software/data ETL/apache airflow/airflow module management.md\"> airflow module management </a>",
         "<a class=\"internal-link\" href=\"learning/computing/software/linux/create linux superuser.md\"> create linux superuser </a>",
-        "<a class=\"internal-link\" href=\"learning/computing/software/obsidian/Graph and Local Graph View.md\"> Graph and Local Graph View </a>",
-        "<a class=\"internal-link\" href=\"learning/mental/productivity/all failures are learning opportunities.md\"> all failures are learning opportunities </a>"
+        "<a class=\"internal-link\" href=\"learning/computing/software/obsidian/Graph and Local Graph View.md\"> Graph and Local Graph View </a>"
       ],
       "Refactored": [],
       "Deleted": [
