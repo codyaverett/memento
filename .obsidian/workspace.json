@@ -94,9 +94,22 @@
                 "file": "personal/shows.md"
               }
             }
+          },
+          {
+            "id": "e82657c982a03ccc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "learning/mental/health/abusive relationships.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 6
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -154,7 +167,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "personal/shows.md",
+                "file": "learning/mental/health/abusive relationships.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -171,7 +184,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "personal/shows.md"
+                "file": "learning/mental/health/abusive relationships.md"
               }
             }
           },
@@ -199,8 +212,9 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "8f03a0306f1d30cd",
+  "active": "e82657c982a03ccc",
   "lastOpenFiles": [
+    "personal/shows.md",
     "learning/mental/ADHD/dealing with ADHD symptoms.md",
     "learning/computing/programming/javascript/3d cube with js.md",
     "learning/computing/programming/shell/sftp from a shell script.md",
@@ -209,7 +223,6 @@
     "learning/computing/programming/rust/snippets/Append a line to a file.md",
     "learning/language/Untitled.md",
     "learning/computing/programming/rust/tooling/rustup.md",
-    "learning/computing/programming/rust/tooling/cargo.md",
-    "learning/computing/programming/rust/rust programming language.md"
+    "learning/computing/programming/rust/tooling/cargo.md"
   ]
 }
