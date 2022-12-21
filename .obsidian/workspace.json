@@ -107,9 +107,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "85699157f4e0cbb7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "learning/financial/trading/market cipher/market cipher ideas.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 7
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -167,7 +180,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "learning/mental/health/abusive relationships.md",
+                "file": "learning/financial/trading/market cipher/market cipher ideas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -184,7 +197,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "learning/mental/health/abusive relationships.md"
+                "file": "learning/financial/trading/market cipher/market cipher ideas.md"
               }
             }
           },
@@ -212,8 +225,9 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "e82657c982a03ccc",
+  "active": "85699157f4e0cbb7",
   "lastOpenFiles": [
+    "learning/mental/health/abusive relationships.md",
     "personal/shows.md",
     "learning/mental/ADHD/dealing with ADHD symptoms.md",
     "learning/computing/programming/javascript/3d cube with js.md",
@@ -222,7 +236,6 @@
     "learning/computing/programming/protocols/http/http protocol.md",
     "learning/computing/programming/rust/snippets/Append a line to a file.md",
     "learning/language/Untitled.md",
-    "learning/computing/programming/rust/tooling/rustup.md",
-    "learning/computing/programming/rust/tooling/cargo.md"
+    "learning/computing/programming/rust/tooling/rustup.md"
   ]
 }
