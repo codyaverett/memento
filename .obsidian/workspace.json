@@ -112,9 +112,19 @@
             "id": "85699157f4e0cbb7",
             "type": "leaf",
             "state": {
+              "type": "database-plugin",
+              "state": {
+                "file": "learning/computing/programming/languages/_programming_languages_db.md"
+              }
+            }
+          },
+          {
+            "id": "0327ee1b61d62b2b",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
-                "file": "learning/financial/trading/trading terminology.md",
+                "file": "templates/dapp template.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -180,7 +190,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "learning/financial/trading/trading terminology.md",
+                "file": "learning/computing/programming/languages/_programming_languages_db.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -197,7 +207,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "learning/financial/trading/trading terminology.md"
+                "file": "learning/computing/programming/languages/_programming_languages_db.md"
               }
             }
           },
@@ -227,15 +237,15 @@
   },
   "active": "85699157f4e0cbb7",
   "lastOpenFiles": [
+    "learning/computing/cryptocurrency/L1 networks/Cardano/dapps/_db.md",
+    "learning/computing/cryptocurrency/L1 networks/Cardano/Cardano 1.md",
+    "learning/computing/cryptocurrency/L1 networks/Cardano/dapps/dapps.md",
+    "learning/computing/cryptocurrency/L1 networks/Cardano/CardanoWhaleWatching.md",
+    "templates/dapp template.md",
+    "learning/computing/cryptocurrency/L1 networks/Ethereum/Ethereum.md",
+    "learning/financial/trading/trading terminology.md",
     "learning/financial/trading/market cipher/market cipher ideas.md",
     "learning/mental/health/abusive relationships.md",
-    "personal/shows.md",
-    "learning/mental/ADHD/dealing with ADHD symptoms.md",
-    "learning/computing/programming/javascript/3d cube with js.md",
-    "learning/computing/programming/shell/sftp from a shell script.md",
-    "learning/computing/programming/protocols/protocols for transferring data over networks.md",
-    "learning/computing/programming/protocols/http/http protocol.md",
-    "learning/computing/programming/rust/snippets/Append a line to a file.md",
-    "learning/language/Untitled.md"
+    "personal/shows.md"
   ]
 }
