@@ -171,6 +171,19 @@
             }
           },
           {
+            "id": "a4d5ca8332a1bc9a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "learning/computing/software/blender/what are the best ways to learn blender?.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
             "id": "0327ee1b61d62b2b",
             "type": "leaf",
             "state": {
@@ -184,7 +197,7 @@
             }
           }
         ],
-        "currentTab": 12
+        "currentTab": 13
       }
     ],
     "direction": "vertical"
@@ -242,7 +255,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "learning/computing/software/blender/can you create 2d art in blender?.md",
+                "file": "learning/computing/software/blender/what are the best ways to learn blender?.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -259,7 +272,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "learning/computing/software/blender/can you create 2d art in blender?.md"
+                "file": "learning/computing/software/blender/what are the best ways to learn blender?.md"
               }
             }
           },
@@ -287,10 +300,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "ec809c366cbdfc7b",
+  "active": "a4d5ca8332a1bc9a",
   "lastOpenFiles": [
-    "learning/computing/software/blender/what can blender do?.md",
     "learning/computing/software/blender/can you create 2d art in blender?.md",
+    "learning/computing/software/blender/what can blender do?.md",
     "learning/computing/programming/java/java dependency management.md",
     "learning/computing/programming/java/maven dependency management.md",
     "learning/computing/programming/java/java classpath.md",
