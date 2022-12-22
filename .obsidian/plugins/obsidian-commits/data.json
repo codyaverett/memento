@@ -1050,7 +1050,7 @@
       "links": 0
     },
     "learning/computing/programming/java/java dependency management.md": {
-      "size": 2281,
+      "size": 4305,
       "tags": 0,
       "links": 1
     },
@@ -1710,7 +1710,7 @@
       "Refactor": 1426,
       "Create": 356,
       "Link": 317,
-      "Expand": 116
+      "Expand": 117
     }
   },
   "dailyCommits": {
@@ -1737,7 +1737,7 @@
       "19": 28,
       "20": 46,
       "21": 101,
-      "22": 94,
+      "22": 95,
       "23": 54
     }
   },
@@ -1745,7 +1745,7 @@
     "/": {
       "Mon": 1480,
       "Tue": 112,
-      "Wed": 257,
+      "Wed": 258,
       "Thu": 148,
       "Fri": 115,
       "Sat": 0,
@@ -1755,6 +1755,7 @@
   "recentCommits": {
     "/": {
       "Expanded": [
+        "<a class=\"internal-link\" href=\"learning/computing/programming/java/java dependency management.md\"> java dependency management </a>",
         "<a class=\"internal-link\" href=\"learning/computing/programming/java/java dependency management.md\"> java dependency management </a>",
         "<a class=\"internal-link\" href=\"learning/computing/cryptocurrency/L1 networks/Cardano/dapps.md\"> dapps </a>",
         "<a class=\"internal-link\" href=\"learning/computing/programming/http/http protocol.md\"> http protocol </a>",
@@ -1804,8 +1805,7 @@
         "<a class=\"internal-link\" href=\"software/linux/create linux superuser.md\"> create linux superuser </a>",
         "<a class=\"internal-link\" href=\"programming/c++/c++ package managers.md\"> c++ package managers </a>",
         "<a class=\"internal-link\" href=\"programming/c++/c++ package managers.md\"> c++ package managers </a>",
-        "<a class=\"internal-link\" href=\"software/linux/Linux directory Structure.md\"> Linux directory Structure </a>",
-        "<a class=\"internal-link\" href=\"programming/deno/A fresh look at Deno - Brian Barrow.md\"> A fresh look at Deno - Brian Barrow </a>"
+        "<a class=\"internal-link\" href=\"software/linux/Linux directory Structure.md\"> Linux directory Structure </a>"
       ],
       "Created": [
         "<a class=\"internal-link\" href=\"learning/computing/programming/java/Untitled.md\"> Untitled </a>",
