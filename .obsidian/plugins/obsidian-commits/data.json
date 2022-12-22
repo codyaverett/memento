@@ -1693,12 +1693,17 @@
       "size": 0,
       "tags": 0,
       "links": 0
+    },
+    "learning/computing/programming/languages/_programming_languages_db.md": {
+      "size": 0,
+      "tags": 0,
+      "links": 0
     }
   },
   "commitTypes": {
     "/": {
       "Refactor": 1425,
-      "Create": 353,
+      "Create": 354,
       "Link": 316,
       "Expand": 115
     }
@@ -1726,7 +1731,7 @@
       "18": 49,
       "19": 28,
       "20": 46,
-      "21": 100,
+      "21": 101,
       "22": 89,
       "23": 54
     }
@@ -1735,7 +1740,7 @@
     "/": {
       "Mon": 1480,
       "Tue": 112,
-      "Wed": 251,
+      "Wed": 252,
       "Thu": 148,
       "Fri": 115,
       "Sat": 0,
@@ -1798,6 +1803,7 @@
         "<a class=\"internal-link\" href=\"programming/deno/A fresh look at Deno - Brian Barrow.md\"> A fresh look at Deno - Brian Barrow </a>"
       ],
       "Created": [
+        "<a class=\"internal-link\" href=\"learning/computing/programming/languages/Untitled database.md\"> Untitled database </a>",
         "<a class=\"internal-link\" href=\"learning/computing/cryptocurrency/L1 networks/Cardano/dapps/asdf.md\"> asdf </a>",
         "<a class=\"internal-link\" href=\"learning/computing/cryptocurrency/L1 networks/Cardano/dapps/Untitled database.md\"> Untitled database </a>",
         "<a class=\"internal-link\" href=\"templates/Untitled.md\"> Untitled </a>",
@@ -1847,8 +1853,7 @@
         "<a class=\"internal-link\" href=\"learning/computing/programming/rust/errors/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"learning/computing/programming/rust/errors/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"learning/computing/programming/rust/errors/Untitled.md\"> Untitled </a>",
-        "<a class=\"internal-link\" href=\"learning/computing/programming/rust/basics/Untitled.md\"> Untitled </a>",
-        "<a class=\"internal-link\" href=\"personal/notes/Learning rust.md\"> Learning rust </a>"
+        "<a class=\"internal-link\" href=\"learning/computing/programming/rust/basics/Untitled.md\"> Untitled </a>"
       ],
       "Renamed": [
         "<a class=\"internal-link\" href=\"learning/computing/cryptocurrency/L1 networks/Cardano/dapps/_db.md\"> _db </a>",
