@@ -1050,7 +1050,7 @@
       "links": 0
     },
     "learning/computing/programming/java/java dependency management.md": {
-      "size": 0,
+      "size": 2281,
       "tags": 0,
       "links": 1
     },
@@ -1698,14 +1698,19 @@
       "size": 0,
       "tags": 0,
       "links": 0
+    },
+    "learning/computing/programming/java/java classpath.md": {
+      "size": 0,
+      "tags": 1,
+      "links": 0
     }
   },
   "commitTypes": {
     "/": {
-      "Refactor": 1425,
-      "Create": 354,
-      "Link": 316,
-      "Expand": 115
+      "Refactor": 1426,
+      "Create": 356,
+      "Link": 317,
+      "Expand": 116
     }
   },
   "dailyCommits": {
@@ -1732,7 +1737,7 @@
       "19": 28,
       "20": 46,
       "21": 101,
-      "22": 89,
+      "22": 94,
       "23": 54
     }
   },
@@ -1740,7 +1745,7 @@
     "/": {
       "Mon": 1480,
       "Tue": 112,
-      "Wed": 252,
+      "Wed": 257,
       "Thu": 148,
       "Fri": 115,
       "Sat": 0,
@@ -1750,6 +1755,7 @@
   "recentCommits": {
     "/": {
       "Expanded": [
+        "<a class=\"internal-link\" href=\"learning/computing/programming/java/java dependency management.md\"> java dependency management </a>",
         "<a class=\"internal-link\" href=\"learning/computing/cryptocurrency/L1 networks/Cardano/dapps.md\"> dapps </a>",
         "<a class=\"internal-link\" href=\"learning/computing/programming/http/http protocol.md\"> http protocol </a>",
         "<a class=\"internal-link\" href=\"learning/financial/debt/calculating credit card interest.md\"> calculating credit card interest </a>",
@@ -1799,10 +1805,11 @@
         "<a class=\"internal-link\" href=\"programming/c++/c++ package managers.md\"> c++ package managers </a>",
         "<a class=\"internal-link\" href=\"programming/c++/c++ package managers.md\"> c++ package managers </a>",
         "<a class=\"internal-link\" href=\"software/linux/Linux directory Structure.md\"> Linux directory Structure </a>",
-        "<a class=\"internal-link\" href=\"programming/deno/A fresh look at Deno - Brian Barrow.md\"> A fresh look at Deno - Brian Barrow </a>",
         "<a class=\"internal-link\" href=\"programming/deno/A fresh look at Deno - Brian Barrow.md\"> A fresh look at Deno - Brian Barrow </a>"
       ],
       "Created": [
+        "<a class=\"internal-link\" href=\"learning/computing/programming/java/Untitled.md\"> Untitled </a>",
+        "<a class=\"internal-link\" href=\"learning/computing/programming/java/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"learning/computing/programming/languages/Untitled database.md\"> Untitled database </a>",
         "<a class=\"internal-link\" href=\"learning/computing/cryptocurrency/L1 networks/Cardano/dapps/asdf.md\"> asdf </a>",
         "<a class=\"internal-link\" href=\"learning/computing/cryptocurrency/L1 networks/Cardano/dapps/Untitled database.md\"> Untitled database </a>",
@@ -1851,9 +1858,7 @@
         "<a class=\"internal-link\" href=\"learning/computing/programming/rust/errors/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"learning/computing/programming/rust/basics/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"learning/computing/programming/rust/errors/Untitled.md\"> Untitled </a>",
-        "<a class=\"internal-link\" href=\"learning/computing/programming/rust/errors/Untitled.md\"> Untitled </a>",
-        "<a class=\"internal-link\" href=\"learning/computing/programming/rust/errors/Untitled.md\"> Untitled </a>",
-        "<a class=\"internal-link\" href=\"learning/computing/programming/rust/basics/Untitled.md\"> Untitled </a>"
+        "<a class=\"internal-link\" href=\"learning/computing/programming/rust/errors/Untitled.md\"> Untitled </a>"
       ],
       "Renamed": [
         "<a class=\"internal-link\" href=\"learning/computing/cryptocurrency/L1 networks/Cardano/dapps/_db.md\"> _db </a>",
@@ -1909,6 +1914,7 @@
         "<a class=\"internal-link\" href=\"learning/productivity/all failures are learning opportunities.md\"> all failures are learning opportunities </a>"
       ],
       "Tagged": [
+        "<a class=\"internal-link\" href=\"learning/computing/programming/java/java classpath.md\"> java classpath </a>",
         "<a class=\"internal-link\" href=\"learning/financial/trading/market cipher/market cipher ideas.md\"> market cipher ideas </a>",
         "<a class=\"internal-link\" href=\"learning/mental/health/abusive relationships.md\"> abusive relationships </a>",
         "<a class=\"internal-link\" href=\"learning/mental/ADHD/dealing with ADHD symptoms.md\"> dealing with ADHD symptoms </a>",
@@ -1958,11 +1964,11 @@
         "<a class=\"internal-link\" href=\"learning/computing/programming/c-sharp/C-sharp cheatsheet.md\"> C-sharp cheatsheet </a>",
         "<a class=\"internal-link\" href=\"learning/computing/programming/python/django/Authentication Systems/django authentication system.md\"> django authentication system </a>",
         "<a class=\"internal-link\" href=\"learning/computing/programming/python/pyspark/pyspark reference.md\"> pyspark reference </a>",
-        "<a class=\"internal-link\" href=\"learning/computing/software/data ETL/apache NiFi.md\"> apache NiFi </a>",
-        "<a class=\"internal-link\" href=\"learning/computing/software/data ETL/apache airflow/airflow module management.md\"> airflow module management </a>"
+        "<a class=\"internal-link\" href=\"learning/computing/software/data ETL/apache NiFi.md\"> apache NiFi </a>"
       ],
       "Refactored": [],
       "Deleted": [
+        "<a class=\"internal-link\" href=\"learning/computing/programming/java/maven dependency management.md\"> maven dependency management </a>",
         "<a class=\"internal-link\" href=\"learning/computing/cryptocurrency/L1 networks/Cardano/dapps/asdf.md\"> asdf </a>",
         "<a class=\"internal-link\" href=\"learning/computing/cryptocurrency/L1 networks/Cardano/dapps/dapps.md\"> dapps </a>",
         "<a class=\"internal-link\" href=\"learning/language/Untitled.md\"> Untitled </a>",
@@ -2012,8 +2018,7 @@
         "<a class=\"internal-link\" href=\"personal/work/Site for Oasis Landscaping.md\"> Site for Oasis Landscaping </a>",
         "<a class=\"internal-link\" href=\"personal/Cody_Averett.md\"> Cody_Averett </a>",
         "<a class=\"internal-link\" href=\"WIP.md\"> WIP </a>",
-        "<a class=\"internal-link\" href=\"self/daily/old/2022/11-14-22.md\"> 11-14-22 </a>",
-        "<a class=\"internal-link\" href=\"random/being impaled by a javelin.md\"> being impaled by a javelin </a>"
+        "<a class=\"internal-link\" href=\"self/daily/old/2022/11-14-22.md\"> 11-14-22 </a>"
       ],
       "Linked": [
         "<a class=\"internal-link\" href=\"learning/computing/programming/protocols/protocols for transferring data over networks.md\"> protocols for transferring data over networks </a>",
