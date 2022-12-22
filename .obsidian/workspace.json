@@ -176,7 +176,20 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "learning/computing/software/blender/what are the best ways to learn blender?.md",
+                "file": "learning/computing/software/blender/Interesting plugins.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b466660a5cded401",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "learning/computing/software/blender/3d asset resources.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -197,7 +210,7 @@
             }
           }
         ],
-        "currentTab": 13
+        "currentTab": 14
       }
     ],
     "direction": "vertical"
@@ -255,7 +268,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "learning/computing/software/blender/what are the best ways to learn blender?.md",
+                "file": "learning/computing/software/blender/3d asset resources.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -272,7 +285,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "learning/computing/software/blender/what are the best ways to learn blender?.md"
+                "file": "learning/computing/software/blender/3d asset resources.md"
               }
             }
           },
@@ -300,17 +313,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "a4d5ca8332a1bc9a",
+  "active": "b466660a5cded401",
   "lastOpenFiles": [
-    "learning/computing/software/blender/can you create 2d art in blender?.md",
+    "learning/computing/software/blender/Interesting plugins.md",
+    "learning/computing/software/blender/what are the best ways to learn blender?.md",
     "learning/computing/software/blender/what can blender do?.md",
+    "learning/computing/software/blender/can you create 2d art in blender?.md",
     "learning/computing/programming/java/java dependency management.md",
     "learning/computing/programming/java/maven dependency management.md",
     "learning/computing/programming/java/java classpath.md",
     "learning/computing/programming/languages/_programming_languages_db.md",
     "learning/computing/cryptocurrency/L1 networks/Cardano/dapps/_db.md",
-    "learning/computing/cryptocurrency/L1 networks/Cardano/Cardano 1.md",
-    "learning/computing/cryptocurrency/L1 networks/Cardano/dapps/dapps.md",
-    "learning/computing/cryptocurrency/L1 networks/Cardano/CardanoWhaleWatching.md"
+    "learning/computing/cryptocurrency/L1 networks/Cardano/Cardano 1.md"
   ]
 }
