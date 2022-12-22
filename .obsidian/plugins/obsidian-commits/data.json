@@ -1704,7 +1704,12 @@
       "tags": 1,
       "links": 0
     },
-    "learning/computing/software/blender/can you create 2d art in blender.md": {
+    "learning/computing/software/blender/what can blender do?.md": {
+      "size": 0,
+      "tags": 0,
+      "links": 0
+    },
+    "learning/computing/software/blender/can you create 2d art in blender?.md": {
       "size": 0,
       "tags": 2,
       "links": 0
@@ -1712,8 +1717,8 @@
   },
   "commitTypes": {
     "/": {
-      "Refactor": 1426,
-      "Create": 357,
+      "Refactor": 1427,
+      "Create": 358,
       "Link": 318,
       "Expand": 117
     }
@@ -1743,14 +1748,14 @@
       "20": 46,
       "21": 101,
       "22": 95,
-      "23": 56
+      "23": 58
     }
   },
   "weeklyCommits": {
     "/": {
       "Mon": 1480,
       "Tue": 112,
-      "Wed": 260,
+      "Wed": 262,
       "Thu": 148,
       "Fri": 115,
       "Sat": 0,
@@ -1814,6 +1819,7 @@
       ],
       "Created": [
         "<a class=\"internal-link\" href=\"learning/computing/software/blender/Untitled.md\"> Untitled </a>",
+        "<a class=\"internal-link\" href=\"learning/computing/software/blender/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"learning/computing/programming/java/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"learning/computing/programming/java/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"learning/computing/programming/languages/Untitled database.md\"> Untitled database </a>",
@@ -1862,10 +1868,10 @@
         "<a class=\"internal-link\" href=\"learning/computing/programming/rust/basics/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"learning/computing/programming/rust/basics/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"learning/computing/programming/rust/errors/Untitled.md\"> Untitled </a>",
-        "<a class=\"internal-link\" href=\"learning/computing/programming/rust/basics/Untitled.md\"> Untitled </a>",
-        "<a class=\"internal-link\" href=\"learning/computing/programming/rust/errors/Untitled.md\"> Untitled </a>"
+        "<a class=\"internal-link\" href=\"learning/computing/programming/rust/basics/Untitled.md\"> Untitled </a>"
       ],
       "Renamed": [
+        "<a class=\"internal-link\" href=\"learning/computing/software/blender/can you create 2d art in blender?.md\"> can you create 2d art in blender? </a>",
         "<a class=\"internal-link\" href=\"learning/computing/cryptocurrency/L1 networks/Cardano/dapps/_db.md\"> _db </a>",
         "<a class=\"internal-link\" href=\"learning/computing/cryptocurrency/L1 networks/Cardano/dapps/dapps.md\"> dapps </a>",
         "<a class=\"internal-link\" href=\"learning/computing/cryptocurrency/L1 networks/Cardano/dapps.md\"> dapps </a>",
@@ -1915,8 +1921,7 @@
         "<a class=\"internal-link\" href=\"personal/notes/Backlog.md\"> Backlog </a>",
         "<a class=\"internal-link\" href=\"personal/kanban board.md\"> kanban board </a>",
         "<a class=\"internal-link\" href=\"learning/computing/programming/c-sharp/C-sharp cheatsheet.md\"> C-sharp cheatsheet </a>",
-        "<a class=\"internal-link\" href=\"learning/financial/career/management/transitioning from dev to manager.md\"> transitioning from dev to manager </a>",
-        "<a class=\"internal-link\" href=\"learning/productivity/all failures are learning opportunities.md\"> all failures are learning opportunities </a>"
+        "<a class=\"internal-link\" href=\"learning/financial/career/management/transitioning from dev to manager.md\"> transitioning from dev to manager </a>"
       ],
       "Tagged": [
         "<a class=\"internal-link\" href=\"learning/computing/software/blender/can you create 2d art in blender.md\"> can you create 2d art in blender </a>",
