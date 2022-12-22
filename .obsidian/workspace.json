@@ -114,7 +114,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "learning/financial/trading/market cipher/market cipher ideas.md",
+                "file": "learning/financial/trading/trading terminology.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -180,7 +180,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "learning/financial/trading/market cipher/market cipher ideas.md",
+                "file": "learning/financial/trading/trading terminology.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -197,7 +197,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "learning/financial/trading/market cipher/market cipher ideas.md"
+                "file": "learning/financial/trading/trading terminology.md"
               }
             }
           },
@@ -227,6 +227,7 @@
   },
   "active": "85699157f4e0cbb7",
   "lastOpenFiles": [
+    "learning/financial/trading/market cipher/market cipher ideas.md",
     "learning/mental/health/abusive relationships.md",
     "personal/shows.md",
     "learning/mental/ADHD/dealing with ADHD symptoms.md",
@@ -235,7 +236,6 @@
     "learning/computing/programming/protocols/protocols for transferring data over networks.md",
     "learning/computing/programming/protocols/http/http protocol.md",
     "learning/computing/programming/rust/snippets/Append a line to a file.md",
-    "learning/language/Untitled.md",
-    "learning/computing/programming/rust/tooling/rustup.md"
+    "learning/language/Untitled.md"
   ]
 }
