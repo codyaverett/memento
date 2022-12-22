@@ -1706,26 +1706,36 @@
     },
     "learning/computing/software/blender/what can blender do?.md": {
       "size": 0,
-      "tags": 0,
+      "tags": 1,
       "links": 0
     },
     "learning/computing/software/blender/can you create 2d art in blender?.md": {
       "size": 0,
       "tags": 2,
       "links": 0
+    },
+    "learning/computing/software/blender/what are the best ways to learn blender?.md": {
+      "size": 3221,
+      "tags": 2,
+      "links": 0
+    },
+    "learning/computing/software/blender/3d asset resources.md": {
+      "size": 0,
+      "tags": 4,
+      "links": 0
     }
   },
   "commitTypes": {
     "/": {
       "Refactor": 1427,
-      "Create": 358,
-      "Link": 318,
-      "Expand": 117
+      "Create": 360,
+      "Link": 321,
+      "Expand": 118
     }
   },
   "dailyCommits": {
     "/": {
-      "0": 60,
+      "0": 62,
       "1": 29,
       "2": 42,
       "3": 52,
@@ -1748,15 +1758,15 @@
       "20": 46,
       "21": 101,
       "22": 95,
-      "23": 58
+      "23": 62
     }
   },
   "weeklyCommits": {
     "/": {
       "Mon": 1480,
       "Tue": 112,
-      "Wed": 262,
-      "Thu": 148,
+      "Wed": 266,
+      "Thu": 150,
       "Fri": 115,
       "Sat": 0,
       "Sun": 103
@@ -1765,6 +1775,7 @@
   "recentCommits": {
     "/": {
       "Expanded": [
+        "<a class=\"internal-link\" href=\"learning/computing/software/blender/what are the best ways to learn blender?.md\"> what are the best ways to learn blender? </a>",
         "<a class=\"internal-link\" href=\"learning/computing/programming/java/java dependency management.md\"> java dependency management </a>",
         "<a class=\"internal-link\" href=\"learning/computing/programming/java/java dependency management.md\"> java dependency management </a>",
         "<a class=\"internal-link\" href=\"learning/computing/cryptocurrency/L1 networks/Cardano/dapps.md\"> dapps </a>",
@@ -1814,10 +1825,11 @@
         "<a class=\"internal-link\" href=\"software/containers/buildah/create basic OCI image with buildah.md\"> create basic OCI image with buildah </a>",
         "<a class=\"internal-link\" href=\"software/linux/create linux superuser.md\"> create linux superuser </a>",
         "<a class=\"internal-link\" href=\"programming/c++/c++ package managers.md\"> c++ package managers </a>",
-        "<a class=\"internal-link\" href=\"programming/c++/c++ package managers.md\"> c++ package managers </a>",
-        "<a class=\"internal-link\" href=\"software/linux/Linux directory Structure.md\"> Linux directory Structure </a>"
+        "<a class=\"internal-link\" href=\"programming/c++/c++ package managers.md\"> c++ package managers </a>"
       ],
       "Created": [
+        "<a class=\"internal-link\" href=\"learning/computing/software/blender/Untitled.md\"> Untitled </a>",
+        "<a class=\"internal-link\" href=\"learning/computing/software/blender/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"learning/computing/software/blender/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"learning/computing/software/blender/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"learning/computing/programming/java/Untitled.md\"> Untitled </a>",
@@ -1866,8 +1878,6 @@
         "<a class=\"internal-link\" href=\"learning/computing/programming/react/patterns/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"learning/computing/programming/react/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"learning/computing/programming/rust/basics/Untitled.md\"> Untitled </a>",
-        "<a class=\"internal-link\" href=\"learning/computing/programming/rust/basics/Untitled.md\"> Untitled </a>",
-        "<a class=\"internal-link\" href=\"learning/computing/programming/rust/errors/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"learning/computing/programming/rust/basics/Untitled.md\"> Untitled </a>"
       ],
       "Renamed": [
@@ -1924,6 +1934,9 @@
         "<a class=\"internal-link\" href=\"learning/financial/career/management/transitioning from dev to manager.md\"> transitioning from dev to manager </a>"
       ],
       "Tagged": [
+        "<a class=\"internal-link\" href=\"learning/computing/software/blender/3d asset resources.md\"> 3d asset resources </a>",
+        "<a class=\"internal-link\" href=\"learning/computing/software/blender/what can blender do?.md\"> what can blender do? </a>",
+        "<a class=\"internal-link\" href=\"learning/computing/software/blender/what are the best ways to learn blender?.md\"> what are the best ways to learn blender? </a>",
         "<a class=\"internal-link\" href=\"learning/computing/software/blender/can you create 2d art in blender.md\"> can you create 2d art in blender </a>",
         "<a class=\"internal-link\" href=\"learning/computing/programming/java/java classpath.md\"> java classpath </a>",
         "<a class=\"internal-link\" href=\"learning/financial/trading/market cipher/market cipher ideas.md\"> market cipher ideas </a>",
@@ -1971,10 +1984,7 @@
         "<a class=\"internal-link\" href=\"personal/daily/2022/22-09-30.md\"> 22-09-30 </a>",
         "<a class=\"internal-link\" href=\"personal/daily/2022/22-10-01.md\"> 22-10-01 </a>",
         "<a class=\"internal-link\" href=\"learning/computing/cryptocurrency/L1 networks/Ethereum/Ethereum.md\"> Ethereum </a>",
-        "<a class=\"internal-link\" href=\"learning/computing/cryptocurrency/NFTs/Anyone could use any of the assets for any of the NFT collections.md\"> Anyone could use any of the assets for any of the NFT collections </a>",
-        "<a class=\"internal-link\" href=\"learning/computing/programming/c-sharp/C-sharp cheatsheet.md\"> C-sharp cheatsheet </a>",
-        "<a class=\"internal-link\" href=\"learning/computing/programming/python/django/Authentication Systems/django authentication system.md\"> django authentication system </a>",
-        "<a class=\"internal-link\" href=\"learning/computing/programming/python/pyspark/pyspark reference.md\"> pyspark reference </a>"
+        "<a class=\"internal-link\" href=\"learning/computing/cryptocurrency/NFTs/Anyone could use any of the assets for any of the NFT collections.md\"> Anyone could use any of the assets for any of the NFT collections </a>"
       ],
       "Refactored": [],
       "Deleted": [
