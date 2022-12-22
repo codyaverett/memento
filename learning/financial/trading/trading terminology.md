@@ -1,7 +1,7 @@
 ---
-name: trading terminology
+name: Trading Terminology
 created: 2022-12-19T13:31:36-06:00
-updated: 2022-12-19T13:31:56-06:00
+updated: 2022-12-21T18:09:11-06:00
 aliases: 
 tags: trading, dictionary
 ---
@@ -10,4 +10,10 @@ tags: trading, dictionary
 | Term | Definition | 
 | --- | --- |
 | af | |
+| VRVP | Visible range volume profile |
+| FRVP | Fixed range volume profile |
 |  | |
+|  | |
+|  | |
+
+
