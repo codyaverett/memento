@@ -145,6 +145,19 @@
             }
           },
           {
+            "id": "4ee4b4d41a7fac16",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "learning/computing/software/blender/can you create 2d art in blender.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
             "id": "0327ee1b61d62b2b",
             "type": "leaf",
             "state": {
@@ -158,7 +171,7 @@
             }
           }
         ],
-        "currentTab": 10
+        "currentTab": 11
       }
     ],
     "direction": "vertical"
@@ -216,7 +229,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "learning/computing/programming/java/java dependency management.md",
+                "file": "learning/computing/software/blender/can you create 2d art in blender.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -233,7 +246,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "learning/computing/programming/java/java dependency management.md"
+                "file": "learning/computing/software/blender/can you create 2d art in blender.md"
               }
             }
           },
@@ -261,8 +274,9 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "e065b68cbd701798",
+  "active": "4ee4b4d41a7fac16",
   "lastOpenFiles": [
+    "learning/computing/programming/java/java dependency management.md",
     "learning/computing/programming/java/maven dependency management.md",
     "learning/computing/programming/java/java classpath.md",
     "learning/computing/programming/languages/_programming_languages_db.md",
@@ -271,7 +285,6 @@
     "learning/computing/cryptocurrency/L1 networks/Cardano/dapps/dapps.md",
     "learning/computing/cryptocurrency/L1 networks/Cardano/CardanoWhaleWatching.md",
     "templates/dapp template.md",
-    "learning/computing/cryptocurrency/L1 networks/Ethereum/Ethereum.md",
-    "learning/financial/trading/trading terminology.md"
+    "learning/computing/cryptocurrency/L1 networks/Ethereum/Ethereum.md"
   ]
 }
