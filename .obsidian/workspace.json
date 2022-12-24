@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "d33b2e65ab50033d",
+        "id": "79570a1094e628c9",
         "type": "tabs",
         "children": [
           {
-            "id": "d914b2a2a8f1ee67",
+            "id": "0fdfbe845a6d3f31",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "learning/computing/programming/rust/tooling/rustup.md",
+                "file": "learning/financial/trading/support and resistance.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -21,12 +21,12 @@
             }
           },
           {
-            "id": "64eb210b6fb786e4",
+            "id": "c18356194d565d87",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "learning/computing/programming/rust/snippets/Append a line to a file.md",
+                "file": "learning/financial/trading/tools/trading view.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -34,12 +34,12 @@
             }
           },
           {
-            "id": "fd1229b46ab71029",
+            "id": "60e8456dee9c25e4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "learning/computing/programming/protocols/http/http protocol.md",
+                "file": "learning/financial/trading/trading confluence.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -47,12 +47,12 @@
             }
           },
           {
-            "id": "d9b5bf021233f547",
+            "id": "c84a116518e4b403",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "learning/computing/programming/protocols/protocols for transferring data over networks.md",
+                "file": "learning/financial/trading/trading terminology.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -60,149 +60,12 @@
             }
           },
           {
-            "id": "82faf32d9d110124",
+            "id": "3f51f383d74327d7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "learning/computing/programming/shell/sftp from a shell script.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "51cb12f002d36834",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "learning/computing/programming/javascript/3d cube with js.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8f03a0306f1d30cd",
-            "type": "leaf",
-            "state": {
-              "type": "kanban",
-              "state": {
-                "file": "personal/shows.md"
-              }
-            }
-          },
-          {
-            "id": "e82657c982a03ccc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "learning/mental/health/abusive relationships.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "85699157f4e0cbb7",
-            "type": "leaf",
-            "state": {
-              "type": "database-plugin",
-              "state": {
-                "file": "learning/computing/programming/languages/_programming_languages_db.md"
-              }
-            }
-          },
-          {
-            "id": "28e7d93b594cd297",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "learning/computing/programming/java/java classpath.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e065b68cbd701798",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "learning/computing/programming/java/java dependency management.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4ee4b4d41a7fac16",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "learning/computing/software/blender/can you create 2d art in blender?.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ec809c366cbdfc7b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "learning/computing/software/blender/can you create 2d art in blender?.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a4d5ca8332a1bc9a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "learning/computing/software/blender/Interesting plugins.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b466660a5cded401",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "learning/computing/software/blender/3d asset resources.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0327ee1b61d62b2b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "templates/dapp template.md",
+                "file": "learning/computing/programming/languages/typescript programming language.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -210,7 +73,7 @@
             }
           }
         ],
-        "currentTab": 14
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -268,7 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "learning/computing/software/blender/3d asset resources.md",
+                "file": "learning/computing/programming/languages/typescript programming language.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -285,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "learning/computing/software/blender/3d asset resources.md"
+                "file": "learning/computing/programming/languages/typescript programming language.md"
               }
             }
           },
@@ -313,17 +176,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "b466660a5cded401",
+  "active": "33a2bab88d111215",
   "lastOpenFiles": [
-    "learning/computing/software/blender/Interesting plugins.md",
-    "learning/computing/software/blender/what are the best ways to learn blender?.md",
-    "learning/computing/software/blender/what can blender do?.md",
-    "learning/computing/software/blender/can you create 2d art in blender?.md",
-    "learning/computing/programming/java/java dependency management.md",
-    "learning/computing/programming/java/maven dependency management.md",
-    "learning/computing/programming/java/java classpath.md",
-    "learning/computing/programming/languages/_programming_languages_db.md",
-    "learning/computing/cryptocurrency/L1 networks/Cardano/dapps/_db.md",
-    "learning/computing/cryptocurrency/L1 networks/Cardano/Cardano 1.md"
+    "personal/notes/Demo project using tailwindcss.md",
+    "personal/task board.md",
+    "learning/financial/trading/trading confluence.md",
+    "learning/financial/trading/trading terminology.md",
+    "learning/financial/trading/types of trades.md",
+    "learning/financial/trading/trading expectations.md",
+    "learning/financial/trading/top down analysis.md",
+    "learning/financial/trading/tools/trading view.md",
+    "learning/financial/trading/support and resistance.md",
+    "personal/daily/2022/22-12-19.md"
   ]
 }
