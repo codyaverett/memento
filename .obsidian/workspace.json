@@ -65,7 +65,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "learning/computing/programming/languages/typescript programming language.md",
+                "file": "templates/dapp template.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -131,7 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "learning/computing/programming/languages/typescript programming language.md",
+                "file": "templates/dapp template.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -148,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "learning/computing/programming/languages/typescript programming language.md"
+                "file": "templates/dapp template.md"
               }
             }
           },
@@ -176,8 +176,9 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "33a2bab88d111215",
+  "active": "3f51f383d74327d7",
   "lastOpenFiles": [
+    "learning/computing/programming/languages/typescript programming language.md",
     "personal/notes/Demo project using tailwindcss.md",
     "personal/task board.md",
     "learning/financial/trading/trading confluence.md",
@@ -186,7 +187,6 @@
     "learning/financial/trading/trading expectations.md",
     "learning/financial/trading/top down analysis.md",
     "learning/financial/trading/tools/trading view.md",
-    "learning/financial/trading/support and resistance.md",
-    "personal/daily/2022/22-12-19.md"
+    "learning/financial/trading/support and resistance.md"
   ]
 }
