@@ -84,9 +84,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "050bd33b80fa8dd5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "learning/mental/productivity/Start your day with your routine.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -144,7 +157,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "learning/mental/ikigai.md",
+                "file": "learning/mental/productivity/Start your day with your routine.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -161,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "learning/mental/ikigai.md"
+                "file": "learning/mental/productivity/Start your day with your routine.md"
               }
             }
           },
@@ -189,8 +202,9 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "c1d0928e29678c2e",
+  "active": "050bd33b80fa8dd5",
   "lastOpenFiles": [
+    "learning/mental/ikigai.md",
     "templates/dapp template.md",
     "learning/computing/programming/languages/typescript programming language.md",
     "personal/notes/Demo project using tailwindcss.md",
@@ -199,7 +213,6 @@
     "learning/financial/trading/trading terminology.md",
     "learning/financial/trading/types of trades.md",
     "learning/financial/trading/trading expectations.md",
-    "learning/financial/trading/top down analysis.md",
-    "learning/financial/trading/tools/trading view.md"
+    "learning/financial/trading/top down analysis.md"
   ]
 }
