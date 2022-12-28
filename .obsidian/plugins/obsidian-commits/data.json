@@ -1455,7 +1455,7 @@
       "links": 0
     },
     "learning/computing/programming/rust/basics/importing rust modules.md": {
-      "size": 0,
+      "size": 2126,
       "tags": 2,
       "links": 0
     },
@@ -1725,7 +1725,7 @@
       "Refactor": 1420,
       "Create": 356,
       "Link": 322,
-      "Expand": 114
+      "Expand": 115
     }
   },
   "dailyCommits": {
@@ -1746,7 +1746,7 @@
       "13": 68,
       "14": 50,
       "15": 64,
-      "16": 1199,
+      "16": 1200,
       "17": 196,
       "18": 34,
       "19": 26,
@@ -1760,7 +1760,7 @@
     "/": {
       "Mon": 1456,
       "Tue": 114,
-      "Wed": 244,
+      "Wed": 245,
       "Thu": 148,
       "Fri": 146,
       "Sat": 0,
@@ -1770,6 +1770,7 @@
   "recentCommits": {
     "/": {
       "Expanded": [
+        "<a class=\"internal-link\" href=\"learning/computing/programming/rust/basics/importing rust modules.md\"> importing rust modules </a>",
         "<a class=\"internal-link\" href=\"learning/computing/programming/java/java dependency management.md\"> java dependency management </a>",
         "<a class=\"internal-link\" href=\"learning/financial/debt/calculating credit card interest.md\"> calculating credit card interest </a>",
         "<a class=\"internal-link\" href=\"learning/computing/programming/SQL/hacks/Integer Table.md\"> Integer Table </a>",
@@ -1819,8 +1820,7 @@
         "<a class=\"internal-link\" href=\"programming/c++/c++ package managers.md\"> c++ package managers </a>",
         "<a class=\"internal-link\" href=\"software/linux/Linux directory Structure.md\"> Linux directory Structure </a>",
         "<a class=\"internal-link\" href=\"programming/deno/A fresh look at Deno - Brian Barrow.md\"> A fresh look at Deno - Brian Barrow </a>",
-        "<a class=\"internal-link\" href=\"programming/deno/A fresh look at Deno - Brian Barrow.md\"> A fresh look at Deno - Brian Barrow </a>",
-        "<a class=\"internal-link\" href=\"personal/job-hunting/data etl project.md\"> data etl project </a>"
+        "<a class=\"internal-link\" href=\"programming/deno/A fresh look at Deno - Brian Barrow.md\"> A fresh look at Deno - Brian Barrow </a>"
       ],
       "Created": [
         "<a class=\"internal-link\" href=\"learning/computing/programming/rust/basics/Untitled.md\"> Untitled </a>",

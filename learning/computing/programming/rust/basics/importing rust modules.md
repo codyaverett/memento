@@ -1,7 +1,7 @@
 ---
 name: Rust Importing Modules
 created: 2022-11-23T20:33:35-06:00
-updated: 2022-12-28T16:04:27-06:00
+updated: 2022-12-28T16:12:08-06:00
 aliases: 
 tags: rust, modules
 ---
@@ -61,3 +61,7 @@ And that’s it! The next cargo build will automatically build hello_utils and a
 [dependencies]
 hello_utils = { path = "hello_utils", version = "0.1.0" }
 ```
+
+## Reference
+
+- https://doc.rust-lang.org/cargo/reference/specifying-dependencies.html#specifying-dependencies-from-other-registries
