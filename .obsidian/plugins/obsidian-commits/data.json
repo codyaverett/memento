@@ -1708,13 +1708,18 @@
       "size": 31,
       "tags": 0,
       "links": 0
+    },
+    "learning/mental/ikigai.md": {
+      "size": 0,
+      "tags": 3,
+      "links": 0
     }
   },
   "commitTypes": {
     "/": {
       "Refactor": 1419,
-      "Create": 353,
-      "Link": 319,
+      "Create": 354,
+      "Link": 320,
       "Expand": 114
     }
   },
@@ -1743,13 +1748,13 @@
       "20": 46,
       "21": 121,
       "22": 92,
-      "23": 52
+      "23": 54
     }
   },
   "weeklyCommits": {
     "/": {
       "Mon": 1456,
-      "Tue": 112,
+      "Tue": 114,
       "Wed": 239,
       "Thu": 148,
       "Fri": 146,
@@ -1813,6 +1818,7 @@
         "<a class=\"internal-link\" href=\"personal/job-hunting/data etl project.md\"> data etl project </a>"
       ],
       "Created": [
+        "<a class=\"internal-link\" href=\"learning/mental/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"templates/dapp template.md\"> dapp template </a>",
         "<a class=\"internal-link\" href=\"learning/mental/health/abusive relationships.md\"> abusive relationships </a>",
         "<a class=\"internal-link\" href=\"learning/mental/ADHD/dealing with ADHD symptoms.md\"> dealing with ADHD symptoms </a>",
@@ -1862,8 +1868,7 @@
         "<a class=\"internal-link\" href=\"learning/computing/programming/rust/errors/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"learning/computing/programming/rust/errors/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"learning/computing/programming/rust/errors/Untitled.md\"> Untitled </a>",
-        "<a class=\"internal-link\" href=\"learning/computing/programming/rust/basics/Untitled.md\"> Untitled </a>",
-        "<a class=\"internal-link\" href=\"personal/notes/Learning rust.md\"> Learning rust </a>"
+        "<a class=\"internal-link\" href=\"learning/computing/programming/rust/basics/Untitled.md\"> Untitled </a>"
       ],
       "Renamed": [
         "<a class=\"internal-link\" href=\"learning/financial/trading/types of trades.md\"> types of trades </a>",
@@ -1919,6 +1924,7 @@
         "<a class=\"internal-link\" href=\"personal/daily/2022/22-10-10.md\"> 22-10-10 </a>"
       ],
       "Tagged": [
+        "<a class=\"internal-link\" href=\"learning/mental/ikigai.md\"> ikigai </a>",
         "<a class=\"internal-link\" href=\"learning/computing/programming/java/java classpath.md\"> java classpath </a>",
         "<a class=\"internal-link\" href=\"learning/computing/programming/javascript/3d cube with js.md\"> 3d cube with js </a>",
         "<a class=\"internal-link\" href=\"learning/computing/programming/rust/snippets/Append a line to a file.md\"> Append a line to a file </a>",
@@ -1968,8 +1974,7 @@
         "<a class=\"internal-link\" href=\"personal/daily/2022/22-10-01.md\"> 22-10-01 </a>",
         "<a class=\"internal-link\" href=\"learning/computing/cryptocurrency/L1 networks/Ethereum/Ethereum.md\"> Ethereum </a>",
         "<a class=\"internal-link\" href=\"learning/computing/cryptocurrency/NFTs/Anyone could use any of the assets for any of the NFT collections.md\"> Anyone could use any of the assets for any of the NFT collections </a>",
-        "<a class=\"internal-link\" href=\"learning/computing/programming/c-sharp/C-sharp cheatsheet.md\"> C-sharp cheatsheet </a>",
-        "<a class=\"internal-link\" href=\"learning/computing/programming/python/django/Authentication Systems/django authentication system.md\"> django authentication system </a>"
+        "<a class=\"internal-link\" href=\"learning/computing/programming/c-sharp/C-sharp cheatsheet.md\"> C-sharp cheatsheet </a>"
       ],
       "Refactored": [],
       "Deleted": [
