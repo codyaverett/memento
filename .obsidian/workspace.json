@@ -97,9 +97,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "6632b89c3f0a4386",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "learning/computing/programming/rust/basics/importing rust modules.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 6
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -157,7 +170,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "learning/mental/productivity/Start your day with your routine.md",
+                "file": "learning/computing/programming/rust/basics/importing rust modules.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -174,7 +187,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "learning/mental/productivity/Start your day with your routine.md"
+                "file": "learning/computing/programming/rust/basics/importing rust modules.md"
               }
             }
           },
@@ -202,8 +215,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "050bd33b80fa8dd5",
+  "active": "6632b89c3f0a4386",
   "lastOpenFiles": [
+    "learning/computing/programming/rust/basics/local.md",
+    "learning/mental/productivity/Start your day with your routine.md",
     "learning/mental/ikigai.md",
     "templates/dapp template.md",
     "learning/computing/programming/languages/typescript programming language.md",
@@ -211,8 +226,6 @@
     "personal/task board.md",
     "learning/financial/trading/trading confluence.md",
     "learning/financial/trading/trading terminology.md",
-    "learning/financial/trading/types of trades.md",
-    "learning/financial/trading/trading expectations.md",
-    "learning/financial/trading/top down analysis.md"
+    "learning/financial/trading/types of trades.md"
   ]
 }
