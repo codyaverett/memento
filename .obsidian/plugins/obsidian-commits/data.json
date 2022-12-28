@@ -1713,13 +1713,18 @@
       "size": 0,
       "tags": 3,
       "links": 0
+    },
+    "learning/mental/productivity/Start your day with your routine.md": {
+      "size": 0,
+      "tags": 1,
+      "links": 1
     }
   },
   "commitTypes": {
     "/": {
-      "Refactor": 1419,
-      "Create": 354,
-      "Link": 320,
+      "Refactor": 1420,
+      "Create": 356,
+      "Link": 322,
       "Expand": 114
     }
   },
@@ -1737,10 +1742,10 @@
       "9": 4,
       "10": 12,
       "11": 10,
-      "12": 6,
+      "12": 9,
       "13": 68,
       "14": 50,
-      "15": 62,
+      "15": 64,
       "16": 1199,
       "17": 196,
       "18": 34,
@@ -1755,7 +1760,7 @@
     "/": {
       "Mon": 1456,
       "Tue": 114,
-      "Wed": 239,
+      "Wed": 244,
       "Thu": 148,
       "Fri": 146,
       "Sat": 0,
@@ -1818,6 +1823,8 @@
         "<a class=\"internal-link\" href=\"personal/job-hunting/data etl project.md\"> data etl project </a>"
       ],
       "Created": [
+        "<a class=\"internal-link\" href=\"learning/computing/programming/rust/basics/Untitled.md\"> Untitled </a>",
+        "<a class=\"internal-link\" href=\"learning/mental/productivity/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"learning/mental/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"templates/dapp template.md\"> dapp template </a>",
         "<a class=\"internal-link\" href=\"learning/mental/health/abusive relationships.md\"> abusive relationships </a>",
@@ -1866,9 +1873,7 @@
         "<a class=\"internal-link\" href=\"learning/computing/programming/rust/errors/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"learning/computing/programming/rust/basics/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"learning/computing/programming/rust/errors/Untitled.md\"> Untitled </a>",
-        "<a class=\"internal-link\" href=\"learning/computing/programming/rust/errors/Untitled.md\"> Untitled </a>",
-        "<a class=\"internal-link\" href=\"learning/computing/programming/rust/errors/Untitled.md\"> Untitled </a>",
-        "<a class=\"internal-link\" href=\"learning/computing/programming/rust/basics/Untitled.md\"> Untitled </a>"
+        "<a class=\"internal-link\" href=\"learning/computing/programming/rust/errors/Untitled.md\"> Untitled </a>"
       ],
       "Renamed": [
         "<a class=\"internal-link\" href=\"learning/financial/trading/types of trades.md\"> types of trades </a>",
@@ -1924,6 +1929,7 @@
         "<a class=\"internal-link\" href=\"personal/daily/2022/22-10-10.md\"> 22-10-10 </a>"
       ],
       "Tagged": [
+        "<a class=\"internal-link\" href=\"learning/mental/productivity/Start your day with your routine.md\"> Start your day with your routine </a>",
         "<a class=\"internal-link\" href=\"learning/mental/ikigai.md\"> ikigai </a>",
         "<a class=\"internal-link\" href=\"learning/computing/programming/java/java classpath.md\"> java classpath </a>",
         "<a class=\"internal-link\" href=\"learning/computing/programming/javascript/3d cube with js.md\"> 3d cube with js </a>",
@@ -1973,11 +1979,11 @@
         "<a class=\"internal-link\" href=\"personal/daily/2022/22-09-30.md\"> 22-09-30 </a>",
         "<a class=\"internal-link\" href=\"personal/daily/2022/22-10-01.md\"> 22-10-01 </a>",
         "<a class=\"internal-link\" href=\"learning/computing/cryptocurrency/L1 networks/Ethereum/Ethereum.md\"> Ethereum </a>",
-        "<a class=\"internal-link\" href=\"learning/computing/cryptocurrency/NFTs/Anyone could use any of the assets for any of the NFT collections.md\"> Anyone could use any of the assets for any of the NFT collections </a>",
-        "<a class=\"internal-link\" href=\"learning/computing/programming/c-sharp/C-sharp cheatsheet.md\"> C-sharp cheatsheet </a>"
+        "<a class=\"internal-link\" href=\"learning/computing/cryptocurrency/NFTs/Anyone could use any of the assets for any of the NFT collections.md\"> Anyone could use any of the assets for any of the NFT collections </a>"
       ],
       "Refactored": [],
       "Deleted": [
+        "<a class=\"internal-link\" href=\"learning/computing/programming/rust/basics/local.md\"> local </a>",
         "<a class=\"internal-link\" href=\"learning/financial/trading/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"game loop.md\"> game loop </a>",
         "<a class=\"internal-link\" href=\"learning/financial/debt/calculate monthly APR.md\"> calculate monthly APR </a>",
@@ -2027,10 +2033,10 @@
         "<a class=\"internal-link\" href=\"self/daily/old/2022/11-14-22.md\"> 11-14-22 </a>",
         "<a class=\"internal-link\" href=\"random/being impaled by a javelin.md\"> being impaled by a javelin </a>",
         "<a class=\"internal-link\" href=\"learning/financial/career/job-hunting/Drawing 2022-11-07 15.59.02.excalidraw.md\"> Drawing 2022-11-07 15.59.02.excalidraw </a>",
-        "<a class=\"internal-link\" href=\"learning/financial/career/job-hunting/staff engineer.md\"> staff engineer </a>",
-        "<a class=\"internal-link\" href=\"learning/financial/career/job-hunting/data etl project.md\"> data etl project </a>"
+        "<a class=\"internal-link\" href=\"learning/financial/career/job-hunting/staff engineer.md\"> staff engineer </a>"
       ],
       "Linked": [
+        "<a class=\"internal-link\" href=\"learning/mental/productivity/Start your day with your routine.md\"> Start your day with your routine </a>",
         "<a class=\"internal-link\" href=\"learning/computing/programming/protocols/protocols for transferring data over networks.md\"> protocols for transferring data over networks </a>",
         "<a class=\"internal-link\" href=\"personal/Untitled Kanban.md\"> Untitled Kanban </a>",
         "<a class=\"internal-link\" href=\"personal/notes/Learning rust.md\"> Learning rust </a>",
@@ -2080,8 +2086,7 @@
         "<a class=\"internal-link\" href=\"programming/python/python basics.md\"> python basics </a>",
         "<a class=\"internal-link\" href=\"programming/python/DJango quick reference.md\"> DJango quick reference </a>",
         "<a class=\"internal-link\" href=\"python special strings.md\"> python special strings </a>",
-        "<a class=\"internal-link\" href=\"Python research.md\"> Python research </a>",
-        "<a class=\"internal-link\" href=\"django class models.md\"> django class models </a>"
+        "<a class=\"internal-link\" href=\"Python research.md\"> Python research </a>"
       ],
       "Removed Tags from": [
         "<a class=\"internal-link\" href=\"learning/computing/programming/python/python extensions.md\"> python extensions </a>",
