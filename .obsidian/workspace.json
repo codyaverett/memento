@@ -4,102 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "79570a1094e628c9",
+        "id": "0258f87592fde662",
         "type": "tabs",
         "children": [
           {
-            "id": "0fdfbe845a6d3f31",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "learning/financial/trading/support and resistance.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c18356194d565d87",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "learning/financial/trading/tools/trading view.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "60e8456dee9c25e4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "learning/financial/trading/trading confluence.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c84a116518e4b403",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "learning/financial/trading/trading terminology.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3f51f383d74327d7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "templates/dapp template.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c1d0928e29678c2e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "learning/mental/ikigai.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "050bd33b80fa8dd5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "learning/mental/productivity/Start your day with your routine.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6632b89c3f0a4386",
+            "id": "fca6f0a928f7d71f",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -110,35 +19,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "1d30c44d43df0c81",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "learning/computing/programming/rust/basics/updating rust modules.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b7772c6c1bf0668e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "learning/computing/programming/general/request routing.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 9
+        ]
       }
     ],
     "direction": "vertical"
@@ -196,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "learning/computing/programming/general/request routing.md",
+                "file": "learning/computing/programming/rust/basics/importing rust modules.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -213,7 +95,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "learning/computing/programming/general/request routing.md"
+                "file": "learning/computing/programming/rust/basics/importing rust modules.md"
               }
             }
           },
@@ -241,17 +123,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "b7772c6c1bf0668e",
+  "active": "fca6f0a928f7d71f",
   "lastOpenFiles": [
     "learning/computing/programming/rust/basics/updating rust modules.md",
-    "learning/computing/programming/rust/basics/importing rust modules.md",
-    "learning/computing/programming/rust/basics/local.md",
-    "learning/mental/productivity/Start your day with your routine.md",
-    "learning/mental/ikigai.md",
     "templates/dapp template.md",
-    "learning/computing/programming/languages/typescript programming language.md",
-    "personal/notes/Demo project using tailwindcss.md",
-    "personal/task board.md",
-    "learning/financial/trading/trading confluence.md"
+    "learning/computing/software/blender/3d asset resources.md",
+    "learning/computing/software/blender/Interesting plugins.md",
+    "learning/computing/software/blender/can you create 2d art in blender?.md",
+    "learning/computing/programming/java/java dependency management.md",
+    "learning/computing/programming/java/java classpath.md",
+    "learning/computing/programming/languages/_programming_languages_db.md",
+    "learning/mental/health/abusive relationships.md",
+    "learning/computing/software/blender/what are the best ways to learn blender?.md"
   ]
 }
