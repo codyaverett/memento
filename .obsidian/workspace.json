@@ -110,9 +110,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "1d30c44d43df0c81",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "learning/computing/programming/rust/basics/updating rust modules.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 7
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -170,7 +183,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "learning/computing/programming/rust/basics/importing rust modules.md",
+                "file": "learning/computing/programming/rust/basics/updating rust modules.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -187,7 +200,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "learning/computing/programming/rust/basics/importing rust modules.md"
+                "file": "learning/computing/programming/rust/basics/updating rust modules.md"
               }
             }
           },
@@ -215,8 +228,9 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "6632b89c3f0a4386",
+  "active": "1d30c44d43df0c81",
   "lastOpenFiles": [
+    "learning/computing/programming/rust/basics/importing rust modules.md",
     "learning/computing/programming/rust/basics/local.md",
     "learning/mental/productivity/Start your day with your routine.md",
     "learning/mental/ikigai.md",
@@ -225,7 +239,6 @@
     "personal/notes/Demo project using tailwindcss.md",
     "personal/task board.md",
     "learning/financial/trading/trading confluence.md",
-    "learning/financial/trading/trading terminology.md",
-    "learning/financial/trading/types of trades.md"
+    "learning/financial/trading/trading terminology.md"
   ]
 }
