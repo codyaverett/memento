@@ -1723,13 +1723,18 @@
       "size": 0,
       "tags": 2,
       "links": 0
+    },
+    "learning/computing/programming/general/request routing.md": {
+      "size": 0,
+      "tags": 3,
+      "links": 0
     }
   },
   "commitTypes": {
     "/": {
       "Refactor": 1420,
-      "Create": 357,
-      "Link": 323,
+      "Create": 358,
+      "Link": 324,
       "Expand": 115
     }
   },
@@ -1755,7 +1760,7 @@
       "17": 196,
       "18": 34,
       "19": 26,
-      "20": 48,
+      "20": 50,
       "21": 121,
       "22": 92,
       "23": 54
@@ -1765,7 +1770,7 @@
     "/": {
       "Mon": 1456,
       "Tue": 114,
-      "Wed": 247,
+      "Wed": 249,
       "Thu": 148,
       "Fri": 146,
       "Sat": 0,
@@ -1828,6 +1833,7 @@
         "<a class=\"internal-link\" href=\"programming/deno/A fresh look at Deno - Brian Barrow.md\"> A fresh look at Deno - Brian Barrow </a>"
       ],
       "Created": [
+        "<a class=\"internal-link\" href=\"learning/computing/programming/general/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"learning/computing/programming/rust/basics/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"learning/computing/programming/rust/basics/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"learning/mental/productivity/Untitled.md\"> Untitled </a>",
@@ -1877,8 +1883,7 @@
         "<a class=\"internal-link\" href=\"learning/computing/programming/rust/basics/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"learning/computing/programming/rust/basics/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"learning/computing/programming/rust/errors/Untitled.md\"> Untitled </a>",
-        "<a class=\"internal-link\" href=\"learning/computing/programming/rust/basics/Untitled.md\"> Untitled </a>",
-        "<a class=\"internal-link\" href=\"learning/computing/programming/rust/errors/Untitled.md\"> Untitled </a>"
+        "<a class=\"internal-link\" href=\"learning/computing/programming/rust/basics/Untitled.md\"> Untitled </a>"
       ],
       "Renamed": [
         "<a class=\"internal-link\" href=\"learning/financial/trading/types of trades.md\"> types of trades </a>",
@@ -1934,6 +1939,7 @@
         "<a class=\"internal-link\" href=\"personal/daily/2022/22-10-10.md\"> 22-10-10 </a>"
       ],
       "Tagged": [
+        "<a class=\"internal-link\" href=\"learning/computing/programming/general/request routing.md\"> request routing </a>",
         "<a class=\"internal-link\" href=\"learning/computing/programming/rust/basics/updating rust modules.md\"> updating rust modules </a>",
         "<a class=\"internal-link\" href=\"learning/mental/productivity/Start your day with your routine.md\"> Start your day with your routine </a>",
         "<a class=\"internal-link\" href=\"learning/mental/ikigai.md\"> ikigai </a>",
@@ -1983,8 +1989,7 @@
         "<a class=\"internal-link\" href=\"learning/music/theory/Try only using major 7th chords to create a chord progression.md\"> Try only using major 7th chords to create a chord progression </a>",
         "<a class=\"internal-link\" href=\"personal/daily/2022/22-09-28.md\"> 22-09-28 </a>",
         "<a class=\"internal-link\" href=\"personal/daily/2022/22-09-30.md\"> 22-09-30 </a>",
-        "<a class=\"internal-link\" href=\"personal/daily/2022/22-10-01.md\"> 22-10-01 </a>",
-        "<a class=\"internal-link\" href=\"learning/computing/cryptocurrency/L1 networks/Ethereum/Ethereum.md\"> Ethereum </a>"
+        "<a class=\"internal-link\" href=\"personal/daily/2022/22-10-01.md\"> 22-10-01 </a>"
       ],
       "Refactored": [],
       "Deleted": [
