@@ -149,9 +149,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "f6ed4e070c2e8d71",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "learning/financial/career/onboarding/starting at a new company.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 10
+        "currentTab": 11
       }
     ],
     "direction": "vertical"
@@ -209,7 +222,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "learning/computing/programming/rust/tooling/no_std.md",
+                "file": "learning/financial/career/onboarding/starting at a new company.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -226,7 +239,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "learning/computing/programming/rust/tooling/no_std.md"
+                "file": "learning/financial/career/onboarding/starting at a new company.md"
               }
             }
           },
@@ -254,8 +267,9 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "91a74262f5c4e06b",
+  "active": "f6ed4e070c2e8d71",
   "lastOpenFiles": [
+    "learning/computing/programming/rust/tooling/no_std.md",
     "learning/computing/programming/javascript/typescript/Enums can be terrible.md",
     "learning/computing/programming/general/request routing.md",
     "learning/computing/programming/rust/basics/updating rust modules.md",
@@ -264,7 +278,6 @@
     "learning/mental/productivity/Start your day with your routine.md",
     "learning/mental/ikigai.md",
     "templates/dapp template.md",
-    "learning/computing/programming/languages/typescript programming language.md",
-    "personal/notes/Demo project using tailwindcss.md"
+    "learning/computing/programming/languages/typescript programming language.md"
   ]
 }

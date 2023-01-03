@@ -1728,13 +1728,23 @@
       "size": 0,
       "tags": 3,
       "links": 0
+    },
+    "learning/computing/programming/rust/tooling/no_std.md": {
+      "size": 0,
+      "tags": 3,
+      "links": 0
+    },
+    "learning/financial/career/onboarding/starting at a new company.md": {
+      "size": 0,
+      "tags": 1,
+      "links": 0
     }
   },
   "commitTypes": {
     "/": {
       "Refactor": 1420,
-      "Create": 358,
-      "Link": 324,
+      "Create": 360,
+      "Link": 326,
       "Expand": 115
     }
   },
@@ -1742,7 +1752,7 @@
     "/": {
       "0": 60,
       "1": 29,
-      "2": 42,
+      "2": 43,
       "3": 52,
       "4": 21,
       "5": 16,
@@ -1756,20 +1766,20 @@
       "13": 68,
       "14": 50,
       "15": 64,
-      "16": 1200,
+      "16": 1202,
       "17": 196,
       "18": 34,
       "19": 26,
       "20": 50,
       "21": 121,
       "22": 92,
-      "23": 54
+      "23": 55
     }
   },
   "weeklyCommits": {
     "/": {
-      "Mon": 1456,
-      "Tue": 114,
+      "Mon": 1457,
+      "Tue": 117,
       "Wed": 249,
       "Thu": 148,
       "Fri": 146,
@@ -1833,6 +1843,8 @@
         "<a class=\"internal-link\" href=\"programming/deno/A fresh look at Deno - Brian Barrow.md\"> A fresh look at Deno - Brian Barrow </a>"
       ],
       "Created": [
+        "<a class=\"internal-link\" href=\"learning/financial/career/onboarding/Untitled.md\"> Untitled </a>",
+        "<a class=\"internal-link\" href=\"learning/computing/programming/rust/tooling/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"learning/computing/programming/general/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"learning/computing/programming/rust/basics/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"learning/computing/programming/rust/basics/Untitled.md\"> Untitled </a>",
@@ -1881,8 +1893,6 @@
         "<a class=\"internal-link\" href=\"learning/computing/programming/react/patterns/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"learning/computing/programming/react/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"learning/computing/programming/rust/basics/Untitled.md\"> Untitled </a>",
-        "<a class=\"internal-link\" href=\"learning/computing/programming/rust/basics/Untitled.md\"> Untitled </a>",
-        "<a class=\"internal-link\" href=\"learning/computing/programming/rust/errors/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"learning/computing/programming/rust/basics/Untitled.md\"> Untitled </a>"
       ],
       "Renamed": [
@@ -1939,6 +1949,8 @@
         "<a class=\"internal-link\" href=\"personal/daily/2022/22-10-10.md\"> 22-10-10 </a>"
       ],
       "Tagged": [
+        "<a class=\"internal-link\" href=\"learning/financial/career/onboarding/starting at a new company.md\"> starting at a new company </a>",
+        "<a class=\"internal-link\" href=\"learning/computing/programming/rust/tooling/no_std.md\"> no_std </a>",
         "<a class=\"internal-link\" href=\"learning/computing/programming/general/request routing.md\"> request routing </a>",
         "<a class=\"internal-link\" href=\"learning/computing/programming/rust/basics/updating rust modules.md\"> updating rust modules </a>",
         "<a class=\"internal-link\" href=\"learning/mental/productivity/Start your day with your routine.md\"> Start your day with your routine </a>",
@@ -1987,9 +1999,7 @@
         "<a class=\"internal-link\" href=\"learning/financial/career/management/transitioning from dev to manager.md\"> transitioning from dev to manager </a>",
         "<a class=\"internal-link\" href=\"learning/music/Sheet music.md\"> Sheet music </a>",
         "<a class=\"internal-link\" href=\"learning/music/theory/Try only using major 7th chords to create a chord progression.md\"> Try only using major 7th chords to create a chord progression </a>",
-        "<a class=\"internal-link\" href=\"personal/daily/2022/22-09-28.md\"> 22-09-28 </a>",
-        "<a class=\"internal-link\" href=\"personal/daily/2022/22-09-30.md\"> 22-09-30 </a>",
-        "<a class=\"internal-link\" href=\"personal/daily/2022/22-10-01.md\"> 22-10-01 </a>"
+        "<a class=\"internal-link\" href=\"personal/daily/2022/22-09-28.md\"> 22-09-28 </a>"
       ],
       "Refactored": [],
       "Deleted": [
