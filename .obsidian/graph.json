@@ -1,11 +1,11 @@
 {
-  "collapse-filter": false,
+  "collapse-filter": true,
   "search": "",
   "showTags": true,
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": false,
+  "collapse-color-groups": true,
   "colorGroups": [
     {
       "query": "tag:rust",
@@ -39,6 +39,6 @@
   "repelStrength": 14.02099609375,
   "linkStrength": 1,
   "linkDistance": 194,
-  "scale": 0.11404247164804295,
-  "close": true
+  "scale": 0.17991131848660255,
+  "close": false
 }

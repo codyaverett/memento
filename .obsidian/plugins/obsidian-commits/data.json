@@ -1738,12 +1738,17 @@
       "size": 0,
       "tags": 1,
       "links": 0
+    },
+    "learning/mathematics/calculus/Untitled.md": {
+      "size": 0,
+      "tags": 0,
+      "links": 0
     }
   },
   "commitTypes": {
     "/": {
       "Refactor": 1420,
-      "Create": 360,
+      "Create": 361,
       "Link": 326,
       "Expand": 115
     }
@@ -1771,14 +1776,14 @@
       "18": 34,
       "19": 26,
       "20": 50,
-      "21": 121,
+      "21": 122,
       "22": 92,
       "23": 55
     }
   },
   "weeklyCommits": {
     "/": {
-      "Mon": 1457,
+      "Mon": 1458,
       "Tue": 117,
       "Wed": 249,
       "Thu": 148,
@@ -1843,6 +1848,7 @@
         "<a class=\"internal-link\" href=\"programming/deno/A fresh look at Deno - Brian Barrow.md\"> A fresh look at Deno - Brian Barrow </a>"
       ],
       "Created": [
+        "<a class=\"internal-link\" href=\"learning/mathematics/calculus/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"learning/financial/career/onboarding/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"learning/computing/programming/rust/tooling/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"learning/computing/programming/general/Untitled.md\"> Untitled </a>",
@@ -1892,7 +1898,6 @@
         "<a class=\"internal-link\" href=\"learning/computing/programming/react/patterns/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"learning/computing/programming/react/patterns/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"learning/computing/programming/react/Untitled.md\"> Untitled </a>",
-        "<a class=\"internal-link\" href=\"learning/computing/programming/rust/basics/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"learning/computing/programming/rust/basics/Untitled.md\"> Untitled </a>"
       ],
       "Renamed": [
