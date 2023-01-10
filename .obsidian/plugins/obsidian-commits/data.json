@@ -1733,20 +1733,25 @@
       "size": 0,
       "tags": 2,
       "links": 0
+    },
+    "learning/computing/security/types of cyber attacks.md": {
+      "size": 0,
+      "tags": 1,
+      "links": 0
     }
   },
   "commitTypes": {
     "/": {
       "Refactor": 1423,
-      "Create": 362,
-      "Link": 328,
+      "Create": 363,
+      "Link": 329,
       "Expand": 115
     }
   },
   "dailyCommits": {
     "/": {
       "0": 60,
-      "1": 29,
+      "1": 31,
       "2": 43,
       "3": 52,
       "4": 21,
@@ -1774,7 +1779,7 @@
   "weeklyCommits": {
     "/": {
       "Mon": 1464,
-      "Tue": 117,
+      "Tue": 119,
       "Wed": 249,
       "Thu": 148,
       "Fri": 146,
@@ -1838,6 +1843,7 @@
         "<a class=\"internal-link\" href=\"programming/deno/A fresh look at Deno - Brian Barrow.md\"> A fresh look at Deno - Brian Barrow </a>"
       ],
       "Created": [
+        "<a class=\"internal-link\" href=\"learning/computing/security/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"learning/mathematics/trigonometry/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"learning/mathematics/calculus/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"learning/financial/career/onboarding/Untitled.md\"> Untitled </a>",
@@ -1887,8 +1893,7 @@
         "<a class=\"internal-link\" href=\"learning/mental/ADHD/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"learning/computing/programming/react/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"learning/computing/programming/react/patterns/Untitled.md\"> Untitled </a>",
-        "<a class=\"internal-link\" href=\"learning/computing/programming/react/patterns/Untitled.md\"> Untitled </a>",
-        "<a class=\"internal-link\" href=\"learning/computing/programming/react/Untitled.md\"> Untitled </a>"
+        "<a class=\"internal-link\" href=\"learning/computing/programming/react/patterns/Untitled.md\"> Untitled </a>"
       ],
       "Renamed": [
         "<a class=\"internal-link\" href=\"learning/financial/trading/types of trades.md\"> types of trades </a>",
@@ -1944,6 +1949,7 @@
         "<a class=\"internal-link\" href=\"personal/daily/2022/22-10-10.md\"> 22-10-10 </a>"
       ],
       "Tagged": [
+        "<a class=\"internal-link\" href=\"learning/computing/security/types of cyber attacks.md\"> types of cyber attacks </a>",
         "<a class=\"internal-link\" href=\"learning/mathematics/trigonometry/trigonometry resources.md\"> trigonometry resources </a>",
         "<a class=\"internal-link\" href=\"learning/mathematics/calculus/calculus resources.md\"> calculus resources </a>",
         "<a class=\"internal-link\" href=\"learning/financial/career/onboarding/starting at a new company.md\"> starting at a new company </a>",
@@ -1993,8 +1999,7 @@
         "<a class=\"internal-link\" href=\"learning/computing/software/data ETL/apache airflow/airflow hooks.md\"> airflow hooks </a>",
         "<a class=\"internal-link\" href=\"learning/computing/software/github actions/github actions for a django project.md\"> github actions for a django project </a>",
         "<a class=\"internal-link\" href=\"learning/computing/software/nginx/nginx webserver.md\"> nginx webserver </a>",
-        "<a class=\"internal-link\" href=\"learning/financial/career/management/transitioning from dev to manager.md\"> transitioning from dev to manager </a>",
-        "<a class=\"internal-link\" href=\"learning/music/Sheet music.md\"> Sheet music </a>"
+        "<a class=\"internal-link\" href=\"learning/financial/career/management/transitioning from dev to manager.md\"> transitioning from dev to manager </a>"
       ],
       "Refactored": [],
       "Deleted": [
