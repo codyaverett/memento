@@ -889,21 +889,6 @@
       "tags": 1,
       "links": 0
     },
-    "learning/financial/career/job-hunting/buf.build.md": {
-      "size": 0,
-      "tags": 1,
-      "links": 0
-    },
-    "learning/financial/career/job-hunting/RevUnit.md": {
-      "size": 0,
-      "tags": 1,
-      "links": 0
-    },
-    "learning/financial/career/job-hunting/Cover Letters/Systems Engineering Manager @ HomeDepot.md": {
-      "size": 0,
-      "tags": 0,
-      "links": 0
-    },
     "learning/financial/career/social/two traits necessary to seem confident.md": {
       "size": 324,
       "tags": 0,
@@ -1752,7 +1737,7 @@
   },
   "commitTypes": {
     "/": {
-      "Refactor": 1420,
+      "Refactor": 1423,
       "Create": 362,
       "Link": 328,
       "Expand": 115
@@ -1782,13 +1767,13 @@
       "19": 26,
       "20": 50,
       "21": 123,
-      "22": 94,
+      "22": 97,
       "23": 55
     }
   },
   "weeklyCommits": {
     "/": {
-      "Mon": 1461,
+      "Mon": 1464,
       "Tue": 117,
       "Wed": 249,
       "Thu": 148,
@@ -2013,6 +1998,9 @@
       ],
       "Refactored": [],
       "Deleted": [
+        "<a class=\"internal-link\" href=\"learning/financial/career/job-hunting/RevUnit.md\"> RevUnit </a>",
+        "<a class=\"internal-link\" href=\"learning/financial/career/job-hunting/buf.build.md\"> buf.build </a>",
+        "<a class=\"internal-link\" href=\"learning/financial/career/job-hunting/Cover Letters/Systems Engineering Manager @ HomeDepot.md\"> Systems Engineering Manager @ HomeDepot </a>",
         "<a class=\"internal-link\" href=\"learning/computing/programming/rust/basics/local.md\"> local </a>",
         "<a class=\"internal-link\" href=\"learning/financial/trading/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"game loop.md\"> game loop </a>",
@@ -2060,10 +2048,7 @@
         "<a class=\"internal-link\" href=\"personal/work/Site for Oasis Landscaping.md\"> Site for Oasis Landscaping </a>",
         "<a class=\"internal-link\" href=\"personal/Cody_Averett.md\"> Cody_Averett </a>",
         "<a class=\"internal-link\" href=\"WIP.md\"> WIP </a>",
-        "<a class=\"internal-link\" href=\"self/daily/old/2022/11-14-22.md\"> 11-14-22 </a>",
-        "<a class=\"internal-link\" href=\"random/being impaled by a javelin.md\"> being impaled by a javelin </a>",
-        "<a class=\"internal-link\" href=\"learning/financial/career/job-hunting/Drawing 2022-11-07 15.59.02.excalidraw.md\"> Drawing 2022-11-07 15.59.02.excalidraw </a>",
-        "<a class=\"internal-link\" href=\"learning/financial/career/job-hunting/staff engineer.md\"> staff engineer </a>"
+        "<a class=\"internal-link\" href=\"self/daily/old/2022/11-14-22.md\"> 11-14-22 </a>"
       ],
       "Linked": [
         "<a class=\"internal-link\" href=\"learning/mental/productivity/Start your day with your routine.md\"> Start your day with your routine </a>",
