@@ -1739,17 +1739,22 @@
       "tags": 1,
       "links": 0
     },
-    "learning/mathematics/calculus/Untitled.md": {
+    "learning/mathematics/calculus/calculus resources.md": {
       "size": 0,
-      "tags": 0,
+      "tags": 2,
+      "links": 0
+    },
+    "learning/mathematics/trigonometry/trigonometry resources.md": {
+      "size": 0,
+      "tags": 2,
       "links": 0
     }
   },
   "commitTypes": {
     "/": {
       "Refactor": 1420,
-      "Create": 361,
-      "Link": 326,
+      "Create": 362,
+      "Link": 328,
       "Expand": 115
     }
   },
@@ -1776,14 +1781,14 @@
       "18": 34,
       "19": 26,
       "20": 50,
-      "21": 122,
-      "22": 92,
+      "21": 123,
+      "22": 94,
       "23": 55
     }
   },
   "weeklyCommits": {
     "/": {
-      "Mon": 1458,
+      "Mon": 1461,
       "Tue": 117,
       "Wed": 249,
       "Thu": 148,
@@ -1848,6 +1853,7 @@
         "<a class=\"internal-link\" href=\"programming/deno/A fresh look at Deno - Brian Barrow.md\"> A fresh look at Deno - Brian Barrow </a>"
       ],
       "Created": [
+        "<a class=\"internal-link\" href=\"learning/mathematics/trigonometry/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"learning/mathematics/calculus/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"learning/financial/career/onboarding/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"learning/computing/programming/rust/tooling/Untitled.md\"> Untitled </a>",
@@ -1897,8 +1903,7 @@
         "<a class=\"internal-link\" href=\"learning/computing/programming/react/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"learning/computing/programming/react/patterns/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"learning/computing/programming/react/patterns/Untitled.md\"> Untitled </a>",
-        "<a class=\"internal-link\" href=\"learning/computing/programming/react/Untitled.md\"> Untitled </a>",
-        "<a class=\"internal-link\" href=\"learning/computing/programming/rust/basics/Untitled.md\"> Untitled </a>"
+        "<a class=\"internal-link\" href=\"learning/computing/programming/react/Untitled.md\"> Untitled </a>"
       ],
       "Renamed": [
         "<a class=\"internal-link\" href=\"learning/financial/trading/types of trades.md\"> types of trades </a>",
@@ -1954,6 +1959,8 @@
         "<a class=\"internal-link\" href=\"personal/daily/2022/22-10-10.md\"> 22-10-10 </a>"
       ],
       "Tagged": [
+        "<a class=\"internal-link\" href=\"learning/mathematics/trigonometry/trigonometry resources.md\"> trigonometry resources </a>",
+        "<a class=\"internal-link\" href=\"learning/mathematics/calculus/calculus resources.md\"> calculus resources </a>",
         "<a class=\"internal-link\" href=\"learning/financial/career/onboarding/starting at a new company.md\"> starting at a new company </a>",
         "<a class=\"internal-link\" href=\"learning/computing/programming/rust/tooling/no_std.md\"> no_std </a>",
         "<a class=\"internal-link\" href=\"learning/computing/programming/general/request routing.md\"> request routing </a>",
@@ -2002,9 +2009,7 @@
         "<a class=\"internal-link\" href=\"learning/computing/software/github actions/github actions for a django project.md\"> github actions for a django project </a>",
         "<a class=\"internal-link\" href=\"learning/computing/software/nginx/nginx webserver.md\"> nginx webserver </a>",
         "<a class=\"internal-link\" href=\"learning/financial/career/management/transitioning from dev to manager.md\"> transitioning from dev to manager </a>",
-        "<a class=\"internal-link\" href=\"learning/music/Sheet music.md\"> Sheet music </a>",
-        "<a class=\"internal-link\" href=\"learning/music/theory/Try only using major 7th chords to create a chord progression.md\"> Try only using major 7th chords to create a chord progression </a>",
-        "<a class=\"internal-link\" href=\"personal/daily/2022/22-09-28.md\"> 22-09-28 </a>"
+        "<a class=\"internal-link\" href=\"learning/music/Sheet music.md\"> Sheet music </a>"
       ],
       "Refactored": [],
       "Deleted": [
