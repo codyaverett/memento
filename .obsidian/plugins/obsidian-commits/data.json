@@ -1738,12 +1738,17 @@
       "size": 0,
       "tags": 1,
       "links": 0
+    },
+    "learning/financial/trading/trading thoughts.md": {
+      "size": 0,
+      "tags": 0,
+      "links": 0
     }
   },
   "commitTypes": {
     "/": {
       "Refactor": 1423,
-      "Create": 363,
+      "Create": 364,
       "Link": 329,
       "Expand": 115
     }
@@ -1770,7 +1775,7 @@
       "17": 196,
       "18": 34,
       "19": 26,
-      "20": 50,
+      "20": 51,
       "21": 123,
       "22": 97,
       "23": 55
@@ -1779,7 +1784,7 @@
   "weeklyCommits": {
     "/": {
       "Mon": 1464,
-      "Tue": 119,
+      "Tue": 120,
       "Wed": 249,
       "Thu": 148,
       "Fri": 146,
@@ -1843,6 +1848,7 @@
         "<a class=\"internal-link\" href=\"programming/deno/A fresh look at Deno - Brian Barrow.md\"> A fresh look at Deno - Brian Barrow </a>"
       ],
       "Created": [
+        "<a class=\"internal-link\" href=\"learning/financial/trading/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"learning/computing/security/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"learning/mathematics/trigonometry/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"learning/mathematics/calculus/Untitled.md\"> Untitled </a>",
@@ -1892,7 +1898,6 @@
         "<a class=\"internal-link\" href=\"game loop.md\"> game loop </a>",
         "<a class=\"internal-link\" href=\"learning/mental/ADHD/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"learning/computing/programming/react/Untitled.md\"> Untitled </a>",
-        "<a class=\"internal-link\" href=\"learning/computing/programming/react/patterns/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"learning/computing/programming/react/patterns/Untitled.md\"> Untitled </a>"
       ],
       "Renamed": [
