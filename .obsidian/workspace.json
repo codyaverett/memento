@@ -45,9 +45,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "882d8bb36298f1cc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "learning/financial/trading/trading thoughts.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -105,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "learning/computing/security/types of cyber attacks.md",
+                "file": "learning/financial/trading/trading thoughts.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "learning/computing/security/types of cyber attacks.md"
+                "file": "learning/financial/trading/trading thoughts.md"
               }
             }
           },
@@ -150,17 +163,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "6bad9a7e7d6ed9cb",
+  "active": "882d8bb36298f1cc",
   "lastOpenFiles": [
+    "learning/financial/trading/support and resistance.md",
+    "learning/financial/trading/trading confluence.md",
+    "learning/financial/trading/trading expectations.md",
+    "learning/financial/trading/trading thoughts.md",
+    "learning/computing/security/types of cyber attacks.md",
     "learning/financial/career/job-hunting/attachments/Pasted image 20221020145635.png",
     "learning/financial/career/job-hunting/Cover Letters/Systems Engineering Manager @ HomeDepot.md",
     "learning/financial/career/job-hunting/RevUnit.md",
     "learning/financial/career/job-hunting/buf.build.md",
-    "learning/mathematics/trigonometry/trigonometry resources.md",
-    "learning/mathematics/calculus/calculus resources.md",
-    "learning/mental/ikigai.md",
-    "learning/computing/really useful websites.md",
-    "learning/computing/programming/algorithms/algorithms.md",
-    "learning/financial/career/onboarding/starting at a new company.md"
+    "learning/mathematics/trigonometry/trigonometry resources.md"
   ]
 }
