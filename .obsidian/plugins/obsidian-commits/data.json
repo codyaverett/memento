@@ -1743,12 +1743,17 @@
       "size": 0,
       "tags": 0,
       "links": 0
+    },
+    "learning/financial/trading/trading learning.md": {
+      "size": 0,
+      "tags": 0,
+      "links": 0
     }
   },
   "commitTypes": {
     "/": {
       "Refactor": 1423,
-      "Create": 364,
+      "Create": 365,
       "Link": 329,
       "Expand": 115
     }
@@ -1776,7 +1781,7 @@
       "18": 34,
       "19": 26,
       "20": 51,
-      "21": 123,
+      "21": 124,
       "22": 97,
       "23": 55
     }
@@ -1784,7 +1789,7 @@
   "weeklyCommits": {
     "/": {
       "Mon": 1464,
-      "Tue": 120,
+      "Tue": 121,
       "Wed": 249,
       "Thu": 148,
       "Fri": 146,
@@ -1849,6 +1854,7 @@
       ],
       "Created": [
         "<a class=\"internal-link\" href=\"learning/financial/trading/Untitled.md\"> Untitled </a>",
+        "<a class=\"internal-link\" href=\"learning/financial/trading/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"learning/computing/security/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"learning/mathematics/trigonometry/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"learning/mathematics/calculus/Untitled.md\"> Untitled </a>",
@@ -1897,8 +1903,7 @@
         "<a class=\"internal-link\" href=\"learning/computing/programming/SQL/hacks/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"game loop.md\"> game loop </a>",
         "<a class=\"internal-link\" href=\"learning/mental/ADHD/Untitled.md\"> Untitled </a>",
-        "<a class=\"internal-link\" href=\"learning/computing/programming/react/Untitled.md\"> Untitled </a>",
-        "<a class=\"internal-link\" href=\"learning/computing/programming/react/patterns/Untitled.md\"> Untitled </a>"
+        "<a class=\"internal-link\" href=\"learning/computing/programming/react/Untitled.md\"> Untitled </a>"
       ],
       "Renamed": [
         "<a class=\"internal-link\" href=\"learning/financial/trading/types of trades.md\"> types of trades </a>",
