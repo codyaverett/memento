@@ -1748,12 +1748,22 @@
       "size": 0,
       "tags": 0,
       "links": 0
+    },
+    "learning/computing/programming/rust/snippets/thread spam.md": {
+      "size": 0,
+      "tags": 0,
+      "links": 0
+    },
+    "learning/financial/trading/btc/big btc jumps.md": {
+      "size": 0,
+      "tags": 0,
+      "links": 0
     }
   },
   "commitTypes": {
     "/": {
-      "Refactor": 1423,
-      "Create": 365,
+      "Refactor": 1424,
+      "Create": 367,
       "Link": 329,
       "Expand": 115
     }
@@ -1779,8 +1789,8 @@
       "16": 1202,
       "17": 196,
       "18": 34,
-      "19": 26,
-      "20": 51,
+      "19": 27,
+      "20": 53,
       "21": 124,
       "22": 97,
       "23": 55
@@ -1790,9 +1800,9 @@
     "/": {
       "Mon": 1464,
       "Tue": 121,
-      "Wed": 249,
+      "Wed": 250,
       "Thu": 148,
-      "Fri": 146,
+      "Fri": 148,
       "Sat": 0,
       "Sun": 104
     }
@@ -1853,6 +1863,8 @@
         "<a class=\"internal-link\" href=\"programming/deno/A fresh look at Deno - Brian Barrow.md\"> A fresh look at Deno - Brian Barrow </a>"
       ],
       "Created": [
+        "<a class=\"internal-link\" href=\"learning/financial/trading/btc/Untitled.md\"> Untitled </a>",
+        "<a class=\"internal-link\" href=\"learning/computing/programming/rust/snippets/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"learning/financial/trading/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"learning/financial/trading/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"learning/computing/security/Untitled.md\"> Untitled </a>",
@@ -1901,11 +1913,10 @@
         "<a class=\"internal-link\" href=\"learning/music/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"learning/mental/productivity/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"learning/computing/programming/SQL/hacks/Untitled.md\"> Untitled </a>",
-        "<a class=\"internal-link\" href=\"game loop.md\"> game loop </a>",
-        "<a class=\"internal-link\" href=\"learning/mental/ADHD/Untitled.md\"> Untitled </a>",
-        "<a class=\"internal-link\" href=\"learning/computing/programming/react/Untitled.md\"> Untitled </a>"
+        "<a class=\"internal-link\" href=\"game loop.md\"> game loop </a>"
       ],
       "Renamed": [
+        "<a class=\"internal-link\" href=\"learning/financial/trading/btc/big btc jumps.md\"> big btc jumps </a>",
         "<a class=\"internal-link\" href=\"learning/financial/trading/types of trades.md\"> types of trades </a>",
         "<a class=\"internal-link\" href=\"learning/financial/trading/support and resistance.md\"> support and resistance </a>",
         "<a class=\"internal-link\" href=\"learning/financial/debt/calculate monthly APR.md\"> calculate monthly APR </a>",
@@ -1955,8 +1966,7 @@
         "<a class=\"internal-link\" href=\"learning/financial/career/management/transitioning from dev to manager.md\"> transitioning from dev to manager </a>",
         "<a class=\"internal-link\" href=\"learning/productivity/all failures are learning opportunities.md\"> all failures are learning opportunities </a>",
         "<a class=\"internal-link\" href=\"personal/daily/2022/22-11-12.md\"> 22-11-12 </a>",
-        "<a class=\"internal-link\" href=\"personal/daily/2022/22-11-11.md\"> 22-11-11 </a>",
-        "<a class=\"internal-link\" href=\"personal/daily/2022/22-10-10.md\"> 22-10-10 </a>"
+        "<a class=\"internal-link\" href=\"personal/daily/2022/22-11-11.md\"> 22-11-11 </a>"
       ],
       "Tagged": [
         "<a class=\"internal-link\" href=\"learning/computing/security/types of cyber attacks.md\"> types of cyber attacks </a>",
