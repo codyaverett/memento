@@ -84,9 +84,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "6dd307f850465d2c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "learning/financial/trading/btc/big btc jumps.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -128,7 +141,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 383.5
   },
   "right": {
     "id": "27aa3db891e6815a",
@@ -144,7 +157,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "learning/computing/programming/rust/snippets/thread spam.md",
+                "file": "learning/financial/trading/btc/big btc jumps.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -161,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "learning/computing/programming/rust/snippets/thread spam.md"
+                "file": "learning/financial/trading/btc/big btc jumps.md"
               }
             }
           },
@@ -189,8 +202,9 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "f9dd6e48ba948a29",
+  "active": "6dd307f850465d2c",
   "lastOpenFiles": [
+    "learning/computing/programming/rust/snippets/thread spam.md",
     "learning/financial/trading/trading learning.md",
     "learning/financial/trading/trading thoughts.md",
     "learning/financial/trading/support and resistance.md",
@@ -199,7 +213,6 @@
     "learning/computing/security/types of cyber attacks.md",
     "learning/financial/career/job-hunting/attachments/Pasted image 20221020145635.png",
     "learning/financial/career/job-hunting/Cover Letters/Systems Engineering Manager @ HomeDepot.md",
-    "learning/financial/career/job-hunting/RevUnit.md",
-    "learning/financial/career/job-hunting/buf.build.md"
+    "learning/financial/career/job-hunting/RevUnit.md"
   ]
 }
