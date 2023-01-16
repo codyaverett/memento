@@ -1169,11 +1169,6 @@
       "tags": 1,
       "links": 0
     },
-    "data/useful-links.md": {
-      "size": 0,
-      "tags": 0,
-      "links": 0
-    },
     "learning/computing/programming/python/python decorators.md": {
       "size": 3081,
       "tags": 0,
@@ -1757,20 +1752,30 @@
     "learning/financial/trading/btc/big btc jumps.md": {
       "size": 0,
       "tags": 0,
+      "links": 1
+    },
+    "personal/daily/2022/23-01-15.md": {
+      "size": 0,
+      "tags": 0,
+      "links": 0
+    },
+    "learning/mathematics/statistics/computing and understanding averages.md": {
+      "size": 0,
+      "tags": 0,
       "links": 0
     }
   },
   "commitTypes": {
     "/": {
-      "Refactor": 1424,
-      "Create": 367,
-      "Link": 329,
+      "Refactor": 1426,
+      "Create": 370,
+      "Link": 330,
       "Expand": 115
     }
   },
   "dailyCommits": {
     "/": {
-      "0": 60,
+      "0": 61,
       "1": 31,
       "2": 43,
       "3": 52,
@@ -1790,21 +1795,21 @@
       "17": 196,
       "18": 34,
       "19": 27,
-      "20": 53,
+      "20": 55,
       "21": 124,
       "22": 97,
-      "23": 55
+      "23": 58
     }
   },
   "weeklyCommits": {
     "/": {
-      "Mon": 1464,
+      "Mon": 1465,
       "Tue": 121,
       "Wed": 250,
       "Thu": 148,
-      "Fri": 148,
+      "Fri": 149,
       "Sat": 0,
-      "Sun": 104
+      "Sun": 108
     }
   },
   "recentCommits": {
@@ -1863,6 +1868,9 @@
         "<a class=\"internal-link\" href=\"programming/deno/A fresh look at Deno - Brian Barrow.md\"> A fresh look at Deno - Brian Barrow </a>"
       ],
       "Created": [
+        "<a class=\"internal-link\" href=\"learning/mathematics/statistics/Untitled.md\"> Untitled </a>",
+        "<a class=\"internal-link\" href=\"Untitled.md\"> Untitled </a>",
+        "<a class=\"internal-link\" href=\"personal/daily/2022/23-01-15.md\"> 23-01-15 </a>",
         "<a class=\"internal-link\" href=\"learning/financial/trading/btc/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"learning/computing/programming/rust/snippets/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"learning/financial/trading/Untitled.md\"> Untitled </a>",
@@ -1910,10 +1918,7 @@
         "<a class=\"internal-link\" href=\"personal/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"personal/notes/Chainsaw Man.md\"> Chainsaw Man </a>",
         "<a class=\"internal-link\" href=\"personal/Untitled Kanban.md\"> Untitled Kanban </a>",
-        "<a class=\"internal-link\" href=\"learning/music/Untitled.md\"> Untitled </a>",
-        "<a class=\"internal-link\" href=\"learning/mental/productivity/Untitled.md\"> Untitled </a>",
-        "<a class=\"internal-link\" href=\"learning/computing/programming/SQL/hacks/Untitled.md\"> Untitled </a>",
-        "<a class=\"internal-link\" href=\"game loop.md\"> game loop </a>"
+        "<a class=\"internal-link\" href=\"learning/music/Untitled.md\"> Untitled </a>"
       ],
       "Renamed": [
         "<a class=\"internal-link\" href=\"learning/financial/trading/btc/big btc jumps.md\"> big btc jumps </a>",
@@ -2023,6 +2028,8 @@
       ],
       "Refactored": [],
       "Deleted": [
+        "<a class=\"internal-link\" href=\"data/useful-links.md\"> useful-links </a>",
+        "<a class=\"internal-link\" href=\"Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"learning/financial/career/job-hunting/RevUnit.md\"> RevUnit </a>",
         "<a class=\"internal-link\" href=\"learning/financial/career/job-hunting/buf.build.md\"> buf.build </a>",
         "<a class=\"internal-link\" href=\"learning/financial/career/job-hunting/Cover Letters/Systems Engineering Manager @ HomeDepot.md\"> Systems Engineering Manager @ HomeDepot </a>",
@@ -2071,11 +2078,10 @@
         "<a class=\"internal-link\" href=\"templates/accept job offer.md\"> accept job offer </a>",
         "<a class=\"internal-link\" href=\"templates/decline accepted job offer.md\"> decline accepted job offer </a>",
         "<a class=\"internal-link\" href=\"personal/work/Site for Oasis Landscaping.md\"> Site for Oasis Landscaping </a>",
-        "<a class=\"internal-link\" href=\"personal/Cody_Averett.md\"> Cody_Averett </a>",
-        "<a class=\"internal-link\" href=\"WIP.md\"> WIP </a>",
-        "<a class=\"internal-link\" href=\"self/daily/old/2022/11-14-22.md\"> 11-14-22 </a>"
+        "<a class=\"internal-link\" href=\"personal/Cody_Averett.md\"> Cody_Averett </a>"
       ],
       "Linked": [
+        "<a class=\"internal-link\" href=\"learning/financial/trading/btc/big btc jumps.md\"> big btc jumps </a>",
         "<a class=\"internal-link\" href=\"learning/mental/productivity/Start your day with your routine.md\"> Start your day with your routine </a>",
         "<a class=\"internal-link\" href=\"learning/computing/programming/protocols/protocols for transferring data over networks.md\"> protocols for transferring data over networks </a>",
         "<a class=\"internal-link\" href=\"personal/Untitled Kanban.md\"> Untitled Kanban </a>",
@@ -2125,8 +2131,7 @@
         "<a class=\"internal-link\" href=\"programming/python/python extensions.md\"> python extensions </a>",
         "<a class=\"internal-link\" href=\"programming/python/python basics.md\"> python basics </a>",
         "<a class=\"internal-link\" href=\"programming/python/DJango quick reference.md\"> DJango quick reference </a>",
-        "<a class=\"internal-link\" href=\"python special strings.md\"> python special strings </a>",
-        "<a class=\"internal-link\" href=\"Python research.md\"> Python research </a>"
+        "<a class=\"internal-link\" href=\"python special strings.md\"> python special strings </a>"
       ],
       "Removed Tags from": [
         "<a class=\"internal-link\" href=\"learning/computing/programming/python/python extensions.md\"> python extensions </a>",
