@@ -19,8 +19,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "0cdd392a79ead347",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "learning/computing/software/osx/crun error git.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -78,7 +92,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "learning/mathematics/statistics/computing and understanding averages.md",
+                "file": "learning/computing/software/osx/crun error git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,7 +109,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "learning/mathematics/statistics/computing and understanding averages.md"
+                "file": "learning/computing/software/osx/crun error git.md"
               }
             }
           },
@@ -137,8 +151,9 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "a78dc7f03f5f74e5",
+  "active": "0cdd392a79ead347",
   "lastOpenFiles": [
+    "learning/mathematics/statistics/computing and understanding averages.md",
     "Untitled.md",
     "personal/daily/2022/23-01-15.md",
     "learning/financial/trading/btc/big btc jumps.md",
@@ -147,7 +162,6 @@
     "learning/financial/trading/trading thoughts.md",
     "learning/financial/trading/support and resistance.md",
     "learning/financial/trading/trading confluence.md",
-    "learning/financial/trading/trading expectations.md",
-    "learning/computing/security/types of cyber attacks.md"
+    "learning/financial/trading/trading expectations.md"
   ]
 }
