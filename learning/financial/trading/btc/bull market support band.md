@@ -1,7 +1,7 @@
 ---
 name: Bull Market Support Band
 created: 2023-01-16T20:56:36-06:00
-updated: 2023-01-16T21:10:46-06:00
+updated: 2023-01-16T21:31:38-06:00
 aliases: 
 tags: indicator, pine
 ---
@@ -30,3 +30,8 @@ ema20 = ta.ema(close, 20)
 plot(sma20, color=color.green, linewidth=2)
 plot(ema20, color=color.red, linewidth=2)
 ```
+
+## Reference
+
+- https://www.bitget.com/en/academy/article-details/What-is-the-Bitcoin-Bull-Market-Support-Band
+
