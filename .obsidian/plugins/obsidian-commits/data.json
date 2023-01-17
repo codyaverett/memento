@@ -1769,16 +1769,21 @@
       "tags": 0,
       "links": 0
     },
-    "learning/financial/trading/btc/bull market support band.md": {
+    "learning/financial/trading/patterns/bull market support band.md": {
       "size": 0,
       "tags": 2,
+      "links": 0
+    },
+    "learning/financial/trading/pine scripting/ema ribbon.md": {
+      "size": 0,
+      "tags": 0,
       "links": 0
     }
   },
   "commitTypes": {
     "/": {
-      "Refactor": 1426,
-      "Create": 372,
+      "Refactor": 1428,
+      "Create": 373,
       "Link": 331,
       "Expand": 115
     }
@@ -1807,13 +1812,13 @@
       "19": 27,
       "20": 56,
       "21": 125,
-      "22": 97,
+      "22": 100,
       "23": 58
     }
   },
   "weeklyCommits": {
     "/": {
-      "Mon": 1468,
+      "Mon": 1471,
       "Tue": 121,
       "Wed": 250,
       "Thu": 148,
@@ -1878,6 +1883,7 @@
         "<a class=\"internal-link\" href=\"programming/deno/A fresh look at Deno - Brian Barrow.md\"> A fresh look at Deno - Brian Barrow </a>"
       ],
       "Created": [
+        "<a class=\"internal-link\" href=\"learning/financial/trading/patterns/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"learning/financial/trading/btc/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"learning/computing/software/osx/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"learning/mathematics/statistics/Untitled.md\"> Untitled </a>",
@@ -1927,10 +1933,11 @@
         "<a class=\"internal-link\" href=\"learning/financial/debt/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"learning/financial/debt/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"learning/techniques/Untitled.md\"> Untitled </a>",
-        "<a class=\"internal-link\" href=\"personal/Untitled.md\"> Untitled </a>",
-        "<a class=\"internal-link\" href=\"personal/notes/Chainsaw Man.md\"> Chainsaw Man </a>"
+        "<a class=\"internal-link\" href=\"personal/Untitled.md\"> Untitled </a>"
       ],
       "Renamed": [
+        "<a class=\"internal-link\" href=\"learning/financial/trading/pine scripting/ema ribbon.md\"> ema ribbon </a>",
+        "<a class=\"internal-link\" href=\"learning/financial/trading/patterns/bull market support band.md\"> bull market support band </a>",
         "<a class=\"internal-link\" href=\"learning/financial/trading/btc/big btc jumps.md\"> big btc jumps </a>",
         "<a class=\"internal-link\" href=\"learning/financial/trading/types of trades.md\"> types of trades </a>",
         "<a class=\"internal-link\" href=\"learning/financial/trading/support and resistance.md\"> support and resistance </a>",
@@ -1979,9 +1986,7 @@
         "<a class=\"internal-link\" href=\"personal/kanban board.md\"> kanban board </a>",
         "<a class=\"internal-link\" href=\"learning/computing/programming/c-sharp/C-sharp cheatsheet.md\"> C-sharp cheatsheet </a>",
         "<a class=\"internal-link\" href=\"learning/financial/career/management/transitioning from dev to manager.md\"> transitioning from dev to manager </a>",
-        "<a class=\"internal-link\" href=\"learning/productivity/all failures are learning opportunities.md\"> all failures are learning opportunities </a>",
-        "<a class=\"internal-link\" href=\"personal/daily/2022/22-11-12.md\"> 22-11-12 </a>",
-        "<a class=\"internal-link\" href=\"personal/daily/2022/22-11-11.md\"> 22-11-11 </a>"
+        "<a class=\"internal-link\" href=\"learning/productivity/all failures are learning opportunities.md\"> all failures are learning opportunities </a>"
       ],
       "Tagged": [
         "<a class=\"internal-link\" href=\"learning/financial/trading/btc/bull market support band.md\"> bull market support band </a>",
