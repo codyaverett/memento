@@ -19,7 +19,7 @@ ema55 = ta.sma(close, 55)
 ema22 = ta.sma(close, 22)
 
 // Plots
-plot(ema200, color=color.red, linewidth=3)
-plot(ema55, color=color.turquoise, linewidth=2)
+plot(ema200, color=color.rgb(233, 65, 65), linewidth=3)
+plot(ema55, color=color.rgb(0, 215, 252), linewidth=2)
 plot(ema22, color=color.yellow, linewidth=1)
 ```
