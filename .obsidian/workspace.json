@@ -71,9 +71,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "2a99d54cd05d200d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "learning/financial/trading/pine scripting/ut bot alerts.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -131,7 +144,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "learning/financial/trading/pine scripting/linear regression candles.md",
+                "file": "learning/financial/trading/pine scripting/ut bot alerts.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -148,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "learning/financial/trading/pine scripting/linear regression candles.md"
+                "file": "learning/financial/trading/pine scripting/ut bot alerts.md"
               }
             }
           },
@@ -190,8 +203,9 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "0eb6552319468710",
+  "active": "2a99d54cd05d200d",
   "lastOpenFiles": [
+    "learning/financial/trading/pine scripting/linear regression candles.md",
     "learning/financial/trading/pine scripting/ema ribbon.md",
     "learning/financial/trading/patterns/bull market support band.md",
     "learning/computing/software/osx/crun error git.md",
@@ -200,7 +214,6 @@
     "personal/daily/2022/23-01-15.md",
     "learning/financial/trading/btc/big btc jumps.md",
     "learning/computing/programming/rust/snippets/thread spam.md",
-    "learning/financial/trading/trading learning.md",
-    "learning/financial/trading/trading thoughts.md"
+    "learning/financial/trading/trading learning.md"
   ]
 }
