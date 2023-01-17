@@ -1783,14 +1783,19 @@
       "size": 0,
       "tags": 0,
       "links": 0
+    },
+    "learning/financial/trading/pine scripting/ut bot alerts.md": {
+      "size": 2059,
+      "tags": 1,
+      "links": 0
     }
   },
   "commitTypes": {
     "/": {
       "Refactor": 1428,
-      "Create": 374,
-      "Link": 331,
-      "Expand": 115
+      "Create": 375,
+      "Link": 332,
+      "Expand": 116
     }
   },
   "dailyCommits": {
@@ -1818,12 +1823,12 @@
       "20": 56,
       "21": 125,
       "22": 101,
-      "23": 58
+      "23": 61
     }
   },
   "weeklyCommits": {
     "/": {
-      "Mon": 1472,
+      "Mon": 1475,
       "Tue": 121,
       "Wed": 250,
       "Thu": 148,
@@ -1835,6 +1840,7 @@
   "recentCommits": {
     "/": {
       "Expanded": [
+        "<a class=\"internal-link\" href=\"learning/financial/trading/pine scripting/ut bot alerts.md\"> ut bot alerts </a>",
         "<a class=\"internal-link\" href=\"learning/computing/programming/rust/basics/importing rust modules.md\"> importing rust modules </a>",
         "<a class=\"internal-link\" href=\"learning/computing/programming/java/java dependency management.md\"> java dependency management </a>",
         "<a class=\"internal-link\" href=\"learning/financial/debt/calculating credit card interest.md\"> calculating credit card interest </a>",
@@ -1884,10 +1890,10 @@
         "<a class=\"internal-link\" href=\"programming/c++/c++ package managers.md\"> c++ package managers </a>",
         "<a class=\"internal-link\" href=\"programming/c++/c++ package managers.md\"> c++ package managers </a>",
         "<a class=\"internal-link\" href=\"software/linux/Linux directory Structure.md\"> Linux directory Structure </a>",
-        "<a class=\"internal-link\" href=\"programming/deno/A fresh look at Deno - Brian Barrow.md\"> A fresh look at Deno - Brian Barrow </a>",
         "<a class=\"internal-link\" href=\"programming/deno/A fresh look at Deno - Brian Barrow.md\"> A fresh look at Deno - Brian Barrow </a>"
       ],
       "Created": [
+        "<a class=\"internal-link\" href=\"learning/financial/trading/pine scripting/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"learning/financial/trading/pine scripting/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"learning/financial/trading/patterns/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"learning/financial/trading/btc/Untitled.md\"> Untitled </a>",
@@ -1937,8 +1943,7 @@
         "<a class=\"internal-link\" href=\"learning/mental/productivity/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"learning/financial/trading/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"learning/financial/debt/Untitled.md\"> Untitled </a>",
-        "<a class=\"internal-link\" href=\"learning/financial/debt/Untitled.md\"> Untitled </a>",
-        "<a class=\"internal-link\" href=\"learning/techniques/Untitled.md\"> Untitled </a>"
+        "<a class=\"internal-link\" href=\"learning/financial/debt/Untitled.md\"> Untitled </a>"
       ],
       "Renamed": [
         "<a class=\"internal-link\" href=\"learning/financial/trading/pine scripting/ema ribbon.md\"> ema ribbon </a>",
@@ -1994,6 +1999,7 @@
         "<a class=\"internal-link\" href=\"learning/productivity/all failures are learning opportunities.md\"> all failures are learning opportunities </a>"
       ],
       "Tagged": [
+        "<a class=\"internal-link\" href=\"learning/financial/trading/pine scripting/ut bot alerts.md\"> ut bot alerts </a>",
         "<a class=\"internal-link\" href=\"learning/financial/trading/btc/bull market support band.md\"> bull market support band </a>",
         "<a class=\"internal-link\" href=\"learning/computing/security/types of cyber attacks.md\"> types of cyber attacks </a>",
         "<a class=\"internal-link\" href=\"learning/mathematics/trigonometry/trigonometry resources.md\"> trigonometry resources </a>",
@@ -2043,8 +2049,7 @@
         "<a class=\"internal-link\" href=\"learning/computing/programming/python/package management/python virtual environments.md\"> python virtual environments </a>",
         "<a class=\"internal-link\" href=\"learning/computing/software/data ETL/apache airflow/airflow configuration.md\"> airflow configuration </a>",
         "<a class=\"internal-link\" href=\"learning/computing/software/data ETL/apache airflow/airflow hooks.md\"> airflow hooks </a>",
-        "<a class=\"internal-link\" href=\"learning/computing/software/github actions/github actions for a django project.md\"> github actions for a django project </a>",
-        "<a class=\"internal-link\" href=\"learning/computing/software/nginx/nginx webserver.md\"> nginx webserver </a>"
+        "<a class=\"internal-link\" href=\"learning/computing/software/github actions/github actions for a django project.md\"> github actions for a django project </a>"
       ],
       "Refactored": [],
       "Deleted": [
