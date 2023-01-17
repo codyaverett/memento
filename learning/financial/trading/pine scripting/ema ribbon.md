@@ -1,7 +1,7 @@
 ---
-name: Ema Ribbon
+name: Ema Ribbons
 created: 2023-01-16T22:10:00-06:00
-updated: 2023-01-16T22:12:35-06:00
+updated: 2023-01-16T22:27:51-06:00
 aliases: 
 tags: 
 ---
@@ -24,21 +24,20 @@ plot(ema55, color=color.rgb(0, 215, 252), linewidth=2)
 plot(ema22, color=color.yellow, linewidth=1)
 ```
 
-## 4 ema
+## 4 Ema
 ```javascript
-study(title="4EMA", shorttitle="4EMA", overlay = true )
-Length1 = input(8, minval=1)
-Length2 = input(13, minval=1)
-Length3 = input(21, minval=1)
-Length4 = input(55, minval=1)
+strategy(title="4EMA", shorttitle="4EMA", overlay = true )
+Length1 = input.int(8, minval=1)
+Length2 = input.int(13, minval=1)
+Length3 = input.int(21, minval=1)
+Length4 = input.int(55, minval=1)
 xPrice = close
-xEMA1 = ema(xPrice, Length1)
-xEMA2 = ema(xPrice, Length2)
-xEMA3 = ema(xPrice, Length3)
-xEMA4 = ema(xPrice, Length4)
-plot(xEMA1, color=blue, title="4EMA 8")
-plot(xEMA2, color=green, title="4EMA 13")
-plot(xEMA3, color=yellow, title="4EMA 21")
-plot(xEMA4, color=red, title="4EMA 55", linewidth=4)
-
+xEMA1 = ta.ema(xPrice, Length1)
+xEMA2 = ta.ema(xPrice, Length2)
+xEMA3 = ta.ema(xPrice, Length3)
+xEMA4 = ta.ema(xPrice, Length4)
+plot(xEMA1, color=color.blue, title="4EMA 8")
+plot(xEMA2, color=color.green, title="4EMA 13")
+plot(xEMA3, color=color.yellow, title="4EMA 21")
+plot(xEMA4, color=color.red, title="4EMA 55", linewidth=4)
 ```
