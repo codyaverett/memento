@@ -1778,12 +1778,17 @@
       "size": 0,
       "tags": 0,
       "links": 0
+    },
+    "learning/financial/trading/pine scripting/linear regression candles.md": {
+      "size": 0,
+      "tags": 0,
+      "links": 0
     }
   },
   "commitTypes": {
     "/": {
       "Refactor": 1428,
-      "Create": 373,
+      "Create": 374,
       "Link": 331,
       "Expand": 115
     }
@@ -1812,13 +1817,13 @@
       "19": 27,
       "20": 56,
       "21": 125,
-      "22": 100,
+      "22": 101,
       "23": 58
     }
   },
   "weeklyCommits": {
     "/": {
-      "Mon": 1471,
+      "Mon": 1472,
       "Tue": 121,
       "Wed": 250,
       "Thu": 148,
@@ -1883,6 +1888,7 @@
         "<a class=\"internal-link\" href=\"programming/deno/A fresh look at Deno - Brian Barrow.md\"> A fresh look at Deno - Brian Barrow </a>"
       ],
       "Created": [
+        "<a class=\"internal-link\" href=\"learning/financial/trading/pine scripting/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"learning/financial/trading/patterns/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"learning/financial/trading/btc/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"learning/computing/software/osx/Untitled.md\"> Untitled </a>",
@@ -1932,8 +1938,7 @@
         "<a class=\"internal-link\" href=\"learning/financial/trading/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"learning/financial/debt/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"learning/financial/debt/Untitled.md\"> Untitled </a>",
-        "<a class=\"internal-link\" href=\"learning/techniques/Untitled.md\"> Untitled </a>",
-        "<a class=\"internal-link\" href=\"personal/Untitled.md\"> Untitled </a>"
+        "<a class=\"internal-link\" href=\"learning/techniques/Untitled.md\"> Untitled </a>"
       ],
       "Renamed": [
         "<a class=\"internal-link\" href=\"learning/financial/trading/pine scripting/ema ribbon.md\"> ema ribbon </a>",
