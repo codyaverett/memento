@@ -1,16 +1,16 @@
 ---
-name: bull market support band
+name: Bull Market Support Band
 created: 2023-01-16T20:56:36-06:00
-updated: 2023-01-16T20:57:16-06:00
+updated: 2023-01-16T21:10:46-06:00
 aliases: 
-tags: 
+tags: indicator, pine
 ---
 # Bull Market Support Band
 
 
 - Two lines
-- Green line represents the 20-week simple moving average
-- Red line represents the 20 weeks exponential moving average
+- Green line represents the 20 week simple moving average
+- Red line represents the 20 week exponential moving average
 
 ```javascript
 // This source code is subject to the terms of the Mozilla Public License 2.0 at https://mozilla.org/MPL/2.0/
