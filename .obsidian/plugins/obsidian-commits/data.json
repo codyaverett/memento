@@ -1768,12 +1768,17 @@
       "size": 0,
       "tags": 0,
       "links": 0
+    },
+    "learning/financial/trading/btc/bull market support band.md": {
+      "size": 0,
+      "tags": 0,
+      "links": 0
     }
   },
   "commitTypes": {
     "/": {
       "Refactor": 1426,
-      "Create": 371,
+      "Create": 372,
       "Link": 330,
       "Expand": 115
     }
@@ -1800,7 +1805,7 @@
       "17": 196,
       "18": 34,
       "19": 27,
-      "20": 55,
+      "20": 56,
       "21": 124,
       "22": 97,
       "23": 58
@@ -1808,7 +1813,7 @@
   },
   "weeklyCommits": {
     "/": {
-      "Mon": 1466,
+      "Mon": 1467,
       "Tue": 121,
       "Wed": 250,
       "Thu": 148,
@@ -1873,6 +1878,7 @@
         "<a class=\"internal-link\" href=\"programming/deno/A fresh look at Deno - Brian Barrow.md\"> A fresh look at Deno - Brian Barrow </a>"
       ],
       "Created": [
+        "<a class=\"internal-link\" href=\"learning/financial/trading/btc/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"learning/computing/software/osx/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"learning/mathematics/statistics/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"Untitled.md\"> Untitled </a>",
@@ -1922,8 +1928,7 @@
         "<a class=\"internal-link\" href=\"learning/financial/debt/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"learning/techniques/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"personal/Untitled.md\"> Untitled </a>",
-        "<a class=\"internal-link\" href=\"personal/notes/Chainsaw Man.md\"> Chainsaw Man </a>",
-        "<a class=\"internal-link\" href=\"personal/Untitled Kanban.md\"> Untitled Kanban </a>"
+        "<a class=\"internal-link\" href=\"personal/notes/Chainsaw Man.md\"> Chainsaw Man </a>"
       ],
       "Renamed": [
         "<a class=\"internal-link\" href=\"learning/financial/trading/btc/big btc jumps.md\"> big btc jumps </a>",
