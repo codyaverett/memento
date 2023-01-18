@@ -78,7 +78,20 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "learning/financial/trading/pine scripting/pine script.md",
+                "file": "learning/computing/programming/protocols/protocols for transferring data over networks.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "319217aa3d4d1c98",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "learning/computing/programming/protocols/ssh/ssh port forwarding.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -86,7 +99,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -115,7 +128,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#python",
+                "query": "ssh",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -144,7 +157,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "learning/financial/trading/pine scripting/pine script.md",
+                "file": "learning/computing/programming/protocols/ssh/ssh port forwarding.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -161,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "learning/financial/trading/pine scripting/pine script.md"
+                "file": "learning/computing/programming/protocols/ssh/ssh port forwarding.md"
               }
             }
           },
@@ -203,8 +216,10 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "a59cd27975bac3f5",
+  "active": "319217aa3d4d1c98",
   "lastOpenFiles": [
+    "learning/computing/programming/protocols/protocols for transferring data over networks.md",
+    "learning/financial/trading/pine scripting/pine script.md",
     "learning/financial/trading/pine scripting/linear regression candles.md",
     "learning/financial/trading/pine scripting/ut bot alerts.md",
     "learning/financial/trading/pine scripting/using variables in alerts.md",
@@ -212,8 +227,6 @@
     "learning/financial/trading/patterns/bull market support band.md",
     "learning/computing/software/osx/crun error git.md",
     "learning/mathematics/statistics/computing and understanding averages.md",
-    "Untitled.md",
-    "personal/daily/2022/23-01-15.md",
-    "learning/financial/trading/btc/big btc jumps.md"
+    "Untitled.md"
   ]
 }
