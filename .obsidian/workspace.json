@@ -104,7 +104,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "learning/computing/software/make/makefiles.md",
+                "file": "learning/computing/software/data ETL/snowflake.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -170,7 +170,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "learning/computing/software/make/makefiles.md",
+                "file": "learning/computing/software/data ETL/snowflake.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -187,7 +187,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "learning/computing/software/make/makefiles.md"
+                "file": "learning/computing/software/data ETL/snowflake.md"
               }
             }
           },
@@ -231,6 +231,7 @@
   },
   "active": "f8de303da5230878",
   "lastOpenFiles": [
+    "learning/computing/software/make/makefiles.md",
     "learning/computing/programming/protocols/ssh/ssh port forwarding.md",
     "learning/computing/programming/protocols/protocols for transferring data over networks.md",
     "learning/financial/trading/pine scripting/pine script.md",
@@ -239,7 +240,6 @@
     "learning/financial/trading/pine scripting/using variables in alerts.md",
     "learning/financial/trading/pine scripting/ema ribbon.md",
     "learning/financial/trading/patterns/bull market support band.md",
-    "learning/computing/software/osx/crun error git.md",
-    "learning/mathematics/statistics/computing and understanding averages.md"
+    "learning/computing/software/osx/crun error git.md"
   ]
 }
