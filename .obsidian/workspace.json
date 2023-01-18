@@ -97,9 +97,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "f8de303da5230878",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "learning/computing/software/make/makefiles.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 6
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -157,7 +170,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "learning/computing/programming/protocols/ssh/ssh port forwarding.md",
+                "file": "learning/computing/software/make/makefiles.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -174,7 +187,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "learning/computing/programming/protocols/ssh/ssh port forwarding.md"
+                "file": "learning/computing/software/make/makefiles.md"
               }
             }
           },
@@ -216,8 +229,9 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "319217aa3d4d1c98",
+  "active": "f8de303da5230878",
   "lastOpenFiles": [
+    "learning/computing/programming/protocols/ssh/ssh port forwarding.md",
     "learning/computing/programming/protocols/protocols for transferring data over networks.md",
     "learning/financial/trading/pine scripting/pine script.md",
     "learning/financial/trading/pine scripting/linear regression candles.md",
@@ -226,7 +240,6 @@
     "learning/financial/trading/pine scripting/ema ribbon.md",
     "learning/financial/trading/patterns/bull market support band.md",
     "learning/computing/software/osx/crun error git.md",
-    "learning/mathematics/statistics/computing and understanding averages.md",
-    "Untitled.md"
+    "learning/mathematics/statistics/computing and understanding averages.md"
   ]
 }
