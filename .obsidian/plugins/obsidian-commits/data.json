@@ -1803,12 +1803,17 @@
       "size": 0,
       "tags": 0,
       "links": 0
+    },
+    "learning/computing/software/make/makefiles.md": {
+      "size": 0,
+      "tags": 0,
+      "links": 0
     }
   },
   "commitTypes": {
     "/": {
       "Refactor": 1429,
-      "Create": 378,
+      "Create": 379,
       "Link": 332,
       "Expand": 116
     }
@@ -1838,13 +1843,13 @@
       "20": 57,
       "21": 125,
       "22": 101,
-      "23": 64
+      "23": 65
     }
   },
   "weeklyCommits": {
     "/": {
       "Mon": 1476,
-      "Tue": 124,
+      "Tue": 125,
       "Wed": 250,
       "Thu": 148,
       "Fri": 149,
@@ -1908,6 +1913,7 @@
         "<a class=\"internal-link\" href=\"programming/deno/A fresh look at Deno - Brian Barrow.md\"> A fresh look at Deno - Brian Barrow </a>"
       ],
       "Created": [
+        "<a class=\"internal-link\" href=\"learning/computing/software/make/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"learning/computing/programming/protocols/ssh/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"learning/financial/trading/pine scripting/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"learning/financial/trading/pine scripting/Untitled.md\"> Untitled </a>",
@@ -1957,8 +1963,7 @@
         "<a class=\"internal-link\" href=\"personal/daily/2022/22-12-19.md\"> 22-12-19 </a>",
         "<a class=\"internal-link\" href=\"learning/financial/trading/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"learning/financial/trading/Untitled.md\"> Untitled </a>",
-        "<a class=\"internal-link\" href=\"learning/computing/programming/rust/ownership/Untitled.md\"> Untitled </a>",
-        "<a class=\"internal-link\" href=\"learning/mental/productivity/Untitled.md\"> Untitled </a>"
+        "<a class=\"internal-link\" href=\"learning/computing/programming/rust/ownership/Untitled.md\"> Untitled </a>"
       ],
       "Renamed": [
         "<a class=\"internal-link\" href=\"learning/computing/programming/protocols/ssh/ssh port forwarding.md\"> ssh port forwarding </a>",
