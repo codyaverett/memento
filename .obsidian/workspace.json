@@ -73,12 +73,12 @@
             }
           },
           {
-            "id": "2a99d54cd05d200d",
+            "id": "a59cd27975bac3f5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "learning/financial/trading/pine scripting/ut bot alerts.md",
+                "file": "learning/financial/trading/pine scripting/pine script.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -144,7 +144,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "learning/financial/trading/pine scripting/ut bot alerts.md",
+                "file": "learning/financial/trading/pine scripting/pine script.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -161,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "learning/financial/trading/pine scripting/ut bot alerts.md"
+                "file": "learning/financial/trading/pine scripting/pine script.md"
               }
             }
           },
@@ -203,11 +203,11 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "2a99d54cd05d200d",
+  "active": "a59cd27975bac3f5",
   "lastOpenFiles": [
-    "learning/financial/trading/pine scripting/using variables in alerts.md",
-    "learning/financial/trading/pine scripting/ut bot alerts.md",
     "learning/financial/trading/pine scripting/linear regression candles.md",
+    "learning/financial/trading/pine scripting/ut bot alerts.md",
+    "learning/financial/trading/pine scripting/using variables in alerts.md",
     "learning/financial/trading/pine scripting/ema ribbon.md",
     "learning/financial/trading/patterns/bull market support band.md",
     "learning/computing/software/osx/crun error git.md",

@@ -1788,12 +1788,17 @@
       "size": 2059,
       "tags": 1,
       "links": 0
+    },
+    "learning/financial/trading/pine scripting/using variables in alerts.md": {
+      "size": 0,
+      "tags": 0,
+      "links": 0
     }
   },
   "commitTypes": {
     "/": {
       "Refactor": 1428,
-      "Create": 375,
+      "Create": 376,
       "Link": 332,
       "Expand": 116
     }
@@ -1823,12 +1828,12 @@
       "20": 56,
       "21": 125,
       "22": 101,
-      "23": 61
+      "23": 62
     }
   },
   "weeklyCommits": {
     "/": {
-      "Mon": 1475,
+      "Mon": 1476,
       "Tue": 121,
       "Wed": 250,
       "Thu": 148,
@@ -1895,6 +1900,7 @@
       "Created": [
         "<a class=\"internal-link\" href=\"learning/financial/trading/pine scripting/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"learning/financial/trading/pine scripting/Untitled.md\"> Untitled </a>",
+        "<a class=\"internal-link\" href=\"learning/financial/trading/pine scripting/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"learning/financial/trading/patterns/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"learning/financial/trading/btc/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"learning/computing/software/osx/Untitled.md\"> Untitled </a>",
@@ -1942,7 +1948,6 @@
         "<a class=\"internal-link\" href=\"learning/computing/programming/rust/ownership/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"learning/mental/productivity/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"learning/financial/trading/Untitled.md\"> Untitled </a>",
-        "<a class=\"internal-link\" href=\"learning/financial/debt/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"learning/financial/debt/Untitled.md\"> Untitled </a>"
       ],
       "Renamed": [
