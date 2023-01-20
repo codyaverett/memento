@@ -10,7 +10,7 @@ tags: rust, modules
 ```rust
 use std::{
     fs::File,
-    io::{Read, Write},
+    io::{Read, Write}
 };
 ```
 
