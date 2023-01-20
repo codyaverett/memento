@@ -1435,7 +1435,7 @@
       "links": 0
     },
     "learning/computing/programming/rust/basics/importing rust modules.md": {
-      "size": 2260,
+      "size": 2126,
       "tags": 2,
       "links": 0
     },
@@ -1519,11 +1519,6 @@
       "tags": 2,
       "links": 0
     },
-    "game loop.md": {
-      "size": 0,
-      "tags": 3,
-      "links": 0
-    },
     "learning/computing/programming/SQL/hacks/Integer Table.md": {
       "size": 2090,
       "tags": 2,
@@ -1564,58 +1559,18 @@
       "tags": 2,
       "links": 0
     },
-    "learning/computing/cryptocurrency/Oracles/Chainlink/Fair Sequencing Services (FSS).md": {
-      "size": 2431,
-      "tags": 0,
-      "links": 0
-    },
-    "learning/computing/programming/rust/basics/Variables and mutability.md": {
-      "size": 1675,
-      "tags": 2,
+    "learning/mental/productivity/Take a brain break.md": {
+      "size": 0,
+      "tags": 1,
       "links": 0
     },
     "learning/computing/programming/rust/ownership/stack and heap.md": {
-      "size": 977,
+      "size": 0,
       "tags": 3,
       "links": 0
     },
-    "learning/financial/trading/Types of trades.md": {
-      "size": 1070,
-      "tags": 1,
-      "links": 0
-    },
-    "learning/financial/trading/Support and resistance.md": {
-      "size": 339,
-      "tags": 1,
-      "links": 0
-    },
-    "learning/financial/trading/top down analysis.md": {
-      "size": 300,
-      "tags": 1,
-      "links": 0
-    },
-    "learning/financial/trading/trading confluence.md": {
-      "size": 323,
-      "tags": 1,
-      "links": 0
-    },
     "learning/financial/trading/trading expectations.md": {
-      "size": 1034,
-      "tags": 1,
-      "links": 0
-    },
-    "learning/financial/trading/trading terminology.md": {
-      "size": 216,
-      "tags": 2,
-      "links": 0
-    },
-    "learning/financial/trading/tools/trading view.md": {
-      "size": 597,
-      "tags": 0,
-      "links": 0
-    },
-    "learning/mental/productivity/Take a brain break.md": {
-      "size": 645,
+      "size": 0,
       "tags": 1,
       "links": 0
     },
@@ -1624,73 +1579,83 @@
       "tags": 0,
       "links": 0
     },
-    "learning/computing/programming/rust/snippets/Append a line to a file.md": {
+    "learning/financial/trading/tools/trading view.md": {
+      "size": 0,
+      "tags": 0,
+      "links": 0
+    },
+    "learning/financial/trading/trading confluence.md": {
+      "size": 0,
+      "tags": 1,
+      "links": 0
+    },
+    "learning/financial/trading/support and resistance.md": {
+      "size": 0,
+      "tags": 1,
+      "links": 0
+    },
+    "learning/financial/trading/types of trades.md": {
+      "size": 0,
+      "tags": 1,
+      "links": 0
+    },
+    "learning/financial/trading/trading terminology.md": {
       "size": 0,
       "tags": 2,
       "links": 0
+    },
+    "learning/financial/trading/top down analysis.md": {
+      "size": 0,
+      "tags": 1,
+      "links": 0
+    },
+    "learning/computing/cryptocurrency/L1 networks/Cardano/dapps/_db.md": {
+      "size": 1603,
+      "tags": 0,
+      "links": 0
+    },
+    "learning/computing/programming/java/java classpath.md": {
+      "size": 1303,
+      "tags": 1,
+      "links": 0
+    },
+    "learning/computing/programming/javascript/3d cube with js.md": {
+      "size": 1886,
+      "tags": 2,
+      "links": 0
+    },
+    "learning/computing/programming/languages/_programming_languages_db.md": {
+      "size": 1549,
+      "tags": 0,
+      "links": 0
+    },
+    "learning/computing/programming/protocols/protocols for transferring data over networks.md": {
+      "size": 1716,
+      "tags": 1,
+      "links": 1
     },
     "learning/computing/programming/protocols/http/http protocol.md": {
       "size": 2051,
       "tags": 2,
       "links": 0
     },
-    "learning/computing/programming/protocols/protocols for transferring data over networks.md": {
-      "size": 0,
-      "tags": 1,
-      "links": 1
+    "learning/computing/programming/rust/snippets/Append a line to a file.md": {
+      "size": 1997,
+      "tags": 2,
+      "links": 0
     },
     "learning/computing/programming/shell/sftp from a shell script.md": {
-      "size": 0,
+      "size": 1338,
       "tags": 3,
       "links": 0
     },
-    "learning/computing/programming/javascript/3d cube with js.md": {
-      "size": 0,
-      "tags": 2,
-      "links": 0
-    },
-    "learning/mental/ADHD/dealing with ADHD symptoms.md": {
-      "size": 0,
-      "tags": 1,
-      "links": 0
-    },
-    "learning/mental/health/abusive relationships.md": {
-      "size": 0,
-      "tags": 1,
-      "links": 0
-    },
-    "learning/financial/trading/market cipher/market cipher ideas.md": {
-      "size": 0,
-      "tags": 2,
-      "links": 0
-    },
-    "templates/dapp template.md": {
-      "size": 0,
-      "tags": 0,
-      "links": 0
-    },
-    "learning/computing/cryptocurrency/L1 networks/Cardano/dapps/_db.md": {
-      "size": 0,
-      "tags": 0,
-      "links": 0
-    },
-    "learning/computing/programming/languages/_programming_languages_db.md": {
-      "size": 0,
-      "tags": 0,
-      "links": 0
-    },
-    "learning/computing/programming/java/java classpath.md": {
-      "size": 0,
-      "tags": 1,
-      "links": 0
-    },
-    "learning/computing/software/blender/what can blender do?.md": {
-      "size": 0,
-      "tags": 1,
+    "learning/computing/software/blender/3d asset resources.md": {
+      "size": 189,
+      "tags": 3,
       "links": 0
     },
     "learning/computing/software/blender/can you create 2d art in blender?.md": {
-      "size": 0,
+      "size": 1361,
       "tags": 2,
       "links": 0
     },
@@ -1699,188 +1664,210 @@
       "tags": 2,
       "links": 0
     },
-    "learning/computing/software/blender/3d asset resources.md": {
+    "learning/computing/software/blender/what can blender do?.md": {
+      "size": 1395,
+      "tags": 1,
+      "links": 0
+    },
+    "learning/financial/trading/market cipher/market cipher ideas.md": {
+      "size": 232,
+      "tags": 2,
+      "links": 0
+    },
+    "learning/mental/ADHD/dealing with ADHD symptoms.md": {
+      "size": 1613,
+      "tags": 1,
+      "links": 0
+    },
+    "learning/mental/health/abusive relationships.md": {
+      "size": 1252,
+      "tags": 1,
+      "links": 0
+    },
+    "templates/dapp template.md": {
+      "size": 31,
+      "tags": 0,
+      "links": 0
+    },
+    "learning/mental/ikigai.md": {
       "size": 0,
       "tags": 3,
       "links": 0
     },
-    "learning/computing/programming/general/request routing.md": {
-      "size": 1026,
-      "tags": 3,
-      "links": 0
-    },
-    "learning/computing/programming/rust/basics/updating rust modules.md": {
-      "size": 318,
-      "tags": 2,
-      "links": 0
-    },
-    "learning/mental/ikigai.md": {
-      "size": 287,
-      "tags": 3,
-      "links": 0
-    },
     "learning/mental/productivity/Start your day with your routine.md": {
-      "size": 330,
+      "size": 0,
       "tags": 1,
       "links": 1
     },
-    "learning/computing/programming/rust/tooling/no_std.md": {
-      "size": 611,
+    "learning/computing/programming/rust/basics/updating rust modules.md": {
+      "size": 0,
+      "tags": 2,
+      "links": 0
+    },
+    "learning/computing/programming/general/request routing.md": {
+      "size": 0,
       "tags": 3,
       "links": 0
     },
-    "learning/computing/programming/protocols/ssh/ssh port forwarding.md": {
-      "size": 233,
+    "learning/computing/programming/rust/tooling/no_std.md": {
+      "size": 0,
+      "tags": 3,
+      "links": 0
+    },
+    "learning/financial/career/onboarding/starting at a new company.md": {
+      "size": 0,
+      "tags": 1,
+      "links": 0
+    },
+    "learning/mathematics/calculus/calculus resources.md": {
+      "size": 0,
+      "tags": 2,
+      "links": 0
+    },
+    "learning/mathematics/trigonometry/trigonometry resources.md": {
+      "size": 0,
+      "tags": 2,
+      "links": 0
+    },
+    "learning/computing/security/types of cyber attacks.md": {
+      "size": 0,
+      "tags": 1,
+      "links": 0
+    },
+    "learning/financial/trading/trading thoughts.md": {
+      "size": 0,
+      "tags": 0,
+      "links": 0
+    },
+    "learning/financial/trading/trading learning.md": {
+      "size": 0,
       "tags": 0,
       "links": 0
     },
     "learning/computing/programming/rust/snippets/thread spam.md": {
-      "size": 460,
-      "tags": 0,
-      "links": 0
-    },
-    "learning/computing/security/types of cyber attacks.md": {
-      "size": 653,
-      "tags": 0,
-      "links": 0
-    },
-    "learning/computing/software/make/makefiles.md": {
-      "size": 189,
-      "tags": 0,
-      "links": 0
-    },
-    "learning/computing/software/osx/crun error git.md": {
-      "size": 384,
-      "tags": 0,
-      "links": 0
-    },
-    "learning/financial/career/onboarding/starting at a new company.md": {
-      "size": 1162,
+      "size": 0,
       "tags": 0,
       "links": 0
     },
     "learning/financial/trading/btc/big btc jumps.md": {
-      "size": 204,
+      "size": 0,
+      "tags": 0,
+      "links": 1
+    },
+    "personal/daily/2022/23-01-15.md": {
+      "size": 0,
+      "tags": 0,
+      "links": 0
+    },
+    "learning/mathematics/statistics/computing and understanding averages.md": {
+      "size": 0,
+      "tags": 0,
+      "links": 0
+    },
+    "learning/computing/software/osx/crun error git.md": {
+      "size": 0,
       "tags": 0,
       "links": 0
     },
     "learning/financial/trading/patterns/bull market support band.md": {
-      "size": 887,
-      "tags": 0,
+      "size": 0,
+      "tags": 2,
       "links": 0
     },
     "learning/financial/trading/pine scripting/ema ribbon.md": {
-      "size": 1141,
+      "size": 0,
       "tags": 0,
       "links": 0
     },
     "learning/financial/trading/pine scripting/linear regression candles.md": {
-      "size": 1385,
-      "tags": 0,
-      "links": 0
-    },
-    "learning/financial/trading/pine scripting/pine script.md": {
-      "size": 299,
-      "tags": 0,
-      "links": 0
-    },
-    "learning/financial/trading/pine scripting/using variables in alerts.md": {
-      "size": 218,
+      "size": 0,
       "tags": 0,
       "links": 0
     },
     "learning/financial/trading/pine scripting/ut bot alerts.md": {
       "size": 2059,
-      "tags": 0,
+      "tags": 1,
       "links": 0
     },
-    "learning/financial/trading/trading learning.md": {
-      "size": 190,
-      "tags": 0,
-      "links": 0
-    },
-    "learning/financial/trading/trading thoughts.md": {
-      "size": 172,
-      "tags": 0,
-      "links": 0
-    },
-    "learning/mathematics/calculus/calculus resources.md": {
-      "size": 210,
-      "tags": 0,
-      "links": 0
-    },
-    "learning/mathematics/statistics/computing and understanding averages.md": {
-      "size": 178,
-      "tags": 0,
-      "links": 0
-    },
-    "learning/mathematics/trigonometry/trigonometry resources.md": {
-      "size": 280,
-      "tags": 0,
-      "links": 0
-    },
-    "personal/daily/2022/23-01-15.md": {
+    "learning/financial/trading/pine scripting/using variables in alerts.md": {
       "size": 0,
+      "tags": 0,
+      "links": 0
+    },
+    "learning/financial/trading/pine scripting/pine script.md": {
+      "size": 0,
+      "tags": 0,
+      "links": 0
+    },
+    "learning/computing/programming/protocols/ssh/ssh port forwarding.md": {
+      "size": 0,
+      "tags": 0,
+      "links": 0
+    },
+    "learning/computing/software/make/makefiles.md": {
+      "size": 0,
+      "tags": 0,
+      "links": 0
+    },
+    "learning/computing/security/auth/JSON Web Token.md": {
+      "size": 449,
       "tags": 0,
       "links": 0
     }
   },
   "commitTypes": {
     "/": {
-      "Refactor": 1432,
-      "Create": 384,
-      "Link": 327,
-      "Expand": 119
+      "Refactor": 1429,
+      "Create": 380,
+      "Link": 332,
+      "Expand": 116
     }
   },
   "dailyCommits": {
     "/": {
-      "0": 73,
-      "1": 29,
-      "2": 42,
+      "0": 62,
+      "1": 31,
+      "2": 43,
       "3": 52,
       "4": 21,
       "5": 16,
       "6": 6,
       "7": 0,
       "8": 1,
-      "9": 0,
+      "9": 4,
       "10": 12,
       "11": 10,
-      "12": 6,
-      "13": 52,
+      "12": 9,
+      "13": 68,
       "14": 50,
-      "15": 87,
-      "16": 1201,
-      "17": 198,
-      "18": 72,
-      "19": 28,
-      "20": 46,
-      "21": 101,
-      "22": 95,
-      "23": 64
+      "15": 64,
+      "16": 1202,
+      "17": 196,
+      "18": 35,
+      "19": 27,
+      "20": 57,
+      "21": 125,
+      "22": 101,
+      "23": 65
     }
   },
   "weeklyCommits": {
     "/": {
-      "Mon": 1482,
-      "Tue": 112,
-      "Wed": 266,
-      "Thu": 184,
-      "Fri": 115,
+      "Mon": 1476,
+      "Tue": 125,
+      "Wed": 250,
+      "Thu": 149,
+      "Fri": 149,
       "Sat": 0,
-      "Sun": 103
+      "Sun": 108
     }
   },
   "recentCommits": {
     "/": {
       "Expanded": [
+        "<a class=\"internal-link\" href=\"learning/financial/trading/pine scripting/ut bot alerts.md\"> ut bot alerts </a>",
         "<a class=\"internal-link\" href=\"learning/computing/programming/rust/basics/importing rust modules.md\"> importing rust modules </a>",
-        "<a class=\"internal-link\" href=\"learning/computing/software/blender/what are the best ways to learn blender?.md\"> what are the best ways to learn blender? </a>",
         "<a class=\"internal-link\" href=\"learning/computing/programming/java/java dependency management.md\"> java dependency management </a>",
-        "<a class=\"internal-link\" href=\"learning/computing/programming/java/java dependency management.md\"> java dependency management </a>",
-        "<a class=\"internal-link\" href=\"learning/computing/cryptocurrency/L1 networks/Cardano/dapps.md\"> dapps </a>",
-        "<a class=\"internal-link\" href=\"learning/computing/programming/http/http protocol.md\"> http protocol </a>",
         "<a class=\"internal-link\" href=\"learning/financial/debt/calculating credit card interest.md\"> calculating credit card interest </a>",
         "<a class=\"internal-link\" href=\"learning/computing/programming/SQL/hacks/Integer Table.md\"> Integer Table </a>",
         "<a class=\"internal-link\" href=\"learning/mental/ADHD/ADHD and successful thinking.md\"> ADHD and successful thinking </a>",
@@ -1925,68 +1912,71 @@
         "<a class=\"internal-link\" href=\"programming/python/pyenv.md\"> pyenv </a>",
         "<a class=\"internal-link\" href=\"software/containers/buildah/create basic OCI image with buildah.md\"> create basic OCI image with buildah </a>",
         "<a class=\"internal-link\" href=\"software/linux/create linux superuser.md\"> create linux superuser </a>",
-        "<a class=\"internal-link\" href=\"programming/c++/c++ package managers.md\"> c++ package managers </a>"
+        "<a class=\"internal-link\" href=\"programming/c++/c++ package managers.md\"> c++ package managers </a>",
+        "<a class=\"internal-link\" href=\"programming/c++/c++ package managers.md\"> c++ package managers </a>",
+        "<a class=\"internal-link\" href=\"software/linux/Linux directory Structure.md\"> Linux directory Structure </a>",
+        "<a class=\"internal-link\" href=\"programming/deno/A fresh look at Deno - Brian Barrow.md\"> A fresh look at Deno - Brian Barrow </a>"
       ],
       "Created": [
+        "<a class=\"internal-link\" href=\"learning/computing/security/auth/JSON Web Token.md\"> JSON Web Token </a>",
+        "<a class=\"internal-link\" href=\"learning/computing/software/make/Untitled.md\"> Untitled </a>",
+        "<a class=\"internal-link\" href=\"learning/computing/programming/protocols/ssh/Untitled.md\"> Untitled </a>",
+        "<a class=\"internal-link\" href=\"learning/financial/trading/pine scripting/Untitled.md\"> Untitled </a>",
+        "<a class=\"internal-link\" href=\"learning/financial/trading/pine scripting/Untitled.md\"> Untitled </a>",
+        "<a class=\"internal-link\" href=\"learning/financial/trading/pine scripting/Untitled.md\"> Untitled </a>",
+        "<a class=\"internal-link\" href=\"learning/financial/trading/pine scripting/Untitled.md\"> Untitled </a>",
+        "<a class=\"internal-link\" href=\"learning/financial/trading/patterns/Untitled.md\"> Untitled </a>",
+        "<a class=\"internal-link\" href=\"learning/financial/trading/btc/Untitled.md\"> Untitled </a>",
+        "<a class=\"internal-link\" href=\"learning/computing/software/osx/Untitled.md\"> Untitled </a>",
+        "<a class=\"internal-link\" href=\"learning/mathematics/statistics/Untitled.md\"> Untitled </a>",
+        "<a class=\"internal-link\" href=\"Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"personal/daily/2022/23-01-15.md\"> 23-01-15 </a>",
-        "<a class=\"internal-link\" href=\"learning/mathematics/trigonometry/trigonometry resources.md\"> trigonometry resources </a>",
-        "<a class=\"internal-link\" href=\"learning/mathematics/statistics/computing and understanding averages.md\"> computing and understanding averages </a>",
-        "<a class=\"internal-link\" href=\"learning/mathematics/calculus/calculus resources.md\"> calculus resources </a>",
-        "<a class=\"internal-link\" href=\"learning/financial/trading/trading thoughts.md\"> trading thoughts </a>",
-        "<a class=\"internal-link\" href=\"learning/financial/trading/trading learning.md\"> trading learning </a>",
-        "<a class=\"internal-link\" href=\"learning/financial/trading/pine scripting/ut bot alerts.md\"> ut bot alerts </a>",
-        "<a class=\"internal-link\" href=\"learning/financial/trading/pine scripting/using variables in alerts.md\"> using variables in alerts </a>",
-        "<a class=\"internal-link\" href=\"learning/financial/trading/pine scripting/pine script.md\"> pine script </a>",
-        "<a class=\"internal-link\" href=\"learning/financial/trading/pine scripting/linear regression candles.md\"> linear regression candles </a>",
+        "<a class=\"internal-link\" href=\"learning/financial/trading/btc/Untitled.md\"> Untitled </a>",
+        "<a class=\"internal-link\" href=\"learning/computing/programming/rust/snippets/Untitled.md\"> Untitled </a>",
+        "<a class=\"internal-link\" href=\"learning/financial/trading/Untitled.md\"> Untitled </a>",
+        "<a class=\"internal-link\" href=\"learning/financial/trading/Untitled.md\"> Untitled </a>",
+        "<a class=\"internal-link\" href=\"learning/computing/security/Untitled.md\"> Untitled </a>",
+        "<a class=\"internal-link\" href=\"learning/mathematics/trigonometry/Untitled.md\"> Untitled </a>",
+        "<a class=\"internal-link\" href=\"learning/mathematics/calculus/Untitled.md\"> Untitled </a>",
+        "<a class=\"internal-link\" href=\"learning/financial/career/onboarding/Untitled.md\"> Untitled </a>",
+        "<a class=\"internal-link\" href=\"learning/computing/programming/rust/tooling/Untitled.md\"> Untitled </a>",
+        "<a class=\"internal-link\" href=\"learning/computing/programming/general/Untitled.md\"> Untitled </a>",
+        "<a class=\"internal-link\" href=\"learning/computing/programming/rust/basics/Untitled.md\"> Untitled </a>",
+        "<a class=\"internal-link\" href=\"learning/computing/programming/rust/basics/Untitled.md\"> Untitled </a>",
+        "<a class=\"internal-link\" href=\"learning/mental/productivity/Untitled.md\"> Untitled </a>",
+        "<a class=\"internal-link\" href=\"learning/mental/Untitled.md\"> Untitled </a>",
+        "<a class=\"internal-link\" href=\"templates/dapp template.md\"> dapp template </a>",
+        "<a class=\"internal-link\" href=\"learning/mental/health/abusive relationships.md\"> abusive relationships </a>",
+        "<a class=\"internal-link\" href=\"learning/mental/ADHD/dealing with ADHD symptoms.md\"> dealing with ADHD symptoms </a>",
+        "<a class=\"internal-link\" href=\"learning/financial/trading/market cipher/market cipher ideas.md\"> market cipher ideas </a>",
+        "<a class=\"internal-link\" href=\"learning/computing/software/blender/what can blender do?.md\"> what can blender do? </a>",
+        "<a class=\"internal-link\" href=\"learning/computing/software/blender/what are the best ways to learn blender?.md\"> what are the best ways to learn blender? </a>",
+        "<a class=\"internal-link\" href=\"learning/computing/software/blender/can you create 2d art in blender?.md\"> can you create 2d art in blender? </a>",
+        "<a class=\"internal-link\" href=\"learning/computing/software/blender/3d asset resources.md\"> 3d asset resources </a>",
+        "<a class=\"internal-link\" href=\"learning/computing/programming/shell/sftp from a shell script.md\"> sftp from a shell script </a>",
+        "<a class=\"internal-link\" href=\"learning/computing/programming/rust/snippets/Append a line to a file.md\"> Append a line to a file </a>",
+        "<a class=\"internal-link\" href=\"learning/computing/programming/protocols/http/http protocol.md\"> http protocol </a>",
+        "<a class=\"internal-link\" href=\"learning/computing/programming/protocols/protocols for transferring data over networks.md\"> protocols for transferring data over networks </a>",
+        "<a class=\"internal-link\" href=\"learning/computing/programming/languages/_programming_languages_db.md\"> _programming_languages_db </a>",
+        "<a class=\"internal-link\" href=\"learning/computing/programming/javascript/3d cube with js.md\"> 3d cube with js </a>",
+        "<a class=\"internal-link\" href=\"learning/computing/programming/java/java classpath.md\"> java classpath </a>",
+        "<a class=\"internal-link\" href=\"learning/computing/cryptocurrency/L1 networks/Cardano/dapps/_db.md\"> _db </a>",
+        "<a class=\"internal-link\" href=\"learning/financial/trading/Untitled.md\"> Untitled </a>",
+        "<a class=\"internal-link\" href=\"learning/financial/trading/Untitled.md\"> Untitled </a>",
+        "<a class=\"internal-link\" href=\"learning/financial/trading/Untitled.md\"> Untitled </a>",
+        "<a class=\"internal-link\" href=\"learning/financial/trading/tools/Untitled.md\"> Untitled </a>",
+        "<a class=\"internal-link\" href=\"learning/financial/trading/Untitled.md\"> Untitled </a>",
+        "<a class=\"internal-link\" href=\"personal/daily/2022/22-12-19.md\"> 22-12-19 </a>",
+        "<a class=\"internal-link\" href=\"learning/financial/trading/Untitled.md\"> Untitled </a>",
+        "<a class=\"internal-link\" href=\"learning/financial/trading/Untitled.md\"> Untitled </a>"
+      ],
+      "Renamed": [
+        "<a class=\"internal-link\" href=\"learning/computing/programming/protocols/ssh/ssh port forwarding.md\"> ssh port forwarding </a>",
         "<a class=\"internal-link\" href=\"learning/financial/trading/pine scripting/ema ribbon.md\"> ema ribbon </a>",
         "<a class=\"internal-link\" href=\"learning/financial/trading/patterns/bull market support band.md\"> bull market support band </a>",
         "<a class=\"internal-link\" href=\"learning/financial/trading/btc/big btc jumps.md\"> big btc jumps </a>",
-        "<a class=\"internal-link\" href=\"learning/financial/career/onboarding/starting at a new company.md\"> starting at a new company </a>",
-        "<a class=\"internal-link\" href=\"learning/computing/software/osx/crun error git.md\"> crun error git </a>",
-        "<a class=\"internal-link\" href=\"learning/computing/software/make/makefiles.md\"> makefiles </a>",
-        "<a class=\"internal-link\" href=\"learning/computing/security/types of cyber attacks.md\"> types of cyber attacks </a>",
-        "<a class=\"internal-link\" href=\"learning/computing/programming/rust/snippets/thread spam.md\"> thread spam </a>",
-        "<a class=\"internal-link\" href=\"learning/computing/programming/protocols/ssh/ssh port forwarding.md\"> ssh port forwarding </a>",
-        "<a class=\"internal-link\" href=\"learning/computing/programming/rust/tooling/no_std.md\"> no_std </a>",
-        "<a class=\"internal-link\" href=\"learning/mental/productivity/Start your day with your routine.md\"> Start your day with your routine </a>",
-        "<a class=\"internal-link\" href=\"learning/mental/ikigai.md\"> ikigai </a>",
-        "<a class=\"internal-link\" href=\"learning/computing/programming/rust/basics/updating rust modules.md\"> updating rust modules </a>",
-        "<a class=\"internal-link\" href=\"learning/computing/programming/general/request routing.md\"> request routing </a>",
-        "<a class=\"internal-link\" href=\"learning/computing/software/blender/Untitled.md\"> Untitled </a>",
-        "<a class=\"internal-link\" href=\"learning/computing/software/blender/Untitled.md\"> Untitled </a>",
-        "<a class=\"internal-link\" href=\"learning/computing/software/blender/Untitled.md\"> Untitled </a>",
-        "<a class=\"internal-link\" href=\"learning/computing/software/blender/Untitled.md\"> Untitled </a>",
-        "<a class=\"internal-link\" href=\"learning/computing/programming/java/Untitled.md\"> Untitled </a>",
-        "<a class=\"internal-link\" href=\"learning/computing/programming/java/Untitled.md\"> Untitled </a>",
-        "<a class=\"internal-link\" href=\"learning/computing/programming/languages/Untitled database.md\"> Untitled database </a>",
-        "<a class=\"internal-link\" href=\"learning/computing/cryptocurrency/L1 networks/Cardano/dapps/asdf.md\"> asdf </a>",
-        "<a class=\"internal-link\" href=\"learning/computing/cryptocurrency/L1 networks/Cardano/dapps/Untitled database.md\"> Untitled database </a>",
-        "<a class=\"internal-link\" href=\"templates/Untitled.md\"> Untitled </a>",
-        "<a class=\"internal-link\" href=\"learning/computing/cryptocurrency/L1 networks/Cardano/Dapps/Untitled database.md\"> Untitled database </a>",
-        "<a class=\"internal-link\" href=\"learning/financial/trading/market cipher/Untitled.md\"> Untitled </a>",
-        "<a class=\"internal-link\" href=\"learning/mental/health/Untitled.md\"> Untitled </a>",
-        "<a class=\"internal-link\" href=\"learning/mental/ADHD/Untitled.md\"> Untitled </a>",
-        "<a class=\"internal-link\" href=\"learning/computing/programming/javascript/Untitled.md\"> Untitled </a>",
-        "<a class=\"internal-link\" href=\"learning/computing/programming/shell/Untitled.md\"> Untitled </a>",
-        "<a class=\"internal-link\" href=\"learning/computing/programming/protocols/Untitled.md\"> Untitled </a>",
-        "<a class=\"internal-link\" href=\"learning/computing/programming/http/Untitled.md\"> Untitled </a>",
-        "<a class=\"internal-link\" href=\"learning/computing/programming/rust/snippets/Untitled.md\"> Untitled </a>",
-        "<a class=\"internal-link\" href=\"learning/language/Untitled.md\"> Untitled </a>",
-        "<a class=\"internal-link\" href=\"personal/daily/2022/22-12-19.md\"> 22-12-19 </a>",
-        "<a class=\"internal-link\" href=\"learning/mental/productivity/Take a brain break.md\"> Take a brain break </a>",
-        "<a class=\"internal-link\" href=\"learning/financial/trading/tools/trading view.md\"> trading view </a>",
-        "<a class=\"internal-link\" href=\"learning/financial/trading/trading terminology.md\"> trading terminology </a>",
-        "<a class=\"internal-link\" href=\"learning/financial/trading/trading expectations.md\"> trading expectations </a>",
-        "<a class=\"internal-link\" href=\"learning/financial/trading/trading confluence.md\"> trading confluence </a>",
-        "<a class=\"internal-link\" href=\"learning/financial/trading/top down analysis.md\"> top down analysis </a>"
-      ],
-      "Renamed": [
-        "<a class=\"internal-link\" href=\"learning/computing/software/blender/can you create 2d art in blender?.md\"> can you create 2d art in blender? </a>",
-        "<a class=\"internal-link\" href=\"learning/computing/cryptocurrency/L1 networks/Cardano/dapps/_db.md\"> _db </a>",
-        "<a class=\"internal-link\" href=\"learning/computing/cryptocurrency/L1 networks/Cardano/dapps/dapps.md\"> dapps </a>",
-        "<a class=\"internal-link\" href=\"learning/computing/cryptocurrency/L1 networks/Cardano/dapps.md\"> dapps </a>",
-        "<a class=\"internal-link\" href=\"learning/computing/programming/protocols/protocols for transferring data over networks.md\"> protocols for transferring data over networks </a>",
-        "<a class=\"internal-link\" href=\"learning/computing/programming/protocols/http/http protocol.md\"> http protocol </a>",
+        "<a class=\"internal-link\" href=\"learning/financial/trading/types of trades.md\"> types of trades </a>",
+        "<a class=\"internal-link\" href=\"learning/financial/trading/support and resistance.md\"> support and resistance </a>",
         "<a class=\"internal-link\" href=\"learning/financial/debt/calculate monthly APR.md\"> calculate monthly APR </a>",
         "<a class=\"internal-link\" href=\"learning/computing/software/sed.md\"> sed </a>",
         "<a class=\"internal-link\" href=\"learning/sed.md\"> sed </a>",
@@ -2034,34 +2024,38 @@
         "<a class=\"internal-link\" href=\"learning/financial/career/management/transitioning from dev to manager.md\"> transitioning from dev to manager </a>"
       ],
       "Tagged": [
+        "<a class=\"internal-link\" href=\"learning/financial/trading/pine scripting/ut bot alerts.md\"> ut bot alerts </a>",
+        "<a class=\"internal-link\" href=\"learning/financial/trading/btc/bull market support band.md\"> bull market support band </a>",
+        "<a class=\"internal-link\" href=\"learning/computing/security/types of cyber attacks.md\"> types of cyber attacks </a>",
+        "<a class=\"internal-link\" href=\"learning/mathematics/trigonometry/trigonometry resources.md\"> trigonometry resources </a>",
+        "<a class=\"internal-link\" href=\"learning/mathematics/calculus/calculus resources.md\"> calculus resources </a>",
+        "<a class=\"internal-link\" href=\"learning/financial/career/onboarding/starting at a new company.md\"> starting at a new company </a>",
         "<a class=\"internal-link\" href=\"learning/computing/programming/rust/tooling/no_std.md\"> no_std </a>",
         "<a class=\"internal-link\" href=\"learning/computing/programming/general/request routing.md\"> request routing </a>",
         "<a class=\"internal-link\" href=\"learning/computing/programming/rust/basics/updating rust modules.md\"> updating rust modules </a>",
         "<a class=\"internal-link\" href=\"learning/mental/productivity/Start your day with your routine.md\"> Start your day with your routine </a>",
         "<a class=\"internal-link\" href=\"learning/mental/ikigai.md\"> ikigai </a>",
-        "<a class=\"internal-link\" href=\"learning/computing/software/blender/3d asset resources.md\"> 3d asset resources </a>",
-        "<a class=\"internal-link\" href=\"learning/computing/software/blender/what can blender do?.md\"> what can blender do? </a>",
-        "<a class=\"internal-link\" href=\"learning/computing/software/blender/what are the best ways to learn blender?.md\"> what are the best ways to learn blender? </a>",
-        "<a class=\"internal-link\" href=\"learning/computing/software/blender/can you create 2d art in blender.md\"> can you create 2d art in blender </a>",
         "<a class=\"internal-link\" href=\"learning/computing/programming/java/java classpath.md\"> java classpath </a>",
-        "<a class=\"internal-link\" href=\"learning/financial/trading/market cipher/market cipher ideas.md\"> market cipher ideas </a>",
-        "<a class=\"internal-link\" href=\"learning/mental/health/abusive relationships.md\"> abusive relationships </a>",
-        "<a class=\"internal-link\" href=\"learning/mental/ADHD/dealing with ADHD symptoms.md\"> dealing with ADHD symptoms </a>",
         "<a class=\"internal-link\" href=\"learning/computing/programming/javascript/3d cube with js.md\"> 3d cube with js </a>",
-        "<a class=\"internal-link\" href=\"learning/computing/programming/javascript/3d cube with js.md\"> 3d cube with js </a>",
+        "<a class=\"internal-link\" href=\"learning/computing/programming/rust/snippets/Append a line to a file.md\"> Append a line to a file </a>",
         "<a class=\"internal-link\" href=\"learning/computing/programming/shell/sftp from a shell script.md\"> sftp from a shell script </a>",
         "<a class=\"internal-link\" href=\"learning/computing/programming/protocols/protocols for transferring data over networks.md\"> protocols for transferring data over networks </a>",
-        "<a class=\"internal-link\" href=\"learning/computing/programming/http/http protocol.md\"> http protocol </a>",
-        "<a class=\"internal-link\" href=\"learning/computing/programming/rust/snippets/Append a line to a file.md\"> Append a line to a file </a>",
-        "<a class=\"internal-link\" href=\"learning/computing/programming/rust/basics/Variables and mutability.md\"> Variables and mutability </a>",
-        "<a class=\"internal-link\" href=\"learning/computing/programming/rust/ownership/stack and heap.md\"> stack and heap </a>",
-        "<a class=\"internal-link\" href=\"learning/financial/trading/Types of trades.md\"> Types of trades </a>",
-        "<a class=\"internal-link\" href=\"learning/financial/trading/Support and resistance.md\"> Support and resistance </a>",
+        "<a class=\"internal-link\" href=\"learning/computing/programming/protocols/http/http protocol.md\"> http protocol </a>",
+        "<a class=\"internal-link\" href=\"learning/computing/software/blender/3d asset resources.md\"> 3d asset resources </a>",
+        "<a class=\"internal-link\" href=\"learning/computing/software/blender/can you create 2d art in blender?.md\"> can you create 2d art in blender? </a>",
+        "<a class=\"internal-link\" href=\"learning/computing/software/blender/what are the best ways to learn blender?.md\"> what are the best ways to learn blender? </a>",
+        "<a class=\"internal-link\" href=\"learning/computing/software/blender/what can blender do?.md\"> what can blender do? </a>",
+        "<a class=\"internal-link\" href=\"learning/financial/trading/market cipher/market cipher ideas.md\"> market cipher ideas </a>",
+        "<a class=\"internal-link\" href=\"learning/mental/ADHD/dealing with ADHD symptoms.md\"> dealing with ADHD symptoms </a>",
+        "<a class=\"internal-link\" href=\"learning/mental/health/abusive relationships.md\"> abusive relationships </a>",
         "<a class=\"internal-link\" href=\"learning/financial/trading/top down analysis.md\"> top down analysis </a>",
-        "<a class=\"internal-link\" href=\"learning/financial/trading/trading confluence.md\"> trading confluence </a>",
-        "<a class=\"internal-link\" href=\"learning/financial/trading/trading expectations.md\"> trading expectations </a>",
         "<a class=\"internal-link\" href=\"learning/financial/trading/trading terminology.md\"> trading terminology </a>",
+        "<a class=\"internal-link\" href=\"learning/financial/trading/trading confluence.md\"> trading confluence </a>",
+        "<a class=\"internal-link\" href=\"learning/financial/trading/Types of trades.md\"> Types of trades </a>",
+        "<a class=\"internal-link\" href=\"learning/financial/trading/trading expectations.md\"> trading expectations </a>",
+        "<a class=\"internal-link\" href=\"learning/computing/programming/rust/ownership/stack and heap.md\"> stack and heap </a>",
         "<a class=\"internal-link\" href=\"learning/mental/productivity/Take a brain break.md\"> Take a brain break </a>",
+        "<a class=\"internal-link\" href=\"learning/financial/trading/Support and resistance.md\"> Support and resistance </a>",
         "<a class=\"internal-link\" href=\"learning/financial/debt/calculating credit card interest.md\"> calculating credit card interest </a>",
         "<a class=\"internal-link\" href=\"learning/techniques/black boxing.md\"> black boxing </a>",
         "<a class=\"internal-link\" href=\"personal/notes/Chainsaw Man.md\"> Chainsaw Man </a>",
@@ -2080,24 +2074,18 @@
         "<a class=\"internal-link\" href=\"learning/computing/programming/python/package management/python virtual environments.md\"> python virtual environments </a>",
         "<a class=\"internal-link\" href=\"learning/computing/software/data ETL/apache airflow/airflow configuration.md\"> airflow configuration </a>",
         "<a class=\"internal-link\" href=\"learning/computing/software/data ETL/apache airflow/airflow hooks.md\"> airflow hooks </a>",
-        "<a class=\"internal-link\" href=\"learning/computing/software/github actions/github actions for a django project.md\"> github actions for a django project </a>",
-        "<a class=\"internal-link\" href=\"learning/computing/software/nginx/nginx webserver.md\"> nginx webserver </a>",
-        "<a class=\"internal-link\" href=\"learning/financial/career/management/transitioning from dev to manager.md\"> transitioning from dev to manager </a>",
-        "<a class=\"internal-link\" href=\"learning/music/Sheet music.md\"> Sheet music </a>",
-        "<a class=\"internal-link\" href=\"learning/music/theory/Try only using major 7th chords to create a chord progression.md\"> Try only using major 7th chords to create a chord progression </a>"
+        "<a class=\"internal-link\" href=\"learning/computing/software/github actions/github actions for a django project.md\"> github actions for a django project </a>"
       ],
       "Refactored": [],
       "Deleted": [
-        "<a class=\"internal-link\" href=\"learning/financial/career/job-hunting/buf.build.md\"> buf.build </a>",
-        "<a class=\"internal-link\" href=\"learning/financial/career/job-hunting/RevUnit.md\"> RevUnit </a>",
-        "<a class=\"internal-link\" href=\"learning/financial/career/job-hunting/Cover Letters/Systems Engineering Manager @ HomeDepot.md\"> Systems Engineering Manager @ HomeDepot </a>",
         "<a class=\"internal-link\" href=\"data/useful-links.md\"> useful-links </a>",
-        "<a class=\"internal-link\" href=\"learning/computing/programming/java/maven dependency management.md\"> maven dependency management </a>",
-        "<a class=\"internal-link\" href=\"learning/computing/cryptocurrency/L1 networks/Cardano/dapps/asdf.md\"> asdf </a>",
-        "<a class=\"internal-link\" href=\"learning/computing/cryptocurrency/L1 networks/Cardano/dapps/dapps.md\"> dapps </a>",
-        "<a class=\"internal-link\" href=\"learning/language/Untitled.md\"> Untitled </a>",
-        "<a class=\"internal-link\" href=\"personal/daily/2022/22-12-19.md\"> 22-12-19 </a>",
-        "<a class=\"internal-link\" href=\"personal/daily/2022/22-12-14.md\"> 22-12-14 </a>",
+        "<a class=\"internal-link\" href=\"Untitled.md\"> Untitled </a>",
+        "<a class=\"internal-link\" href=\"learning/financial/career/job-hunting/RevUnit.md\"> RevUnit </a>",
+        "<a class=\"internal-link\" href=\"learning/financial/career/job-hunting/buf.build.md\"> buf.build </a>",
+        "<a class=\"internal-link\" href=\"learning/financial/career/job-hunting/Cover Letters/Systems Engineering Manager @ HomeDepot.md\"> Systems Engineering Manager @ HomeDepot </a>",
+        "<a class=\"internal-link\" href=\"learning/computing/programming/rust/basics/local.md\"> local </a>",
+        "<a class=\"internal-link\" href=\"learning/financial/trading/Untitled.md\"> Untitled </a>",
+        "<a class=\"internal-link\" href=\"game loop.md\"> game loop </a>",
         "<a class=\"internal-link\" href=\"learning/financial/debt/calculate monthly APR.md\"> calculate monthly APR </a>",
         "<a class=\"internal-link\" href=\"personal/daily/2022/22-11-15.md\"> 22-11-15 </a>",
         "<a class=\"internal-link\" href=\"learning/mental/emotions/Untitled.md\"> Untitled </a>",
@@ -2138,9 +2126,12 @@
         "<a class=\"internal-link\" href=\"daily/08-16-22.md\"> 08-16-22 </a>",
         "<a class=\"internal-link\" href=\"daily/09-12-22.md\"> 09-12-22 </a>",
         "<a class=\"internal-link\" href=\"templates/accept job offer.md\"> accept job offer </a>",
-        "<a class=\"internal-link\" href=\"templates/decline accepted job offer.md\"> decline accepted job offer </a>"
+        "<a class=\"internal-link\" href=\"templates/decline accepted job offer.md\"> decline accepted job offer </a>",
+        "<a class=\"internal-link\" href=\"personal/work/Site for Oasis Landscaping.md\"> Site for Oasis Landscaping </a>",
+        "<a class=\"internal-link\" href=\"personal/Cody_Averett.md\"> Cody_Averett </a>"
       ],
       "Linked": [
+        "<a class=\"internal-link\" href=\"learning/financial/trading/btc/big btc jumps.md\"> big btc jumps </a>",
         "<a class=\"internal-link\" href=\"learning/mental/productivity/Start your day with your routine.md\"> Start your day with your routine </a>",
         "<a class=\"internal-link\" href=\"learning/computing/programming/protocols/protocols for transferring data over networks.md\"> protocols for transferring data over networks </a>",
         "<a class=\"internal-link\" href=\"personal/Untitled Kanban.md\"> Untitled Kanban </a>",
@@ -2190,14 +2181,12 @@
         "<a class=\"internal-link\" href=\"programming/python/python extensions.md\"> python extensions </a>",
         "<a class=\"internal-link\" href=\"programming/python/python basics.md\"> python basics </a>",
         "<a class=\"internal-link\" href=\"programming/python/DJango quick reference.md\"> DJango quick reference </a>",
-        "<a class=\"internal-link\" href=\"python special strings.md\"> python special strings </a>",
-        "<a class=\"internal-link\" href=\"Python research.md\"> Python research </a>"
+        "<a class=\"internal-link\" href=\"python special strings.md\"> python special strings </a>"
       ],
       "Removed Tags from": [
         "<a class=\"internal-link\" href=\"learning/computing/programming/python/python extensions.md\"> python extensions </a>",
         "<a class=\"internal-link\" href=\"learning/computing/programming/python/python cheatsheet.md\"> python cheatsheet </a>",
-        "<a class=\"internal-link\" href=\"learning/computing/programming/rust/tooling/cargo.md\"> cargo </a>",
-        "<a class=\"internal-link\" href=\"learning/computing/software/blender/3d asset resources.md\"> 3d asset resources </a>"
+        "<a class=\"internal-link\" href=\"learning/computing/programming/rust/tooling/cargo.md\"> cargo </a>"
       ],
       "Removed Links from": [
         "<a class=\"internal-link\" href=\"WIP.md\"> WIP </a>",
