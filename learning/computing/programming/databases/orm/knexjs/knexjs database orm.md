@@ -7,5 +7,6 @@ tags:
 ---
 # knexjs database orm
 
-- []
+- [Main documentation](https://knexjs.org/guide/)
+- [Typescript support](https://knexjs.org/guide/#typescript)
 - [Cheatsheet](https://devhints.io/knex)
