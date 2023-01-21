@@ -18,7 +18,6 @@ kanban-plugin: basic
 - [ ] Boruto - Naruto the next generation
 - [ ] Fullmetal Alchemist - Brotherhood
 - [ ] Castle
-- [ ] [[Chainsaw Man]]
 
 
 ## Finished
@@ -27,6 +26,8 @@ kanban-plugin: basic
 - [ ] Naruto Shipuden
 - [ ] Gurren Laggan
 - [ ] Star Wars - Andor
+- [ ] [[Chainsaw Man]]
+- [ ] Gundam 00
 
 
 
