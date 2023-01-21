@@ -50,12 +50,9 @@
             "id": "0089fa3a1d693f11",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "kanban",
               "state": {
-                "file": "learning/computing/programming/testing/types of tests.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
+                "file": "personal/shows.md"
               }
             }
           }
@@ -118,7 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "learning/computing/programming/testing/types of tests.md",
+                "file": "personal/shows.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +132,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "learning/computing/programming/testing/types of tests.md"
+                "file": "personal/shows.md"
               }
             }
           },
@@ -179,6 +176,7 @@
   },
   "active": "0089fa3a1d693f11",
   "lastOpenFiles": [
+    "learning/computing/programming/testing/types of tests.md",
     "learning/computing/programming/databases/orm/knexjs/knexjs database orm.md",
     "learning/computing/security/auth/JSON Web Token.md",
     "personal/daily/2022/23-01-19.md",
@@ -187,7 +185,6 @@
     "templates/dapp template.md",
     "learning/computing/software/blender/3d asset resources.md",
     "learning/computing/software/blender/Interesting plugins.md",
-    "learning/computing/software/blender/can you create 2d art in blender?.md",
-    "learning/computing/programming/java/java dependency management.md"
+    "learning/computing/software/blender/can you create 2d art in blender?.md"
   ]
 }
