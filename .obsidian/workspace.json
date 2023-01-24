@@ -45,19 +45,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "0089fa3a1d693f11",
-            "type": "leaf",
-            "state": {
-              "type": "kanban",
-              "state": {
-                "file": "personal/shows.md"
-              }
-            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -115,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "personal/shows.md",
+                "file": "learning/computing/programming/databases/orm/knexjs/knexjs database orm.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +122,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "personal/shows.md"
+                "file": "learning/computing/programming/databases/orm/knexjs/knexjs database orm.md"
               }
             }
           },
@@ -174,8 +164,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "0089fa3a1d693f11",
+  "active": "6610316ff4a58f45",
   "lastOpenFiles": [
+    "personal/task board.md",
+    "personal/shows.md",
     "learning/computing/programming/testing/types of tests.md",
     "learning/computing/programming/databases/orm/knexjs/knexjs database orm.md",
     "learning/computing/security/auth/JSON Web Token.md",
@@ -183,8 +175,6 @@
     "learning/computing/programming/rust/basics/importing rust modules.md",
     "learning/computing/programming/rust/basics/updating rust modules.md",
     "templates/dapp template.md",
-    "learning/computing/software/blender/3d asset resources.md",
-    "learning/computing/software/blender/Interesting plugins.md",
-    "learning/computing/software/blender/can you create 2d art in blender?.md"
+    "learning/computing/software/blender/3d asset resources.md"
   ]
 }
