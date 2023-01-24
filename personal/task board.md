@@ -31,6 +31,8 @@ tags: null
 
 - [ ] [[Demo webapp project Val and Riz]]
 - [ ] Learn about Snowflake DWH and document the basics
+- [ ] Getting better at testing code
+- [ ] Getting better at CSS by taking Josh C's course
 
 
 ## WIP
