@@ -45,9 +45,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "c658a8bc7bcc9d23",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "learning/computing/programming/general/technical-debt.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -105,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "learning/reading/tips for reading quickly.md",
+                "file": "learning/computing/programming/general/technical-debt.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "learning/reading/tips for reading quickly.md"
+                "file": "learning/computing/programming/general/technical-debt.md"
               }
             }
           },
@@ -164,8 +177,9 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "6610316ff4a58f45",
+  "active": "c658a8bc7bcc9d23",
   "lastOpenFiles": [
+    "learning/reading/tips for reading quickly.md",
     "personal/numbers.md",
     "personal/shows.md",
     "personal/daily/2022/23-01-23.md",
@@ -174,7 +188,6 @@
     "learning/computing/programming/testing/types of tests.md",
     "learning/computing/security/auth/JSON Web Token.md",
     "personal/daily/2022/23-01-19.md",
-    "learning/computing/programming/rust/basics/importing rust modules.md",
-    "learning/computing/programming/rust/basics/updating rust modules.md"
+    "learning/computing/programming/rust/basics/importing rust modules.md"
   ]
 }
