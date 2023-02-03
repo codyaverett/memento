@@ -7,3 +7,5 @@ tags:
 ---
 # technical-debt
 
+Android - the platform 
+	3million lines of code with over 2000 developers

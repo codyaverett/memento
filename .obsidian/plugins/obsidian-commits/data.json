@@ -1833,12 +1833,17 @@
       "size": 0,
       "tags": 0,
       "links": 0
+    },
+    "learning/computing/programming/general/technical-debt.md": {
+      "size": 0,
+      "tags": 0,
+      "links": 0
     }
   },
   "commitTypes": {
     "/": {
       "Refactor": 1429,
-      "Create": 384,
+      "Create": 385,
       "Link": 332,
       "Expand": 116
     }
@@ -1864,7 +1869,7 @@
       "16": 1202,
       "17": 196,
       "18": 35,
-      "19": 27,
+      "19": 28,
       "20": 57,
       "21": 129,
       "22": 101,
@@ -1876,7 +1881,7 @@
       "Mon": 1480,
       "Tue": 125,
       "Wed": 250,
-      "Thu": 149,
+      "Thu": 150,
       "Fri": 149,
       "Sat": 0,
       "Sun": 108
@@ -1938,6 +1943,7 @@
         "<a class=\"internal-link\" href=\"programming/deno/A fresh look at Deno - Brian Barrow.md\"> A fresh look at Deno - Brian Barrow </a>"
       ],
       "Created": [
+        "<a class=\"internal-link\" href=\"learning/computing/programming/general/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"personal/daily/2022/23-01-23.md\"> 23-01-23 </a>",
         "<a class=\"internal-link\" href=\"learning/computing/programming/databases/orm/knexjs/knexjs database orm.md\"> knexjs database orm </a>",
         "<a class=\"internal-link\" href=\"learning/computing/programming/testing/types of tests.md\"> types of tests </a>",
@@ -1987,8 +1993,7 @@
         "<a class=\"internal-link\" href=\"learning/computing/cryptocurrency/L1 networks/Cardano/dapps/_db.md\"> _db </a>",
         "<a class=\"internal-link\" href=\"learning/financial/trading/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"learning/financial/trading/Untitled.md\"> Untitled </a>",
-        "<a class=\"internal-link\" href=\"learning/financial/trading/Untitled.md\"> Untitled </a>",
-        "<a class=\"internal-link\" href=\"learning/financial/trading/tools/Untitled.md\"> Untitled </a>"
+        "<a class=\"internal-link\" href=\"learning/financial/trading/Untitled.md\"> Untitled </a>"
       ],
       "Renamed": [
         "<a class=\"internal-link\" href=\"learning/computing/programming/protocols/ssh/ssh port forwarding.md\"> ssh port forwarding </a>",
