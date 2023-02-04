@@ -71,9 +71,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "4b6e76275c1bd655",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "learning/computing/programming/swift/swift basics.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -131,7 +144,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "learning/financial/career/10-k documents.md",
+                "file": "learning/computing/programming/swift/swift basics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -148,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "learning/financial/career/10-k documents.md"
+                "file": "learning/computing/programming/swift/swift basics.md"
               }
             }
           },
@@ -190,8 +203,9 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "e66401bc738c43f3",
+  "active": "4b6e76275c1bd655",
   "lastOpenFiles": [
+    "learning/financial/career/10-k documents.md",
     "learning/computing/programming/python/python cheatsheet.md",
     "learning/computing/programming/python/python pyenv.md",
     "learning/computing/programming/python/jupyter notebooks.md",
@@ -200,7 +214,6 @@
     "learning/reading/tips for reading quickly.md",
     "personal/numbers.md",
     "personal/shows.md",
-    "personal/daily/2022/23-01-23.md",
-    "learning/computing/programming/databases/orm/knexjs/knexjs database orm.md"
+    "personal/daily/2022/23-01-23.md"
   ]
 }

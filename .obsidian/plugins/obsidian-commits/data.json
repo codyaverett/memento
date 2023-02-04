@@ -1838,14 +1838,19 @@
       "size": 0,
       "tags": 0,
       "links": 0
+    },
+    "learning/financial/career/10-k documents.md": {
+      "size": 2133,
+      "tags": 0,
+      "links": 0
     }
   },
   "commitTypes": {
     "/": {
       "Refactor": 1429,
-      "Create": 385,
+      "Create": 386,
       "Link": 332,
-      "Expand": 116
+      "Expand": 117
     }
   },
   "dailyCommits": {
@@ -1873,7 +1878,7 @@
       "20": 57,
       "21": 129,
       "22": 101,
-      "23": 65
+      "23": 67
     }
   },
   "weeklyCommits": {
@@ -1882,7 +1887,7 @@
       "Tue": 125,
       "Wed": 250,
       "Thu": 150,
-      "Fri": 149,
+      "Fri": 151,
       "Sat": 0,
       "Sun": 108
     }
@@ -1890,6 +1895,7 @@
   "recentCommits": {
     "/": {
       "Expanded": [
+        "<a class=\"internal-link\" href=\"learning/financial/career/10-k documents.md\"> 10-k documents </a>",
         "<a class=\"internal-link\" href=\"learning/financial/trading/pine scripting/ut bot alerts.md\"> ut bot alerts </a>",
         "<a class=\"internal-link\" href=\"learning/computing/programming/rust/basics/importing rust modules.md\"> importing rust modules </a>",
         "<a class=\"internal-link\" href=\"learning/computing/programming/java/java dependency management.md\"> java dependency management </a>",
@@ -1939,10 +1945,10 @@
         "<a class=\"internal-link\" href=\"software/linux/create linux superuser.md\"> create linux superuser </a>",
         "<a class=\"internal-link\" href=\"programming/c++/c++ package managers.md\"> c++ package managers </a>",
         "<a class=\"internal-link\" href=\"programming/c++/c++ package managers.md\"> c++ package managers </a>",
-        "<a class=\"internal-link\" href=\"software/linux/Linux directory Structure.md\"> Linux directory Structure </a>",
-        "<a class=\"internal-link\" href=\"programming/deno/A fresh look at Deno - Brian Barrow.md\"> A fresh look at Deno - Brian Barrow </a>"
+        "<a class=\"internal-link\" href=\"software/linux/Linux directory Structure.md\"> Linux directory Structure </a>"
       ],
       "Created": [
+        "<a class=\"internal-link\" href=\"learning/financial/career/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"learning/computing/programming/general/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"personal/daily/2022/23-01-23.md\"> 23-01-23 </a>",
         "<a class=\"internal-link\" href=\"learning/computing/programming/databases/orm/knexjs/knexjs database orm.md\"> knexjs database orm </a>",
@@ -1991,7 +1997,6 @@
         "<a class=\"internal-link\" href=\"learning/computing/programming/javascript/3d cube with js.md\"> 3d cube with js </a>",
         "<a class=\"internal-link\" href=\"learning/computing/programming/java/java classpath.md\"> java classpath </a>",
         "<a class=\"internal-link\" href=\"learning/computing/cryptocurrency/L1 networks/Cardano/dapps/_db.md\"> _db </a>",
-        "<a class=\"internal-link\" href=\"learning/financial/trading/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"learning/financial/trading/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"learning/financial/trading/Untitled.md\"> Untitled </a>"
       ],
