@@ -84,9 +84,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "5bf8b8677098c825",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "learning/reading/list of reading products you can buy.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -144,7 +157,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "learning/computing/programming/swift/swift basics.md",
+                "file": "learning/reading/list of reading products you can buy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -161,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "learning/computing/programming/swift/swift basics.md"
+                "file": "learning/reading/list of reading products you can buy.md"
               }
             }
           },
@@ -203,8 +216,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "4b6e76275c1bd655",
+  "active": "5bf8b8677098c825",
   "lastOpenFiles": [
+    "learning/Untitled.md",
+    "learning/computing/programming/swift/swift basics.md",
     "learning/financial/career/10-k documents.md",
     "learning/computing/programming/python/python cheatsheet.md",
     "learning/computing/programming/python/python pyenv.md",
@@ -212,8 +227,6 @@
     "learning/computing/software/data ETL/snowflake.md",
     "learning/computing/programming/general/technical-debt.md",
     "learning/reading/tips for reading quickly.md",
-    "personal/numbers.md",
-    "personal/shows.md",
-    "personal/daily/2022/23-01-23.md"
+    "personal/numbers.md"
   ]
 }
