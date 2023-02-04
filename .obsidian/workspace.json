@@ -52,7 +52,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "learning/computing/programming/general/technical-debt.md",
+                "file": "learning/computing/software/data ETL/snowflake.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -118,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "learning/computing/programming/general/technical-debt.md",
+                "file": "learning/computing/software/data ETL/snowflake.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "learning/computing/programming/general/technical-debt.md"
+                "file": "learning/computing/software/data ETL/snowflake.md"
               }
             }
           },
@@ -179,6 +179,7 @@
   },
   "active": "c658a8bc7bcc9d23",
   "lastOpenFiles": [
+    "learning/computing/programming/general/technical-debt.md",
     "learning/reading/tips for reading quickly.md",
     "personal/numbers.md",
     "personal/shows.md",
@@ -187,7 +188,6 @@
     "personal/task board.md",
     "learning/computing/programming/testing/types of tests.md",
     "learning/computing/security/auth/JSON Web Token.md",
-    "personal/daily/2022/23-01-19.md",
-    "learning/computing/programming/rust/basics/importing rust modules.md"
+    "personal/daily/2022/23-01-19.md"
   ]
 }
