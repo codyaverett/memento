@@ -89,12 +89,9 @@
             "id": "5bf8b8677098c825",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "kanban",
               "state": {
-                "file": "learning/reading/list of reading products you can buy.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
+                "file": "personal/shows.md"
               }
             }
           }
@@ -157,7 +154,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "learning/reading/list of reading products you can buy.md",
+                "file": "personal/shows.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -174,7 +171,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "learning/reading/list of reading products you can buy.md"
+                "file": "personal/shows.md"
               }
             }
           },
@@ -218,6 +215,7 @@
   },
   "active": "5bf8b8677098c825",
   "lastOpenFiles": [
+    "learning/reading/list of reading products you can buy.md",
     "learning/Untitled.md",
     "learning/computing/programming/swift/swift basics.md",
     "learning/financial/career/10-k documents.md",
@@ -226,7 +224,6 @@
     "learning/computing/programming/python/jupyter notebooks.md",
     "learning/computing/software/data ETL/snowflake.md",
     "learning/computing/programming/general/technical-debt.md",
-    "learning/reading/tips for reading quickly.md",
-    "personal/numbers.md"
+    "learning/reading/tips for reading quickly.md"
   ]
 }
