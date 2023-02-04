@@ -58,9 +58,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "e66401bc738c43f3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "learning/financial/career/10-k documents.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -118,7 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "learning/computing/programming/python/python cheatsheet.md",
+                "file": "learning/financial/career/10-k documents.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "learning/computing/programming/python/python cheatsheet.md"
+                "file": "learning/financial/career/10-k documents.md"
               }
             }
           },
@@ -177,8 +190,9 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "c658a8bc7bcc9d23",
+  "active": "e66401bc738c43f3",
   "lastOpenFiles": [
+    "learning/computing/programming/python/python cheatsheet.md",
     "learning/computing/programming/python/python pyenv.md",
     "learning/computing/programming/python/jupyter notebooks.md",
     "learning/computing/software/data ETL/snowflake.md",
@@ -187,7 +201,6 @@
     "personal/numbers.md",
     "personal/shows.md",
     "personal/daily/2022/23-01-23.md",
-    "learning/computing/programming/databases/orm/knexjs/knexjs database orm.md",
-    "personal/task board.md"
+    "learning/computing/programming/databases/orm/knexjs/knexjs database orm.md"
   ]
 }
