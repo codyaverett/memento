@@ -52,7 +52,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "learning/computing/software/data ETL/snowflake.md",
+                "file": "learning/computing/programming/python/python cheatsheet.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -118,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "learning/computing/software/data ETL/snowflake.md",
+                "file": "learning/computing/programming/python/python cheatsheet.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "learning/computing/software/data ETL/snowflake.md"
+                "file": "learning/computing/programming/python/python cheatsheet.md"
               }
             }
           },
@@ -179,15 +179,15 @@
   },
   "active": "c658a8bc7bcc9d23",
   "lastOpenFiles": [
+    "learning/computing/programming/python/python pyenv.md",
+    "learning/computing/programming/python/jupyter notebooks.md",
+    "learning/computing/software/data ETL/snowflake.md",
     "learning/computing/programming/general/technical-debt.md",
     "learning/reading/tips for reading quickly.md",
     "personal/numbers.md",
     "personal/shows.md",
     "personal/daily/2022/23-01-23.md",
     "learning/computing/programming/databases/orm/knexjs/knexjs database orm.md",
-    "personal/task board.md",
-    "learning/computing/programming/testing/types of tests.md",
-    "learning/computing/security/auth/JSON Web Token.md",
-    "personal/daily/2022/23-01-19.md"
+    "personal/task board.md"
   ]
 }
