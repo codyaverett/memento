@@ -8,7 +8,6 @@ kanban-plugin: basic
 
 - [ ] Jujitsu Kaizen
 - [ ] Mushoku Tensei
-- [ ] Demon Slayer
 - [ ] Sailor Moon
 - [ ] Vox Machina
 
@@ -16,12 +15,13 @@ kanban-plugin: basic
 ## Watching
 
 - [ ] Boruto - Naruto the next generation
-- [ ] Fullmetal Alchemist - Brotherhood
 - [ ] Extra Ordinary
+- [ ] Demon Slayer
 
 
 ## Finished
 
+- [ ] Fullmetal Alchemist - Brotherhood
 - [ ] Naruto
 - [ ] Naruto Shipuden
 - [ ] Gurren Laggan

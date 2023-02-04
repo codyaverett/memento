@@ -1848,19 +1848,24 @@
       "size": 0,
       "tags": 1,
       "links": 0
+    },
+    "learning/reading/list of reading products you can buy.md": {
+      "size": 0,
+      "tags": 0,
+      "links": 0
     }
   },
   "commitTypes": {
     "/": {
       "Refactor": 1430,
-      "Create": 388,
+      "Create": 389,
       "Link": 333,
       "Expand": 117
     }
   },
   "dailyCommits": {
     "/": {
-      "0": 66,
+      "0": 67,
       "1": 31,
       "2": 43,
       "3": 52,
@@ -1894,7 +1899,7 @@
       "Thu": 150,
       "Fri": 151,
       "Sat": 0,
-      "Sun": 112
+      "Sun": 113
     }
   },
   "recentCommits": {
@@ -1953,6 +1958,7 @@
         "<a class=\"internal-link\" href=\"software/linux/Linux directory Structure.md\"> Linux directory Structure </a>"
       ],
       "Created": [
+        "<a class=\"internal-link\" href=\"learning/reading/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"learning/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"learning/computing/programming/swift/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"learning/financial/career/Untitled.md\"> Untitled </a>",
@@ -2002,8 +2008,7 @@
         "<a class=\"internal-link\" href=\"learning/computing/programming/protocols/protocols for transferring data over networks.md\"> protocols for transferring data over networks </a>",
         "<a class=\"internal-link\" href=\"learning/computing/programming/languages/_programming_languages_db.md\"> _programming_languages_db </a>",
         "<a class=\"internal-link\" href=\"learning/computing/programming/javascript/3d cube with js.md\"> 3d cube with js </a>",
-        "<a class=\"internal-link\" href=\"learning/computing/programming/java/java classpath.md\"> java classpath </a>",
-        "<a class=\"internal-link\" href=\"learning/computing/cryptocurrency/L1 networks/Cardano/dapps/_db.md\"> _db </a>"
+        "<a class=\"internal-link\" href=\"learning/computing/programming/java/java classpath.md\"> java classpath </a>"
       ],
       "Renamed": [
         "<a class=\"internal-link\" href=\"learning/computing/programming/protocols/ssh/ssh port forwarding.md\"> ssh port forwarding </a>",
