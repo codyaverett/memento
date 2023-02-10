@@ -24,14 +24,17 @@ kanban-plugin: basic
 - [ ] Fullmetal Alchemist - Brotherhood
 - [ ] Naruto
 - [ ] Naruto Shipuden
-- [ ] Gurren Laggan
-- [ ] Castle
-- [ ] Star Wars - Andor
 - [ ] [[Chainsaw Man]]
+
+
+***
+
+## Archive
+
+- [ ] Castle
+- [ ] Gurren Laggan
+- [ ] Star Wars - Andor
 - [ ] Gundam 00
-
-
-
 
 %% kanban:settings
 ```
