@@ -94,9 +94,22 @@
                 "file": "personal/shows.md"
               }
             }
+          },
+          {
+            "id": "7e67c4b80d634dee",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "learning/computing/software/awk.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 6
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -154,7 +167,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "personal/shows.md",
+                "file": "learning/computing/software/awk.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -171,7 +184,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "personal/shows.md"
+                "file": "learning/computing/software/awk.md"
               }
             }
           },
@@ -213,8 +226,9 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "5bf8b8677098c825",
+  "active": "7e67c4b80d634dee",
   "lastOpenFiles": [
+    "personal/shows.md",
     "learning/reading/list of reading products you can buy.md",
     "learning/Untitled.md",
     "learning/computing/programming/swift/swift basics.md",
@@ -223,7 +237,6 @@
     "learning/computing/programming/python/python pyenv.md",
     "learning/computing/programming/python/jupyter notebooks.md",
     "learning/computing/software/data ETL/snowflake.md",
-    "learning/computing/programming/general/technical-debt.md",
-    "learning/reading/tips for reading quickly.md"
+    "learning/computing/programming/general/technical-debt.md"
   ]
 }
