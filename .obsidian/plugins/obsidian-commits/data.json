@@ -1853,12 +1853,17 @@
       "size": 0,
       "tags": 0,
       "links": 0
+    },
+    "learning/computing/software/awk.md": {
+      "size": 0,
+      "tags": 0,
+      "links": 0
     }
   },
   "commitTypes": {
     "/": {
       "Refactor": 1430,
-      "Create": 389,
+      "Create": 390,
       "Link": 333,
       "Expand": 117
     }
@@ -1887,7 +1892,7 @@
       "19": 28,
       "20": 57,
       "21": 129,
-      "22": 101,
+      "22": 102,
       "23": 67
     }
   },
@@ -1896,7 +1901,7 @@
       "Mon": 1480,
       "Tue": 125,
       "Wed": 250,
-      "Thu": 150,
+      "Thu": 151,
       "Fri": 151,
       "Sat": 0,
       "Sun": 113
@@ -1958,6 +1963,7 @@
         "<a class=\"internal-link\" href=\"software/linux/Linux directory Structure.md\"> Linux directory Structure </a>"
       ],
       "Created": [
+        "<a class=\"internal-link\" href=\"learning/computing/software/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"learning/reading/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"learning/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"learning/computing/programming/swift/Untitled.md\"> Untitled </a>",
@@ -2007,8 +2013,7 @@
         "<a class=\"internal-link\" href=\"learning/computing/programming/protocols/http/http protocol.md\"> http protocol </a>",
         "<a class=\"internal-link\" href=\"learning/computing/programming/protocols/protocols for transferring data over networks.md\"> protocols for transferring data over networks </a>",
         "<a class=\"internal-link\" href=\"learning/computing/programming/languages/_programming_languages_db.md\"> _programming_languages_db </a>",
-        "<a class=\"internal-link\" href=\"learning/computing/programming/javascript/3d cube with js.md\"> 3d cube with js </a>",
-        "<a class=\"internal-link\" href=\"learning/computing/programming/java/java classpath.md\"> java classpath </a>"
+        "<a class=\"internal-link\" href=\"learning/computing/programming/javascript/3d cube with js.md\"> 3d cube with js </a>"
       ],
       "Renamed": [
         "<a class=\"internal-link\" href=\"learning/computing/programming/protocols/ssh/ssh port forwarding.md\"> ssh port forwarding </a>",
