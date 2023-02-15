@@ -1,7 +1,7 @@
 ---
 name: Awk
 created: 2023-02-09T22:06:01-06:00
-updated: 2023-02-14T22:00:13-06:00
+updated: 2023-02-15T00:09:46-06:00
 aliases: 
 tags: text
 ---
@@ -23,20 +23,16 @@ Insert comment headers to the top of files
 BEGIN {
     FS = "/"
     OFS = "/"
-    js_comment = "/* This is a long format comment for JavaScript files */\n\n"
-    py_comment = "# This is a long format comment for Python files\n\n"
+    comment = "/* This is a long format comment */\n\n"
 }
 
 {
     if ($NF ~ /\.js$/) {
         file = $0
-        system(sprintf("sed -i '1i %s' %s", js_comment, file))
-    }
-    else if ($NF ~ /\.py$/) {
-        file = $0
-        system(sprintf("sed -i '1i %s' %s", py_comment, file))
+        system(sprintf("sed -i '1i %s' %s", comment, file))
     }
 }
+
 ```
 
 ## Reference
