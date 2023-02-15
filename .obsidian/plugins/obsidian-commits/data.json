@@ -1856,7 +1856,7 @@
     },
     "learning/computing/software/awk.md": {
       "size": 0,
-      "tags": 0,
+      "tags": 1,
       "links": 0
     }
   },
@@ -1864,7 +1864,7 @@
     "/": {
       "Refactor": 1430,
       "Create": 390,
-      "Link": 333,
+      "Link": 334,
       "Expand": 117
     }
   },
@@ -1892,14 +1892,14 @@
       "19": 28,
       "20": 57,
       "21": 129,
-      "22": 102,
+      "22": 103,
       "23": 67
     }
   },
   "weeklyCommits": {
     "/": {
       "Mon": 1480,
-      "Tue": 125,
+      "Tue": 126,
       "Wed": 250,
       "Thu": 151,
       "Fri": 151,
@@ -2069,6 +2069,7 @@
         "<a class=\"internal-link\" href=\"learning/financial/career/management/transitioning from dev to manager.md\"> transitioning from dev to manager </a>"
       ],
       "Tagged": [
+        "<a class=\"internal-link\" href=\"learning/computing/software/awk.md\"> awk </a>",
         "<a class=\"internal-link\" href=\"learning/computing/programming/swift/swift basics.md\"> swift basics </a>",
         "<a class=\"internal-link\" href=\"learning/financial/trading/pine scripting/ut bot alerts.md\"> ut bot alerts </a>",
         "<a class=\"internal-link\" href=\"learning/financial/trading/btc/bull market support band.md\"> bull market support band </a>",
@@ -2118,8 +2119,7 @@
         "<a class=\"internal-link\" href=\"learning/computing/programming/python/clean python sorting.md\"> clean python sorting </a>",
         "<a class=\"internal-link\" href=\"learning/computing/programming/python/concurrency in python.md\"> concurrency in python </a>",
         "<a class=\"internal-link\" href=\"learning/computing/programming/python/package management/python virtual environments.md\"> python virtual environments </a>",
-        "<a class=\"internal-link\" href=\"learning/computing/software/data ETL/apache airflow/airflow configuration.md\"> airflow configuration </a>",
-        "<a class=\"internal-link\" href=\"learning/computing/software/data ETL/apache airflow/airflow hooks.md\"> airflow hooks </a>"
+        "<a class=\"internal-link\" href=\"learning/computing/software/data ETL/apache airflow/airflow configuration.md\"> airflow configuration </a>"
       ],
       "Refactored": [],
       "Deleted": [

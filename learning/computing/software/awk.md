@@ -13,6 +13,32 @@ Awk reads input files line by line, splits each line into fields, and then perfo
 
 Awk is known for its concise syntax and its ability to handle complex text processing tasks efficiently. It is often used in combination with other Unix tools such as sed and grep to perform advanced text processing tasks. Awk is available on most Unix-based operating systems, including Linux and macOS.
 
+## Examples
+
+Insert comment headers to the top of files
+
+```awk
+#!/usr/bin/awk -f
+
+BEGIN {
+    FS = "/"
+    OFS = "/"
+    js_comment = "/* This is a long format comment for JavaScript files */\n\n"
+    py_comment = "# This is a long format comment for Python files\n\n"
+}
+
+{
+    if ($NF ~ /\.js$/) {
+        file = $0
+        system(sprintf("sed -i '1i %s' %s", js_comment, file))
+    }
+    else if ($NF ~ /\.py$/) {
+        file = $0
+        system(sprintf("sed -i '1i %s' %s", py_comment, file))
+    }
+}
+```
+
 ## Reference
 - https://www.grymoire.com/Unix/AwkRef.html
 - [How to use the awk command: 2-Minute Linux Tips](https://youtu.be/fRZvwBevctA)
