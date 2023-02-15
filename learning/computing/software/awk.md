@@ -1,13 +1,13 @@
 ---
 name: Awk
 created: 2023-02-09T22:06:01-06:00
-updated: 2023-02-14T21:57:48-06:00
+updated: 2023-02-14T21:58:12-06:00
 aliases: 
 tags: 
 ---
 # Awk
 
-Awk 
+Awk is great at processing text files.
 
 
 ## Reference
