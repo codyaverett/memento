@@ -15,7 +15,7 @@ Awk is known for its concise syntax and its ability to handle complex text proce
 
 ## Examples
 
-Insert comment headers to the top of files
+Insert comment headers to the top of files 
 
 ```awk
 #!/usr/bin/awk -f
