@@ -1,7 +1,7 @@
 ---
 name: Awk
 created: 2023-02-09T22:06:01-06:00
-updated: 2023-02-15T00:09:46-06:00
+updated: 2023-02-16T22:35:33-06:00
 aliases: 
 tags: text
 ---
@@ -31,6 +31,10 @@ BEGIN {
         file = $0
         system(sprintf("sed -i '1i %s' %s", comment, file))
     }
+}
+
+END {
+
 }
 
 ```
