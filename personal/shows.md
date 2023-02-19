@@ -17,6 +17,7 @@ kanban-plugin: basic
 - [ ] Boruto - Naruto the next generation
 - [ ] Extra Ordinary
 - [ ] Demon Slayer
+- [ ] Physical 100
 
 
 ## Finished
