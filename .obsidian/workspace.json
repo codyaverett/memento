@@ -99,12 +99,9 @@
             "id": "7e67c4b80d634dee",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "kanban",
               "state": {
-                "file": "learning/computing/software/awk.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
+                "file": "personal/shows.md"
               }
             }
           }
@@ -167,7 +164,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "learning/computing/software/awk.md",
+                "file": "personal/shows.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -184,7 +181,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "learning/computing/software/awk.md"
+                "file": "personal/shows.md"
               }
             }
           },
@@ -228,6 +225,7 @@
   },
   "active": "7e67c4b80d634dee",
   "lastOpenFiles": [
+    "learning/computing/software/awk.md",
     "personal/shows.md",
     "learning/reading/list of reading products you can buy.md",
     "learning/Untitled.md",
@@ -236,7 +234,6 @@
     "learning/computing/programming/python/python cheatsheet.md",
     "learning/computing/programming/python/python pyenv.md",
     "learning/computing/programming/python/jupyter notebooks.md",
-    "learning/computing/software/data ETL/snowflake.md",
-    "learning/computing/programming/general/technical-debt.md"
+    "learning/computing/software/data ETL/snowflake.md"
   ]
 }
