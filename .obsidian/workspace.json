@@ -107,6 +107,25 @@
           }
         ],
         "currentTab": 7
+      },
+      {
+        "id": "ef896ca411daa15c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c6901498449998ae",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "personal/notes/Garden Upgrades.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -164,7 +183,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "personal/tasks.md",
+                "file": "personal/notes/Garden Upgrades.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -181,7 +200,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "personal/tasks.md"
+                "file": "personal/notes/Garden Upgrades.md"
               }
             }
           },
@@ -225,6 +244,8 @@
   },
   "active": "33a2bab88d111215",
   "lastOpenFiles": [
+    "personal/tasks.md",
+    "personal/notes/Garden Upgrades.md",
     "personal/reading.md",
     "personal/games.md",
     "personal/numbers.md",
@@ -232,8 +253,6 @@
     "learning/computing/software/awk.md",
     "learning/reading/list of reading products you can buy.md",
     "learning/Untitled.md",
-    "learning/computing/programming/swift/swift basics.md",
-    "learning/financial/career/10-k documents.md",
-    "learning/computing/programming/python/python cheatsheet.md"
+    "learning/computing/programming/swift/swift basics.md"
   ]
 }
