@@ -1895,7 +1895,7 @@
       "links": 12
     },
     "personal/blog/Learning Music in a different way.md": {
-      "size": 3562,
+      "size": 6036,
       "tags": 1,
       "links": 0
     }
@@ -1905,12 +1905,12 @@
       "Refactor": 1436,
       "Create": 403,
       "Link": 338,
-      "Expand": 121
+      "Expand": 122
     }
   },
   "dailyCommits": {
     "/": {
-      "0": 77,
+      "0": 78,
       "1": 29,
       "2": 42,
       "3": 52,
@@ -1939,7 +1939,7 @@
   "weeklyCommits": {
     "/": {
       "Mon": 1506,
-      "Tue": 116,
+      "Tue": 117,
       "Wed": 266,
       "Thu": 192,
       "Fri": 115,
@@ -1950,6 +1950,7 @@
   "recentCommits": {
     "/": {
       "Expanded": [
+        "<a class=\"internal-link\" href=\"personal/blog/Learning Music in a different way.md\"> Learning Music in a different way </a>",
         "<a class=\"internal-link\" href=\"personal/blog/Learning Music in a different way.md\"> Learning Music in a different way </a>",
         "<a class=\"internal-link\" href=\"personal/blog/Learning Music in a different way.md\"> Learning Music in a different way </a>",
         "<a class=\"internal-link\" href=\"learning/computing/programming/rust/basics/importing rust modules.md\"> importing rust modules </a>",
@@ -1999,8 +2000,7 @@
         "<a class=\"internal-link\" href=\"cryptocurrency/Chainlink/Fair Sequencing Services (FSS).md\"> Fair Sequencing Services (FSS) </a>",
         "<a class=\"internal-link\" href=\"programming/python/python poetry.md\"> python poetry </a>",
         "<a class=\"internal-link\" href=\"programming/python/pyenv.md\"> pyenv </a>",
-        "<a class=\"internal-link\" href=\"programming/python/pyenv.md\"> pyenv </a>",
-        "<a class=\"internal-link\" href=\"software/containers/buildah/create basic OCI image with buildah.md\"> create basic OCI image with buildah </a>"
+        "<a class=\"internal-link\" href=\"programming/python/pyenv.md\"> pyenv </a>"
       ],
       "Created": [
         "<a class=\"internal-link\" href=\"personal/blog/Untitled.md\"> Untitled </a>",

@@ -37,19 +37,20 @@ Another approach is to use numbers to represent specific pitches or notes. In th
 
 Regardless of the system you choose, the key is to find a notation system that works for you and allows you to capture and communicate your musical ideas in a way that feels natural and intuitive. With a little experimentation and creativity, you can develop a personalized musical notation system that reflects your unique style and musical perspective.
 
-### Notes with 
+### Associating Numbers to notes 
 
-```text
-1. A
-2. Bb or A#
-3. B
-4. C
-5. Db or C#
-6. D
-7. Eb or D#
-8. E
-9. F
-10. Gb or F#
-11. G
-12. Ab or G#
-```
+| Number | Notes with Sharps | Notes with Flats |
+| --- | --- | --- |
+| 1   | A   | A   |
+| 2   | A#/Bb   | Bb/A# |
+| 3   | B   | B   |
+| 4   | C   | C   |
+| 5   | C#/Db   | Db/C# |
+| 6   | D   | D   |
+| 7   | D#/Eb   | Eb/D# |
+| 8   | E   | E   |
+| 9   | F   | F   |
+| 10  | F#/Gb   | Gb/F# |
+| 11  | G   | G   |
+| 12  | G#/Ab   | Ab/G# |
+
