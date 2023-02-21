@@ -296,3 +296,6 @@ Perfect 4ths tuning
 | 6th (E) | 8 | 9 | 10 | 11 | 0 | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 |
 
 Index based on the root note
+
+0 9 6 - 9th
+0 9 4 - 5th
