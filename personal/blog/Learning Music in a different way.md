@@ -68,4 +68,34 @@ Therefore, the total number of possible combinations of triads is:
 
 So there are 24 different possible triads in Western music theory.
 
+## Guitar tunings
 
+Both flats and sharps
+
+| Fret \\ String | 1st (E) | 2nd (B) | 3rd (G) | 4th (D) | 5th (A) | 6th (E) |
+| --- | --- | --- | --- | --- | --- | --- |
+| 0 | E        | B        | G        | D        | A        | E        |
+| 1 | F/F#    | C        | G#/Ab   | D#/Eb | A#/Bb  | F#/Gb   |
+| 2 | F#/Gb   | C#/Db   | A        | E        | B        | G        |
+| 3 | G        | D        | A#/Bb  | F        | C        | G#/Ab   |
+| 4 | G#/Ab   | D#/Eb | B        | F#/Gb   | C#/Db   | A        |
+| 5 | A        | E        | C        | G        | D        | A#/Bb  |
+| 6 | A#/Bb  | F        | C#/Db   | G#/Ab   | D#/Eb | B        |
+| 7 | B        | F#/Gb   | D        | A        | E        | C        |
+| 8 | C        | G        | C#/Db   | A#/Bb  | F        | C#/Db   |
+| 9 | C#/Db   | G#/Ab   | D#/Eb | B        | F#/Gb   | D        |
+| 10 | D        | A        | E        | C        | G        | D#/Eb |
+| 11 | D#/Eb | A#/Bb  | F        | C#/Db   | G#/Ab   | E        |
+| 12 | E        | B        | G        | D        | A        | F        |
+| 13 | F/F#    | C        | G#/Ab   | D#/Eb | A#/Bb  | F#/Gb   |
+| 14 | F#/Gb   | C#/Db   | A        | E        | B        | G        |
+| 15 | G        | D        | A#/Bb  | F        | C        | G#/Ab   |
+| 16 | G#/Ab   | D#/Eb | B        | F#/Gb   | C#/Db   | A        |
+| 17 | A        | E        | C        | G        | D        | A#/Bb  |
+| 18 | A#/Bb  | F        | C#/Db   | G#/Ab   | D#/Eb | B        |
+| 19 | B        | F#/Gb   | D        | A        | E        | C        |
+| 20 | C        | G        | C#/Db   | A#/Bb  | F        | C#/Db   |
+| 21 | C#/Db   | G#/Ab   | D#/Eb | B        | F#/Gb   | D        |
+| 22 | D        | A        | E        | C        | G        | D#/Eb |
+| 23 | D#/Eb | A#/Bb  | F        | C#/Db   | G#/Ab   | E        |
+| 24 | E        | B        | G        | D        | A        | F        |
