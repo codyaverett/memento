@@ -101,7 +101,7 @@
             "state": {
               "type": "kanban",
               "state": {
-                "file": "personal/reading.md"
+                "file": "personal/tasks.md"
               }
             }
           }
@@ -164,7 +164,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "personal/reading.md",
+                "file": "personal/tasks.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -181,7 +181,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "personal/reading.md"
+                "file": "personal/tasks.md"
               }
             }
           },
@@ -225,8 +225,8 @@
   },
   "active": "33a2bab88d111215",
   "lastOpenFiles": [
-    "personal/games.md",
     "personal/reading.md",
+    "personal/games.md",
     "personal/numbers.md",
     "personal/shows.md",
     "learning/computing/software/awk.md",

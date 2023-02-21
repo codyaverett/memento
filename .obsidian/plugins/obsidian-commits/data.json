@@ -1049,11 +1049,6 @@
       "tags": 2,
       "links": 0
     },
-    "personal/task board.md": {
-      "size": 0,
-      "tags": 0,
-      "links": 11
-    },
     "personal/notes/Ben Levin's course  Blender for musicians.md": {
       "size": 0,
       "tags": 0,
@@ -1864,15 +1859,20 @@
       "tags": 0,
       "links": 0
     },
-    "personal/Untitled Kanban.md": {
+    "personal/reading.md": {
       "size": 0,
       "tags": 0,
       "links": 0
+    },
+    "personal/tasks.md": {
+      "size": 0,
+      "tags": 0,
+      "links": 11
     }
   },
   "commitTypes": {
     "/": {
-      "Refactor": 1430,
+      "Refactor": 1431,
       "Create": 392,
       "Link": 334,
       "Expand": 117
@@ -1899,7 +1899,7 @@
       "16": 1202,
       "17": 196,
       "18": 36,
-      "19": 29,
+      "19": 30,
       "20": 57,
       "21": 129,
       "22": 103,
@@ -1908,7 +1908,7 @@
   },
   "weeklyCommits": {
     "/": {
-      "Mon": 1482,
+      "Mon": 1483,
       "Tue": 126,
       "Wed": 250,
       "Thu": 151,
@@ -2026,6 +2026,7 @@
         "<a class=\"internal-link\" href=\"learning/computing/programming/protocols/protocols for transferring data over networks.md\"> protocols for transferring data over networks </a>"
       ],
       "Renamed": [
+        "<a class=\"internal-link\" href=\"personal/tasks.md\"> tasks </a>",
         "<a class=\"internal-link\" href=\"learning/computing/programming/protocols/ssh/ssh port forwarding.md\"> ssh port forwarding </a>",
         "<a class=\"internal-link\" href=\"learning/financial/trading/pine scripting/ema ribbon.md\"> ema ribbon </a>",
         "<a class=\"internal-link\" href=\"learning/financial/trading/patterns/bull market support band.md\"> bull market support band </a>",
@@ -2075,8 +2076,7 @@
         "<a class=\"internal-link\" href=\"personal/notes/Todo.md\"> Todo </a>",
         "<a class=\"internal-link\" href=\"personal/notes/Backlog.md\"> Backlog </a>",
         "<a class=\"internal-link\" href=\"personal/kanban board.md\"> kanban board </a>",
-        "<a class=\"internal-link\" href=\"learning/computing/programming/c-sharp/C-sharp cheatsheet.md\"> C-sharp cheatsheet </a>",
-        "<a class=\"internal-link\" href=\"learning/financial/career/management/transitioning from dev to manager.md\"> transitioning from dev to manager </a>"
+        "<a class=\"internal-link\" href=\"learning/computing/programming/c-sharp/C-sharp cheatsheet.md\"> C-sharp cheatsheet </a>"
       ],
       "Tagged": [
         "<a class=\"internal-link\" href=\"learning/computing/software/awk.md\"> awk </a>",
