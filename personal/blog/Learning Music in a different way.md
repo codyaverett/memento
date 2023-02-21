@@ -223,3 +223,25 @@ There are a few ways to list out all the notes.  Both flat and sharp values are 
 | 22 | D   | Ab  | Eb  | Bb  | F   | C   |
 | 23 | Eb  | Bb  | F   | C   | G   | D   |
 | 24 | E   | A   | D   | G   | C   | F   |
+
+### A Key for our notes
+
+In the table where each musical note is replaced with a number, the key for the numbers is that each note is mapped to a unique integer between 0 and 11. The mapping is as follows:
+
+| Note | Number |
+| --- | --- |
+| A   | 0   |
+| A#  | 1   |
+| B   | 2   |
+| C   | 3   |
+| C#  | 4   |
+| D   | 5   |
+| D#  | 6   |
+| E   | 7   |
+| F   | 8   |
+| F#  | 9   |
+| G   | 10  |
+| G#  | 11  |
+
+
+For example, in the table, the note E on the 1st string (top string) is replaced with the number 4, which corresponds to the note A# in the key. Similarly, the note B on the 2nd string is replaced with the number 2, which corresponds to the note B in the key.
