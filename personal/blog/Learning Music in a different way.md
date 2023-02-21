@@ -72,7 +72,9 @@ So there are 24 different possible triads in Western music theory.
 
 There are a few ways to list out all the notes.  Both flat and sharp values are allowed, but it's simpler to use just one form or the other.
 
-Both flats and sharps
+### Standard tuning
+
+#### Standard with both flats and sharps
 
 | Fret \\ String | 1st (E) | 2nd (B) | 3rd (G) | 4th (D) | 5th (A) | 6th (E) |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -102,25 +104,25 @@ Both flats and sharps
 | 23 | D#/Eb | A#/Bb  | F        | C#/Db   | G#/Ab   | E        |
 | 24 | E        | B        | G        | D        | A        | F        |
 
-Flat symbols
+#### Standard with Flat symbols
 
 | Fret \\ String | 1st (E) | 2nd (B) | 3rd (G) | 4th (D) | 5th (A) | 6th (E) |
 | --- | --- | --- | --- | --- | --- | --- |
 | 0 | E   | Bb  | G   | D   | A   | E   |
 | 1 | F   | C   | Gb  | Db  | Ab  | F   |
-| 2 | F#  | C#  | A   | E   | B   | G   |
+| 2 | Gb  | D  | A   | E   | B   | G   |
 | 3 | G   | Db  | Ab  | Eb  | Bb  | Gb  |
 | 4 | Ab  | Eb  | B   | Gb  | Db  | A   |
 | 5 | A   | Eb  | Bb  | F   | C   | G   |
 | 6 | Bb  | F   | C   | Gb  | Db  | Ab  |
-| 7 | B   | F#  | C#  | Ab  | Eb  | Bb  |
+| 7 | B   | F#  | Db  | Ab  | Eb  | Bb  |
 | 8 | C   | G   | D   | Ab  | Eb  | Bb  |
 | 9 | Db  | Ab  | Eb  | B   | Gb  | Db  |
 | 10 | D   | A   | E   | Bb  | F   | C   |
 | 11 | Eb  | Bb  | F   | C   | G   | D   |
 | 12 | E   | Bb  | G   | D   | A   | E   |
 | 13 | F   | C   | Gb  | Db  | Ab  | F   |
-| 14 | F#  | C#  | A   | E   | B   | G   |
+| 14 | Gb  | D  | A   | E   | B   | G   |
 | 15 | G   | Db  | Ab  | Eb  | Bb  | Gb  |
 | 16 | Ab  | Eb  | B   | Gb  | Db  | A   |
 | 17 | A   | Eb  | Bb  | F   | C   | G   |
@@ -132,3 +134,32 @@ Flat symbols
 | 23 | Eb  | Bb  | F   | C   | G   | D   |
 | 24 | E   | Bb  | G   | D   | A   | E   |
 
+#### Standard with Sharp symbols
+
+| Fret \\ String | 1st (E) | 2nd (B) | 3rd (G) | 4th (D) | 5th (A) | 6th (E) |
+| --- | --- | --- | --- | --- | --- | --- |
+| 0 | E   | A#  | G   | D   | A   | E   |
+| 1 | F   | C   | G#  | D#  | A#  | F#  |
+| 2 | F#  | C#  | A   | E   | B   | G   |
+| 3 | G   | D#  | A#  | F   | C#  | G#  |
+| 4 | G#  | D#  | B   | F#  | C#  | A#  |
+| 5 | A   | F   | C   | G   | D   | A   |
+| 6 | A#  | F#  | C#  | G#  | D#  | B   |
+| 7 | B   | Gb  | D   | A   | E   | C   |
+| 8 | C   | G   | D#  | A#  | F   | C#  |
+| 9 | C#  | G#  | E   | B   | F#  | D#  |
+| 10 | D   | A   | F#  | C   | G   | D   |
+| 11 | D#  | A#  | G   | D   | A   | F   |
+| 12 | E   | A#  | G   | D   | A   | E   |
+| 13 | F   | C   | G#  | D#  | A#  | F#  |
+| 14 | F#  | C#  | A   | E   | B   | G   |
+| 15 | G   | D#  | A#  | F   | C#  | G#  |
+| 16 | G#  | D#  | B   | F#  | C#  | A#  |
+| 17 | A   | F   | C   | G   | D   | A   |
+| 18 | A#  | F#  | C#  | G#  | D#  | B   |
+| 19 | B   | Gb  | D   | A   | E   | C   |
+| 20 | C   | G   | D#  | A#  | F   | C#  |
+| 21 | C#  | G#  | E   | B   | F#  | D#  |
+| 22 | D   | A   | F#  | C   | G   | D   |
+| 23 | D#  | A#  | G   | D   | A   | F   |
+| 24 | E   | A#  | G   | D   | A   | E   |
