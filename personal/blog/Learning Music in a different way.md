@@ -1,7 +1,7 @@
 ---
-name: Learning Music in a different way
+name: Learning Music in a Different Way
 created: 2023-02-21T00:18:14-06:00
-updated: 2023-02-21T01:10:22-06:00
+updated: 2023-02-21T01:21:31-06:00
 aliases: 
 tags: blog
 ---
@@ -273,7 +273,7 @@ For example, in the table, the note E on the 1st string (top string) is replaced
 | 23 | 6   | 11  | 4   | 9   | 2   | 7   |
 | 24 | 7   | 0   | 5   | 10  | 3   | 8   |
 
-### Flipped on its side
+### Flipped on Its Side
 
 | String \\ Fret | 0 | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
