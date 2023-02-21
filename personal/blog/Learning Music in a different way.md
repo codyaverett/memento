@@ -195,3 +195,31 @@ There are a few ways to list out all the notes.  Both flat and sharp values are 
 | 24 | D   | A   | F   | C   | G   | D   |
 
 ### Perfect 4ths tuning
+
+| Fret \\ String | 1st (E) | 2nd (A) | 3rd (D) | 4th (G) | 5th (C) | 6th (F) |
+| --- | --- | --- | --- | --- | --- | --- |
+| 0 | E   | A   | D   | G   | C   | F   |
+| 1 | F   | Bb  | Eb  | Ab  | Db  | G   |
+| 2 | Gb  | B   | E   | A   | D   | Gb  |
+| 3 | G   | C   | F   | Bb  | Eb  | Ab  |
+| 4 | Ab  | Db  | Gb  | B   | E   | Ab  |
+| 5 | A   | D   | G   | C   | F   | Bb  |
+| 6 | Bb  | Eb  | Ab  | Db  | Gb  | B   |
+| 7 | B   | Gb  | Db  | Ab  | Eb  | Bb  |
+| 8 | C   | F   | Bb  | Eb  | Ab  | Db  |
+| 9 | Db  | G   | C   | F   | Bb  | Eb  |
+| 10 | D   | Ab  | Eb  | Bb  | F   | C   |
+| 11 | Eb  | Bb  | F   | C   | G   | D   |
+| 12 | E   | A   | D   | G   | C   | F   |
+| 13 | F   | Bb  | Eb  | Ab  | Db  | G   |
+| 14 | Gb  | B   | E   | A   | D   | Gb  |
+| 15 | G   | C   | F   | Bb  | Eb  | Ab  |
+| 16 | Ab  | Db  | Gb  | B   | E   | Ab  |
+| 17 | A   | D   | G   | C   | F   | Bb  |
+| 18 | Bb  | Eb  | Ab  | Db  | Gb  | B   |
+| 19 | B   | Gb  | Db  | Ab  | Eb  | Bb  |
+| 20 | C   | F   | Bb  | Eb  | Ab  | Db  |
+| 21 | Db  | G   | C   | F   | Bb  | Eb  |
+| 22 | D   | Ab  | Eb  | Bb  | F   | C   |
+| 23 | Eb  | Bb  | F   | C   | G   | D   |
+| 24 | E   | A   | D   | G   | C   | F   |
