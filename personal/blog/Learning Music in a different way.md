@@ -17,3 +17,4 @@ Music theory is the study of the structure, elements, and principles of music. I
 
 To begin, a good place to start is with the basics of music theory, which includes concepts such as rhythm, melody, harmony, and form. As you progress, you'll learn about more advanced topics like scales, modes, chords, and key signatures. Practice is key when it comes to learning music theory, as it involves both intellectual and creative processes. With time and effort, you can develop a solid foundation in music theory that will not only improve your musical skills but also enhance your appreciation and enjoyment of music.
 
+## Notations
