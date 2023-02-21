@@ -1858,12 +1858,17 @@
       "size": 0,
       "tags": 1,
       "links": 0
+    },
+    "personal/games.md": {
+      "size": 0,
+      "tags": 0,
+      "links": 0
     }
   },
   "commitTypes": {
     "/": {
       "Refactor": 1430,
-      "Create": 390,
+      "Create": 391,
       "Link": 334,
       "Expand": 117
     }
@@ -1888,7 +1893,7 @@
       "15": 64,
       "16": 1202,
       "17": 196,
-      "18": 35,
+      "18": 36,
       "19": 28,
       "20": 57,
       "21": 129,
@@ -1898,7 +1903,7 @@
   },
   "weeklyCommits": {
     "/": {
-      "Mon": 1480,
+      "Mon": 1481,
       "Tue": 126,
       "Wed": 250,
       "Thu": 151,
@@ -1963,6 +1968,7 @@
         "<a class=\"internal-link\" href=\"software/linux/Linux directory Structure.md\"> Linux directory Structure </a>"
       ],
       "Created": [
+        "<a class=\"internal-link\" href=\"personal/Untitled Kanban.md\"> Untitled Kanban </a>",
         "<a class=\"internal-link\" href=\"learning/computing/software/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"learning/reading/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"learning/Untitled.md\"> Untitled </a>",
@@ -2012,8 +2018,7 @@
         "<a class=\"internal-link\" href=\"learning/computing/programming/rust/snippets/Append a line to a file.md\"> Append a line to a file </a>",
         "<a class=\"internal-link\" href=\"learning/computing/programming/protocols/http/http protocol.md\"> http protocol </a>",
         "<a class=\"internal-link\" href=\"learning/computing/programming/protocols/protocols for transferring data over networks.md\"> protocols for transferring data over networks </a>",
-        "<a class=\"internal-link\" href=\"learning/computing/programming/languages/_programming_languages_db.md\"> _programming_languages_db </a>",
-        "<a class=\"internal-link\" href=\"learning/computing/programming/javascript/3d cube with js.md\"> 3d cube with js </a>"
+        "<a class=\"internal-link\" href=\"learning/computing/programming/languages/_programming_languages_db.md\"> _programming_languages_db </a>"
       ],
       "Renamed": [
         "<a class=\"internal-link\" href=\"learning/computing/programming/protocols/ssh/ssh port forwarding.md\"> ssh port forwarding </a>",
