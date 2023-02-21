@@ -8,7 +8,6 @@ kanban-plugin: basic
 
 - [ ] Jujitsu Kaizen
 - [ ] Mushoku Tensei
-- [ ] Demon Slayer
 - [ ] Sailor Moon
 - [ ] Vox Machina
 
@@ -16,20 +15,27 @@ kanban-plugin: basic
 ## Watching
 
 - [ ] Boruto - Naruto the next generation
-- [ ] Fullmetal Alchemist - Brotherhood
-- [ ] Castle
-- [ ] [[Chainsaw Man]]
+- [ ] Extra Ordinary
+- [ ] Demon Slayer
+- [ ] Physical 100
 
 
 ## Finished
 
+- [ ] Fullmetal Alchemist - Brotherhood
 - [ ] Naruto
 - [ ] Naruto Shipuden
+- [ ] [[Chainsaw Man]]
+
+
+***
+
+## Archive
+
+- [ ] Castle
 - [ ] Gurren Laggan
 - [ ] Star Wars - Andor
-
-
-
+- [ ] Gundam 00
 
 %% kanban:settings
 ```

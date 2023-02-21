@@ -45,9 +45,33 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "151c239ce78c0b1a",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "ed6555117f68eda7",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "db5b3c0d545077f2",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -105,7 +129,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "personal/daily/2022/23-02-20.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,9 +144,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "personal/daily/2022/23-02-20.md"
-              }
+              "state": {}
             }
           },
           {
@@ -164,8 +185,10 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "68a78707b602b9f9",
+  "active": "db5b3c0d545077f2",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
+    "personal/daily/2022/23-02-20.md",
     "learning/computing/programming/rust/basics/importing rust modules.md",
     "learning/computing/programming/rust/basics/updating rust modules.md",
     "templates/dapp template.md",
@@ -173,8 +196,6 @@
     "learning/computing/software/blender/Interesting plugins.md",
     "learning/computing/software/blender/can you create 2d art in blender?.md",
     "learning/computing/programming/java/java dependency management.md",
-    "learning/computing/programming/java/java classpath.md",
-    "learning/computing/programming/languages/_programming_languages_db.md",
-    "learning/mental/health/abusive relationships.md"
+    "learning/computing/programming/java/java classpath.md"
   ]
 }
