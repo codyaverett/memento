@@ -1895,7 +1895,7 @@
       "links": 12
     },
     "personal/blog/Learning Music in a different way.md": {
-      "size": 10384,
+      "size": 12916,
       "tags": 1,
       "links": 0
     }
@@ -1905,12 +1905,12 @@
       "Refactor": 1436,
       "Create": 403,
       "Link": 338,
-      "Expand": 125
+      "Expand": 126
     }
   },
   "dailyCommits": {
     "/": {
-      "0": 81,
+      "0": 82,
       "1": 29,
       "2": 42,
       "3": 52,
@@ -1939,7 +1939,7 @@
   "weeklyCommits": {
     "/": {
       "Mon": 1506,
-      "Tue": 120,
+      "Tue": 121,
       "Wed": 266,
       "Thu": 192,
       "Fri": 115,
@@ -1950,6 +1950,7 @@
   "recentCommits": {
     "/": {
       "Expanded": [
+        "<a class=\"internal-link\" href=\"personal/blog/Learning Music in a different way.md\"> Learning Music in a different way </a>",
         "<a class=\"internal-link\" href=\"personal/blog/Learning Music in a different way.md\"> Learning Music in a different way </a>",
         "<a class=\"internal-link\" href=\"personal/blog/Learning Music in a different way.md\"> Learning Music in a different way </a>",
         "<a class=\"internal-link\" href=\"personal/blog/Learning Music in a different way.md\"> Learning Music in a different way </a>",
@@ -1999,8 +2000,7 @@
         "<a class=\"internal-link\" href=\"software/data ETL/apache airflow/airflow DAGs.md\"> airflow DAGs </a>",
         "<a class=\"internal-link\" href=\"software/data ETL/apache airflow/airflow module management.md\"> airflow module management </a>",
         "<a class=\"internal-link\" href=\"software/nginx/nginx reverse proxy.md\"> nginx reverse proxy </a>",
-        "<a class=\"internal-link\" href=\"software/nginx/nginx reverse proxy.md\"> nginx reverse proxy </a>",
-        "<a class=\"internal-link\" href=\"cryptocurrency/Chainlink/Fair Sequencing Services (FSS).md\"> Fair Sequencing Services (FSS) </a>"
+        "<a class=\"internal-link\" href=\"software/nginx/nginx reverse proxy.md\"> nginx reverse proxy </a>"
       ],
       "Created": [
         "<a class=\"internal-link\" href=\"personal/blog/Untitled.md\"> Untitled </a>",

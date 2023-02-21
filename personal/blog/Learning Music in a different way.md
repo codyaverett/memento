@@ -163,3 +163,35 @@ There are a few ways to list out all the notes.  Both flat and sharp values are 
 | 22 | D   | A   | F#  | C   | G   | D   |
 | 23 | D#  | A#  | G   | D   | A   | F   |
 | 24 | E   | A#  | G   | D   | A   | E   |
+
+### Standard tuned down 1 whole step
+
+| Fret \\ String | 1st (D) | 2nd (A) | 3rd (F) | 4th (C) | 5th (G) | 6th (D) |
+| --- | --- | --- | --- | --- | --- | --- |
+| 0 | D   | A   | F   | C   | G   | D   |
+| 1 | D#  | A#  | F#  | C#  | G#  | D#  |
+| 2 | E   | B   | G   | D   | A   | E   |
+| 3 | F   | C   | G#  | D#  | A#  | F   |
+| 4 | F#  | C#  | A   | E   | B   | G#  |
+| 5 | G   | D   | A#  | F   | C   | G   |
+| 6 | G#  | D#  | B   | F#  | C#  | A#  |
+| 7 | A   | E   | C   | G   | D   | A   |
+| 8 | A#  | F   | C#  | G#  | D#  | B   |
+| 9 | B   | F#  | D   | A   | E   | C#  |
+| 10 | C   | G   | D#  | A#  | F   | G#  |
+| 11 | C#  | G#  | E   | B   | F#  | A   |
+| 12 | D   | A   | F   | C   | G   | D   |
+| 13 | D#  | A#  | F#  | C#  | G#  | D#  |
+| 14 | E   | B   | G   | D   | A   | E   |
+| 15 | F   | C   | G#  | D#  | A#  | F   |
+| 16 | F#  | C#  | A   | E   | B   | G#  |
+| 17 | G   | D   | A#  | F   | C   | G   |
+| 18 | G#  | D#  | B   | F#  | C#  | A#  |
+| 19 | A   | E   | C   | G   | D   | A   |
+| 20 | A#  | F   | C#  | G#  | D#  | B   |
+| 21 | B   | F#  | D   | A   | E   | C#  |
+| 22 | C   | G   | D#  | A#  | F   | G#  |
+| 23 | C#  | G#  | E   | B   | F#  | A   |
+| 24 | D   | A   | F   | C   | G   | D   |
+
+### Perfect 4ths tuning
