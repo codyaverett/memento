@@ -70,6 +70,8 @@ So there are 24 different possible triads in Western music theory.
 
 ## Guitar tunings
 
+There are a few ways to list out all the notes.  Both flat and sharp values are allowed, but it's simpler to use just one form or the other.
+
 Both flats and sharps
 
 | Fret \\ String | 1st (E) | 2nd (B) | 3rd (G) | 4th (D) | 5th (A) | 6th (E) |
@@ -99,3 +101,34 @@ Both flats and sharps
 | 22 | D        | A        | E        | C        | G        | D#/Eb |
 | 23 | D#/Eb | A#/Bb  | F        | C#/Db   | G#/Ab   | E        |
 | 24 | E        | B        | G        | D        | A        | F        |
+
+Flat symbols
+
+| Fret \\ String | 1st (E) | 2nd (B) | 3rd (G) | 4th (D) | 5th (A) | 6th (E) |
+| --- | --- | --- | --- | --- | --- | --- |
+| 0 | E   | Bb  | G   | D   | A   | E   |
+| 1 | F   | C   | Gb  | Db  | Ab  | F   |
+| 2 | F#  | C#  | A   | E   | B   | G   |
+| 3 | G   | Db  | Ab  | Eb  | Bb  | Gb  |
+| 4 | Ab  | Eb  | B   | Gb  | Db  | A   |
+| 5 | A   | Eb  | Bb  | F   | C   | G   |
+| 6 | Bb  | F   | C   | Gb  | Db  | Ab  |
+| 7 | B   | F#  | C#  | Ab  | Eb  | Bb  |
+| 8 | C   | G   | D   | Ab  | Eb  | Bb  |
+| 9 | Db  | Ab  | Eb  | B   | Gb  | Db  |
+| 10 | D   | A   | E   | Bb  | F   | C   |
+| 11 | Eb  | Bb  | F   | C   | G   | D   |
+| 12 | E   | Bb  | G   | D   | A   | E   |
+| 13 | F   | C   | Gb  | Db  | Ab  | F   |
+| 14 | F#  | C#  | A   | E   | B   | G   |
+| 15 | G   | Db  | Ab  | Eb  | Bb  | Gb  |
+| 16 | Ab  | Eb  | B   | Gb  | Db  | A   |
+| 17 | A   | Eb  | Bb  | F   | C   | G   |
+| 18 | Bb  | F   | C   | Gb  | Db  | Ab  |
+| 19 | B   | F#  | C#  | Ab  | Eb  | Bb  |
+| 20 | C   | G   | D   | Ab  | Eb  | Bb  |
+| 21 | Db  | Ab  | Eb  | B   | Gb  | Db  |
+| 22 | D   | A   | E   | Bb  | F   | C   |
+| 23 | Eb  | Bb  | F   | C   | G   | D   |
+| 24 | E   | Bb  | G   | D   | A   | E   |
+
