@@ -283,3 +283,6 @@ For example, in the table, the note E on the 1st string (top string) is replaced
 | 4th (D) | 10 | 11 | 0 | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 |
 | 5th (A) | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 0 | 1 | 2 | 3 |
 | 6th (E) | 8 | 9 | 10 | 11 | 0 | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 |
+
+
+    "javascript/deno": "git@github.com:codyaverett/deno_examples.git"
