@@ -28,3 +28,28 @@ Regardless of the type of notation used, the goal is always to accurately convey
 ## Make up our own notation
 
 Have you ever found yourself humming a melody or tapping out a rhythm but struggled to notate it using traditional music notation? Or perhaps you're a musician looking for a more personal and expressive way to write down your musical ideas? In such cases, creating your own musical notation can be a helpful and liberating experience. By developing a personal system of symbols and notation, you can capture and communicate your musical ideas in a way that feels natural and intuitive to you. In this blog post, we'll explore some of the benefits and challenges of creating your own musical notation, and provide some tips and strategies to help you get started.
+
+One way to create your own musical notation using numbers is to use a system of numbered intervals. Intervals are the distance between two notes, and are typically described using terms such as "minor third" or "perfect fifth". By assigning a number to each interval, you can create a simple and intuitive notation system that can be used to notate melodies, chords, and other musical ideas.
+
+For example, you could assign the number 1 to the first note of a melody, and then use numbers to indicate the interval between each subsequent note. A "minor third" interval, for instance, could be represented by the number 3, while a "perfect fifth" could be represented by the number 5. Using this system, you can quickly and easily notate melodies and other musical ideas without having to learn complex music notation.
+
+Another approach is to use numbers to represent specific pitches or notes. In this system, each note is assigned a specific number or series of numbers that represents its pitch. For example, you could use the numbers 1-12 to represent the 12 notes of the Western chromatic scale, with 1 representing C, 2 representing C#, and so on. This notation system is similar to the MIDI system mentioned earlier, and can be useful for notating music that is performed or created using digital instruments or software.
+
+Regardless of the system you choose, the key is to find a notation system that works for you and allows you to capture and communicate your musical ideas in a way that feels natural and intuitive. With a little experimentation and creativity, you can develop a personalized musical notation system that reflects your unique style and musical perspective.
+
+### Notes with 
+
+```text
+1. A
+2. Bb or A#
+3. B
+4. C
+5. Db or C#
+6. D
+7. Eb or D#
+8. E
+9. F
+10. Gb or F#
+11. G
+12. Ab or G#
+```
