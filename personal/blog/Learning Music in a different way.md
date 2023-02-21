@@ -17,4 +17,13 @@ Music theory is the study of the structure, elements, and principles of music. I
 
 To begin, a good place to start is with the basics of music theory, which includes concepts such as rhythm, melody, harmony, and form. As you progress, you'll learn about more advanced topics like scales, modes, chords, and key signatures. Practice is key when it comes to learning music theory, as it involves both intellectual and creative processes. With time and effort, you can develop a solid foundation in music theory that will not only improve your musical skills but also enhance your appreciation and enjoyment of music.
 
-## Notations
+## Reading and writing music
+
+There are various ways in which musical ideas can be written and read, with different notations used depending on the type of music and the cultural context. Western classical music, for example, is typically notated using sheet music, which includes staves, clefs, notes, rests, and other symbols that indicate the pitch, rhythm, dynamics, and articulation of the music. Jazz music, on the other hand, often uses lead sheets, which are simplified musical scores that provide basic melody, chord, and rhythm information, and leave room for improvisation and personal interpretation.
+
+In addition to sheet music and lead sheets, there are other forms of notation used in various styles of music around the world. For example, in Indian classical music, a system of notation called "sargam" is used, which represents each note using a syllable, such as "sa", "re", "ga", "ma", "pa", "dha", and "ni". In traditional African music, notation is often based on a combination of symbols, such as dots, lines, and arrows, that indicate the rhythm and phrasing of the music.
+
+Regardless of the type of notation used, the goal is always to accurately convey the musical ideas and intentions of the composer or performer, and to allow others to read and interpret the music in their own way. The different notations used in music reflect the diversity and richness of musical traditions around the world, and provide insight into the unique cultural contexts in which they were created.
+
+## Make up our own notation
+
