@@ -66,12 +66,27 @@
             "id": "db5b3c0d545077f2",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "kanban",
+              "state": {
+                "file": "personal/games.md"
+              }
+            }
+          },
+          {
+            "id": "50ba21b3f322ee50",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "personal/blog/Learning Music in a different way.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -129,6 +144,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "personal/blog/Learning Music in a different way.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -144,7 +160,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "personal/blog/Learning Music in a different way.md"
+              }
             }
           },
           {
@@ -185,17 +203,17 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "db5b3c0d545077f2",
+  "active": "50ba21b3f322ee50",
   "lastOpenFiles": [
+    "personal/games.md",
+    "personal/shows.md",
+    "personal/tasks.md",
+    "personal/reading.md",
+    "personal/numbers.md",
     "conflict-files-obsidian-git.md",
     "personal/daily/2022/23-02-20.md",
     "learning/computing/programming/rust/basics/importing rust modules.md",
     "learning/computing/programming/rust/basics/updating rust modules.md",
-    "templates/dapp template.md",
-    "learning/computing/software/blender/3d asset resources.md",
-    "learning/computing/software/blender/Interesting plugins.md",
-    "learning/computing/software/blender/can you create 2d art in blender?.md",
-    "learning/computing/programming/java/java dependency management.md",
-    "learning/computing/programming/java/java classpath.md"
+    "templates/dapp template.md"
   ]
 }
