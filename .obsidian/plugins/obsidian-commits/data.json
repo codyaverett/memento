@@ -1893,19 +1893,24 @@
       "size": 1204,
       "tags": 0,
       "links": 12
+    },
+    "personal/blog/Learning Music in a different way.md": {
+      "size": 2024,
+      "tags": 1,
+      "links": 0
     }
   },
   "commitTypes": {
     "/": {
       "Refactor": 1436,
-      "Create": 402,
-      "Link": 337,
-      "Expand": 119
+      "Create": 403,
+      "Link": 338,
+      "Expand": 120
     }
   },
   "dailyCommits": {
     "/": {
-      "0": 73,
+      "0": 76,
       "1": 29,
       "2": 42,
       "3": 52,
@@ -1934,7 +1939,7 @@
   "weeklyCommits": {
     "/": {
       "Mon": 1506,
-      "Tue": 112,
+      "Tue": 115,
       "Wed": 266,
       "Thu": 192,
       "Fri": 115,
@@ -1945,6 +1950,7 @@
   "recentCommits": {
     "/": {
       "Expanded": [
+        "<a class=\"internal-link\" href=\"personal/blog/Learning Music in a different way.md\"> Learning Music in a different way </a>",
         "<a class=\"internal-link\" href=\"learning/computing/programming/rust/basics/importing rust modules.md\"> importing rust modules </a>",
         "<a class=\"internal-link\" href=\"learning/computing/software/blender/what are the best ways to learn blender?.md\"> what are the best ways to learn blender? </a>",
         "<a class=\"internal-link\" href=\"learning/computing/programming/java/java dependency management.md\"> java dependency management </a>",
@@ -1994,10 +2000,10 @@
         "<a class=\"internal-link\" href=\"programming/python/pyenv.md\"> pyenv </a>",
         "<a class=\"internal-link\" href=\"programming/python/pyenv.md\"> pyenv </a>",
         "<a class=\"internal-link\" href=\"software/containers/buildah/create basic OCI image with buildah.md\"> create basic OCI image with buildah </a>",
-        "<a class=\"internal-link\" href=\"software/linux/create linux superuser.md\"> create linux superuser </a>",
-        "<a class=\"internal-link\" href=\"programming/c++/c++ package managers.md\"> c++ package managers </a>"
+        "<a class=\"internal-link\" href=\"software/linux/create linux superuser.md\"> create linux superuser </a>"
       ],
       "Created": [
+        "<a class=\"internal-link\" href=\"personal/blog/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"conflict-files-obsidian-git.md\"> conflict-files-obsidian-git </a>",
         "<a class=\"internal-link\" href=\"conflict-files-obsidian-git.md\"> conflict-files-obsidian-git </a>",
         "<a class=\"internal-link\" href=\"conflict-files-obsidian-git.md\"> conflict-files-obsidian-git </a>",
@@ -2047,8 +2053,7 @@
         "<a class=\"internal-link\" href=\"learning/computing/programming/java/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"learning/computing/programming/java/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"learning/computing/programming/languages/Untitled database.md\"> Untitled database </a>",
-        "<a class=\"internal-link\" href=\"learning/computing/cryptocurrency/L1 networks/Cardano/dapps/asdf.md\"> asdf </a>",
-        "<a class=\"internal-link\" href=\"learning/computing/cryptocurrency/L1 networks/Cardano/dapps/Untitled database.md\"> Untitled database </a>"
+        "<a class=\"internal-link\" href=\"learning/computing/cryptocurrency/L1 networks/Cardano/dapps/asdf.md\"> asdf </a>"
       ],
       "Renamed": [
         "<a class=\"internal-link\" href=\"learning/computing/software/blender/can you create 2d art in blender?.md\"> can you create 2d art in blender? </a>",
@@ -2104,6 +2109,7 @@
         "<a class=\"internal-link\" href=\"learning/financial/career/management/transitioning from dev to manager.md\"> transitioning from dev to manager </a>"
       ],
       "Tagged": [
+        "<a class=\"internal-link\" href=\"personal/blog/Learning Music in a different way.md\"> Learning Music in a different way </a>",
         "<a class=\"internal-link\" href=\"learning/computing/programming/swift/swift basics.md\"> swift basics </a>",
         "<a class=\"internal-link\" href=\"learning/computing/software/awk.md\"> awk </a>",
         "<a class=\"internal-link\" href=\"learning/computing/security/types of cyber attacks.md\"> types of cyber attacks </a>",
@@ -2153,8 +2159,7 @@
         "<a class=\"internal-link\" href=\"learning/computing/programming/data ETL/ETL basics.md\"> ETL basics </a>",
         "<a class=\"internal-link\" href=\"learning/computing/programming/general/heap memory.md\"> heap memory </a>",
         "<a class=\"internal-link\" href=\"learning/computing/programming/python/ansible/ansible for network automation.md\"> ansible for network automation </a>",
-        "<a class=\"internal-link\" href=\"learning/computing/programming/python/clean python sorting.md\"> clean python sorting </a>",
-        "<a class=\"internal-link\" href=\"learning/computing/programming/python/concurrency in python.md\"> concurrency in python </a>"
+        "<a class=\"internal-link\" href=\"learning/computing/programming/python/clean python sorting.md\"> clean python sorting </a>"
       ],
       "Refactored": [],
       "Deleted": [
