@@ -54,3 +54,18 @@ Regardless of the system you choose, the key is to find a notation system that w
 | 11  | G   | G   |
 | 12  | G#/Ab   | Ab/G# |
 
+## Triads
+
+In music theory, a triad is a chord consisting of three notes, usually the root, third, and fifth of a scale. There are 12 different notes in Western music, so we have 12 choices for the root note of the triad.
+
+Once we have chosen the root note, we have 11 remaining notes to choose from for the second note of the triad. However, we can only choose notes that are a third or a fifth away from the root note to form a proper triad, so we have 2 choices for the second note.
+
+Finally, once we have chosen the first and second notes of the triad, we have only one remaining note that can be chosen to complete the triad.
+
+Therefore, the total number of possible combinations of triads is:
+
+12 (choices for the root note) x 2 (choices for the second note) x 1 (choice for the third note) = 24.
+
+So there are 24 different possible triads in Western music theory.
+
+
