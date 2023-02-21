@@ -27,3 +27,4 @@ Regardless of the type of notation used, the goal is always to accurately convey
 
 ## Make up our own notation
 
+Have you ever found yourself humming a melody or tapping out a rhythm but struggled to notate it using traditional music notation? Or perhaps you're a musician looking for a more personal and expressive way to write down your musical ideas? In such cases, creating your own musical notation can be a helpful and liberating experience. By developing a personal system of symbols and notation, you can capture and communicate your musical ideas in a way that feels natural and intuitive to you. In this blog post, we'll explore some of the benefits and challenges of creating your own musical notation, and provide some tips and strategies to help you get started.
