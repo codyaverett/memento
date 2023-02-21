@@ -11,4 +11,9 @@ Have you ever tried to learn music theory and found it to be a challenging and o
 
 But don't give up just yet! While music theory can be complex, there are simpler and more accessible ways to approach it. With the right resources and approach, anyone can learn music theory and gain a better understanding of the music they love. In this blog post, we'll explore some of the common challenges people face when learning music theory, and discuss some alternative methods that can make the process easier and more enjoyable.
 
+## What is music theory
+
+Music theory is the study of the structure, elements, and principles of music. It's an essential part of understanding how music works, and it's used by composers, performers, and music educators to create and teach music. Learning music theory can be a challenging but rewarding process that requires time, dedication, and practice.
+
+To begin, a good place to start is with the basics of music theory, which includes concepts such as rhythm, melody, harmony, and form. As you progress, you'll learn about more advanced topics like scales, modes, chords, and key signatures. Practice is key when it comes to learning music theory, as it involves both intellectual and creative processes. With time and effort, you can develop a solid foundation in music theory that will not only improve your musical skills but also enhance your appreciation and enjoyment of music.
 
