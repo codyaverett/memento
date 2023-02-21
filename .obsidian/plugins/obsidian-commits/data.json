@@ -1049,11 +1049,6 @@
       "tags": 2,
       "links": 0
     },
-    "personal/task board.md": {
-      "size": 0,
-      "tags": 0,
-      "links": 11
-    },
     "personal/notes/Ben Levin's course  Blender for musicians.md": {
       "size": 0,
       "tags": 0,
@@ -1828,13 +1823,83 @@
       "size": 0,
       "tags": 0,
       "links": 0
+    },
+    "personal/daily/2022/23-02-20.md": {
+      "size": 0,
+      "tags": 0,
+      "links": 0
+    },
+    "learning/computing/programming/databases/orm/knexjs/knexjs database orm.md": {
+      "size": 296,
+      "tags": 0,
+      "links": 0
+    },
+    "learning/computing/programming/general/technical-debt.md": {
+      "size": 207,
+      "tags": 0,
+      "links": 0
+    },
+    "learning/computing/programming/swift/swift basics.md": {
+      "size": 231,
+      "tags": 1,
+      "links": 0
+    },
+    "learning/computing/programming/testing/types of tests.md": {
+      "size": 194,
+      "tags": 0,
+      "links": 0
+    },
+    "learning/computing/software/awk.md": {
+      "size": 1362,
+      "tags": 1,
+      "links": 0
+    },
+    "learning/financial/career/10-k documents.md": {
+      "size": 2133,
+      "tags": 0,
+      "links": 0
+    },
+    "learning/reading/list of reading products you can buy.md": {
+      "size": 312,
+      "tags": 0,
+      "links": 0
+    },
+    "personal/daily/2022/23-01-19.md": {
+      "size": 0,
+      "tags": 0,
+      "links": 0
+    },
+    "personal/daily/2022/23-01-23.md": {
+      "size": 0,
+      "tags": 0,
+      "links": 0
+    },
+    "personal/games.md": {
+      "size": 369,
+      "tags": 0,
+      "links": 0
+    },
+    "personal/notes/Garden Upgrades.md": {
+      "size": 503,
+      "tags": 0,
+      "links": 0
+    },
+    "personal/reading.md": {
+      "size": 173,
+      "tags": 0,
+      "links": 0
+    },
+    "personal/tasks.md": {
+      "size": 1204,
+      "tags": 0,
+      "links": 12
     }
   },
   "commitTypes": {
     "/": {
-      "Refactor": 1432,
-      "Create": 385,
-      "Link": 334,
+      "Refactor": 1436,
+      "Create": 402,
+      "Link": 337,
       "Expand": 119
     }
   },
@@ -1863,12 +1928,12 @@
       "20": 46,
       "21": 101,
       "22": 95,
-      "23": 64
+      "23": 88
     }
   },
   "weeklyCommits": {
     "/": {
-      "Mon": 1482,
+      "Mon": 1506,
       "Tue": 112,
       "Wed": 266,
       "Thu": 192,
@@ -1933,6 +1998,23 @@
         "<a class=\"internal-link\" href=\"programming/c++/c++ package managers.md\"> c++ package managers </a>"
       ],
       "Created": [
+        "<a class=\"internal-link\" href=\"conflict-files-obsidian-git.md\"> conflict-files-obsidian-git </a>",
+        "<a class=\"internal-link\" href=\"conflict-files-obsidian-git.md\"> conflict-files-obsidian-git </a>",
+        "<a class=\"internal-link\" href=\"conflict-files-obsidian-git.md\"> conflict-files-obsidian-git </a>",
+        "<a class=\"internal-link\" href=\"personal/tasks.md\"> tasks </a>",
+        "<a class=\"internal-link\" href=\"personal/reading.md\"> reading </a>",
+        "<a class=\"internal-link\" href=\"personal/notes/Garden Upgrades.md\"> Garden Upgrades </a>",
+        "<a class=\"internal-link\" href=\"personal/games.md\"> games </a>",
+        "<a class=\"internal-link\" href=\"personal/daily/2022/23-01-23.md\"> 23-01-23 </a>",
+        "<a class=\"internal-link\" href=\"personal/daily/2022/23-01-19.md\"> 23-01-19 </a>",
+        "<a class=\"internal-link\" href=\"learning/reading/list of reading products you can buy.md\"> list of reading products you can buy </a>",
+        "<a class=\"internal-link\" href=\"learning/financial/career/10-k documents.md\"> 10-k documents </a>",
+        "<a class=\"internal-link\" href=\"learning/computing/software/awk.md\"> awk </a>",
+        "<a class=\"internal-link\" href=\"learning/computing/programming/testing/types of tests.md\"> types of tests </a>",
+        "<a class=\"internal-link\" href=\"learning/computing/programming/swift/swift basics.md\"> swift basics </a>",
+        "<a class=\"internal-link\" href=\"learning/computing/programming/general/technical-debt.md\"> technical-debt </a>",
+        "<a class=\"internal-link\" href=\"learning/computing/programming/databases/orm/knexjs/knexjs database orm.md\"> knexjs database orm </a>",
+        "<a class=\"internal-link\" href=\"personal/daily/2022/23-02-20.md\"> 23-02-20 </a>",
         "<a class=\"internal-link\" href=\"learning/computing/security/auth/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"personal/daily/2022/23-01-15.md\"> 23-01-15 </a>",
         "<a class=\"internal-link\" href=\"learning/mathematics/trigonometry/trigonometry resources.md\"> trigonometry resources </a>",
@@ -1966,24 +2048,7 @@
         "<a class=\"internal-link\" href=\"learning/computing/programming/java/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"learning/computing/programming/languages/Untitled database.md\"> Untitled database </a>",
         "<a class=\"internal-link\" href=\"learning/computing/cryptocurrency/L1 networks/Cardano/dapps/asdf.md\"> asdf </a>",
-        "<a class=\"internal-link\" href=\"learning/computing/cryptocurrency/L1 networks/Cardano/dapps/Untitled database.md\"> Untitled database </a>",
-        "<a class=\"internal-link\" href=\"templates/Untitled.md\"> Untitled </a>",
-        "<a class=\"internal-link\" href=\"learning/computing/cryptocurrency/L1 networks/Cardano/Dapps/Untitled database.md\"> Untitled database </a>",
-        "<a class=\"internal-link\" href=\"learning/financial/trading/market cipher/Untitled.md\"> Untitled </a>",
-        "<a class=\"internal-link\" href=\"learning/mental/health/Untitled.md\"> Untitled </a>",
-        "<a class=\"internal-link\" href=\"learning/mental/ADHD/Untitled.md\"> Untitled </a>",
-        "<a class=\"internal-link\" href=\"learning/computing/programming/javascript/Untitled.md\"> Untitled </a>",
-        "<a class=\"internal-link\" href=\"learning/computing/programming/shell/Untitled.md\"> Untitled </a>",
-        "<a class=\"internal-link\" href=\"learning/computing/programming/protocols/Untitled.md\"> Untitled </a>",
-        "<a class=\"internal-link\" href=\"learning/computing/programming/http/Untitled.md\"> Untitled </a>",
-        "<a class=\"internal-link\" href=\"learning/computing/programming/rust/snippets/Untitled.md\"> Untitled </a>",
-        "<a class=\"internal-link\" href=\"learning/language/Untitled.md\"> Untitled </a>",
-        "<a class=\"internal-link\" href=\"personal/daily/2022/22-12-19.md\"> 22-12-19 </a>",
-        "<a class=\"internal-link\" href=\"learning/mental/productivity/Take a brain break.md\"> Take a brain break </a>",
-        "<a class=\"internal-link\" href=\"learning/financial/trading/tools/trading view.md\"> trading view </a>",
-        "<a class=\"internal-link\" href=\"learning/financial/trading/trading terminology.md\"> trading terminology </a>",
-        "<a class=\"internal-link\" href=\"learning/financial/trading/trading expectations.md\"> trading expectations </a>",
-        "<a class=\"internal-link\" href=\"learning/financial/trading/trading confluence.md\"> trading confluence </a>"
+        "<a class=\"internal-link\" href=\"learning/computing/cryptocurrency/L1 networks/Cardano/dapps/Untitled database.md\"> Untitled database </a>"
       ],
       "Renamed": [
         "<a class=\"internal-link\" href=\"learning/computing/software/blender/can you create 2d art in blender?.md\"> can you create 2d art in blender? </a>",
@@ -2039,6 +2104,8 @@
         "<a class=\"internal-link\" href=\"learning/financial/career/management/transitioning from dev to manager.md\"> transitioning from dev to manager </a>"
       ],
       "Tagged": [
+        "<a class=\"internal-link\" href=\"learning/computing/programming/swift/swift basics.md\"> swift basics </a>",
+        "<a class=\"internal-link\" href=\"learning/computing/software/awk.md\"> awk </a>",
         "<a class=\"internal-link\" href=\"learning/computing/security/types of cyber attacks.md\"> types of cyber attacks </a>",
         "<a class=\"internal-link\" href=\"learning/financial/career/onboarding/starting at a new company.md\"> starting at a new company </a>",
         "<a class=\"internal-link\" href=\"learning/financial/trading/patterns/bull market support band.md\"> bull market support band </a>",
@@ -2087,12 +2154,14 @@
         "<a class=\"internal-link\" href=\"learning/computing/programming/general/heap memory.md\"> heap memory </a>",
         "<a class=\"internal-link\" href=\"learning/computing/programming/python/ansible/ansible for network automation.md\"> ansible for network automation </a>",
         "<a class=\"internal-link\" href=\"learning/computing/programming/python/clean python sorting.md\"> clean python sorting </a>",
-        "<a class=\"internal-link\" href=\"learning/computing/programming/python/concurrency in python.md\"> concurrency in python </a>",
-        "<a class=\"internal-link\" href=\"learning/computing/programming/python/package management/python virtual environments.md\"> python virtual environments </a>",
-        "<a class=\"internal-link\" href=\"learning/computing/software/data ETL/apache airflow/airflow configuration.md\"> airflow configuration </a>"
+        "<a class=\"internal-link\" href=\"learning/computing/programming/python/concurrency in python.md\"> concurrency in python </a>"
       ],
       "Refactored": [],
       "Deleted": [
+        "<a class=\"internal-link\" href=\"conflict-files-obsidian-git.md\"> conflict-files-obsidian-git </a>",
+        "<a class=\"internal-link\" href=\"conflict-files-obsidian-git.md\"> conflict-files-obsidian-git </a>",
+        "<a class=\"internal-link\" href=\"conflict-files-obsidian-git.md\"> conflict-files-obsidian-git </a>",
+        "<a class=\"internal-link\" href=\"personal/task board.md\"> task board </a>",
         "<a class=\"internal-link\" href=\"learning/financial/career/job-hunting/buf.build.md\"> buf.build </a>",
         "<a class=\"internal-link\" href=\"learning/financial/career/job-hunting/RevUnit.md\"> RevUnit </a>",
         "<a class=\"internal-link\" href=\"learning/financial/career/job-hunting/Cover Letters/Systems Engineering Manager @ HomeDepot.md\"> Systems Engineering Manager @ HomeDepot </a>",
@@ -2139,13 +2208,10 @@
         "<a class=\"internal-link\" href=\"personal/job-hunting/chainlink-labs.md\"> chainlink-labs </a>",
         "<a class=\"internal-link\" href=\"software/data ETL/kettle.md\"> kettle </a>",
         "<a class=\"internal-link\" href=\"personal/college/WGU/about wgu.md\"> about wgu </a>",
-        "<a class=\"internal-link\" href=\"daily/11-04-22.md\"> 11-04-22 </a>",
-        "<a class=\"internal-link\" href=\"daily/08-16-22.md\"> 08-16-22 </a>",
-        "<a class=\"internal-link\" href=\"daily/09-12-22.md\"> 09-12-22 </a>",
-        "<a class=\"internal-link\" href=\"templates/accept job offer.md\"> accept job offer </a>",
-        "<a class=\"internal-link\" href=\"templates/decline accepted job offer.md\"> decline accepted job offer </a>"
+        "<a class=\"internal-link\" href=\"daily/11-04-22.md\"> 11-04-22 </a>"
       ],
       "Linked": [
+        "<a class=\"internal-link\" href=\"personal/tasks.md\"> tasks </a>",
         "<a class=\"internal-link\" href=\"learning/financial/trading/btc/big btc jumps.md\"> big btc jumps </a>",
         "<a class=\"internal-link\" href=\"learning/mental/productivity/Start your day with your routine.md\"> Start your day with your routine </a>",
         "<a class=\"internal-link\" href=\"learning/computing/programming/protocols/protocols for transferring data over networks.md\"> protocols for transferring data over networks </a>",
@@ -2195,8 +2261,7 @@
         "<a class=\"internal-link\" href=\"programming/haskell/working with lists.md\"> working with lists </a>",
         "<a class=\"internal-link\" href=\"programming/python/python extensions.md\"> python extensions </a>",
         "<a class=\"internal-link\" href=\"programming/python/python basics.md\"> python basics </a>",
-        "<a class=\"internal-link\" href=\"programming/python/DJango quick reference.md\"> DJango quick reference </a>",
-        "<a class=\"internal-link\" href=\"python special strings.md\"> python special strings </a>"
+        "<a class=\"internal-link\" href=\"programming/python/DJango quick reference.md\"> DJango quick reference </a>"
       ],
       "Removed Tags from": [
         "<a class=\"internal-link\" href=\"learning/computing/programming/python/python extensions.md\"> python extensions </a>",

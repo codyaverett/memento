@@ -9,8 +9,9 @@ tags: null
 
 ---
 
-## Project Ideas
+## Ideas
 
+- [ ] Music Learning course - Learn guitar by perfect 4ths, patterns, triads, and sounds
 
 
 ## Backlog
@@ -29,20 +30,28 @@ tags: null
 
 ## Todo
 
-- [ ] [[Demo webapp project Val and Riz]]
 - [ ] Learn about Snowflake DWH and document the basics
+- [ ] Getting better at testing code
 
 
 ## WIP
 
-- [ ] [[Create a meta-repo cli tool replacement with rust]]
 - [ ] [[Learning and documenting rust]]
-- [ ] Financial Planning
+- [ ] Getting better at CSS by taking Josh C's course
+- [ ] [[Garden Upgrades]]
 
 
 ## Done
 
 **Complete**
+- [x] [[Create a meta-repo cli tool replacement with rust]]
+- [x] Financial Planning
+
+
+## Won't do
+
+**Complete**
+- [x] [[Demo webapp project Val and Riz]]
 
 
 ***
