@@ -1867,14 +1867,19 @@
     "personal/tasks.md": {
       "size": 0,
       "tags": 0,
-      "links": 11
+      "links": 12
+    },
+    "personal/notes/Garden Upgrades.md": {
+      "size": 0,
+      "tags": 0,
+      "links": 0
     }
   },
   "commitTypes": {
     "/": {
-      "Refactor": 1431,
-      "Create": 392,
-      "Link": 334,
+      "Refactor": 1432,
+      "Create": 393,
+      "Link": 335,
       "Expand": 117
     }
   },
@@ -1899,7 +1904,7 @@
       "16": 1202,
       "17": 196,
       "18": 36,
-      "19": 30,
+      "19": 33,
       "20": 57,
       "21": 129,
       "22": 103,
@@ -1908,7 +1913,7 @@
   },
   "weeklyCommits": {
     "/": {
-      "Mon": 1483,
+      "Mon": 1486,
       "Tue": 126,
       "Wed": 250,
       "Thu": 151,
@@ -1973,6 +1978,7 @@
         "<a class=\"internal-link\" href=\"software/linux/Linux directory Structure.md\"> Linux directory Structure </a>"
       ],
       "Created": [
+        "<a class=\"internal-link\" href=\"personal/notes/Build Heather's new raised garden bed.md\"> Build Heather's new raised garden bed </a>",
         "<a class=\"internal-link\" href=\"personal/Untitled Kanban.md\"> Untitled Kanban </a>",
         "<a class=\"internal-link\" href=\"personal/Untitled Kanban.md\"> Untitled Kanban </a>",
         "<a class=\"internal-link\" href=\"learning/computing/software/Untitled.md\"> Untitled </a>",
@@ -2022,10 +2028,10 @@
         "<a class=\"internal-link\" href=\"learning/computing/software/blender/3d asset resources.md\"> 3d asset resources </a>",
         "<a class=\"internal-link\" href=\"learning/computing/programming/shell/sftp from a shell script.md\"> sftp from a shell script </a>",
         "<a class=\"internal-link\" href=\"learning/computing/programming/rust/snippets/Append a line to a file.md\"> Append a line to a file </a>",
-        "<a class=\"internal-link\" href=\"learning/computing/programming/protocols/http/http protocol.md\"> http protocol </a>",
-        "<a class=\"internal-link\" href=\"learning/computing/programming/protocols/protocols for transferring data over networks.md\"> protocols for transferring data over networks </a>"
+        "<a class=\"internal-link\" href=\"learning/computing/programming/protocols/http/http protocol.md\"> http protocol </a>"
       ],
       "Renamed": [
+        "<a class=\"internal-link\" href=\"personal/notes/Garden Upgrades.md\"> Garden Upgrades </a>",
         "<a class=\"internal-link\" href=\"personal/tasks.md\"> tasks </a>",
         "<a class=\"internal-link\" href=\"learning/computing/programming/protocols/ssh/ssh port forwarding.md\"> ssh port forwarding </a>",
         "<a class=\"internal-link\" href=\"learning/financial/trading/pine scripting/ema ribbon.md\"> ema ribbon </a>",
@@ -2075,8 +2081,7 @@
         "<a class=\"internal-link\" href=\"personal/task board.md\"> task board </a>",
         "<a class=\"internal-link\" href=\"personal/notes/Todo.md\"> Todo </a>",
         "<a class=\"internal-link\" href=\"personal/notes/Backlog.md\"> Backlog </a>",
-        "<a class=\"internal-link\" href=\"personal/kanban board.md\"> kanban board </a>",
-        "<a class=\"internal-link\" href=\"learning/computing/programming/c-sharp/C-sharp cheatsheet.md\"> C-sharp cheatsheet </a>"
+        "<a class=\"internal-link\" href=\"personal/kanban board.md\"> kanban board </a>"
       ],
       "Tagged": [
         "<a class=\"internal-link\" href=\"learning/computing/software/awk.md\"> awk </a>",
@@ -2186,6 +2191,7 @@
         "<a class=\"internal-link\" href=\"personal/work/Site for Oasis Landscaping.md\"> Site for Oasis Landscaping </a>"
       ],
       "Linked": [
+        "<a class=\"internal-link\" href=\"personal/tasks.md\"> tasks </a>",
         "<a class=\"internal-link\" href=\"learning/financial/trading/btc/big btc jumps.md\"> big btc jumps </a>",
         "<a class=\"internal-link\" href=\"learning/mental/productivity/Start your day with your routine.md\"> Start your day with your routine </a>",
         "<a class=\"internal-link\" href=\"learning/computing/programming/protocols/protocols for transferring data over networks.md\"> protocols for transferring data over networks </a>",
@@ -2235,8 +2241,7 @@
         "<a class=\"internal-link\" href=\"programming/haskell/working with lists.md\"> working with lists </a>",
         "<a class=\"internal-link\" href=\"programming/python/python extensions.md\"> python extensions </a>",
         "<a class=\"internal-link\" href=\"programming/python/python basics.md\"> python basics </a>",
-        "<a class=\"internal-link\" href=\"programming/python/DJango quick reference.md\"> DJango quick reference </a>",
-        "<a class=\"internal-link\" href=\"python special strings.md\"> python special strings </a>"
+        "<a class=\"internal-link\" href=\"programming/python/DJango quick reference.md\"> DJango quick reference </a>"
       ],
       "Removed Tags from": [
         "<a class=\"internal-link\" href=\"learning/computing/programming/python/python extensions.md\"> python extensions </a>",

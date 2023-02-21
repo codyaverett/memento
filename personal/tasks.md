@@ -11,6 +11,7 @@ tags: null
 
 ## Ideas
 
+- [ ] Music Learning course - Learn guitar by perfect 4ths, patterns, triads, and sounds
 
 
 ## Backlog
@@ -37,6 +38,7 @@ tags: null
 
 - [ ] [[Learning and documenting rust]]
 - [ ] Getting better at CSS by taking Josh C's course
+- [ ] [[Garden Upgrades]]
 
 
 ## Done
