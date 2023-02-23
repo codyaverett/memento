@@ -34,12 +34,12 @@
             }
           },
           {
-            "id": "68a78707b602b9f9",
+            "id": "6610316ff4a58f45",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "personal/daily/2022/23-02-20.md",
+                "file": "learning/reading/tips for reading quickly.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -47,46 +47,85 @@
             }
           },
           {
-            "id": "151c239ce78c0b1a",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "ed6555117f68eda7",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "db5b3c0d545077f2",
-            "type": "leaf",
-            "state": {
-              "type": "kanban",
-              "state": {
-                "file": "personal/games.md"
-              }
-            }
-          },
-          {
-            "id": "50ba21b3f322ee50",
+            "id": "c658a8bc7bcc9d23",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "personal/blog/Learning Music in a different way.md",
+                "file": "learning/computing/programming/python/python cheatsheet.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e66401bc738c43f3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "learning/financial/career/10-k documents.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4b6e76275c1bd655",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "learning/computing/programming/swift/swift basics.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5bf8b8677098c825",
+            "type": "leaf",
+            "state": {
+              "type": "kanban",
+              "state": {
+                "file": "personal/shows.md"
+              }
+            }
+          },
+          {
+            "id": "7e67c4b80d634dee",
+            "type": "leaf",
+            "state": {
+              "type": "kanban",
+              "state": {
+                "file": "personal/tasks.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 7
+      },
+      {
+        "id": "ef896ca411daa15c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c6901498449998ae",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "personal/notes/Garden Upgrades.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 6
+        ]
       }
     ],
     "direction": "vertical"
@@ -128,8 +167,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 359.5
   },
   "right": {
     "id": "27aa3db891e6815a",
@@ -145,7 +183,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "personal/blog/Learning Music in a different way.md",
+                "file": "personal/tasks.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -162,7 +200,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "personal/blog/Learning Music in a different way.md"
+                "file": "personal/tasks.md"
               }
             }
           },
@@ -192,29 +230,29 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "obsidian-file-cleaner:Clean files": false,
-      "dbfolder:Create a new database table": false,
-      "templater-obsidian:Templater": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "command-palette:Open command palette": false,
+      "audio-recorder:Start/stop recording": false,
+      "obsidian-file-cleaner:Clean files": false,
+      "dbfolder:Create a new database table": false,
       "obsidian-metatable:Metatable": false,
-      "audio-recorder:Start/stop recording": false
+      "templater-obsidian:Templater": false
     }
   },
-  "active": "50ba21b3f322ee50",
+  "active": "7e67c4b80d634dee",
   "lastOpenFiles": [
-    "personal/games.md",
-    "personal/shows.md",
+    "personal/notes/Garden Upgrades.md",
     "personal/tasks.md",
     "personal/reading.md",
+    "personal/games.md",
     "personal/numbers.md",
-    "conflict-files-obsidian-git.md",
-    "personal/daily/2022/23-02-20.md",
-    "learning/computing/programming/rust/basics/importing rust modules.md",
-    "learning/computing/programming/rust/basics/updating rust modules.md",
-    "templates/dapp template.md"
+    "personal/shows.md",
+    "learning/computing/software/awk.md",
+    "learning/reading/list of reading products you can buy.md",
+    "learning/Untitled.md",
+    "learning/computing/programming/swift/swift basics.md"
   ]
 }

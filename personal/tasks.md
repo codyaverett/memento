@@ -31,11 +31,11 @@ tags: null
 ## Todo
 
 - [ ] Learn about Snowflake DWH and document the basics
-- [ ] Getting better at testing code
 
 
 ## WIP
 
+- [ ] Getting better at testing code
 - [ ] [[Learning and documenting rust]]
 - [ ] Getting better at CSS by taking Josh C's course
 - [ ] [[Garden Upgrades]]
