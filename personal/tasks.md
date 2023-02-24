@@ -31,6 +31,11 @@ tags: null
 ## Todo
 
 - [ ] Learn about Snowflake DWH and document the basics
+- [ ] Read the Make manual
+- [ ] Read the Awk manual
+- [ ] Read the Sed manual
+- [ ] Read the Grep manual
+- [ ] Read the expect manual
 
 
 ## WIP
