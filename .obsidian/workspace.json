@@ -109,16 +109,16 @@
         "currentTab": 7
       },
       {
-        "id": "ef896ca411daa15c",
+        "id": "782565362ea0ce20",
         "type": "tabs",
         "children": [
           {
-            "id": "c6901498449998ae",
+            "id": "5b5060b122f48125",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "personal/notes/Garden Upgrades.md",
+                "file": "personal/notes/Plan out writing a music book and toolset.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -183,7 +183,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "personal/tasks.md",
+                "file": "personal/notes/Plan out writing a music book and toolset.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -200,7 +200,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "personal/tasks.md"
+                "file": "personal/notes/Plan out writing a music book and toolset.md"
               }
             }
           },
@@ -242,10 +242,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "7e67c4b80d634dee",
+  "active": "5b5060b122f48125",
   "lastOpenFiles": [
-    "personal/notes/Garden Upgrades.md",
     "personal/tasks.md",
+    "personal/notes/Garden Upgrades.md",
     "personal/reading.md",
     "personal/games.md",
     "personal/numbers.md",
