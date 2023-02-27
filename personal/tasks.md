@@ -44,7 +44,7 @@ tags: null
 - [ ] [[Learning and documenting rust]]
 - [ ] Getting better at CSS by taking Josh C's course
 - [ ] [[Garden Upgrades]]
-- [ ] Plan out writing a music book and toolset
+- [ ] [[Plan out writing a music book and toolset]]
 
 
 ## Done
