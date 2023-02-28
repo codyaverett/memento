@@ -1890,7 +1890,7 @@
       "links": 0
     },
     "personal/blog/Shared Component Libraries.md": {
-      "size": 2489,
+      "size": 3875,
       "tags": 2,
       "links": 0
     }
@@ -1900,7 +1900,7 @@
       "Refactor": 1432,
       "Create": 397,
       "Link": 339,
-      "Expand": 118
+      "Expand": 120
     }
   },
   "dailyCommits": {
@@ -1927,13 +1927,13 @@
       "19": 33,
       "20": 57,
       "21": 132,
-      "22": 103,
+      "22": 105,
       "23": 67
     }
   },
   "weeklyCommits": {
     "/": {
-      "Mon": 1489,
+      "Mon": 1491,
       "Tue": 129,
       "Wed": 250,
       "Thu": 151,
@@ -1945,6 +1945,8 @@
   "recentCommits": {
     "/": {
       "Expanded": [
+        "<a class=\"internal-link\" href=\"personal/blog/Shared Component Libraries.md\"> Shared Component Libraries </a>",
+        "<a class=\"internal-link\" href=\"personal/blog/Shared Component Libraries.md\"> Shared Component Libraries </a>",
         "<a class=\"internal-link\" href=\"personal/blog/Shared Component Libraries.md\"> Shared Component Libraries </a>",
         "<a class=\"internal-link\" href=\"learning/financial/career/10-k documents.md\"> 10-k documents </a>",
         "<a class=\"internal-link\" href=\"learning/financial/trading/pine scripting/ut bot alerts.md\"> ut bot alerts </a>",
@@ -1993,9 +1995,7 @@
         "<a class=\"internal-link\" href=\"programming/python/pyenv.md\"> pyenv </a>",
         "<a class=\"internal-link\" href=\"programming/python/pyenv.md\"> pyenv </a>",
         "<a class=\"internal-link\" href=\"software/containers/buildah/create basic OCI image with buildah.md\"> create basic OCI image with buildah </a>",
-        "<a class=\"internal-link\" href=\"software/linux/create linux superuser.md\"> create linux superuser </a>",
-        "<a class=\"internal-link\" href=\"programming/c++/c++ package managers.md\"> c++ package managers </a>",
-        "<a class=\"internal-link\" href=\"programming/c++/c++ package managers.md\"> c++ package managers </a>"
+        "<a class=\"internal-link\" href=\"software/linux/create linux superuser.md\"> create linux superuser </a>"
       ],
       "Created": [
         "<a class=\"internal-link\" href=\"personal/blog/Untitled.md\"> Untitled </a>",
