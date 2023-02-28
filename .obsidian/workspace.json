@@ -4,111 +4,6 @@
     "type": "split",
     "children": [
       {
-        "id": "0258f87592fde662",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "fca6f0a928f7d71f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "learning/computing/programming/rust/basics/importing rust modules.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8470e14e0cc9b75c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "learning/computing/security/auth/JSON Web Token.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6610316ff4a58f45",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "learning/reading/tips for reading quickly.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c658a8bc7bcc9d23",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "learning/computing/programming/python/python cheatsheet.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e66401bc738c43f3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "learning/financial/career/10-k documents.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4b6e76275c1bd655",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "learning/computing/programming/swift/swift basics.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5bf8b8677098c825",
-            "type": "leaf",
-            "state": {
-              "type": "kanban",
-              "state": {
-                "file": "personal/shows.md"
-              }
-            }
-          },
-          {
-            "id": "7e67c4b80d634dee",
-            "type": "leaf",
-            "state": {
-              "type": "kanban",
-              "state": {
-                "file": "personal/tasks.md"
-              }
-            }
-          }
-        ],
-        "currentTab": 7
-      },
-      {
         "id": "782565362ea0ce20",
         "type": "tabs",
         "children": [
@@ -118,14 +13,28 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "personal/notes/Plan out writing a music book and toolset.md",
+                "file": "personal/blog/Learning Music in a different way.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "dfa841a53f5db418",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "personal/blog/Shared Component Libraries.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -183,7 +92,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "personal/notes/Plan out writing a music book and toolset.md",
+                "file": "personal/blog/Shared Component Libraries.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -200,7 +109,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "personal/notes/Plan out writing a music book and toolset.md"
+                "file": "personal/blog/Shared Component Libraries.md"
               }
             }
           },
@@ -242,17 +151,17 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "5b5060b122f48125",
+  "active": "dfa841a53f5db418",
   "lastOpenFiles": [
+    "personal/blog/Learning Music in a different way.md",
+    "personal/notes/Plan out writing a music book and toolset.md",
     "personal/tasks.md",
-    "personal/notes/Garden Upgrades.md",
-    "personal/reading.md",
-    "personal/games.md",
-    "personal/numbers.md",
-    "personal/shows.md",
-    "learning/computing/software/awk.md",
-    "learning/reading/list of reading products you can buy.md",
-    "learning/Untitled.md",
-    "learning/computing/programming/swift/swift basics.md"
+    "learning/computing/programming/rust/basics/importing rust modules.md",
+    "learning/computing/security/auth/JSON Web Token.md",
+    "learning/reading/tips for reading quickly.md",
+    "learning/computing/programming/python/python cheatsheet.md",
+    "learning/financial/career/10-k documents.md",
+    "learning/computing/programming/swift/swift basics.md",
+    "personal/shows.md"
   ]
 }
