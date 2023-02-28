@@ -1,7 +1,7 @@
 ---
 name: Shared Component Libraries
 created: 2023-02-27T21:42:42-06:00
-updated: 2023-02-27T22:36:25-06:00
+updated: 2023-02-27T22:36:57-06:00
 aliases: 
 tags: components, modular
 ---
@@ -45,3 +45,5 @@ Maybe I'll start a short list of ideas here.
 	- I'd rather give someone my opinion and have them go around me than to stop them in their tracks and tell them that they are wasting their time.
 
 At this point I don't know where I'm going with this one.  I just wish things were easier to change and work with instead of being stuck writing tests for some code you don't even have control of.
+
+Might have some more thoughts on this later.
