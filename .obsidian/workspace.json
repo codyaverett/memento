@@ -32,9 +32,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "53216f280cafc4e3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "learning/computing/programming/javascript/nodejs/speed up node processes by loading node_modules into ram.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -92,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "personal/blog/Shared Component Libraries.md",
+                "file": "learning/computing/programming/javascript/nodejs/speed up node processes by loading node_modules into ram.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,7 +122,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "personal/blog/Shared Component Libraries.md"
+                "file": "learning/computing/programming/javascript/nodejs/speed up node processes by loading node_modules into ram.md"
               }
             }
           },
@@ -151,8 +164,9 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "dfa841a53f5db418",
+  "active": "53216f280cafc4e3",
   "lastOpenFiles": [
+    "personal/blog/Shared Component Libraries.md",
     "personal/blog/Learning Music in a different way.md",
     "personal/notes/Plan out writing a music book and toolset.md",
     "personal/tasks.md",
@@ -161,7 +175,6 @@
     "learning/reading/tips for reading quickly.md",
     "learning/computing/programming/python/python cheatsheet.md",
     "learning/financial/career/10-k documents.md",
-    "learning/computing/programming/swift/swift basics.md",
-    "personal/shows.md"
+    "learning/computing/programming/swift/swift basics.md"
   ]
 }
