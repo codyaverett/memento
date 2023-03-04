@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "personal/blog/Learning Music in a different way.md",
+                "file": "learning/computing/programming/rust/basics/control flow.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -21,12 +21,12 @@
             }
           },
           {
-            "id": "dfa841a53f5db418",
+            "id": "9cc8a614deb1d95d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "personal/blog/Shared Component Libraries.md",
+                "file": "learning/computing/programming/javascript/typescript/type guards.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -47,7 +47,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -105,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "learning/computing/programming/javascript/nodejs/speed up node processes by loading node_modules into ram.md",
+                "file": "learning/computing/programming/javascript/typescript/type guards.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +122,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "learning/computing/programming/javascript/nodejs/speed up node processes by loading node_modules into ram.md"
+                "file": "learning/computing/programming/javascript/typescript/type guards.md"
               }
             }
           },
@@ -164,17 +164,17 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "53216f280cafc4e3",
+  "active": "9cc8a614deb1d95d",
   "lastOpenFiles": [
-    "personal/blog/Shared Component Libraries.md",
+    "learning/computing/programming/rust/basics/control flow.md",
     "personal/blog/Learning Music in a different way.md",
+    "personal/blog/Shared Component Libraries.md",
+    "learning/computing/programming/javascript/nodejs/speed up node processes by loading node_modules into ram.md",
     "personal/notes/Plan out writing a music book and toolset.md",
     "personal/tasks.md",
     "learning/computing/programming/rust/basics/importing rust modules.md",
     "learning/computing/security/auth/JSON Web Token.md",
     "learning/reading/tips for reading quickly.md",
-    "learning/computing/programming/python/python cheatsheet.md",
-    "learning/financial/career/10-k documents.md",
-    "learning/computing/programming/swift/swift basics.md"
+    "learning/computing/programming/python/python cheatsheet.md"
   ]
 }
