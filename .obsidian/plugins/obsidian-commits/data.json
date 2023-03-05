@@ -1898,12 +1898,17 @@
       "size": 0,
       "tags": 0,
       "links": 0
+    },
+    "learning/computing/programming/javascript/typescript/type guards.md": {
+      "size": 0,
+      "tags": 0,
+      "links": 0
     }
   },
   "commitTypes": {
     "/": {
       "Refactor": 1432,
-      "Create": 398,
+      "Create": 399,
       "Link": 339,
       "Expand": 120
     }
@@ -1932,7 +1937,7 @@
       "19": 33,
       "20": 57,
       "21": 132,
-      "22": 106,
+      "22": 107,
       "23": 67
     }
   },
@@ -1942,7 +1947,7 @@
       "Tue": 130,
       "Wed": 250,
       "Thu": 151,
-      "Fri": 151,
+      "Fri": 152,
       "Sat": 0,
       "Sun": 116
     }
@@ -2003,6 +2008,7 @@
         "<a class=\"internal-link\" href=\"software/linux/create linux superuser.md\"> create linux superuser </a>"
       ],
       "Created": [
+        "<a class=\"internal-link\" href=\"learning/computing/programming/javascript/typescript/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"learning/computing/programming/javascript/nodejs/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"personal/blog/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"personal/notes/Plan out writing a music book and toolset.md\"> Plan out writing a music book and toolset </a>",
@@ -2052,8 +2058,7 @@
         "<a class=\"internal-link\" href=\"learning/mental/health/abusive relationships.md\"> abusive relationships </a>",
         "<a class=\"internal-link\" href=\"learning/mental/ADHD/dealing with ADHD symptoms.md\"> dealing with ADHD symptoms </a>",
         "<a class=\"internal-link\" href=\"learning/financial/trading/market cipher/market cipher ideas.md\"> market cipher ideas </a>",
-        "<a class=\"internal-link\" href=\"learning/computing/software/blender/what can blender do?.md\"> what can blender do? </a>",
-        "<a class=\"internal-link\" href=\"learning/computing/software/blender/what are the best ways to learn blender?.md\"> what are the best ways to learn blender? </a>"
+        "<a class=\"internal-link\" href=\"learning/computing/software/blender/what can blender do?.md\"> what can blender do? </a>"
       ],
       "Renamed": [
         "<a class=\"internal-link\" href=\"personal/notes/Garden Upgrades.md\"> Garden Upgrades </a>",
