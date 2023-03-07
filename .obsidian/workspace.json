@@ -34,6 +34,19 @@
             }
           },
           {
+            "id": "eeb13fa42a8a63b5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "learning/music/ideas/how do you know which major and minor keys go together?.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
             "id": "53216f280cafc4e3",
             "type": "leaf",
             "state": {
@@ -47,7 +60,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -105,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "learning/computing/programming/javascript/typescript/type guards.md",
+                "file": "learning/music/ideas/how do you know which major and minor keys go together?.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "learning/computing/programming/javascript/typescript/type guards.md"
+                "file": "learning/music/ideas/how do you know which major and minor keys go together?.md"
               }
             }
           },
@@ -164,8 +177,9 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "33a2bab88d111215",
+  "active": "eeb13fa42a8a63b5",
   "lastOpenFiles": [
+    "learning/computing/programming/javascript/typescript/type guards.md",
     "learning/computing/programming/rust/basics/control flow.md",
     "personal/blog/Learning Music in a different way.md",
     "personal/blog/Shared Component Libraries.md",
@@ -174,7 +188,6 @@
     "personal/tasks.md",
     "learning/computing/programming/rust/basics/importing rust modules.md",
     "learning/computing/security/auth/JSON Web Token.md",
-    "learning/reading/tips for reading quickly.md",
-    "learning/computing/programming/python/python cheatsheet.md"
+    "learning/reading/tips for reading quickly.md"
   ]
 }
