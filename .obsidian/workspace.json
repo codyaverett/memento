@@ -73,6 +73,19 @@
             }
           },
           {
+            "id": "e595682f537eb472",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "learning/computing/software/linux/expect.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
             "id": "53216f280cafc4e3",
             "type": "leaf",
             "state": {
@@ -86,7 +99,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -144,7 +157,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "learning/computing/programming/css/media-queries.md",
+                "file": "learning/computing/software/linux/expect.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -161,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "learning/computing/programming/css/media-queries.md"
+                "file": "learning/computing/software/linux/expect.md"
               }
             }
           },
@@ -203,8 +216,9 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "3562266f2202dc19",
+  "active": "e595682f537eb472",
   "lastOpenFiles": [
+    "learning/computing/programming/css/media-queries.md",
     "learning/computing/programming/css/Cool background patterns.md",
     "learning/music/ideas/how do you know which major and minor keys go together?.md",
     "learning/computing/programming/javascript/typescript/type guards.md",
@@ -213,7 +227,6 @@
     "personal/blog/Shared Component Libraries.md",
     "learning/computing/programming/javascript/nodejs/speed up node processes by loading node_modules into ram.md",
     "personal/notes/Plan out writing a music book and toolset.md",
-    "personal/tasks.md",
-    "learning/computing/programming/rust/basics/importing rust modules.md"
+    "personal/tasks.md"
   ]
 }
