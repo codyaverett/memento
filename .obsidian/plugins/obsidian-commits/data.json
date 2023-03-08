@@ -1903,12 +1903,17 @@
       "size": 0,
       "tags": 0,
       "links": 0
+    },
+    "learning/music/ideas/how do you know which major and minor keys go together?.md": {
+      "size": 0,
+      "tags": 0,
+      "links": 0
     }
   },
   "commitTypes": {
     "/": {
       "Refactor": 1432,
-      "Create": 399,
+      "Create": 400,
       "Link": 339,
       "Expand": 120
     }
@@ -1934,7 +1939,7 @@
       "16": 1202,
       "17": 196,
       "18": 39,
-      "19": 33,
+      "19": 34,
       "20": 57,
       "21": 132,
       "22": 107,
@@ -1943,7 +1948,7 @@
   },
   "weeklyCommits": {
     "/": {
-      "Mon": 1491,
+      "Mon": 1492,
       "Tue": 130,
       "Wed": 250,
       "Thu": 151,
@@ -2008,6 +2013,7 @@
         "<a class=\"internal-link\" href=\"software/linux/create linux superuser.md\"> create linux superuser </a>"
       ],
       "Created": [
+        "<a class=\"internal-link\" href=\"learning/music/ideas/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"learning/computing/programming/javascript/typescript/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"learning/computing/programming/javascript/nodejs/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"personal/blog/Untitled.md\"> Untitled </a>",
@@ -2057,8 +2063,7 @@
         "<a class=\"internal-link\" href=\"templates/dapp template.md\"> dapp template </a>",
         "<a class=\"internal-link\" href=\"learning/mental/health/abusive relationships.md\"> abusive relationships </a>",
         "<a class=\"internal-link\" href=\"learning/mental/ADHD/dealing with ADHD symptoms.md\"> dealing with ADHD symptoms </a>",
-        "<a class=\"internal-link\" href=\"learning/financial/trading/market cipher/market cipher ideas.md\"> market cipher ideas </a>",
-        "<a class=\"internal-link\" href=\"learning/computing/software/blender/what can blender do?.md\"> what can blender do? </a>"
+        "<a class=\"internal-link\" href=\"learning/financial/trading/market cipher/market cipher ideas.md\"> market cipher ideas </a>"
       ],
       "Renamed": [
         "<a class=\"internal-link\" href=\"personal/notes/Garden Upgrades.md\"> Garden Upgrades </a>",
