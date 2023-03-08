@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "782565362ea0ce20",
+        "id": "0258f87592fde662",
         "type": "tabs",
         "children": [
           {
-            "id": "5b5060b122f48125",
+            "id": "fca6f0a928f7d71f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "learning/computing/programming/rust/basics/control flow.md",
+                "file": "learning/computing/programming/rust/basics/importing rust modules.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -21,12 +21,12 @@
             }
           },
           {
-            "id": "9cc8a614deb1d95d",
+            "id": "8470e14e0cc9b75c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "learning/computing/programming/javascript/typescript/type guards.md",
+                "file": "learning/computing/security/auth/JSON Web Token.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -34,12 +34,12 @@
             }
           },
           {
-            "id": "eeb13fa42a8a63b5",
+            "id": "68a78707b602b9f9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "learning/music/ideas/how do you know which major and minor keys go together?.md",
+                "file": "personal/daily/2022/23-02-20.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -47,59 +47,43 @@
             }
           },
           {
-            "id": "0484a8562b70bb9e",
+            "id": "151c239ce78c0b1a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "ed6555117f68eda7",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "db5b3c0d545077f2",
+            "type": "leaf",
+            "state": {
+              "type": "kanban",
               "state": {
-                "file": "learning/computing/programming/css/Cool background patterns.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
+                "file": "personal/games.md"
               }
             }
           },
           {
-            "id": "3562266f2202dc19",
+            "id": "50ba21b3f322ee50",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "kanban",
               "state": {
-                "file": "learning/computing/programming/css/media-queries.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e595682f537eb472",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "learning/computing/software/linux/expect.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "53216f280cafc4e3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "learning/computing/programming/javascript/nodejs/speed up node processes by loading node_modules into ram.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
+                "file": "personal/games.md"
               }
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -141,7 +125,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 359.5
+    "width": 200
   },
   "right": {
     "id": "27aa3db891e6815a",
@@ -157,7 +141,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "learning/computing/software/linux/expect.md",
+                "file": "personal/games.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -174,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "learning/computing/software/linux/expect.md"
+                "file": "personal/games.md"
               }
             }
           },
@@ -204,29 +188,29 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-file-cleaner:Clean files": false,
+      "dbfolder:Create a new database table": false,
+      "templater-obsidian:Templater": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "command-palette:Open command palette": false,
-      "audio-recorder:Start/stop recording": false,
-      "obsidian-file-cleaner:Clean files": false,
-      "dbfolder:Create a new database table": false,
       "obsidian-metatable:Metatable": false,
-      "templater-obsidian:Templater": false
+      "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "e595682f537eb472",
+  "active": "50ba21b3f322ee50",
   "lastOpenFiles": [
-    "learning/computing/programming/css/media-queries.md",
-    "learning/computing/programming/css/Cool background patterns.md",
-    "learning/music/ideas/how do you know which major and minor keys go together?.md",
-    "learning/computing/programming/javascript/typescript/type guards.md",
-    "learning/computing/programming/rust/basics/control flow.md",
+    "personal/numbers.md",
     "personal/blog/Learning Music in a different way.md",
-    "personal/blog/Shared Component Libraries.md",
-    "learning/computing/programming/javascript/nodejs/speed up node processes by loading node_modules into ram.md",
-    "personal/notes/Plan out writing a music book and toolset.md",
-    "personal/tasks.md"
+    "personal/games.md",
+    "personal/shows.md",
+    "personal/tasks.md",
+    "personal/reading.md",
+    "conflict-files-obsidian-git.md",
+    "personal/daily/2022/23-02-20.md",
+    "learning/computing/programming/rust/basics/importing rust modules.md",
+    "learning/computing/programming/rust/basics/updating rust modules.md"
   ]
 }

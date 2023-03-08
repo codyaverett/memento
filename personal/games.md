@@ -6,13 +6,12 @@ kanban-plugin: basic
 
 ## Wish List
 
-- [ ] Horizon Forbidden West
 - [ ] Final Fantasy XVI
 
 
 ## Backlog
 
-- [ ] Horizon Zero Dawn
+- [ ] Horizon Forbidden West
 - [ ] God of War 4
 - [ ] God of War 5 Ragnarok
 
@@ -28,6 +27,7 @@ kanban-plugin: basic
 ## Finished
 
 **Complete**
+- [x] Horizon Zero Dawn
 
 
 
