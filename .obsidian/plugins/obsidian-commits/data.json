@@ -1918,19 +1918,24 @@
       "size": 0,
       "tags": 1,
       "links": 0
+    },
+    "learning/computing/software/linux/expect.md": {
+      "size": 0,
+      "tags": 0,
+      "links": 0
     }
   },
   "commitTypes": {
     "/": {
       "Refactor": 1433,
-      "Create": 402,
+      "Create": 403,
       "Link": 341,
       "Expand": 120
     }
   },
   "dailyCommits": {
     "/": {
-      "0": 72,
+      "0": 73,
       "1": 33,
       "2": 43,
       "3": 52,
@@ -1960,7 +1965,7 @@
     "/": {
       "Mon": 1492,
       "Tue": 130,
-      "Wed": 255,
+      "Wed": 256,
       "Thu": 151,
       "Fri": 152,
       "Sat": 0,
@@ -2023,6 +2028,7 @@
         "<a class=\"internal-link\" href=\"software/linux/create linux superuser.md\"> create linux superuser </a>"
       ],
       "Created": [
+        "<a class=\"internal-link\" href=\"learning/computing/software/linux/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"learning/computing/programming/css/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"learning/computing/programming/css/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"learning/music/ideas/Untitled.md\"> Untitled </a>",
@@ -2072,8 +2078,7 @@
         "<a class=\"internal-link\" href=\"learning/computing/programming/rust/basics/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"learning/mental/productivity/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"learning/mental/Untitled.md\"> Untitled </a>",
-        "<a class=\"internal-link\" href=\"templates/dapp template.md\"> dapp template </a>",
-        "<a class=\"internal-link\" href=\"learning/mental/health/abusive relationships.md\"> abusive relationships </a>"
+        "<a class=\"internal-link\" href=\"templates/dapp template.md\"> dapp template </a>"
       ],
       "Renamed": [
         "<a class=\"internal-link\" href=\"learning/computing/programming/css/media-queries.md\"> media-queries </a>",
