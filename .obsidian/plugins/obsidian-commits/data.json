@@ -1908,19 +1908,24 @@
       "size": 0,
       "tags": 0,
       "links": 0
+    },
+    "learning/computing/programming/css/Cool background patterns.md": {
+      "size": 0,
+      "tags": 2,
+      "links": 0
     }
   },
   "commitTypes": {
     "/": {
       "Refactor": 1432,
-      "Create": 400,
-      "Link": 339,
+      "Create": 401,
+      "Link": 340,
       "Expand": 120
     }
   },
   "dailyCommits": {
     "/": {
-      "0": 67,
+      "0": 69,
       "1": 33,
       "2": 43,
       "3": 52,
@@ -1950,7 +1955,7 @@
     "/": {
       "Mon": 1492,
       "Tue": 130,
-      "Wed": 250,
+      "Wed": 252,
       "Thu": 151,
       "Fri": 152,
       "Sat": 0,
@@ -2013,6 +2018,7 @@
         "<a class=\"internal-link\" href=\"software/linux/create linux superuser.md\"> create linux superuser </a>"
       ],
       "Created": [
+        "<a class=\"internal-link\" href=\"learning/computing/programming/css/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"learning/music/ideas/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"learning/computing/programming/javascript/typescript/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"learning/computing/programming/javascript/nodejs/Untitled.md\"> Untitled </a>",
@@ -2062,8 +2068,7 @@
         "<a class=\"internal-link\" href=\"learning/mental/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"templates/dapp template.md\"> dapp template </a>",
         "<a class=\"internal-link\" href=\"learning/mental/health/abusive relationships.md\"> abusive relationships </a>",
-        "<a class=\"internal-link\" href=\"learning/mental/ADHD/dealing with ADHD symptoms.md\"> dealing with ADHD symptoms </a>",
-        "<a class=\"internal-link\" href=\"learning/financial/trading/market cipher/market cipher ideas.md\"> market cipher ideas </a>"
+        "<a class=\"internal-link\" href=\"learning/mental/ADHD/dealing with ADHD symptoms.md\"> dealing with ADHD symptoms </a>"
       ],
       "Renamed": [
         "<a class=\"internal-link\" href=\"personal/notes/Garden Upgrades.md\"> Garden Upgrades </a>",
@@ -2119,6 +2124,7 @@
         "<a class=\"internal-link\" href=\"personal/kanban board.md\"> kanban board </a>"
       ],
       "Tagged": [
+        "<a class=\"internal-link\" href=\"learning/computing/programming/css/Cool background patterns.md\"> Cool background patterns </a>",
         "<a class=\"internal-link\" href=\"personal/blog/Shared Component Libraries.md\"> Shared Component Libraries </a>",
         "<a class=\"internal-link\" href=\"personal/notes/Plan out writing a music book and toolset.md\"> Plan out writing a music book and toolset </a>",
         "<a class=\"internal-link\" href=\"personal/blog/Learning Music in a different way.md\"> Learning Music in a different way </a>",
@@ -2168,8 +2174,7 @@
         "<a class=\"internal-link\" href=\"learning/computing/cryptocurrency/L1 networks/Avalanche.md\"> Avalanche </a>",
         "<a class=\"internal-link\" href=\"learning/computing/programming/data ETL/ETL basics.md\"> ETL basics </a>",
         "<a class=\"internal-link\" href=\"learning/computing/programming/general/heap memory.md\"> heap memory </a>",
-        "<a class=\"internal-link\" href=\"learning/computing/programming/python/ansible/ansible for network automation.md\"> ansible for network automation </a>",
-        "<a class=\"internal-link\" href=\"learning/computing/programming/python/clean python sorting.md\"> clean python sorting </a>"
+        "<a class=\"internal-link\" href=\"learning/computing/programming/python/ansible/ansible for network automation.md\"> ansible for network automation </a>"
       ],
       "Refactored": [],
       "Deleted": [
