@@ -60,6 +60,19 @@
             }
           },
           {
+            "id": "3562266f2202dc19",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "learning/computing/programming/css/media-queries.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
             "id": "53216f280cafc4e3",
             "type": "leaf",
             "state": {
@@ -73,7 +86,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -131,7 +144,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "learning/computing/programming/css/Cool background patterns.md",
+                "file": "learning/computing/programming/css/media-queries.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -148,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "learning/computing/programming/css/Cool background patterns.md"
+                "file": "learning/computing/programming/css/media-queries.md"
               }
             }
           },
@@ -190,8 +203,9 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "0484a8562b70bb9e",
+  "active": "3562266f2202dc19",
   "lastOpenFiles": [
+    "learning/computing/programming/css/Cool background patterns.md",
     "learning/music/ideas/how do you know which major and minor keys go together?.md",
     "learning/computing/programming/javascript/typescript/type guards.md",
     "learning/computing/programming/rust/basics/control flow.md",
@@ -200,7 +214,6 @@
     "learning/computing/programming/javascript/nodejs/speed up node processes by loading node_modules into ram.md",
     "personal/notes/Plan out writing a music book and toolset.md",
     "personal/tasks.md",
-    "learning/computing/programming/rust/basics/importing rust modules.md",
-    "learning/computing/security/auth/JSON Web Token.md"
+    "learning/computing/programming/rust/basics/importing rust modules.md"
   ]
 }
