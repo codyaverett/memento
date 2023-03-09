@@ -1,5 +1,5 @@
 {
-  "api_key": "",
+  "api_key": "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",
   "engine": "gpt-3.5-turbo",
   "max_tokens": 500,
   "temperature": 0.7,
@@ -40,6 +40,6 @@
     "stop": ".",
     "showStatus": true
   },
-  "displayErrorInEditor": false,
+  "displayErrorInEditor": true,
   "models": {}
 }
