@@ -1948,19 +1948,24 @@
       "size": 0,
       "tags": 0,
       "links": 0
+    },
+    "learning/computing/software/make/makefile with a setup and run in dirs.md": {
+      "size": 0,
+      "tags": 0,
+      "links": 0
     }
   },
   "commitTypes": {
     "/": {
       "Refactor": 1437,
-      "Create": 413,
+      "Create": 414,
       "Link": 343,
       "Expand": 127
     }
   },
   "dailyCommits": {
     "/": {
-      "0": 84,
+      "0": 85,
       "1": 40,
       "2": 42,
       "3": 52,
@@ -1991,7 +1996,7 @@
       "Mon": 1506,
       "Tue": 122,
       "Wed": 277,
-      "Thu": 194,
+      "Thu": 195,
       "Fri": 115,
       "Sat": 0,
       "Sun": 106
@@ -2053,6 +2058,7 @@
         "<a class=\"internal-link\" href=\"software/nginx/nginx reverse proxy.md\"> nginx reverse proxy </a>"
       ],
       "Created": [
+        "<a class=\"internal-link\" href=\"learning/computing/software/make/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"learning/computing/programming/rust/projects/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"personal/daily/2022/23-03-08.md\"> 23-03-08 </a>",
         "<a class=\"internal-link\" href=\"personal/blog/Shared Component Libraries.md\"> Shared Component Libraries </a>",
@@ -2102,8 +2108,7 @@
         "<a class=\"internal-link\" href=\"learning/computing/programming/rust/snippets/thread spam.md\"> thread spam </a>",
         "<a class=\"internal-link\" href=\"learning/computing/programming/protocols/ssh/ssh port forwarding.md\"> ssh port forwarding </a>",
         "<a class=\"internal-link\" href=\"learning/computing/programming/rust/tooling/no_std.md\"> no_std </a>",
-        "<a class=\"internal-link\" href=\"learning/mental/productivity/Start your day with your routine.md\"> Start your day with your routine </a>",
-        "<a class=\"internal-link\" href=\"learning/mental/ikigai.md\"> ikigai </a>"
+        "<a class=\"internal-link\" href=\"learning/mental/productivity/Start your day with your routine.md\"> Start your day with your routine </a>"
       ],
       "Renamed": [
         "<a class=\"internal-link\" href=\"learning/computing/programming/rust/projects/learning rust by making cli applications.md\"> learning rust by making cli applications </a>",

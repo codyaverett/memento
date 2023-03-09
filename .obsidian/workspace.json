@@ -91,7 +91,20 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "learning/computing/programming/rust/snippets/thread spam.md",
+                "file": "learning/computing/programming/rust/snippets/Append a line to a file.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a4fbaa83420c717e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "learning/computing/software/make/makefile with a setup and run in dirs.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -99,7 +112,7 @@
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -157,7 +170,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "learning/computing/programming/rust/snippets/thread spam.md",
+                "file": "learning/computing/software/make/makefile with a setup and run in dirs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -174,7 +187,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "learning/computing/programming/rust/snippets/thread spam.md"
+                "file": "learning/computing/software/make/makefile with a setup and run in dirs.md"
               }
             }
           },
@@ -226,9 +239,12 @@
       "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false
     }
   },
-  "active": "2344990a51f03a46",
+  "active": "a4fbaa83420c717e",
   "lastOpenFiles": [
     "learning/computing/programming/rust/snippets/Append a line to a file.md",
+    "learning/computing/software/make/makefile with a setup and run in dirs.md",
+    "learning/computing/programming/rust/snippets/Get Current Working Directory.md",
+    "learning/computing/programming/rust/snippets/thread spam.md",
     "learning/computing/programming/rust/ownership/stack and heap.md",
     "learning/computing/programming/rust/projects/learning rust by making cli applications.md",
     "learning/computing/programming/rust/basics/functions.md",
