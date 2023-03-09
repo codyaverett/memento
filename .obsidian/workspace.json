@@ -78,7 +78,20 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "learning/techniques/black boxing.md",
+                "file": "learning/computing/programming/rust/basics/functions.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2344990a51f03a46",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "learning/computing/programming/rust/snippets/thread spam.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -86,7 +99,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -128,7 +141,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 359.5
   },
   "right": {
     "id": "27aa3db891e6815a",
@@ -144,7 +157,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "learning/techniques/black boxing.md",
+                "file": "learning/computing/programming/rust/snippets/thread spam.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -161,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "learning/techniques/black boxing.md"
+                "file": "learning/computing/programming/rust/snippets/thread spam.md"
               }
             }
           },
@@ -190,11 +203,12 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -212,8 +226,14 @@
       "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false
     }
   },
-  "active": "50ba21b3f322ee50",
+  "active": "2344990a51f03a46",
   "lastOpenFiles": [
+    "learning/computing/programming/rust/snippets/Append a line to a file.md",
+    "learning/computing/programming/rust/ownership/stack and heap.md",
+    "learning/computing/programming/rust/projects/learning rust by making cli applications.md",
+    "learning/computing/programming/rust/basics/functions.md",
+    "learning/computing/programming/rust/projects",
+    "learning/techniques/black boxing.md",
     "personal/games.md",
     "personal/daily/2022/23-03-08.md",
     "personal/numbers.md",
