@@ -1943,19 +1943,24 @@
       "size": 0,
       "tags": 0,
       "links": 0
+    },
+    "learning/computing/programming/rust/projects/learning rust by making cli applications.md": {
+      "size": 0,
+      "tags": 0,
+      "links": 0
     }
   },
   "commitTypes": {
     "/": {
-      "Refactor": 1436,
-      "Create": 412,
+      "Refactor": 1437,
+      "Create": 413,
       "Link": 343,
       "Expand": 127
     }
   },
   "dailyCommits": {
     "/": {
-      "0": 82,
+      "0": 84,
       "1": 40,
       "2": 42,
       "3": 52,
@@ -1986,7 +1991,7 @@
       "Mon": 1506,
       "Tue": 122,
       "Wed": 277,
-      "Thu": 192,
+      "Thu": 194,
       "Fri": 115,
       "Sat": 0,
       "Sun": 106
@@ -2048,6 +2053,7 @@
         "<a class=\"internal-link\" href=\"software/nginx/nginx reverse proxy.md\"> nginx reverse proxy </a>"
       ],
       "Created": [
+        "<a class=\"internal-link\" href=\"learning/computing/programming/rust/projects/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"personal/daily/2022/23-03-08.md\"> 23-03-08 </a>",
         "<a class=\"internal-link\" href=\"personal/blog/Shared Component Libraries.md\"> Shared Component Libraries </a>",
         "<a class=\"internal-link\" href=\"learning/music/ideas/how do you know which major and minor keys go together?.md\"> how do you know which major and minor keys go together? </a>",
@@ -2097,10 +2103,10 @@
         "<a class=\"internal-link\" href=\"learning/computing/programming/protocols/ssh/ssh port forwarding.md\"> ssh port forwarding </a>",
         "<a class=\"internal-link\" href=\"learning/computing/programming/rust/tooling/no_std.md\"> no_std </a>",
         "<a class=\"internal-link\" href=\"learning/mental/productivity/Start your day with your routine.md\"> Start your day with your routine </a>",
-        "<a class=\"internal-link\" href=\"learning/mental/ikigai.md\"> ikigai </a>",
-        "<a class=\"internal-link\" href=\"learning/computing/programming/rust/basics/updating rust modules.md\"> updating rust modules </a>"
+        "<a class=\"internal-link\" href=\"learning/mental/ikigai.md\"> ikigai </a>"
       ],
       "Renamed": [
+        "<a class=\"internal-link\" href=\"learning/computing/programming/rust/projects/learning rust by making cli applications.md\"> learning rust by making cli applications </a>",
         "<a class=\"internal-link\" href=\"learning/computing/software/blender/can you create 2d art in blender?.md\"> can you create 2d art in blender? </a>",
         "<a class=\"internal-link\" href=\"learning/computing/cryptocurrency/L1 networks/Cardano/dapps/_db.md\"> _db </a>",
         "<a class=\"internal-link\" href=\"learning/computing/cryptocurrency/L1 networks/Cardano/dapps/dapps.md\"> dapps </a>",
@@ -2150,8 +2156,7 @@
         "<a class=\"internal-link\" href=\"personal/notes/Todo.md\"> Todo </a>",
         "<a class=\"internal-link\" href=\"personal/notes/Backlog.md\"> Backlog </a>",
         "<a class=\"internal-link\" href=\"personal/kanban board.md\"> kanban board </a>",
-        "<a class=\"internal-link\" href=\"learning/computing/programming/c-sharp/C-sharp cheatsheet.md\"> C-sharp cheatsheet </a>",
-        "<a class=\"internal-link\" href=\"learning/financial/career/management/transitioning from dev to manager.md\"> transitioning from dev to manager </a>"
+        "<a class=\"internal-link\" href=\"learning/computing/programming/c-sharp/C-sharp cheatsheet.md\"> C-sharp cheatsheet </a>"
       ],
       "Tagged": [
         "<a class=\"internal-link\" href=\"learning/computing/programming/css/Cool background patterns.md\"> Cool background patterns </a>",
