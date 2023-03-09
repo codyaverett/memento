@@ -1,8 +1,8 @@
 {
-  "activeModel": "gpt3",
+  "activeModel": "chatgpt",
   "models": {
     "chatgpt": {
-      "apiKey": "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",
+      "apiKey": "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",
       "settings": {
         "modelType": "gpt-3.5-turbo",
         "systemMessage": "You are ChatGPT, a large language model trained by OpenAI. Answer as concisely as possible.",
@@ -15,7 +15,7 @@
       }
     },
     "gpt3": {
-      "apiKey": "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",
+      "apiKey": "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",
       "settings": {
         "modelType": "text-davinci-003",
         "maxTokens": 16,
