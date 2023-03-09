@@ -190,14 +190,21 @@
               "type": "metatable-sidebar-view",
               "state": {}
             }
+          },
+          {
+            "id": "dc61c75e7911fe7c",
+            "type": "leaf",
+            "state": {
+              "type": "gptModelSettings",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -213,7 +220,7 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "1e68c4dc6d9602c2",
+  "active": "33a2bab88d111215",
   "lastOpenFiles": [
     "personal/daily/2022/23-03-08.md",
     "personal/numbers.md",
