@@ -1938,12 +1938,17 @@
       "size": 4131,
       "tags": 2,
       "links": 0
+    },
+    "personal/daily/2022/23-03-08.md": {
+      "size": 0,
+      "tags": 0,
+      "links": 0
     }
   },
   "commitTypes": {
     "/": {
       "Refactor": 1436,
-      "Create": 411,
+      "Create": 412,
       "Link": 343,
       "Expand": 127
     }
@@ -1973,14 +1978,14 @@
       "20": 46,
       "21": 101,
       "22": 95,
-      "23": 88
+      "23": 89
     }
   },
   "weeklyCommits": {
     "/": {
       "Mon": 1506,
       "Tue": 122,
-      "Wed": 276,
+      "Wed": 277,
       "Thu": 192,
       "Fri": 115,
       "Sat": 0,
@@ -2043,6 +2048,7 @@
         "<a class=\"internal-link\" href=\"software/nginx/nginx reverse proxy.md\"> nginx reverse proxy </a>"
       ],
       "Created": [
+        "<a class=\"internal-link\" href=\"personal/daily/2022/23-03-08.md\"> 23-03-08 </a>",
         "<a class=\"internal-link\" href=\"personal/blog/Shared Component Libraries.md\"> Shared Component Libraries </a>",
         "<a class=\"internal-link\" href=\"learning/music/ideas/how do you know which major and minor keys go together?.md\"> how do you know which major and minor keys go together? </a>",
         "<a class=\"internal-link\" href=\"learning/computing/software/linux/expect.md\"> expect </a>",
@@ -2092,8 +2098,7 @@
         "<a class=\"internal-link\" href=\"learning/computing/programming/rust/tooling/no_std.md\"> no_std </a>",
         "<a class=\"internal-link\" href=\"learning/mental/productivity/Start your day with your routine.md\"> Start your day with your routine </a>",
         "<a class=\"internal-link\" href=\"learning/mental/ikigai.md\"> ikigai </a>",
-        "<a class=\"internal-link\" href=\"learning/computing/programming/rust/basics/updating rust modules.md\"> updating rust modules </a>",
-        "<a class=\"internal-link\" href=\"learning/computing/programming/general/request routing.md\"> request routing </a>"
+        "<a class=\"internal-link\" href=\"learning/computing/programming/rust/basics/updating rust modules.md\"> updating rust modules </a>"
       ],
       "Renamed": [
         "<a class=\"internal-link\" href=\"learning/computing/software/blender/can you create 2d art in blender?.md\"> can you create 2d art in blender? </a>",
