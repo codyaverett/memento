@@ -76,19 +76,9 @@
             "id": "50ba21b3f322ee50",
             "type": "leaf",
             "state": {
-              "type": "kanban",
-              "state": {
-                "file": "personal/games.md"
-              }
-            }
-          },
-          {
-            "id": "1e68c4dc6d9602c2",
-            "type": "leaf",
-            "state": {
               "type": "markdown",
               "state": {
-                "file": "personal/daily/2022/23-03-08.md",
+                "file": "learning/techniques/black boxing.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -96,7 +86,7 @@
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -154,7 +144,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "personal/daily/2022/23-03-08.md",
+                "file": "learning/techniques/black boxing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -171,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "personal/daily/2022/23-03-08.md"
+                "file": "learning/techniques/black boxing.md"
               }
             }
           },
@@ -217,15 +207,17 @@
       "daily-notes:Open today's daily note": false,
       "command-palette:Open command palette": false,
       "obsidian-metatable:Metatable": false,
-      "audio-recorder:Start/stop recording": false
+      "audio-recorder:Start/stop recording": false,
+      "obsidian-textgenerator-plugin:Generate Text!": false,
+      "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false
     }
   },
-  "active": "1e68c4dc6d9602c2",
+  "active": "50ba21b3f322ee50",
   "lastOpenFiles": [
+    "personal/games.md",
     "personal/daily/2022/23-03-08.md",
     "personal/numbers.md",
     "personal/blog/Learning Music in a different way.md",
-    "personal/games.md",
     "personal/shows.md",
     "personal/tasks.md",
     "personal/reading.md",
