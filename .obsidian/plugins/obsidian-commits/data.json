@@ -1953,13 +1953,18 @@
       "size": 0,
       "tags": 0,
       "links": 0
+    },
+    "learning/mental/productivity/Think things with me.md": {
+      "size": 0,
+      "tags": 1,
+      "links": 0
     }
   },
   "commitTypes": {
     "/": {
       "Refactor": 1437,
-      "Create": 414,
-      "Link": 343,
+      "Create": 415,
+      "Link": 344,
       "Expand": 127
     }
   },
@@ -1988,7 +1993,7 @@
       "20": 46,
       "21": 101,
       "22": 95,
-      "23": 89
+      "23": 91
     }
   },
   "weeklyCommits": {
@@ -1997,7 +2002,7 @@
       "Tue": 122,
       "Wed": 277,
       "Thu": 195,
-      "Fri": 115,
+      "Fri": 117,
       "Sat": 0,
       "Sun": 106
     }
@@ -2058,6 +2063,7 @@
         "<a class=\"internal-link\" href=\"software/nginx/nginx reverse proxy.md\"> nginx reverse proxy </a>"
       ],
       "Created": [
+        "<a class=\"internal-link\" href=\"learning/mental/productivity/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"learning/computing/software/make/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"learning/computing/programming/rust/projects/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"personal/daily/2022/23-03-08.md\"> 23-03-08 </a>",
@@ -2107,8 +2113,7 @@
         "<a class=\"internal-link\" href=\"learning/computing/security/types of cyber attacks.md\"> types of cyber attacks </a>",
         "<a class=\"internal-link\" href=\"learning/computing/programming/rust/snippets/thread spam.md\"> thread spam </a>",
         "<a class=\"internal-link\" href=\"learning/computing/programming/protocols/ssh/ssh port forwarding.md\"> ssh port forwarding </a>",
-        "<a class=\"internal-link\" href=\"learning/computing/programming/rust/tooling/no_std.md\"> no_std </a>",
-        "<a class=\"internal-link\" href=\"learning/mental/productivity/Start your day with your routine.md\"> Start your day with your routine </a>"
+        "<a class=\"internal-link\" href=\"learning/computing/programming/rust/tooling/no_std.md\"> no_std </a>"
       ],
       "Renamed": [
         "<a class=\"internal-link\" href=\"learning/computing/programming/rust/projects/learning rust by making cli applications.md\"> learning rust by making cli applications </a>",
@@ -2164,6 +2169,7 @@
         "<a class=\"internal-link\" href=\"learning/computing/programming/c-sharp/C-sharp cheatsheet.md\"> C-sharp cheatsheet </a>"
       ],
       "Tagged": [
+        "<a class=\"internal-link\" href=\"learning/mental/productivity/Think things with me.md\"> Think things with me </a>",
         "<a class=\"internal-link\" href=\"learning/computing/programming/css/Cool background patterns.md\"> Cool background patterns </a>",
         "<a class=\"internal-link\" href=\"learning/computing/programming/css/media-queries.md\"> media-queries </a>",
         "<a class=\"internal-link\" href=\"personal/blog/Shared Component Libraries.md\"> Shared Component Libraries </a>",
@@ -2213,8 +2219,7 @@
         "<a class=\"internal-link\" href=\"learning/computing/programming/SQL/hacks/Integer Table.md\"> Integer Table </a>",
         "<a class=\"internal-link\" href=\"learning/computing/programming/python/ansible/use ansible_runner from python module.md\"> use ansible_runner from python module </a>",
         "<a class=\"internal-link\" href=\"learning/computing/software/data ETL/apache airflow/apache airflow.md\"> apache airflow </a>",
-        "<a class=\"internal-link\" href=\"learning/computing/cryptocurrency/Handshake.md\"> Handshake </a>",
-        "<a class=\"internal-link\" href=\"learning/computing/cryptocurrency/L1 networks/Avalanche.md\"> Avalanche </a>"
+        "<a class=\"internal-link\" href=\"learning/computing/cryptocurrency/Handshake.md\"> Handshake </a>"
       ],
       "Refactored": [],
       "Deleted": [
