@@ -1749,11 +1749,6 @@
       "tags": 0,
       "links": 1
     },
-    "personal/daily/2022/23-01-15.md": {
-      "size": 0,
-      "tags": 0,
-      "links": 0
-    },
     "learning/mathematics/statistics/computing and understanding averages.md": {
       "size": 0,
       "tags": 0,
@@ -1809,11 +1804,6 @@
       "tags": 0,
       "links": 0
     },
-    "personal/daily/2022/23-01-19.md": {
-      "size": 0,
-      "tags": 0,
-      "links": 0
-    },
     "learning/computing/programming/testing/types of tests.md": {
       "size": 194,
       "tags": 0,
@@ -1821,11 +1811,6 @@
     },
     "learning/computing/programming/databases/orm/knexjs/knexjs database orm.md": {
       "size": 296,
-      "tags": 0,
-      "links": 0
-    },
-    "personal/daily/2022/23-01-23.md": {
-      "size": 0,
       "tags": 0,
       "links": 0
     },
@@ -1879,11 +1864,6 @@
       "tags": 1,
       "links": 0
     },
-    "personal/daily/2022/23-02-20.md": {
-      "size": 0,
-      "tags": 0,
-      "links": 0
-    },
     "personal/notes/Plan out writing a music book and toolset.md": {
       "size": 0,
       "tags": 1,
@@ -1924,11 +1904,6 @@
       "tags": 0,
       "links": 0
     },
-    "personal/daily/2022/23-03-08.md": {
-      "size": 0,
-      "tags": 0,
-      "links": 0
-    },
     "learning/computing/programming/rust/projects/learning rust by making cli applications.md": {
       "size": 243,
       "tags": 0,
@@ -1944,7 +1919,32 @@
       "tags": 1,
       "links": 0
     },
-    "personal/daily/2022/23-03-18.md": {
+    "personal/daily/2023/23-03-18.md": {
+      "size": 0,
+      "tags": 0,
+      "links": 0
+    },
+    "personal/daily/2023/23-03-08.md": {
+      "size": 0,
+      "tags": 0,
+      "links": 0
+    },
+    "personal/daily/2023/23-02-20.md": {
+      "size": 0,
+      "tags": 0,
+      "links": 0
+    },
+    "personal/daily/2023/23-01-23.md": {
+      "size": 0,
+      "tags": 0,
+      "links": 0
+    },
+    "personal/daily/2023/23-01-19.md": {
+      "size": 0,
+      "tags": 0,
+      "links": 0
+    },
+    "personal/daily/2023/23-01-15.md": {
       "size": 0,
       "tags": 0,
       "links": 0
@@ -1952,7 +1952,7 @@
   },
   "commitTypes": {
     "/": {
-      "Refactor": 1433,
+      "Refactor": 1439,
       "Create": 408,
       "Link": 342,
       "Expand": 120
@@ -1960,7 +1960,7 @@
   },
   "dailyCommits": {
     "/": {
-      "0": 74,
+      "0": 80,
       "1": 33,
       "2": 43,
       "3": 56,
@@ -1994,7 +1994,7 @@
       "Thu": 155,
       "Fri": 152,
       "Sat": 0,
-      "Sun": 117
+      "Sun": 123
     }
   },
   "recentCommits": {
@@ -2106,6 +2106,12 @@
         "<a class=\"internal-link\" href=\"learning/computing/programming/general/Untitled.md\"> Untitled </a>"
       ],
       "Renamed": [
+        "<a class=\"internal-link\" href=\"personal/daily/2023/23-01-15.md\"> 23-01-15 </a>",
+        "<a class=\"internal-link\" href=\"personal/daily/2023/23-01-19.md\"> 23-01-19 </a>",
+        "<a class=\"internal-link\" href=\"personal/daily/2023/23-01-23.md\"> 23-01-23 </a>",
+        "<a class=\"internal-link\" href=\"personal/daily/2023/23-02-20.md\"> 23-02-20 </a>",
+        "<a class=\"internal-link\" href=\"personal/daily/2023/23-03-08.md\"> 23-03-08 </a>",
+        "<a class=\"internal-link\" href=\"personal/daily/2023/23-03-18.md\"> 23-03-18 </a>",
         "<a class=\"internal-link\" href=\"learning/computing/programming/css/media-queries.md\"> media-queries </a>",
         "<a class=\"internal-link\" href=\"personal/notes/Garden Upgrades.md\"> Garden Upgrades </a>",
         "<a class=\"internal-link\" href=\"personal/tasks.md\"> tasks </a>",
@@ -2150,13 +2156,7 @@
         "<a class=\"internal-link\" href=\"learning/computing/really useful websites.md\"> really useful websites </a>",
         "<a class=\"internal-link\" href=\"learning/mental/productivity/really useful websites.md\"> really useful websites </a>",
         "<a class=\"internal-link\" href=\"learning/mental/productivity/all failures are learning opportunities.md\"> all failures are learning opportunities </a>",
-        "<a class=\"internal-link\" href=\"learning/mental/productivity/general productivity tips.md\"> general productivity tips </a>",
-        "<a class=\"internal-link\" href=\"learning/mental/productivity/how to have time for everything.md\"> how to have time for everything </a>",
-        "<a class=\"internal-link\" href=\"learning/productivity/really useful websites.md\"> really useful websites </a>",
-        "<a class=\"internal-link\" href=\"other/really useful websites.md\"> really useful websites </a>",
-        "<a class=\"internal-link\" href=\"personal/task board.md\"> task board </a>",
-        "<a class=\"internal-link\" href=\"personal/notes/Todo.md\"> Todo </a>",
-        "<a class=\"internal-link\" href=\"personal/notes/Backlog.md\"> Backlog </a>"
+        "<a class=\"internal-link\" href=\"learning/mental/productivity/general productivity tips.md\"> general productivity tips </a>"
       ],
       "Tagged": [
         "<a class=\"internal-link\" href=\"learning/mental/productivity/Think things with me.md\"> Think things with me </a>",
