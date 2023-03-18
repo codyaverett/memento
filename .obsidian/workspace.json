@@ -78,7 +78,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "personal/daily/2022/23-03-18.md",
+                "file": "personal/daily/2023/23-03-18.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -157,7 +157,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "personal/daily/2022/23-03-18.md",
+                "file": "personal/daily/2023/23-03-18.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -174,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "personal/daily/2022/23-03-18.md"
+                "file": "personal/daily/2023/23-03-18.md"
               }
             }
           },
@@ -215,7 +215,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "e595682f537eb472",
+  "active": "33a2bab88d111215",
   "lastOpenFiles": [
     "personal/notes/Garden Upgrades.md",
     "personal/notes/Document burnout.md",
