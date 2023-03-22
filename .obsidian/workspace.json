@@ -78,7 +78,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "personal/daily/2022/23-03-19.md",
+                "file": "personal/daily/2022/23-03-21.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -157,7 +157,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "personal/daily/2022/23-03-19.md",
+                "file": "personal/daily/2022/23-03-21.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -174,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "personal/daily/2022/23-03-19.md"
+                "file": "personal/daily/2022/23-03-21.md"
               }
             }
           },
@@ -217,6 +217,7 @@
   },
   "active": "e595682f537eb472",
   "lastOpenFiles": [
+    "personal/daily/2022/23-03-19.md",
     "personal/daily/2023/23-03-18.md",
     "personal/notes/Garden Upgrades.md",
     "personal/notes/Document burnout.md",
@@ -225,7 +226,6 @@
     "learning/computing/programming/data ETL/data modeling.md",
     "learning/computing/programming/data ETL/data warehouse.md",
     "learning/computing/programming/data ETL/ETL basics.md",
-    "learning/computing/programming/data ETL/OLTP data models.md",
-    "learning/computing/programming/data ETL/OLTP vs OLAP.md"
+    "learning/computing/programming/data ETL/OLTP data models.md"
   ]
 }
