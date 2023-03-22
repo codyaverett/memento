@@ -1948,12 +1948,17 @@
       "size": 0,
       "tags": 0,
       "links": 0
+    },
+    "personal/daily/2022/23-03-19.md": {
+      "size": 0,
+      "tags": 0,
+      "links": 0
     }
   },
   "commitTypes": {
     "/": {
       "Refactor": 1439,
-      "Create": 408,
+      "Create": 409,
       "Link": 342,
       "Expand": 120
     }
@@ -1976,7 +1981,7 @@
       "13": 68,
       "14": 50,
       "15": 64,
-      "16": 1202,
+      "16": 1203,
       "17": 196,
       "18": 39,
       "19": 34,
@@ -1994,7 +1999,7 @@
       "Thu": 155,
       "Fri": 152,
       "Sat": 0,
-      "Sun": 123
+      "Sun": 124
     }
   },
   "recentCommits": {
@@ -2053,6 +2058,7 @@
         "<a class=\"internal-link\" href=\"software/linux/create linux superuser.md\"> create linux superuser </a>"
       ],
       "Created": [
+        "<a class=\"internal-link\" href=\"personal/daily/2022/23-03-19.md\"> 23-03-19 </a>",
         "<a class=\"internal-link\" href=\"personal/daily/2022/23-03-18.md\"> 23-03-18 </a>",
         "<a class=\"internal-link\" href=\"learning/mental/productivity/Think things with me.md\"> Think things with me </a>",
         "<a class=\"internal-link\" href=\"learning/computing/software/make/makefile with a setup and run in dirs.md\"> makefile with a setup and run in dirs </a>",
@@ -2102,8 +2108,7 @@
         "<a class=\"internal-link\" href=\"learning/mathematics/trigonometry/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"learning/mathematics/calculus/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"learning/financial/career/onboarding/Untitled.md\"> Untitled </a>",
-        "<a class=\"internal-link\" href=\"learning/computing/programming/rust/tooling/Untitled.md\"> Untitled </a>",
-        "<a class=\"internal-link\" href=\"learning/computing/programming/general/Untitled.md\"> Untitled </a>"
+        "<a class=\"internal-link\" href=\"learning/computing/programming/rust/tooling/Untitled.md\"> Untitled </a>"
       ],
       "Renamed": [
         "<a class=\"internal-link\" href=\"personal/daily/2023/23-01-15.md\"> 23-01-15 </a>",
