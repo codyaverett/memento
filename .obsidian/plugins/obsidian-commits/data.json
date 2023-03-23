@@ -1953,12 +1953,22 @@
       "size": 0,
       "tags": 0,
       "links": 0
+    },
+    "personal/daily/2022/23-03-21.md": {
+      "size": 0,
+      "tags": 0,
+      "links": 0
+    },
+    "personal/daily/2022/23-03-22.md": {
+      "size": 0,
+      "tags": 0,
+      "links": 0
     }
   },
   "commitTypes": {
     "/": {
       "Refactor": 1439,
-      "Create": 409,
+      "Create": 411,
       "Link": 342,
       "Expand": 120
     }
@@ -1985,8 +1995,8 @@
       "17": 196,
       "18": 39,
       "19": 34,
-      "20": 57,
-      "21": 132,
+      "20": 58,
+      "21": 133,
       "22": 107,
       "23": 68
     }
@@ -1994,8 +2004,8 @@
   "weeklyCommits": {
     "/": {
       "Mon": 1492,
-      "Tue": 130,
-      "Wed": 257,
+      "Tue": 131,
+      "Wed": 258,
       "Thu": 155,
       "Fri": 152,
       "Sat": 0,
@@ -2058,6 +2068,8 @@
         "<a class=\"internal-link\" href=\"software/linux/create linux superuser.md\"> create linux superuser </a>"
       ],
       "Created": [
+        "<a class=\"internal-link\" href=\"personal/daily/2022/23-03-22.md\"> 23-03-22 </a>",
+        "<a class=\"internal-link\" href=\"personal/daily/2022/23-03-21.md\"> 23-03-21 </a>",
         "<a class=\"internal-link\" href=\"personal/daily/2022/23-03-19.md\"> 23-03-19 </a>",
         "<a class=\"internal-link\" href=\"personal/daily/2022/23-03-18.md\"> 23-03-18 </a>",
         "<a class=\"internal-link\" href=\"learning/mental/productivity/Think things with me.md\"> Think things with me </a>",
@@ -2106,9 +2118,7 @@
         "<a class=\"internal-link\" href=\"learning/financial/trading/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"learning/computing/security/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"learning/mathematics/trigonometry/Untitled.md\"> Untitled </a>",
-        "<a class=\"internal-link\" href=\"learning/mathematics/calculus/Untitled.md\"> Untitled </a>",
-        "<a class=\"internal-link\" href=\"learning/financial/career/onboarding/Untitled.md\"> Untitled </a>",
-        "<a class=\"internal-link\" href=\"learning/computing/programming/rust/tooling/Untitled.md\"> Untitled </a>"
+        "<a class=\"internal-link\" href=\"learning/mathematics/calculus/Untitled.md\"> Untitled </a>"
       ],
       "Renamed": [
         "<a class=\"internal-link\" href=\"personal/daily/2023/23-01-15.md\"> 23-01-15 </a>",
