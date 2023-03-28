@@ -4,128 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "0258f87592fde662",
+        "id": "f1cedacdb7d2fa19",
         "type": "tabs",
         "children": [
           {
-            "id": "fca6f0a928f7d71f",
+            "id": "87b7a58e829de7a8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "learning/computing/programming/rust/basics/importing rust modules.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8470e14e0cc9b75c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "learning/computing/security/auth/JSON Web Token.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "68a78707b602b9f9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "personal/daily/2022/23-02-20.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "151c239ce78c0b1a",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "ed6555117f68eda7",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "db5b3c0d545077f2",
-            "type": "leaf",
-            "state": {
-              "type": "kanban",
-              "state": {
-                "file": "personal/games.md"
-              }
-            }
-          },
-          {
-            "id": "50ba21b3f322ee50",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "learning/computing/programming/rust/basics/functions.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2344990a51f03a46",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "learning/computing/programming/rust/snippets/Append a line to a file.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a4fbaa83420c717e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "learning/computing/software/containers/buildah/buildah example lighttpd.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f075a8b628d76dc3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "learning/mental/productivity/Think things with me.md",
+                "file": "personal/daily/2022/23-03-28.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 9
+        ]
       }
     ],
     "direction": "vertical"
@@ -183,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "learning/mental/productivity/Think things with me.md",
+                "file": "personal/daily/2022/23-03-28.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -200,7 +95,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "learning/mental/productivity/Think things with me.md"
+                "file": "personal/daily/2022/23-03-28.md"
               }
             }
           },
@@ -252,20 +147,24 @@
       "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false
     }
   },
-  "active": "f075a8b628d76dc3",
+  "active": "87b7a58e829de7a8",
   "lastOpenFiles": [
-    "learning/computing/software/containers/buildah/buildah example lighttpd.md",
+    "personal/daily/2022/23-03-28.md",
     "learning/mental/productivity/Think things with me.md",
-    "learning/computing/software/make/makefile with a setup and run in dirs.md",
+    "learning/computing/software/containers/buildah/buildah example lighttpd.md",
     "learning/computing/programming/rust/snippets/Append a line to a file.md",
+    "learning/computing/programming/rust/basics/functions.md",
+    "personal/games.md",
+    "personal/daily/2022/23-02-20.md",
+    "learning/computing/programming/rust/basics/importing rust modules.md",
+    "learning/computing/security/auth/JSON Web Token.md",
+    "learning/computing/software/make/makefile with a setup and run in dirs.md",
     "learning/computing/programming/rust/snippets/Get Current Working Directory.md",
     "learning/computing/programming/rust/snippets/thread spam.md",
     "learning/computing/programming/rust/ownership/stack and heap.md",
     "learning/computing/programming/rust/projects/learning rust by making cli applications.md",
-    "learning/computing/programming/rust/basics/functions.md",
     "learning/computing/programming/rust/projects",
     "learning/techniques/black boxing.md",
-    "personal/games.md",
     "personal/daily/2022/23-03-08.md",
     "personal/numbers.md",
     "personal/blog/Learning Music in a different way.md",
@@ -273,8 +172,6 @@
     "personal/tasks.md",
     "personal/reading.md",
     "conflict-files-obsidian-git.md",
-    "personal/daily/2022/23-02-20.md",
-    "learning/computing/programming/rust/basics/importing rust modules.md",
     "learning/computing/programming/rust/basics/updating rust modules.md"
   ]
 }
