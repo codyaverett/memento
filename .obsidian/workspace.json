@@ -19,8 +19,35 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "3d9bd1d98bc0486a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3c8c35b5e34a4a6f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "learning/financial/business/Quoting contract work.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -78,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "personal/daily/2022/23-03-28.md",
+                "file": "learning/financial/business/Quoting contract work.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,7 +122,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "personal/daily/2022/23-03-28.md"
+                "file": "learning/financial/business/Quoting contract work.md"
               }
             }
           },
@@ -147,9 +174,23 @@
       "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false
     }
   },
-  "active": "87b7a58e829de7a8",
+  "active": "3c8c35b5e34a4a6f",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
+    "learning/financial/business/Quoting contract work.md",
+    "learning/financial/business",
     "personal/daily/2022/23-03-28.md",
+    "personal/daily/2023/23-03-18.md",
+    "personal/daily/2023/23-03-08.md",
+    "personal/daily/2023/23-02-20.md",
+    "personal/daily/2023/23-01-23.md",
+    "personal/daily/2023/23-01-19.md",
+    "personal/daily/2023/23-01-15.md",
+    "personal/daily/2023",
+    "personal/daily/2022/23-03-27.md",
+    "personal/daily/2022/23-03-22.md",
+    "personal/daily/2022/23-03-21.md",
+    "personal/daily/2022/23-03-19.md",
     "learning/mental/productivity/Think things with me.md",
     "learning/computing/software/containers/buildah/buildah example lighttpd.md",
     "learning/computing/programming/rust/snippets/Append a line to a file.md",
@@ -163,15 +204,6 @@
     "learning/computing/programming/rust/snippets/thread spam.md",
     "learning/computing/programming/rust/ownership/stack and heap.md",
     "learning/computing/programming/rust/projects/learning rust by making cli applications.md",
-    "learning/computing/programming/rust/projects",
-    "learning/techniques/black boxing.md",
-    "personal/daily/2022/23-03-08.md",
-    "personal/numbers.md",
-    "personal/blog/Learning Music in a different way.md",
-    "personal/shows.md",
-    "personal/tasks.md",
-    "personal/reading.md",
-    "conflict-files-obsidian-git.md",
-    "learning/computing/programming/rust/basics/updating rust modules.md"
+    "learning/computing/programming/rust/projects"
   ]
 }
