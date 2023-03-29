@@ -91,7 +91,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "personal/daily/2022/23-03-28.md",
+                "file": "README.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -170,7 +170,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "personal/daily/2022/23-03-28.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -187,7 +187,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "personal/daily/2022/23-03-28.md"
+                "file": "README.md"
               }
             }
           },
@@ -232,10 +232,10 @@
   },
   "active": "beed3c85003a2d12",
   "lastOpenFiles": [
+    "personal/daily/2022/23-03-28.md",
     "conflict-files-obsidian-git.md",
     "learning/financial/business/Quoting contract work.md",
     "learning/financial/business",
-    "personal/daily/2022/23-03-28.md",
     "personal/daily/2022/23-03-27.md",
     "personal/daily/2022/23-03-21.md",
     "personal/daily/2022/23-03-19.md",
