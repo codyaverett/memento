@@ -1968,12 +1968,22 @@
       "size": 0,
       "tags": 0,
       "links": 0
+    },
+    "personal/daily/2022/23-03-28.md": {
+      "size": 0,
+      "tags": 0,
+      "links": 0
+    },
+    "learning/financial/business/Quoting contract work.md": {
+      "size": 1853,
+      "tags": 0,
+      "links": 0
     }
   },
   "commitTypes": {
     "/": {
-      "Refactor": 1439,
-      "Create": 412,
+      "Refactor": 1441,
+      "Create": 416,
       "Link": 342,
       "Expand": 120
     }
@@ -2003,13 +2013,13 @@
       "20": 58,
       "21": 133,
       "22": 107,
-      "23": 68
+      "23": 74
     }
   },
   "weeklyCommits": {
     "/": {
       "Mon": 1493,
-      "Tue": 131,
+      "Tue": 137,
       "Wed": 258,
       "Thu": 155,
       "Fri": 152,
@@ -2073,6 +2083,10 @@
         "<a class=\"internal-link\" href=\"software/linux/create linux superuser.md\"> create linux superuser </a>"
       ],
       "Created": [
+        "<a class=\"internal-link\" href=\"learning/financial/business/Quoting contract work.md\"> Quoting contract work </a>",
+        "<a class=\"internal-link\" href=\"conflict-files-obsidian-git.md\"> conflict-files-obsidian-git </a>",
+        "<a class=\"internal-link\" href=\"learning/financial/business/Quoting contract work.md\"> Quoting contract work </a>",
+        "<a class=\"internal-link\" href=\"personal/daily/2022/23-03-28.md\"> 23-03-28 </a>",
         "<a class=\"internal-link\" href=\"personal/daily/2022/23-03-27.md\"> 23-03-27 </a>",
         "<a class=\"internal-link\" href=\"personal/daily/2022/23-03-22.md\"> 23-03-22 </a>",
         "<a class=\"internal-link\" href=\"personal/daily/2022/23-03-21.md\"> 23-03-21 </a>",
@@ -2119,11 +2133,7 @@
         "<a class=\"internal-link\" href=\"Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"personal/daily/2022/23-01-15.md\"> 23-01-15 </a>",
         "<a class=\"internal-link\" href=\"learning/financial/trading/btc/Untitled.md\"> Untitled </a>",
-        "<a class=\"internal-link\" href=\"learning/computing/programming/rust/snippets/Untitled.md\"> Untitled </a>",
-        "<a class=\"internal-link\" href=\"learning/financial/trading/Untitled.md\"> Untitled </a>",
-        "<a class=\"internal-link\" href=\"learning/financial/trading/Untitled.md\"> Untitled </a>",
-        "<a class=\"internal-link\" href=\"learning/computing/security/Untitled.md\"> Untitled </a>",
-        "<a class=\"internal-link\" href=\"learning/mathematics/trigonometry/Untitled.md\"> Untitled </a>"
+        "<a class=\"internal-link\" href=\"learning/computing/programming/rust/snippets/Untitled.md\"> Untitled </a>"
       ],
       "Renamed": [
         "<a class=\"internal-link\" href=\"personal/daily/2023/23-01-15.md\"> 23-01-15 </a>",
@@ -2233,6 +2243,8 @@
       ],
       "Refactored": [],
       "Deleted": [
+        "<a class=\"internal-link\" href=\"conflict-files-obsidian-git.md\"> conflict-files-obsidian-git </a>",
+        "<a class=\"internal-link\" href=\"learning/financial/business/Quoting contract work.md\"> Quoting contract work </a>",
         "<a class=\"internal-link\" href=\"learning/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"data/useful-links.md\"> useful-links </a>",
         "<a class=\"internal-link\" href=\"Untitled.md\"> Untitled </a>",
@@ -2281,9 +2293,7 @@
         "<a class=\"internal-link\" href=\"daily/11-04-22.md\"> 11-04-22 </a>",
         "<a class=\"internal-link\" href=\"daily/08-16-22.md\"> 08-16-22 </a>",
         "<a class=\"internal-link\" href=\"daily/09-12-22.md\"> 09-12-22 </a>",
-        "<a class=\"internal-link\" href=\"templates/accept job offer.md\"> accept job offer </a>",
-        "<a class=\"internal-link\" href=\"templates/decline accepted job offer.md\"> decline accepted job offer </a>",
-        "<a class=\"internal-link\" href=\"personal/work/Site for Oasis Landscaping.md\"> Site for Oasis Landscaping </a>"
+        "<a class=\"internal-link\" href=\"templates/accept job offer.md\"> accept job offer </a>"
       ],
       "Linked": [
         "<a class=\"internal-link\" href=\"personal/tasks.md\"> tasks </a>",
