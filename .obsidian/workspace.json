@@ -99,6 +99,19 @@
             }
           },
           {
+            "id": "7cc328870e576cbc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
             "id": "53216f280cafc4e3",
             "type": "leaf",
             "state": {
@@ -112,7 +125,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -170,7 +183,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "personal/daily/2022/23-03-28.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -187,7 +200,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "personal/daily/2022/23-03-28.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           },
@@ -230,10 +243,13 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "beed3c85003a2d12",
+  "active": "7cc328870e576cbc",
   "lastOpenFiles": [
-    "personal/daily/2022/23-03-27.md",
+    "learning/financial/business/Quoting contract work.md",
+    "learning/financial/business",
     "personal/daily/2022/23-03-28.md",
+    "conflict-files-obsidian-git.md",
+    "personal/daily/2022/23-03-27.md",
     "personal/daily/2022/23-03-21.md",
     "personal/daily/2022/23-03-19.md",
     "personal/daily/2023/23-03-18.md",
