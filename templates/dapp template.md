@@ -1,4 +1,0 @@
-# DappName
-
-- Describe the dapp
-- 
