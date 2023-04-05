@@ -1977,8 +1977,8 @@
   },
   "commitTypes": {
     "/": {
-      "Refactor": 1451,
-      "Create": 425,
+      "Refactor": 1452,
+      "Create": 426,
       "Link": 342,
       "Expand": 120
     }
@@ -2004,7 +2004,7 @@
       "16": 1203,
       "17": 196,
       "18": 39,
-      "19": 52,
+      "19": 54,
       "20": 58,
       "21": 133,
       "22": 107,
@@ -2014,7 +2014,7 @@
   "weeklyCommits": {
     "/": {
       "Mon": 1493,
-      "Tue": 154,
+      "Tue": 156,
       "Wed": 258,
       "Thu": 157,
       "Fri": 152,
@@ -2086,6 +2086,7 @@
         "<a class=\"internal-link\" href=\"conflict-files-obsidian-git.md\"> conflict-files-obsidian-git </a>",
         "<a class=\"internal-link\" href=\"conflict-files-obsidian-git.md\"> conflict-files-obsidian-git </a>",
         "<a class=\"internal-link\" href=\"conflict-files-obsidian-git.md\"> conflict-files-obsidian-git </a>",
+        "<a class=\"internal-link\" href=\"conflict-files-obsidian-git.md\"> conflict-files-obsidian-git </a>",
         "<a class=\"internal-link\" href=\"personal/daily/2022/23-04-04.md\"> 23-04-04 </a>",
         "<a class=\"internal-link\" href=\"learning/financial/business/Quoting contract work.md\"> Quoting contract work </a>",
         "<a class=\"internal-link\" href=\"conflict-files-obsidian-git.md\"> conflict-files-obsidian-git </a>",
@@ -2126,7 +2127,6 @@
         "<a class=\"internal-link\" href=\"learning/computing/security/auth/JSON Web Token.md\"> JSON Web Token </a>",
         "<a class=\"internal-link\" href=\"learning/computing/software/make/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"learning/computing/programming/protocols/ssh/Untitled.md\"> Untitled </a>",
-        "<a class=\"internal-link\" href=\"learning/financial/trading/pine scripting/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"learning/financial/trading/pine scripting/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"learning/financial/trading/pine scripting/Untitled.md\"> Untitled </a>"
       ],
@@ -2246,6 +2246,7 @@
         "<a class=\"internal-link\" href=\"conflict-files-obsidian-git.md\"> conflict-files-obsidian-git </a>",
         "<a class=\"internal-link\" href=\"conflict-files-obsidian-git.md\"> conflict-files-obsidian-git </a>",
         "<a class=\"internal-link\" href=\"conflict-files-obsidian-git.md\"> conflict-files-obsidian-git </a>",
+        "<a class=\"internal-link\" href=\"conflict-files-obsidian-git.md\"> conflict-files-obsidian-git </a>",
         "<a class=\"internal-link\" href=\"templates/shell snippet.md\"> shell snippet </a>",
         "<a class=\"internal-link\" href=\"templates/dapp template.md\"> dapp template </a>",
         "<a class=\"internal-link\" href=\"conflict-files-obsidian-git.md\"> conflict-files-obsidian-git </a>",
@@ -2287,8 +2288,7 @@
         "<a class=\"internal-link\" href=\"templates/related list.md\"> related list </a>",
         "<a class=\"internal-link\" href=\"templates/new topic.md\"> new topic </a>",
         "<a class=\"internal-link\" href=\"daily/08-11-22.md\"> 08-11-22 </a>",
-        "<a class=\"internal-link\" href=\"daily/08-18-22.md\"> 08-18-22 </a>",
-        "<a class=\"internal-link\" href=\"daily/08-19-22.md\"> 08-19-22 </a>"
+        "<a class=\"internal-link\" href=\"daily/08-18-22.md\"> 08-18-22 </a>"
       ],
       "Linked": [
         "<a class=\"internal-link\" href=\"personal/tasks.md\"> tasks </a>",
