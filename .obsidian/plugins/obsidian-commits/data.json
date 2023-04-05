@@ -9,11 +9,6 @@
       "tags": 1,
       "links": 0
     },
-    "templates/shell snippet.md": {
-      "size": 0,
-      "tags": 0,
-      "links": 0
-    },
     "learning/farming/Compost has four ingredients.md": {
       "size": 765,
       "tags": 1,
@@ -1679,11 +1674,6 @@
       "tags": 1,
       "links": 0
     },
-    "templates/dapp template.md": {
-      "size": 31,
-      "tags": 0,
-      "links": 0
-    },
     "learning/mental/ikigai.md": {
       "size": 0,
       "tags": 3,
@@ -1982,7 +1972,7 @@
   },
   "commitTypes": {
     "/": {
-      "Refactor": 1441,
+      "Refactor": 1443,
       "Create": 416,
       "Link": 342,
       "Expand": 120
@@ -1993,7 +1983,7 @@
       "0": 80,
       "1": 33,
       "2": 43,
-      "3": 56,
+      "3": 58,
       "4": 21,
       "5": 17,
       "6": 6,
@@ -2021,7 +2011,7 @@
       "Mon": 1493,
       "Tue": 137,
       "Wed": 258,
-      "Thu": 155,
+      "Thu": 157,
       "Fri": 152,
       "Sat": 0,
       "Sun": 124
@@ -2243,6 +2233,8 @@
       ],
       "Refactored": [],
       "Deleted": [
+        "<a class=\"internal-link\" href=\"templates/shell snippet.md\"> shell snippet </a>",
+        "<a class=\"internal-link\" href=\"templates/dapp template.md\"> dapp template </a>",
         "<a class=\"internal-link\" href=\"conflict-files-obsidian-git.md\"> conflict-files-obsidian-git </a>",
         "<a class=\"internal-link\" href=\"learning/financial/business/Quoting contract work.md\"> Quoting contract work </a>",
         "<a class=\"internal-link\" href=\"learning/Untitled.md\"> Untitled </a>",
@@ -2291,9 +2283,7 @@
         "<a class=\"internal-link\" href=\"software/data ETL/kettle.md\"> kettle </a>",
         "<a class=\"internal-link\" href=\"personal/college/WGU/about wgu.md\"> about wgu </a>",
         "<a class=\"internal-link\" href=\"daily/11-04-22.md\"> 11-04-22 </a>",
-        "<a class=\"internal-link\" href=\"daily/08-16-22.md\"> 08-16-22 </a>",
-        "<a class=\"internal-link\" href=\"daily/09-12-22.md\"> 09-12-22 </a>",
-        "<a class=\"internal-link\" href=\"templates/accept job offer.md\"> accept job offer </a>"
+        "<a class=\"internal-link\" href=\"daily/08-16-22.md\"> 08-16-22 </a>"
       ],
       "Linked": [
         "<a class=\"internal-link\" href=\"personal/tasks.md\"> tasks </a>",
