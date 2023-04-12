@@ -1973,12 +1973,17 @@
       "size": 0,
       "tags": 0,
       "links": 0
+    },
+    "learning/cooking/technique/cutting.md": {
+      "size": 0,
+      "tags": 0,
+      "links": 0
     }
   },
   "commitTypes": {
     "/": {
       "Refactor": 1452,
-      "Create": 426,
+      "Create": 427,
       "Link": 342,
       "Expand": 120
     }
@@ -2008,14 +2013,14 @@
       "20": 58,
       "21": 133,
       "22": 107,
-      "23": 74
+      "23": 75
     }
   },
   "weeklyCommits": {
     "/": {
       "Mon": 1493,
       "Tue": 156,
-      "Wed": 258,
+      "Wed": 259,
       "Thu": 157,
       "Fri": 152,
       "Sat": 0,
@@ -2078,6 +2083,7 @@
         "<a class=\"internal-link\" href=\"software/linux/create linux superuser.md\"> create linux superuser </a>"
       ],
       "Created": [
+        "<a class=\"internal-link\" href=\"learning/cooking/technique/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"conflict-files-obsidian-git.md\"> conflict-files-obsidian-git </a>",
         "<a class=\"internal-link\" href=\"conflict-files-obsidian-git.md\"> conflict-files-obsidian-git </a>",
         "<a class=\"internal-link\" href=\"conflict-files-obsidian-git.md\"> conflict-files-obsidian-git </a>",
@@ -2127,7 +2133,6 @@
         "<a class=\"internal-link\" href=\"learning/computing/security/auth/JSON Web Token.md\"> JSON Web Token </a>",
         "<a class=\"internal-link\" href=\"learning/computing/software/make/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"learning/computing/programming/protocols/ssh/Untitled.md\"> Untitled </a>",
-        "<a class=\"internal-link\" href=\"learning/financial/trading/pine scripting/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"learning/financial/trading/pine scripting/Untitled.md\"> Untitled </a>"
       ],
       "Renamed": [
