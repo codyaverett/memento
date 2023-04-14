@@ -1978,12 +1978,17 @@
       "size": 0,
       "tags": 0,
       "links": 0
+    },
+    "learning/reading/softwar.md": {
+      "size": 0,
+      "tags": 0,
+      "links": 0
     }
   },
   "commitTypes": {
     "/": {
       "Refactor": 1452,
-      "Create": 427,
+      "Create": 428,
       "Link": 342,
       "Expand": 120
     }
@@ -2012,7 +2017,7 @@
       "19": 54,
       "20": 58,
       "21": 133,
-      "22": 107,
+      "22": 108,
       "23": 75
     }
   },
@@ -2021,7 +2026,7 @@
       "Mon": 1493,
       "Tue": 156,
       "Wed": 259,
-      "Thu": 157,
+      "Thu": 158,
       "Fri": 152,
       "Sat": 0,
       "Sun": 124
@@ -2083,6 +2088,7 @@
         "<a class=\"internal-link\" href=\"software/linux/create linux superuser.md\"> create linux superuser </a>"
       ],
       "Created": [
+        "<a class=\"internal-link\" href=\"learning/reading/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"learning/cooking/technique/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"conflict-files-obsidian-git.md\"> conflict-files-obsidian-git </a>",
         "<a class=\"internal-link\" href=\"conflict-files-obsidian-git.md\"> conflict-files-obsidian-git </a>",
@@ -2132,8 +2138,7 @@
         "<a class=\"internal-link\" href=\"personal/daily/2022/23-01-19.md\"> 23-01-19 </a>",
         "<a class=\"internal-link\" href=\"learning/computing/security/auth/JSON Web Token.md\"> JSON Web Token </a>",
         "<a class=\"internal-link\" href=\"learning/computing/software/make/Untitled.md\"> Untitled </a>",
-        "<a class=\"internal-link\" href=\"learning/computing/programming/protocols/ssh/Untitled.md\"> Untitled </a>",
-        "<a class=\"internal-link\" href=\"learning/financial/trading/pine scripting/Untitled.md\"> Untitled </a>"
+        "<a class=\"internal-link\" href=\"learning/computing/programming/protocols/ssh/Untitled.md\"> Untitled </a>"
       ],
       "Renamed": [
         "<a class=\"internal-link\" href=\"personal/daily/2023/23-01-15.md\"> 23-01-15 </a>",
