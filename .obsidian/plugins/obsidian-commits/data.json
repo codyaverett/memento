@@ -1983,12 +1983,17 @@
       "size": 0,
       "tags": 0,
       "links": 0
+    },
+    "personal/daily/2022/23-04-17.md": {
+      "size": 0,
+      "tags": 0,
+      "links": 0
     }
   },
   "commitTypes": {
     "/": {
       "Refactor": 1452,
-      "Create": 428,
+      "Create": 429,
       "Link": 342,
       "Expand": 120
     }
@@ -2007,7 +2012,7 @@
       "9": 4,
       "10": 12,
       "11": 10,
-      "12": 9,
+      "12": 10,
       "13": 68,
       "14": 50,
       "15": 64,
@@ -2023,7 +2028,7 @@
   },
   "weeklyCommits": {
     "/": {
-      "Mon": 1493,
+      "Mon": 1494,
       "Tue": 156,
       "Wed": 259,
       "Thu": 158,
@@ -2088,6 +2093,7 @@
         "<a class=\"internal-link\" href=\"software/linux/create linux superuser.md\"> create linux superuser </a>"
       ],
       "Created": [
+        "<a class=\"internal-link\" href=\"personal/daily/2022/23-04-17.md\"> 23-04-17 </a>",
         "<a class=\"internal-link\" href=\"learning/reading/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"learning/cooking/technique/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"conflict-files-obsidian-git.md\"> conflict-files-obsidian-git </a>",
@@ -2137,8 +2143,7 @@
         "<a class=\"internal-link\" href=\"learning/computing/programming/testing/types of tests.md\"> types of tests </a>",
         "<a class=\"internal-link\" href=\"personal/daily/2022/23-01-19.md\"> 23-01-19 </a>",
         "<a class=\"internal-link\" href=\"learning/computing/security/auth/JSON Web Token.md\"> JSON Web Token </a>",
-        "<a class=\"internal-link\" href=\"learning/computing/software/make/Untitled.md\"> Untitled </a>",
-        "<a class=\"internal-link\" href=\"learning/computing/programming/protocols/ssh/Untitled.md\"> Untitled </a>"
+        "<a class=\"internal-link\" href=\"learning/computing/software/make/Untitled.md\"> Untitled </a>"
       ],
       "Renamed": [
         "<a class=\"internal-link\" href=\"personal/daily/2023/23-01-15.md\"> 23-01-15 </a>",
