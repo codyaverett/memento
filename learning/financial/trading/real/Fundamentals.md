@@ -45,4 +45,4 @@ High Income / High Savings
 		- Pain in the ass to create, but you OWN the underlying systems and have a full working understanding of how it operations
 		- If the prof die or the signals are stopped you still have a way to make money using a great investing system
 		- Works faster than long term investing.  More returns, lower risk.
-3. 
+3. Choice three is choice 2 without the work
