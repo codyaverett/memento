@@ -29,3 +29,6 @@ Anyone can make money using crypto, but some people get more benefit from it tha
 - Capital (how much money I have now in savings)
 
 People at different wealth levels can handle different levels of portfolio risk
+
+High Income / Low Savings
+- Lot
