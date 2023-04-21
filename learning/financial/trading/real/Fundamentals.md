@@ -46,3 +46,5 @@ High Income / High Savings
 		- If the prof die or the signals are stopped you still have a way to make money using a great investing system
 		- Works faster than long term investing.  More returns, lower risk.
 3. Choice three is choice 2 without the work
+   - Risk of failing without guidance
+   - Signal Following
