@@ -4,154 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "782565362ea0ce20",
+        "id": "12cdeb86a71fc4da",
         "type": "tabs",
         "children": [
           {
-            "id": "5b5060b122f48125",
+            "id": "b04a2604e88f176d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "learning/computing/programming/rust/basics/control flow.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9cc8a614deb1d95d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "learning/computing/programming/javascript/typescript/type guards.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "eeb13fa42a8a63b5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "learning/music/ideas/how do you know which major and minor keys go together?.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0484a8562b70bb9e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "learning/computing/programming/css/Cool background patterns.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3562266f2202dc19",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "learning/computing/programming/css/media-queries.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e595682f537eb472",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "personal/daily/2022/23-03-22.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "beed3c85003a2d12",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "personal/daily/2022/23-04-04.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8a57e7ce16795acf",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "learning/cooking/technique/cutting.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0f4aa99cf6fa6918",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "personal/daily/2022/23-04-17.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f07aea996e3b2d9c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "learning/computing/software/screencapture/Screenflow.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "53216f280cafc4e3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "learning/computing/programming/javascript/nodejs/speed up node processes by loading node_modules into ram.md",
+                "file": "learning/financial/trading/real/Principles of success.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 9
+        ]
       }
     ],
     "direction": "vertical"
@@ -209,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "learning/computing/software/screencapture/Screenflow.md",
+                "file": "learning/financial/trading/real/Principles of success.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -226,7 +95,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "learning/computing/software/screencapture/Screenflow.md"
+                "file": "learning/financial/trading/real/Principles of success.md"
               }
             }
           },
@@ -251,7 +120,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -269,10 +139,12 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "33a2bab88d111215",
+  "active": "b04a2604e88f176d",
   "lastOpenFiles": [
-    "personal/daily/2022/23-04-17.md",
+    "learning/financial/trading/real/Principles of success.md",
     "learning/computing/software/screencapture/Screenflow.md",
+    "learning/financial/trading/real",
+    "personal/daily/2022/23-04-17.md",
     "learning/computing/software/screencapture",
     "learning/reading/tips for reading quickly.md",
     "learning/reading/if you are forgetting what you read after you read it.md",

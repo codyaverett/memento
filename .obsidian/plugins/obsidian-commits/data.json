@@ -1988,12 +1988,17 @@
       "size": 0,
       "tags": 0,
       "links": 0
+    },
+    "learning/computing/software/screencapture/Screenflow.md": {
+      "size": 0,
+      "tags": 0,
+      "links": 0
     }
   },
   "commitTypes": {
     "/": {
       "Refactor": 1452,
-      "Create": 429,
+      "Create": 430,
       "Link": 342,
       "Expand": 120
     }
@@ -2021,7 +2026,7 @@
       "18": 39,
       "19": 54,
       "20": 58,
-      "21": 133,
+      "21": 134,
       "22": 108,
       "23": 75
     }
@@ -2029,7 +2034,7 @@
   "weeklyCommits": {
     "/": {
       "Mon": 1494,
-      "Tue": 156,
+      "Tue": 157,
       "Wed": 259,
       "Thu": 158,
       "Fri": 152,
@@ -2093,6 +2098,7 @@
         "<a class=\"internal-link\" href=\"software/linux/create linux superuser.md\"> create linux superuser </a>"
       ],
       "Created": [
+        "<a class=\"internal-link\" href=\"learning/computing/software/screencapture/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"personal/daily/2022/23-04-17.md\"> 23-04-17 </a>",
         "<a class=\"internal-link\" href=\"learning/reading/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"learning/cooking/technique/Untitled.md\"> Untitled </a>",
@@ -2142,8 +2148,7 @@
         "<a class=\"internal-link\" href=\"learning/computing/programming/databases/orm/knexjs/knexjs database orm.md\"> knexjs database orm </a>",
         "<a class=\"internal-link\" href=\"learning/computing/programming/testing/types of tests.md\"> types of tests </a>",
         "<a class=\"internal-link\" href=\"personal/daily/2022/23-01-19.md\"> 23-01-19 </a>",
-        "<a class=\"internal-link\" href=\"learning/computing/security/auth/JSON Web Token.md\"> JSON Web Token </a>",
-        "<a class=\"internal-link\" href=\"learning/computing/software/make/Untitled.md\"> Untitled </a>"
+        "<a class=\"internal-link\" href=\"learning/computing/security/auth/JSON Web Token.md\"> JSON Web Token </a>"
       ],
       "Renamed": [
         "<a class=\"internal-link\" href=\"personal/daily/2023/23-01-15.md\"> 23-01-15 </a>",
