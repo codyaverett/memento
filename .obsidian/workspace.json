@@ -62,7 +62,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 359.5
+    "width": 359.5,
+    "collapsed": true
   },
   "right": {
     "id": "27aa3db891e6815a",
@@ -141,6 +142,8 @@
   },
   "active": "b04a2604e88f176d",
   "lastOpenFiles": [
+    "learning/financial/trading/real/attachments/Pasted image 20230421063606.png",
+    "learning/financial/trading/real/attachments",
     "learning/financial/trading/real/Principles of success.md",
     "learning/computing/software/screencapture/Screenflow.md",
     "learning/financial/trading/real",

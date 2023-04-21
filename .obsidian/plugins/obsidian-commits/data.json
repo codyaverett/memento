@@ -1993,13 +1993,18 @@
       "size": 0,
       "tags": 0,
       "links": 0
+    },
+    "learning/financial/trading/real/Principles of success.md": {
+      "size": 0,
+      "tags": 0,
+      "links": 1
     }
   },
   "commitTypes": {
     "/": {
       "Refactor": 1452,
-      "Create": 430,
-      "Link": 342,
+      "Create": 431,
+      "Link": 343,
       "Expand": 120
     }
   },
@@ -2011,7 +2016,7 @@
       "3": 58,
       "4": 21,
       "5": 17,
-      "6": 6,
+      "6": 8,
       "7": 0,
       "8": 1,
       "9": 4,
@@ -2037,7 +2042,7 @@
       "Tue": 157,
       "Wed": 259,
       "Thu": 158,
-      "Fri": 152,
+      "Fri": 154,
       "Sat": 0,
       "Sun": 124
     }
@@ -2098,6 +2103,7 @@
         "<a class=\"internal-link\" href=\"software/linux/create linux superuser.md\"> create linux superuser </a>"
       ],
       "Created": [
+        "<a class=\"internal-link\" href=\"learning/financial/trading/real/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"learning/computing/software/screencapture/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"personal/daily/2022/23-04-17.md\"> 23-04-17 </a>",
         "<a class=\"internal-link\" href=\"learning/reading/Untitled.md\"> Untitled </a>",
@@ -2147,8 +2153,7 @@
         "<a class=\"internal-link\" href=\"personal/daily/2022/23-01-23.md\"> 23-01-23 </a>",
         "<a class=\"internal-link\" href=\"learning/computing/programming/databases/orm/knexjs/knexjs database orm.md\"> knexjs database orm </a>",
         "<a class=\"internal-link\" href=\"learning/computing/programming/testing/types of tests.md\"> types of tests </a>",
-        "<a class=\"internal-link\" href=\"personal/daily/2022/23-01-19.md\"> 23-01-19 </a>",
-        "<a class=\"internal-link\" href=\"learning/computing/security/auth/JSON Web Token.md\"> JSON Web Token </a>"
+        "<a class=\"internal-link\" href=\"personal/daily/2022/23-01-19.md\"> 23-01-19 </a>"
       ],
       "Renamed": [
         "<a class=\"internal-link\" href=\"personal/daily/2023/23-01-15.md\"> 23-01-15 </a>",
@@ -2311,6 +2316,7 @@
         "<a class=\"internal-link\" href=\"daily/08-18-22.md\"> 08-18-22 </a>"
       ],
       "Linked": [
+        "<a class=\"internal-link\" href=\"learning/financial/trading/real/Principles of success.md\"> Principles of success </a>",
         "<a class=\"internal-link\" href=\"personal/tasks.md\"> tasks </a>",
         "<a class=\"internal-link\" href=\"personal/tasks.md\"> tasks </a>",
         "<a class=\"internal-link\" href=\"learning/financial/trading/btc/big btc jumps.md\"> big btc jumps </a>",
@@ -2360,8 +2366,7 @@
         "<a class=\"internal-link\" href=\"software/data ETL/databend.md\"> databend </a>",
         "<a class=\"internal-link\" href=\"programming/python/python poetry.md\"> python poetry </a>",
         "<a class=\"internal-link\" href=\"programming/haskell/working with lists.md\"> working with lists </a>",
-        "<a class=\"internal-link\" href=\"programming/python/python extensions.md\"> python extensions </a>",
-        "<a class=\"internal-link\" href=\"programming/python/python basics.md\"> python basics </a>"
+        "<a class=\"internal-link\" href=\"programming/python/python extensions.md\"> python extensions </a>"
       ],
       "Removed Tags from": [
         "<a class=\"internal-link\" href=\"learning/computing/programming/python/python extensions.md\"> python extensions </a>",
