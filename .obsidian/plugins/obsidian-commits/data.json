@@ -1995,17 +1995,22 @@
       "links": 0
     },
     "learning/financial/trading/real/Principles of success.md": {
-      "size": 0,
+      "size": 2595,
       "tags": 0,
       "links": 1
+    },
+    "learning/financial/trading/real/Fundamentals.md": {
+      "size": 0,
+      "tags": 0,
+      "links": 0
     }
   },
   "commitTypes": {
     "/": {
-      "Refactor": 1452,
-      "Create": 431,
+      "Refactor": 1453,
+      "Create": 432,
       "Link": 343,
-      "Expand": 120
+      "Expand": 121
     }
   },
   "dailyCommits": {
@@ -2017,7 +2022,7 @@
       "4": 21,
       "5": 17,
       "6": 8,
-      "7": 0,
+      "7": 3,
       "8": 1,
       "9": 4,
       "10": 12,
@@ -2042,7 +2047,7 @@
       "Tue": 157,
       "Wed": 259,
       "Thu": 158,
-      "Fri": 154,
+      "Fri": 157,
       "Sat": 0,
       "Sun": 124
     }
@@ -2050,6 +2055,7 @@
   "recentCommits": {
     "/": {
       "Expanded": [
+        "<a class=\"internal-link\" href=\"learning/financial/trading/real/Principles of success.md\"> Principles of success </a>",
         "<a class=\"internal-link\" href=\"personal/blog/Shared Component Libraries.md\"> Shared Component Libraries </a>",
         "<a class=\"internal-link\" href=\"personal/blog/Shared Component Libraries.md\"> Shared Component Libraries </a>",
         "<a class=\"internal-link\" href=\"personal/blog/Shared Component Libraries.md\"> Shared Component Libraries </a>",
@@ -2099,10 +2105,10 @@
         "<a class=\"internal-link\" href=\"programming/python/python poetry.md\"> python poetry </a>",
         "<a class=\"internal-link\" href=\"programming/python/pyenv.md\"> pyenv </a>",
         "<a class=\"internal-link\" href=\"programming/python/pyenv.md\"> pyenv </a>",
-        "<a class=\"internal-link\" href=\"software/containers/buildah/create basic OCI image with buildah.md\"> create basic OCI image with buildah </a>",
-        "<a class=\"internal-link\" href=\"software/linux/create linux superuser.md\"> create linux superuser </a>"
+        "<a class=\"internal-link\" href=\"software/containers/buildah/create basic OCI image with buildah.md\"> create basic OCI image with buildah </a>"
       ],
       "Created": [
+        "<a class=\"internal-link\" href=\"learning/financial/trading/real/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"learning/financial/trading/real/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"learning/computing/software/screencapture/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"personal/daily/2022/23-04-17.md\"> 23-04-17 </a>",
@@ -2152,10 +2158,10 @@
         "<a class=\"internal-link\" href=\"learning/computing/programming/general/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"personal/daily/2022/23-01-23.md\"> 23-01-23 </a>",
         "<a class=\"internal-link\" href=\"learning/computing/programming/databases/orm/knexjs/knexjs database orm.md\"> knexjs database orm </a>",
-        "<a class=\"internal-link\" href=\"learning/computing/programming/testing/types of tests.md\"> types of tests </a>",
-        "<a class=\"internal-link\" href=\"personal/daily/2022/23-01-19.md\"> 23-01-19 </a>"
+        "<a class=\"internal-link\" href=\"learning/computing/programming/testing/types of tests.md\"> types of tests </a>"
       ],
       "Renamed": [
+        "<a class=\"internal-link\" href=\"learning/financial/trading/real/Fundamentals.md\"> Fundamentals </a>",
         "<a class=\"internal-link\" href=\"personal/daily/2023/23-01-15.md\"> 23-01-15 </a>",
         "<a class=\"internal-link\" href=\"personal/daily/2023/23-01-19.md\"> 23-01-19 </a>",
         "<a class=\"internal-link\" href=\"personal/daily/2023/23-01-23.md\"> 23-01-23 </a>",
@@ -2205,8 +2211,7 @@
         "<a class=\"internal-link\" href=\"learning/computing/programming/languages/c programming language.md\"> c programming language </a>",
         "<a class=\"internal-link\" href=\"learning/computing/really useful websites.md\"> really useful websites </a>",
         "<a class=\"internal-link\" href=\"learning/mental/productivity/really useful websites.md\"> really useful websites </a>",
-        "<a class=\"internal-link\" href=\"learning/mental/productivity/all failures are learning opportunities.md\"> all failures are learning opportunities </a>",
-        "<a class=\"internal-link\" href=\"learning/mental/productivity/general productivity tips.md\"> general productivity tips </a>"
+        "<a class=\"internal-link\" href=\"learning/mental/productivity/all failures are learning opportunities.md\"> all failures are learning opportunities </a>"
       ],
       "Tagged": [
         "<a class=\"internal-link\" href=\"learning/mental/productivity/Think things with me.md\"> Think things with me </a>",
