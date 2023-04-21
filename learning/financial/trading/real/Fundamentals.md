@@ -36,6 +36,13 @@ High Income / High Savings
 
 1. Long term investing using the advanced valuation models in daily analysis
    - Strategic dollar cost average when aggregate valuations are low.  Responsible profit taking when valuations are very high
-	       - Low time input
 	    - Very Effective
-	    - Takes a long time to work
+	    - Low time input
+	    - Takes a long time to work (Years)
+2. Develop your investing strategy by going through the investing masterclass & experienced lessons
+		- Hard work and takes a considerable time commitment up front
+		- After construction, the system is very low time input
+		- Pain in the ass to create, but you OWN the underlying systems and have a full working understanding of how it operations
+		- If the prof die or the signals are stopped you still have a way to make money using a great investing system
+		- Works faster than long term investing.  More returns, lower risk.
+3. 
