@@ -49,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#cloud",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -58,7 +58,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -140,7 +141,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "b04a2604e88f176d",
+  "active": "ae726e6606676848",
   "lastOpenFiles": [
     "learning/financial/trading/real/attachments/Pasted image 20230421063606.png",
     "learning/financial/trading/real/attachments",
