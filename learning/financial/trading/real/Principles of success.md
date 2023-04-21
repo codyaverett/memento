@@ -39,4 +39,12 @@ How do we know what season it is in?
 ## FOMO
 
 - Emotions do not belong
-- 
+- "fear of missing out"
+- Everything is trying to get your attention and effect your emotions
+- You don't chase after the plane, you find one that hasn't taken off yet.
+
+## Supply and Demand
+
+- The last cookie on the planet
+- If the baker cooks more cookies, the last cookie is worth less now.
+- Scarcity and quality
