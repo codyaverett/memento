@@ -34,4 +34,8 @@ Low Income / Low Savings
 Medium Income / Medium Savings
 High Income / High Savings
 
-
+1. Long term investing using the advanced valuation models in daily analysis
+   - Strategic dollar cost average when aggregate valuations are low.  Responsible profit taking when valuations are very high
+	       - Low time input
+	    - Very Effective
+	    - Takes a long time to work
