@@ -1,7 +1,7 @@
 ---
 name: Fundamentals
 created: 2023-04-21T07:03:07-05:00
-updated: 2023-04-21T07:03:21-05:00
+updated: 2023-04-24T22:07:59-05:00
 aliases: 
 tags: 
 ---
