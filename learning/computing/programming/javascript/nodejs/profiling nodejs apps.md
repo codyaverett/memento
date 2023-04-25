@@ -23,6 +23,12 @@ Check external dependencies: Make sure any external dependencies you're using ar
 
 By following these tips and using the right tools, you should be able to identify and fix any memory leaks in your Node.js process.
 
+## Tools
+
+- [ndb](https://www.npmjs.com/package/ndb)
+- Chrome debugger
+- 
+
 ## Reference
 
 - https://blog.logrocket.com/using-inbuilt-node-js-profiler/
