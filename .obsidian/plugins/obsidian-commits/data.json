@@ -2003,12 +2003,17 @@
       "size": 0,
       "tags": 0,
       "links": 0
+    },
+    "learning/computing/programming/javascript/nodejs/profiling nodejs apps.md": {
+      "size": 0,
+      "tags": 0,
+      "links": 0
     }
   },
   "commitTypes": {
     "/": {
       "Refactor": 1453,
-      "Create": 432,
+      "Create": 433,
       "Link": 343,
       "Expand": 121
     }
@@ -2037,13 +2042,13 @@
       "19": 54,
       "20": 58,
       "21": 134,
-      "22": 108,
+      "22": 109,
       "23": 75
     }
   },
   "weeklyCommits": {
     "/": {
-      "Mon": 1494,
+      "Mon": 1495,
       "Tue": 157,
       "Wed": 259,
       "Thu": 158,
@@ -2108,6 +2113,7 @@
         "<a class=\"internal-link\" href=\"software/containers/buildah/create basic OCI image with buildah.md\"> create basic OCI image with buildah </a>"
       ],
       "Created": [
+        "<a class=\"internal-link\" href=\"learning/computing/programming/javascript/nodejs/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"learning/financial/trading/real/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"learning/financial/trading/real/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"learning/computing/software/screencapture/Untitled.md\"> Untitled </a>",
@@ -2157,8 +2163,7 @@
         "<a class=\"internal-link\" href=\"learning/financial/career/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"learning/computing/programming/general/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"personal/daily/2022/23-01-23.md\"> 23-01-23 </a>",
-        "<a class=\"internal-link\" href=\"learning/computing/programming/databases/orm/knexjs/knexjs database orm.md\"> knexjs database orm </a>",
-        "<a class=\"internal-link\" href=\"learning/computing/programming/testing/types of tests.md\"> types of tests </a>"
+        "<a class=\"internal-link\" href=\"learning/computing/programming/databases/orm/knexjs/knexjs database orm.md\"> knexjs database orm </a>"
       ],
       "Renamed": [
         "<a class=\"internal-link\" href=\"learning/financial/trading/real/Fundamentals.md\"> Fundamentals </a>",
