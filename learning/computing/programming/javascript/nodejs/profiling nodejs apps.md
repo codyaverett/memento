@@ -1,7 +1,7 @@
 ---
 name: Profiling Nodejs Apps
 created: 2023-04-24T22:13:06-05:00
-updated: 2023-04-24T22:16:15-05:00
+updated: 2023-04-25T00:22:18-05:00
 aliases: 
 tags: 
 ---
@@ -27,7 +27,7 @@ By following these tips and using the right tools, you should be able to identif
 
 - [ndb](https://www.npmjs.com/package/ndb)
 - Chrome debugger
-- 
+- Jest `node --expose-gc ./node_modules/.bin/jest --logHeapUsage --detectLeaks`
 
 ## Reference
 
