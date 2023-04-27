@@ -32,22 +32,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "726e97606c7f4e51",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "learning/computing/programming/javascript/nodejs/profiling nodejs apps.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -105,7 +91,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "learning/computing/programming/javascript/nodejs/profiling nodejs apps.md",
+                "file": "learning/financial/trading/real/Principles of success.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +108,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "learning/computing/programming/javascript/nodejs/profiling nodejs apps.md"
+                "file": "learning/financial/trading/real/Principles of success.md"
               }
             }
           },
@@ -166,10 +152,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "726e97606c7f4e51",
+  "active": "b04a2604e88f176d",
   "lastOpenFiles": [
-    "learning/computing/programming/javascript/nodejs/nodejs memory limits.md",
     "learning/computing/programming/javascript/nodejs/profiling nodejs apps.md",
+    "learning/computing/programming/javascript/nodejs/nodejs memory limits.md",
     "learning/financial/trading/real/Fundamentals.md",
     "learning/financial/trading/real/Principles of success.md",
     "learning/financial/trading/real/attachments/Pasted image 20230421063606.png",
