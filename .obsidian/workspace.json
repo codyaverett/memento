@@ -26,14 +26,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "learning/computing/programming/javascript/nodejs/nodejs memory limits.md",
+                "file": "learning/mental/ADHD/ADHD and successful thinking.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -62,7 +63,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "success",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -71,7 +72,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -91,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "learning/financial/trading/real/Principles of success.md",
+                "file": "learning/mental/ADHD/ADHD and successful thinking.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,7 +110,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "learning/financial/trading/real/Principles of success.md"
+                "file": "learning/mental/ADHD/ADHD and successful thinking.md"
               }
             }
           },
@@ -152,12 +154,12 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "b04a2604e88f176d",
+  "active": "6c0e90d2db7c0113",
   "lastOpenFiles": [
-    "learning/computing/programming/javascript/nodejs/profiling nodejs apps.md",
     "learning/computing/programming/javascript/nodejs/nodejs memory limits.md",
-    "learning/financial/trading/real/Fundamentals.md",
     "learning/financial/trading/real/Principles of success.md",
+    "learning/computing/programming/javascript/nodejs/profiling nodejs apps.md",
+    "learning/financial/trading/real/Fundamentals.md",
     "learning/financial/trading/real/attachments/Pasted image 20230421063606.png",
     "learning/financial/trading/real/attachments",
     "learning/computing/software/screencapture/Screenflow.md",

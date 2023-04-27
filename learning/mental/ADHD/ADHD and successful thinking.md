@@ -1,7 +1,7 @@
 ---
-name: ADHD and successful thinking
+name: ADHD and Successful Thinking
 created: 2022-11-28T17:18:44-06:00
-updated: 2022-11-28T17:20:06-06:00
+updated: 2023-04-26T23:09:15-05:00
 aliases: 
 tags: quora, adhd
 ---
@@ -14,14 +14,23 @@ First and foremost, nearly anyone anywhere with nearly any deficit can have a 4.
 The Why (Successful Thinking)
 
 'Adultness'— I am the most 'adult' person I know. That is to say that I never allow my feelings to be an excuse for doing the wrong thing. Whether it's overeating or watching TV at the wrong time, it's all still wrong. I don't do the wrong thing; that is the nature of an adult.
+
 Written Goals— I have clearly defined written goals backed by detailed plans. Most adults have no goals. They have wishes. Goals are endpoints in time and sequence. That means actual goals have honest-to-goodness real deadlines and they take multiple steps to complete. The human brain has a working memory that is only FOUR BITS WIDE. You should have multiple goals in every area of your life. [Start with no more than three.] No human being can acutely track all those details and still perform optimally. Get those goals out of working memory and write them down. If your goals aren't written down, then all you really have are wishes.
+
 Planning in Advance— I plan everything. I plan my month before it starts. I plan my week (Monday-Sunday) the Sunday before. I keep a productivity journal and record my thoughts on what works and what doesn't periodically over the course of every day. Every night while laying in bed, I review my day and plan tomorrow. Tomorrow starts today! Don't ever forget that. Every morning—before I even get out of bed—I go over my calendar and tasks and finalize my day.
+
 Priority vs Urgency— I know the difference between priority and urgency. Many people do not. They mistakingly believe that these words are truly synonymous and think of them interchangeably. Filing our federal income taxes is important. However, when they aren't due for another nine months, they can hardly be called urgent. On the opposite spectrum, all telephone calls are urgent. Nearly none of them are important. Especially the ones from telemarketers!
+
 To-do Lists— I make lists ordered by priority and sequence. I use OmniFocus on OS X and iOS to list all of my goals (long, mid, and short). All of my milestones, projects, and tasks are then arranged hierarchically beneath them. This means that my entire task list naturally alignes with my goals. I'm always working from my goal-aligned task list and update it whenever I think of something. I never leave things floating around in my head.
+
 Time blocking— I maintain a separate calendar in my calendar app called Focus Time. I use it to block out the times in my day where I can batch process contextually identical tasks. All phone calls, for example, are the same context (i.e @phone) and can be batched together in a single block of time.
+
 Eat that Frog!— Frogs, in this case, being your ugliest and most important tasks. Always eat your frog first and, when choosing between two frogs, always eat the ugliest one first. ALWAYS. Your ugliest and most important tasks are the ones you're most likely to procrastinate on. Procrastination creates anxiety and the longer you keep that anxiety in your heart the worse your life is. Do them FIRST! This single behavior will all but TOTALLY ELIMINATE procrastination and anxiety from your life. Brian Tracy wrote a fantastic called Eat that Frog! and studying it is one of the best things you will could ever do for yourself.
+
 Smart Procrastination— I deliberately procrastinate. There is never an intelligent reason to do unimportant tasks when you still have important things to do. Never. Feelings are irrelevant. There is never enough time to do everything so just give up on thinking that you can. Deliberately procrastinating on all of your least valuable tasks is one of the best things that can ever happen to your personal productivity. Always start with your ugliest frog and work quickly and well, in order, from your ugliest task progressively towards your least ugly until—finally—things start looking downright lovely. Working this way becomes achievement through a process of liberation. Willpower is a finite quantity and we have the most we will ever have in our day first thing in the morning. Now your task list is aligned with your strength of will. Once you start working this way, every day of the rest of your life will feel awesome.
+
 Calendars as Thinking Tools— I use a calendar the right way! Many people don't. The list bellow (with the exception of Key Time) was taken from Asian Efficiency: Time Management and Productivity - Asian Efficiency. A calendar should contain ONLY the following:
+
 Appointments: dentist, classes, dinner with friends, meetings, etc.
 Deadlines: handing in report, filing taxes, etc.
 Events: pay day, birthdays, holidays, package arrival, etc.
