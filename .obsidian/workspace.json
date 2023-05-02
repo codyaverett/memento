@@ -89,7 +89,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 359.5
+    "width": 287.5
   },
   "right": {
     "id": "27aa3db891e6815a",
@@ -166,7 +166,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "385bfa98a13efda7",
+  "active": "33a2bab88d111215",
   "lastOpenFiles": [
     "learning/mental/ADHD/ADHD and successful thinking.md",
     "learning/computing/programming/javascript/nodejs/module plugin pattern.md",
