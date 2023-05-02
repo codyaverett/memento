@@ -32,9 +32,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "385bfa98a13efda7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "learning/computing/programming/javascript/nodejs/module plugin pattern.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -72,8 +85,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -93,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "learning/mental/ADHD/ADHD and successful thinking.md",
+                "file": "learning/computing/programming/javascript/nodejs/module plugin pattern.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +122,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "learning/mental/ADHD/ADHD and successful thinking.md"
+                "file": "learning/computing/programming/javascript/nodejs/module plugin pattern.md"
               }
             }
           },
@@ -154,8 +166,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "6c0e90d2db7c0113",
+  "active": "385bfa98a13efda7",
   "lastOpenFiles": [
+    "learning/mental/ADHD/ADHD and successful thinking.md",
+    "learning/computing/programming/javascript/nodejs/module plugin pattern.md",
     "learning/computing/programming/javascript/nodejs/nodejs memory limits.md",
     "learning/financial/trading/real/Principles of success.md",
     "learning/computing/programming/javascript/nodejs/profiling nodejs apps.md",
@@ -185,8 +199,6 @@
     "personal/notes/Garden Upgrades.md",
     "personal/notes/Document burnout.md",
     "learning/computing/programming/c and c++/c++ package managers.md",
-    "learning/computing/programming/data streams/Data streams vs buffers.md",
-    "learning/computing/programming/data ETL/data modeling.md",
-    "learning/computing/programming/data ETL/data warehouse.md"
+    "learning/computing/programming/data streams/Data streams vs buffers.md"
   ]
 }
