@@ -1,7 +1,7 @@
 ---
-name: component code organization
+name: Component Code Organization
 created: 2023-05-16T18:55:33-05:00
-updated: 2023-05-16T18:56:30-05:00
+updated: 2023-05-16T18:56:46-05:00
 aliases: 
 tags: 
 ---
