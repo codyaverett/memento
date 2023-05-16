@@ -2013,12 +2013,17 @@
       "size": 0,
       "tags": 0,
       "links": 0
+    },
+    "learning/computing/programming/react/component code organization.md": {
+      "size": 0,
+      "tags": 0,
+      "links": 0
     }
   },
   "commitTypes": {
     "/": {
       "Refactor": 1453,
-      "Create": 434,
+      "Create": 435,
       "Link": 343,
       "Expand": 122
     }
@@ -2043,7 +2048,7 @@
       "15": 64,
       "16": 1203,
       "17": 196,
-      "18": 39,
+      "18": 40,
       "19": 54,
       "20": 59,
       "21": 134,
@@ -2054,7 +2059,7 @@
   "weeklyCommits": {
     "/": {
       "Mon": 1496,
-      "Tue": 158,
+      "Tue": 159,
       "Wed": 259,
       "Thu": 158,
       "Fri": 157,
@@ -2118,6 +2123,7 @@
         "<a class=\"internal-link\" href=\"programming/python/pyenv.md\"> pyenv </a>"
       ],
       "Created": [
+        "<a class=\"internal-link\" href=\"learning/computing/programming/react/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"learning/computing/programming/javascript/nodejs/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"learning/computing/programming/javascript/nodejs/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"learning/financial/trading/real/Untitled.md\"> Untitled </a>",
@@ -2167,8 +2173,7 @@
         "<a class=\"internal-link\" href=\"learning/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"learning/computing/programming/swift/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"learning/financial/career/Untitled.md\"> Untitled </a>",
-        "<a class=\"internal-link\" href=\"learning/computing/programming/general/Untitled.md\"> Untitled </a>",
-        "<a class=\"internal-link\" href=\"personal/daily/2022/23-01-23.md\"> 23-01-23 </a>"
+        "<a class=\"internal-link\" href=\"learning/computing/programming/general/Untitled.md\"> Untitled </a>"
       ],
       "Renamed": [
         "<a class=\"internal-link\" href=\"learning/financial/trading/real/Fundamentals.md\"> Fundamentals </a>",
