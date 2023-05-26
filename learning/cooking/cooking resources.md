@@ -8,4 +8,3 @@ tags:
 # Cooking Resources
 
 - https://youtube.com/shorts/sG0UW_XWu9I?feature=share
-- 
