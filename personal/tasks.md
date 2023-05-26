@@ -26,16 +26,12 @@ tags: null
 - [ ] [[Setup a bind9 DNS server]]
 - [ ] [[create a deno plugin]]
 - [ ] Learn github actions and compare to concord
+- [ ] Scala with apache spark
+- [ ] Kafka with apache avro
 
 
 ## Todo
 
-- [ ] Learn about Snowflake DWH and document the basics
-- [ ] Read the Make manual
-- [ ] Read the Awk manual
-- [ ] Read the Sed manual
-- [ ] Read the Grep manual
-- [ ] Read the expect manual
 
 
 ## WIP
@@ -50,8 +46,6 @@ tags: null
 ## Done
 
 **Complete**
-- [x] [[Create a meta-repo cli tool replacement with rust]]
-- [x] Financial Planning
 
 
 ## Won't do
@@ -64,6 +58,14 @@ tags: null
 
 ## Archive
 
+- [x] [[Create a meta-repo cli tool replacement with rust]]
+- [x] Read the Sed manual
+- [x] Read the Awk manual
+- [x] Read the expect manual
+- [x] Read the Grep manual
+- [x] Read the Make manual
+- [x] Learn about Snowflake DWH and document the basics
+- [x] Financial Planning
 - [x] File Benton County Taxes
 
 %% kanban:settings
