@@ -63,12 +63,9 @@
             "id": "d522f177ba4e2b98",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "kanban",
               "state": {
-                "file": "learning/cooking/cooking resources.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
+                "file": "personal/tasks.md"
               }
             }
           }
@@ -131,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "learning/cooking/cooking resources.md",
+                "file": "personal/tasks.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -148,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "learning/cooking/cooking resources.md"
+                "file": "personal/tasks.md"
               }
             }
           },
@@ -192,10 +189,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "33a2bab88d111215",
+  "active": "d522f177ba4e2b98",
   "lastOpenFiles": [
-    "learning/computing/programming/react/component code organization.md",
     "learning/cooking/cooking resources.md",
+    "learning/computing/programming/react/component code organization.md",
     "learning/computing/programming/javascript/nodejs/module plugin pattern.md",
     "learning/mental/ADHD/ADHD and successful thinking.md",
     "learning/computing/programming/javascript/nodejs/nodejs memory limits.md",
