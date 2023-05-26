@@ -2018,12 +2018,17 @@
       "size": 0,
       "tags": 0,
       "links": 0
+    },
+    "learning/cooking/cooking resources.md": {
+      "size": 0,
+      "tags": 0,
+      "links": 0
     }
   },
   "commitTypes": {
     "/": {
-      "Refactor": 1453,
-      "Create": 435,
+      "Refactor": 1454,
+      "Create": 436,
       "Link": 343,
       "Expand": 122
     }
@@ -2053,7 +2058,7 @@
       "20": 59,
       "21": 134,
       "22": 109,
-      "23": 75
+      "23": 77
     }
   },
   "weeklyCommits": {
@@ -2061,7 +2066,7 @@
       "Mon": 1496,
       "Tue": 159,
       "Wed": 259,
-      "Thu": 158,
+      "Thu": 160,
       "Fri": 157,
       "Sat": 0,
       "Sun": 124
@@ -2123,6 +2128,7 @@
         "<a class=\"internal-link\" href=\"programming/python/pyenv.md\"> pyenv </a>"
       ],
       "Created": [
+        "<a class=\"internal-link\" href=\"learning/cooking/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"learning/computing/programming/react/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"learning/computing/programming/javascript/nodejs/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"learning/computing/programming/javascript/nodejs/Untitled.md\"> Untitled </a>",
@@ -2172,10 +2178,10 @@
         "<a class=\"internal-link\" href=\"learning/reading/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"learning/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"learning/computing/programming/swift/Untitled.md\"> Untitled </a>",
-        "<a class=\"internal-link\" href=\"learning/financial/career/Untitled.md\"> Untitled </a>",
-        "<a class=\"internal-link\" href=\"learning/computing/programming/general/Untitled.md\"> Untitled </a>"
+        "<a class=\"internal-link\" href=\"learning/financial/career/Untitled.md\"> Untitled </a>"
       ],
       "Renamed": [
+        "<a class=\"internal-link\" href=\"learning/cooking/cooking resources.md\"> cooking resources </a>",
         "<a class=\"internal-link\" href=\"learning/financial/trading/real/Fundamentals.md\"> Fundamentals </a>",
         "<a class=\"internal-link\" href=\"personal/daily/2023/23-01-15.md\"> 23-01-15 </a>",
         "<a class=\"internal-link\" href=\"personal/daily/2023/23-01-19.md\"> 23-01-19 </a>",
@@ -2225,8 +2231,7 @@
         "<a class=\"internal-link\" href=\"learning/computing/programming/languages/c++ programming language.md\"> c++ programming language </a>",
         "<a class=\"internal-link\" href=\"learning/computing/programming/languages/c programming language.md\"> c programming language </a>",
         "<a class=\"internal-link\" href=\"learning/computing/really useful websites.md\"> really useful websites </a>",
-        "<a class=\"internal-link\" href=\"learning/mental/productivity/really useful websites.md\"> really useful websites </a>",
-        "<a class=\"internal-link\" href=\"learning/mental/productivity/all failures are learning opportunities.md\"> all failures are learning opportunities </a>"
+        "<a class=\"internal-link\" href=\"learning/mental/productivity/really useful websites.md\"> really useful websites </a>"
       ],
       "Tagged": [
         "<a class=\"internal-link\" href=\"learning/mental/productivity/Think things with me.md\"> Think things with me </a>",
