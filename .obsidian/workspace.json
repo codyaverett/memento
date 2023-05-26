@@ -58,9 +58,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "d522f177ba4e2b98",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "learning/cooking/cooking resources.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -118,7 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "learning/computing/programming/react/component code organization.md",
+                "file": "learning/cooking/cooking resources.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "learning/computing/programming/react/component code organization.md"
+                "file": "learning/cooking/cooking resources.md"
               }
             }
           },
@@ -179,10 +192,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "a68517cfb616d9b5",
+  "active": "33a2bab88d111215",
   "lastOpenFiles": [
-    "learning/computing/programming/javascript/nodejs/module plugin pattern.md",
     "learning/computing/programming/react/component code organization.md",
+    "learning/cooking/cooking resources.md",
+    "learning/computing/programming/javascript/nodejs/module plugin pattern.md",
     "learning/mental/ADHD/ADHD and successful thinking.md",
     "learning/computing/programming/javascript/nodejs/nodejs memory limits.md",
     "learning/financial/trading/real/Principles of success.md",
@@ -211,7 +225,6 @@
     "personal/daily/2022/23-03-19.md",
     "personal/daily/2023/23-03-18.md",
     "personal/notes/Garden Upgrades.md",
-    "personal/notes/Document burnout.md",
-    "learning/computing/programming/c and c++/c++ package managers.md"
+    "personal/notes/Document burnout.md"
   ]
 }
