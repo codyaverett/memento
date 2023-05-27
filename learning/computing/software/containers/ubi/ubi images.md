@@ -1,7 +1,7 @@
 ---
 name: Ubi Images
 created: 2023-05-27T05:49:55-05:00
-updated: 2023-05-27T05:50:28-05:00
+updated: 2023-05-27T08:57:35-05:00
 aliases: 
 tags: 
 ---
@@ -51,3 +51,5 @@ COPY --from=builder "/root/.nvm/versions/node/v20.2.0/bin/node" /usr/bin/node
 # Specify the default command to run when the container starts
 CMD ["bash", "-c", "source /root/.bashrc && sh"]
 ```
+
+## Example Minimal Python 3.11
