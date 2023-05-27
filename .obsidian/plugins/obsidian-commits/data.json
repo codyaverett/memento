@@ -2028,12 +2028,17 @@
       "size": 0,
       "tags": 0,
       "links": 0
+    },
+    "learning/computing/software/containers/ubi/ubi images.md": {
+      "size": 0,
+      "tags": 0,
+      "links": 0
     }
   },
   "commitTypes": {
     "/": {
       "Refactor": 1454,
-      "Create": 437,
+      "Create": 438,
       "Link": 343,
       "Expand": 122
     }
@@ -2045,7 +2050,7 @@
       "2": 43,
       "3": 58,
       "4": 21,
-      "5": 17,
+      "5": 18,
       "6": 8,
       "7": 3,
       "8": 1,
@@ -2074,7 +2079,7 @@
       "Thu": 160,
       "Fri": 157,
       "Sat": 0,
-      "Sun": 125
+      "Sun": 126
     }
   },
   "recentCommits": {
@@ -2133,6 +2138,7 @@
         "<a class=\"internal-link\" href=\"programming/python/pyenv.md\"> pyenv </a>"
       ],
       "Created": [
+        "<a class=\"internal-link\" href=\"learning/computing/software/containers/ubi/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"learning/techniques/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"learning/cooking/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"learning/computing/programming/react/Untitled.md\"> Untitled </a>",
@@ -2182,8 +2188,7 @@
         "<a class=\"internal-link\" href=\"personal/Untitled Kanban.md\"> Untitled Kanban </a>",
         "<a class=\"internal-link\" href=\"learning/computing/software/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"learning/reading/Untitled.md\"> Untitled </a>",
-        "<a class=\"internal-link\" href=\"learning/Untitled.md\"> Untitled </a>",
-        "<a class=\"internal-link\" href=\"learning/computing/programming/swift/Untitled.md\"> Untitled </a>"
+        "<a class=\"internal-link\" href=\"learning/Untitled.md\"> Untitled </a>"
       ],
       "Renamed": [
         "<a class=\"internal-link\" href=\"learning/cooking/cooking resources.md\"> cooking resources </a>",
