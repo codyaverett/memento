@@ -2023,12 +2023,17 @@
       "size": 0,
       "tags": 0,
       "links": 0
+    },
+    "learning/techniques/QEC note taking.md": {
+      "size": 0,
+      "tags": 0,
+      "links": 0
     }
   },
   "commitTypes": {
     "/": {
       "Refactor": 1454,
-      "Create": 436,
+      "Create": 437,
       "Link": 343,
       "Expand": 122
     }
@@ -2036,7 +2041,7 @@
   "dailyCommits": {
     "/": {
       "0": 81,
-      "1": 33,
+      "1": 34,
       "2": 43,
       "3": 58,
       "4": 21,
@@ -2069,7 +2074,7 @@
       "Thu": 160,
       "Fri": 157,
       "Sat": 0,
-      "Sun": 124
+      "Sun": 125
     }
   },
   "recentCommits": {
@@ -2128,6 +2133,7 @@
         "<a class=\"internal-link\" href=\"programming/python/pyenv.md\"> pyenv </a>"
       ],
       "Created": [
+        "<a class=\"internal-link\" href=\"learning/techniques/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"learning/cooking/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"learning/computing/programming/react/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"learning/computing/programming/javascript/nodejs/Untitled.md\"> Untitled </a>",
@@ -2177,8 +2183,7 @@
         "<a class=\"internal-link\" href=\"learning/computing/software/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"learning/reading/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"learning/Untitled.md\"> Untitled </a>",
-        "<a class=\"internal-link\" href=\"learning/computing/programming/swift/Untitled.md\"> Untitled </a>",
-        "<a class=\"internal-link\" href=\"learning/financial/career/Untitled.md\"> Untitled </a>"
+        "<a class=\"internal-link\" href=\"learning/computing/programming/swift/Untitled.md\"> Untitled </a>"
       ],
       "Renamed": [
         "<a class=\"internal-link\" href=\"learning/cooking/cooking resources.md\"> cooking resources </a>",
