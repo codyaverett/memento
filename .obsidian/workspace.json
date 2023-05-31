@@ -19,8 +19,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "cd9b7b36ade24a91",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "learning/computing/software/containers/podman/user selected graph driver.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -78,7 +92,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "learning/computing/software/containers/ubi/ubi images.md",
+                "file": "learning/computing/software/containers/podman/user selected graph driver.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,7 +109,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "learning/computing/software/containers/ubi/ubi images.md"
+                "file": "learning/computing/software/containers/podman/user selected graph driver.md"
               }
             }
           },
@@ -139,10 +153,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "33a2bab88d111215",
+  "active": "cd9b7b36ade24a91",
   "lastOpenFiles": [
-    "learning/techniques/QEC note taking.md",
     "learning/computing/software/containers/ubi/ubi images.md",
+    "learning/computing/software/containers/podman/user selected graph driver.md",
+    "learning/techniques/QEC note taking.md",
     "learning/computing/software/containers/ubi",
     "learning/computing/software/containers/podman",
     "personal/tasks.md",
@@ -173,7 +188,6 @@
     "learning/financial/business/Quoting contract work.md",
     "learning/financial/business",
     "personal/daily/2022/23-03-27.md",
-    "personal/daily/2022/23-03-21.md",
-    "personal/daily/2022/23-03-19.md"
+    "personal/daily/2022/23-03-21.md"
   ]
 }
