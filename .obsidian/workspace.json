@@ -63,7 +63,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "success",
+                "query": "tailscale",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -72,7 +72,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -153,7 +154,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "cd9b7b36ade24a91",
+  "active": "ae726e6606676848",
   "lastOpenFiles": [
     "learning/computing/software/containers/ubi/ubi images.md",
     "learning/computing/software/containers/podman/user selected graph driver.md",
