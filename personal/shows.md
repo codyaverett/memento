@@ -15,15 +15,15 @@ kanban-plugin: basic
 ## Watching
 
 - [ ] Boruto - Naruto the next generation
-- [ ] Extra Ordinary
 - [ ] Demon Slayer
-- [ ] Physical 100
 
 
 ## Finished
 
 - [ ] Fullmetal Alchemist - Brotherhood
+- [ ] Extra Ordinary
 - [ ] Naruto
+- [ ] Physical 100
 - [ ] Naruto Shipuden
 - [ ] [[Chainsaw Man]]
 
