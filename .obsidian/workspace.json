@@ -26,7 +26,7 @@
             "state": {
               "type": "kanban",
               "state": {
-                "file": "personal/shows.md"
+                "file": "personal/tasks.md"
               }
             }
           }
@@ -89,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "personal/shows.md",
+                "file": "personal/tasks.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +106,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "personal/shows.md"
+                "file": "personal/tasks.md"
               }
             }
           },
@@ -152,6 +152,7 @@
   },
   "active": "cd9b7b36ade24a91",
   "lastOpenFiles": [
+    "personal/shows.md",
     "learning/computing/software/containers/podman/user selected graph driver.md",
     "learning/computing/software/containers/ubi/ubi images.md",
     "learning/techniques/QEC note taking.md",
@@ -184,7 +185,6 @@
     "personal/daily/2022/23-03-28.md",
     "learning/financial/business/Quoting contract work.md",
     "learning/financial/business",
-    "personal/daily/2022/23-03-27.md",
-    "personal/daily/2022/23-03-21.md"
+    "personal/daily/2022/23-03-27.md"
   ]
 }
