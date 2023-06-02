@@ -36,16 +36,16 @@ tags: null
 
 ## WIP
 
-- [ ] Getting better at testing code
 - [ ] [[Learning and documenting rust]]
 - [ ] Getting better at CSS by taking Josh C's course
-- [ ] [[Garden Upgrades]]
 - [ ] [[Plan out writing a music book and toolset]]
 
 
 ## Done
 
 **Complete**
+- [x] Getting better at testing code
+- [x] [[Garden Upgrades]]
 
 
 ## Won't do
