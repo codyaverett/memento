@@ -32,6 +32,8 @@ tags: null
 
 ## Todo
 
+- [ ] Move Couch out of Office
+- [ ] Find home for drumkit
 
 
 ## WIP
