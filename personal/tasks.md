@@ -34,6 +34,8 @@ tags: null
 
 - [ ] Move Couch out of Office
 - [ ] Find home for drumkit
+- [ ] Move fridge from this house to that house
+- [ ] Solution for killing plants growing in my easement
 
 
 ## WIP
