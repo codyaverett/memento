@@ -11,27 +11,13 @@
             "id": "a4e6c4498ab9ac30",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "learning/computing/software/containers/ubi/ubi images.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "cd9b7b36ade24a91",
-            "type": "leaf",
-            "state": {
               "type": "kanban",
               "state": {
                 "file": "personal/tasks.md"
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -150,15 +136,15 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "cd9b7b36ade24a91",
+  "active": "a4e6c4498ab9ac30",
   "lastOpenFiles": [
+    "learning/computing/software/containers/ubi/ubi images.md",
+    "personal/tasks.md",
     "personal/shows.md",
     "learning/computing/software/containers/podman/user selected graph driver.md",
-    "learning/computing/software/containers/ubi/ubi images.md",
     "learning/techniques/QEC note taking.md",
     "learning/computing/software/containers/ubi",
     "learning/computing/software/containers/podman",
-    "personal/tasks.md",
     "learning/cooking/cooking resources.md",
     "learning/computing/programming/react/component code organization.md",
     "learning/computing/programming/javascript/nodejs/module plugin pattern.md",
