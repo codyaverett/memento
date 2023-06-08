@@ -37,6 +37,7 @@ tags: null
 - [ ] Move fridge from this house to that house
 - [ ] Solution for killing plants growing in my easement
 - [ ] Crunch house numbers in your own spreadsheet
+- [ ] Remove garbage grill from back yard
 
 
 ## WIP
