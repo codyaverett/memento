@@ -38,6 +38,8 @@ tags: null
 - [ ] Solution for killing plants growing in my easement
 - [ ] Crunch house numbers in your own spreadsheet
 - [ ] Remove garbage grill from back yard
+- [ ] Pick up candy for G's birthday
+- [ ] Setup database for personal stuff
 
 
 ## WIP
