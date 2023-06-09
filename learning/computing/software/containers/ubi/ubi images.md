@@ -1,7 +1,7 @@
 ---
 name: Ubi Images
 created: 2023-05-27T05:49:55-05:00
-updated: 2023-05-27T08:57:35-05:00
+updated: 2023-06-08T19:03:43-05:00
 aliases: 
 tags: 
 ---
@@ -53,3 +53,36 @@ CMD ["bash", "-c", "source /root/.bashrc && sh"]
 ```
 
 ## Example Minimal Python 3.11
+
+```dockerfile
+# Stage 1: Build CPython
+FROM registry.access.redhat.com/ubi9/ubi-minimal AS builder
+
+ARG PYTHON_VERSION=3.11
+
+# Install build dependencies
+RUN microdnf install -y git gcc make openssl-devel bzip2-devel libffi-devel zlib-devel xz-devel findutils
+
+# Clone CPython source code
+RUN git clone --depth 1 --branch ${PYTHON_VERSION} https://github.com/python/cpython.git
+
+
+# Build CPython
+RUN cd cpython && \
+    ./configure --enable-optimizations --prefix=/opt/python3 && \
+    make -j4 && \
+    make install
+
+# Stage 2: Create minimal CPython image
+FROM registry.access.redhat.com/ubi9/ubi-micro
+
+# Set the working directory
+WORKDIR /app
+
+# Copy built CPython binaries from the builder stage
+COPY --from=builder /opt/python3/bin/python3 /usr/bin/
+COPY --from=builder /opt/python3 /opt/python3
+
+# Specify the default command to run when the container starts
+CMD ["python3"]
+```
