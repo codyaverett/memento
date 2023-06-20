@@ -2043,12 +2043,17 @@
       "size": 0,
       "tags": 0,
       "links": 0
+    },
+    "learning/computing/cryptocurrency/trading/meme coins.md": {
+      "size": 0,
+      "tags": 0,
+      "links": 0
     }
   },
   "commitTypes": {
     "/": {
       "Refactor": 1454,
-      "Create": 440,
+      "Create": 441,
       "Link": 343,
       "Expand": 123
     }
@@ -2078,12 +2083,12 @@
       "20": 60,
       "21": 134,
       "22": 110,
-      "23": 77
+      "23": 78
     }
   },
   "weeklyCommits": {
     "/": {
-      "Mon": 1497,
+      "Mon": 1498,
       "Tue": 160,
       "Wed": 259,
       "Thu": 161,
@@ -2148,6 +2153,7 @@
         "<a class=\"internal-link\" href=\"programming/python/pyenv.md\"> pyenv </a>"
       ],
       "Created": [
+        "<a class=\"internal-link\" href=\"learning/computing/cryptocurrency/trading/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"learning/computing/hardware/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"learning/computing/software/containers/podman/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"learning/computing/software/containers/ubi/Untitled.md\"> Untitled </a>",
@@ -2197,8 +2203,7 @@
         "<a class=\"internal-link\" href=\"personal/blog/Learning Music in a different way.md\"> Learning Music in a different way </a>",
         "<a class=\"internal-link\" href=\"personal/notes/Build Heather's new raised garden bed.md\"> Build Heather's new raised garden bed </a>",
         "<a class=\"internal-link\" href=\"personal/Untitled Kanban.md\"> Untitled Kanban </a>",
-        "<a class=\"internal-link\" href=\"personal/Untitled Kanban.md\"> Untitled Kanban </a>",
-        "<a class=\"internal-link\" href=\"learning/computing/software/Untitled.md\"> Untitled </a>"
+        "<a class=\"internal-link\" href=\"personal/Untitled Kanban.md\"> Untitled Kanban </a>"
       ],
       "Renamed": [
         "<a class=\"internal-link\" href=\"learning/cooking/cooking resources.md\"> cooking resources </a>",
