@@ -13,14 +13,28 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "learning/computing/software/containers/ubi/ubi images.md",
+                "file": "learning/computing/software/sed.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "71d94ca9a50da333",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "learning/computing/hardware/mechanical design.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -78,7 +92,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "learning/computing/software/containers/ubi/ubi images.md",
+                "file": "learning/computing/hardware/mechanical design.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,7 +109,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "learning/computing/software/containers/ubi/ubi images.md"
+                "file": "learning/computing/hardware/mechanical design.md"
               }
             }
           },
@@ -139,10 +153,12 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "a4e6c4498ab9ac30",
+  "active": "71d94ca9a50da333",
   "lastOpenFiles": [
-    "personal/tasks.md",
+    "learning/computing/software/sed.md",
+    "learning/computing/hardware/mechanical design.md",
     "learning/computing/software/containers/ubi/ubi images.md",
+    "personal/tasks.md",
     "personal/shows.md",
     "learning/computing/software/containers/podman/user selected graph driver.md",
     "learning/techniques/QEC note taking.md",
@@ -172,8 +188,6 @@
     "conflict-files-obsidian-git.md",
     "README.md",
     "personal/daily/2022/23-03-28.md",
-    "learning/financial/business/Quoting contract work.md",
-    "learning/financial/business",
-    "personal/daily/2022/23-03-27.md"
+    "learning/financial/business"
   ]
 }
