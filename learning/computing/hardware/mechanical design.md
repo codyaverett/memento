@@ -8,3 +8,4 @@ tags:
 # Mechanical Design
 
 - [Mechanical Design Basics](https://www.theengineersreference.com/tutorials/mechanical-design/)
+]
