@@ -55,9 +55,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "af95dd62b7aa147f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "learning/computing/cryptocurrency/L1 networks/Ergo/grand gambit casino.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -115,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "learning/computing/cryptocurrency/L1 networks/Cardano/dapps/axotrade.md",
+                "file": "learning/computing/cryptocurrency/L1 networks/Ergo/grand gambit casino.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "learning/computing/cryptocurrency/L1 networks/Cardano/dapps/axotrade.md"
+                "file": "learning/computing/cryptocurrency/L1 networks/Ergo/grand gambit casino.md"
               }
             }
           },
@@ -176,10 +189,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "33a2bab88d111215",
+  "active": "af95dd62b7aa147f",
   "lastOpenFiles": [
-    "learning/computing/cryptocurrency/L1 networks/Cardano/dapps/_db.md",
     "learning/computing/cryptocurrency/L1 networks/Cardano/dapps/axotrade.md",
+    "learning/computing/cryptocurrency/L1 networks/Ergo/grand gambit casino.md",
+    "learning/computing/cryptocurrency/L1 networks/Cardano/dapps/_db.md",
     "learning/computing/cryptocurrency/L1 networks/Cardano/dapps/AXO.md",
     "learning/computing/software/linux/linux sockets.md",
     "learning/computing/cryptocurrency/trading/meme coins.md",
@@ -210,7 +224,6 @@
     "learning/reading/tips for reading quickly.md",
     "learning/reading/if you are forgetting what you read after you read it.md",
     "learning/reading/list of reading products you can buy.md",
-    "learning/reading/softwar.md",
     "learning/cooking/technique",
     "learning/financial/business"
   ]
