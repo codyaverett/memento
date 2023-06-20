@@ -62,7 +62,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "learning/computing/cryptocurrency/L1 networks/Ergo/grand gambit casino.md",
+                "file": "learning/computing/cryptocurrency/L1 networks/Ergo/Ergo.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -128,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "learning/computing/cryptocurrency/L1 networks/Ergo/grand gambit casino.md",
+                "file": "learning/computing/cryptocurrency/L1 networks/Ergo/Ergo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "learning/computing/cryptocurrency/L1 networks/Ergo/grand gambit casino.md"
+                "file": "learning/computing/cryptocurrency/L1 networks/Ergo/Ergo.md"
               }
             }
           },
@@ -191,8 +191,8 @@
   },
   "active": "af95dd62b7aa147f",
   "lastOpenFiles": [
-    "learning/computing/cryptocurrency/L1 networks/Cardano/dapps/axotrade.md",
     "learning/computing/cryptocurrency/L1 networks/Ergo/grand gambit casino.md",
+    "learning/computing/cryptocurrency/L1 networks/Cardano/dapps/axotrade.md",
     "learning/computing/cryptocurrency/L1 networks/Cardano/dapps/_db.md",
     "learning/computing/cryptocurrency/L1 networks/Cardano/dapps/AXO.md",
     "learning/computing/software/linux/linux sockets.md",

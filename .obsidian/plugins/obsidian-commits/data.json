@@ -2058,12 +2058,17 @@
       "size": 0,
       "tags": 0,
       "links": 0
+    },
+    "learning/computing/cryptocurrency/L1 networks/Ergo/grand gambit casino.md": {
+      "size": 0,
+      "tags": 0,
+      "links": 0
     }
   },
   "commitTypes": {
     "/": {
       "Refactor": 1456,
-      "Create": 444,
+      "Create": 445,
       "Link": 343,
       "Expand": 124
     }
@@ -2075,7 +2080,7 @@
       "2": 43,
       "3": 58,
       "4": 26,
-      "5": 18,
+      "5": 19,
       "6": 8,
       "7": 3,
       "8": 1,
@@ -2099,7 +2104,7 @@
   "weeklyCommits": {
     "/": {
       "Mon": 1498,
-      "Tue": 166,
+      "Tue": 167,
       "Wed": 259,
       "Thu": 161,
       "Fri": 157,
@@ -2163,6 +2168,7 @@
         "<a class=\"internal-link\" href=\"programming/python/python poetry.md\"> python poetry </a>"
       ],
       "Created": [
+        "<a class=\"internal-link\" href=\"learning/computing/cryptocurrency/L1 networks/Ergo/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"learning/computing/cryptocurrency/L1 networks/Cardano/dapps/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"learning/computing/cryptocurrency/L1 networks/Cardano/dapps/AXO.md\"> AXO </a>",
         "<a class=\"internal-link\" href=\"learning/computing/software/linux/Untitled.md\"> Untitled </a>",
@@ -2212,8 +2218,7 @@
         "<a class=\"internal-link\" href=\"learning/computing/programming/javascript/nodejs/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"personal/blog/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"personal/notes/Plan out writing a music book and toolset.md\"> Plan out writing a music book and toolset </a>",
-        "<a class=\"internal-link\" href=\"personal/daily/2022/23-02-20.md\"> 23-02-20 </a>",
-        "<a class=\"internal-link\" href=\"personal/blog/Learning Music in a different way.md\"> Learning Music in a different way </a>"
+        "<a class=\"internal-link\" href=\"personal/daily/2022/23-02-20.md\"> 23-02-20 </a>"
       ],
       "Renamed": [
         "<a class=\"internal-link\" href=\"learning/computing/cryptocurrency/L1 networks/Cardano/dapps/axotrade.md\"> axotrade </a>",
