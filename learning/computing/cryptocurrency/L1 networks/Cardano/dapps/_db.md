@@ -12,8 +12,8 @@ columns:
     input: text
     key: column1
     accessorKey: column1
-    label: Column 1
-    position: 0
+    label: Project
+    position: 1
     skipPersist: false
     isHidden: false
     sortIndex: -1
@@ -32,7 +32,7 @@ columns:
     skipPersist: false
     isDragDisabled: false
     csvCandidate: true
-    position: 0
+    position: 4
     isHidden: false
     sortIndex: -1
     config:
@@ -41,6 +41,40 @@ columns:
       media_width: 100
       media_height: 100
       isInline: true
+      task_hide_completed: true
+  Website:
+    input: text
+    accessorKey: Website
+    key: Website
+    id: Website
+    label: Website
+    position: 2
+    skipPersist: false
+    isHidden: false
+    sortIndex: -1
+    config:
+      enable_media_view: true
+      link_alias_enabled: true
+      media_width: 100
+      media_height: 100
+      isInline: false
+      task_hide_completed: true
+  Type:
+    input: text
+    accessorKey: Type
+    key: Type
+    id: Type
+    label: Type
+    position: 3
+    skipPersist: false
+    isHidden: false
+    sortIndex: -1
+    config:
+      enable_media_view: true
+      link_alias_enabled: true
+      media_width: 100
+      media_height: 100
+      isInline: false
       task_hide_completed: true
 config:
   remove_field_when_delete_column: false
@@ -60,7 +94,7 @@ config:
   source_destination_path: /
   frontmatter_quote_wrap: false
   row_templates_folder: /
-  current_row_template: 
+  current_row_template: learning/computing/cryptocurrency/L1 networks/Cardano/dapps/_db.md
   pagination_size: 10
   enable_js_formulas: false
   formula_folder_path: /
