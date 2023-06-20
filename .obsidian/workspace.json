@@ -32,9 +32,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "3b2f71359e08896c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "learning/computing/cryptocurrency/trading/meme coins.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -92,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "learning/computing/hardware/mechanical design.md",
+                "file": "learning/computing/cryptocurrency/trading/meme coins.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,7 +122,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "learning/computing/hardware/mechanical design.md"
+                "file": "learning/computing/cryptocurrency/trading/meme coins.md"
               }
             }
           },
@@ -153,10 +166,12 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "71d94ca9a50da333",
+  "active": "3b2f71359e08896c",
   "lastOpenFiles": [
-    "learning/computing/software/sed.md",
     "learning/computing/hardware/mechanical design.md",
+    "learning/computing/cryptocurrency/trading/meme coins.md",
+    "learning/computing/cryptocurrency/trading",
+    "learning/computing/software/sed.md",
     "learning/computing/software/containers/ubi/ubi images.md",
     "personal/tasks.md",
     "personal/shows.md",
@@ -187,7 +202,6 @@
     "learning/cooking/technique",
     "conflict-files-obsidian-git.md",
     "README.md",
-    "personal/daily/2022/23-03-28.md",
     "learning/financial/business"
   ]
 }

@@ -2038,12 +2038,17 @@
       "size": 0,
       "tags": 0,
       "links": 0
+    },
+    "learning/computing/hardware/mechanical design.md": {
+      "size": 0,
+      "tags": 0,
+      "links": 0
     }
   },
   "commitTypes": {
     "/": {
       "Refactor": 1454,
-      "Create": 439,
+      "Create": 440,
       "Link": 343,
       "Expand": 123
     }
@@ -2072,13 +2077,13 @@
       "19": 55,
       "20": 60,
       "21": 134,
-      "22": 109,
+      "22": 110,
       "23": 77
     }
   },
   "weeklyCommits": {
     "/": {
-      "Mon": 1496,
+      "Mon": 1497,
       "Tue": 160,
       "Wed": 259,
       "Thu": 161,
@@ -2143,6 +2148,7 @@
         "<a class=\"internal-link\" href=\"programming/python/pyenv.md\"> pyenv </a>"
       ],
       "Created": [
+        "<a class=\"internal-link\" href=\"learning/computing/hardware/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"learning/computing/software/containers/podman/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"learning/computing/software/containers/ubi/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"learning/techniques/Untitled.md\"> Untitled </a>",
@@ -2192,8 +2198,7 @@
         "<a class=\"internal-link\" href=\"personal/notes/Build Heather's new raised garden bed.md\"> Build Heather's new raised garden bed </a>",
         "<a class=\"internal-link\" href=\"personal/Untitled Kanban.md\"> Untitled Kanban </a>",
         "<a class=\"internal-link\" href=\"personal/Untitled Kanban.md\"> Untitled Kanban </a>",
-        "<a class=\"internal-link\" href=\"learning/computing/software/Untitled.md\"> Untitled </a>",
-        "<a class=\"internal-link\" href=\"learning/reading/Untitled.md\"> Untitled </a>"
+        "<a class=\"internal-link\" href=\"learning/computing/software/Untitled.md\"> Untitled </a>"
       ],
       "Renamed": [
         "<a class=\"internal-link\" href=\"learning/cooking/cooking resources.md\"> cooking resources </a>",
