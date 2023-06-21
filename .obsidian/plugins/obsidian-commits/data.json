@@ -2063,12 +2063,17 @@
       "size": 0,
       "tags": 0,
       "links": 0
+    },
+    "learning/financial/career/compensation ideas.md": {
+      "size": 0,
+      "tags": 0,
+      "links": 0
     }
   },
   "commitTypes": {
     "/": {
       "Refactor": 1456,
-      "Create": 445,
+      "Create": 446,
       "Link": 343,
       "Expand": 124
     }
@@ -2079,7 +2084,7 @@
       "1": 34,
       "2": 43,
       "3": 58,
-      "4": 26,
+      "4": 27,
       "5": 19,
       "6": 8,
       "7": 3,
@@ -2105,7 +2110,7 @@
     "/": {
       "Mon": 1498,
       "Tue": 167,
-      "Wed": 259,
+      "Wed": 260,
       "Thu": 161,
       "Fri": 157,
       "Sat": 0,
@@ -2168,6 +2173,7 @@
         "<a class=\"internal-link\" href=\"programming/python/python poetry.md\"> python poetry </a>"
       ],
       "Created": [
+        "<a class=\"internal-link\" href=\"learning/financial/career/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"learning/computing/cryptocurrency/L1 networks/Ergo/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"learning/computing/cryptocurrency/L1 networks/Cardano/dapps/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"learning/computing/cryptocurrency/L1 networks/Cardano/dapps/AXO.md\"> AXO </a>",
@@ -2217,8 +2223,7 @@
         "<a class=\"internal-link\" href=\"learning/computing/programming/javascript/typescript/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"learning/computing/programming/javascript/nodejs/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"personal/blog/Untitled.md\"> Untitled </a>",
-        "<a class=\"internal-link\" href=\"personal/notes/Plan out writing a music book and toolset.md\"> Plan out writing a music book and toolset </a>",
-        "<a class=\"internal-link\" href=\"personal/daily/2022/23-02-20.md\"> 23-02-20 </a>"
+        "<a class=\"internal-link\" href=\"personal/notes/Plan out writing a music book and toolset.md\"> Plan out writing a music book and toolset </a>"
       ],
       "Renamed": [
         "<a class=\"internal-link\" href=\"learning/computing/cryptocurrency/L1 networks/Cardano/dapps/axotrade.md\"> axotrade </a>",
