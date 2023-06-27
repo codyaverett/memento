@@ -2068,12 +2068,17 @@
       "size": 0,
       "tags": 0,
       "links": 0
+    },
+    "learning/financial/career/job search/terms.md": {
+      "size": 0,
+      "tags": 0,
+      "links": 0
     }
   },
   "commitTypes": {
     "/": {
       "Refactor": 1456,
-      "Create": 446,
+      "Create": 447,
       "Link": 343,
       "Expand": 124
     }
@@ -2098,7 +2103,7 @@
       "15": 64,
       "16": 1203,
       "17": 196,
-      "18": 40,
+      "18": 41,
       "19": 55,
       "20": 60,
       "21": 134,
@@ -2111,7 +2116,7 @@
       "Mon": 1498,
       "Tue": 167,
       "Wed": 260,
-      "Thu": 161,
+      "Thu": 162,
       "Fri": 157,
       "Sat": 0,
       "Sun": 126
@@ -2173,6 +2178,7 @@
         "<a class=\"internal-link\" href=\"programming/python/python poetry.md\"> python poetry </a>"
       ],
       "Created": [
+        "<a class=\"internal-link\" href=\"learning/financial/career/job search/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"learning/financial/career/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"learning/computing/cryptocurrency/L1 networks/Ergo/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"learning/computing/cryptocurrency/L1 networks/Cardano/dapps/Untitled.md\"> Untitled </a>",
@@ -2222,8 +2228,7 @@
         "<a class=\"internal-link\" href=\"learning/music/ideas/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"learning/computing/programming/javascript/typescript/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"learning/computing/programming/javascript/nodejs/Untitled.md\"> Untitled </a>",
-        "<a class=\"internal-link\" href=\"personal/blog/Untitled.md\"> Untitled </a>",
-        "<a class=\"internal-link\" href=\"personal/notes/Plan out writing a music book and toolset.md\"> Plan out writing a music book and toolset </a>"
+        "<a class=\"internal-link\" href=\"personal/blog/Untitled.md\"> Untitled </a>"
       ],
       "Renamed": [
         "<a class=\"internal-link\" href=\"learning/computing/cryptocurrency/L1 networks/Cardano/dapps/axotrade.md\"> axotrade </a>",
