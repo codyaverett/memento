@@ -6,6 +6,7 @@
       {
         "id": "12cdeb86a71fc4da",
         "type": "tabs",
+        "dimension": 40.52346570397112,
         "children": [
           {
             "id": "a4e6c4498ab9ac30",
@@ -107,6 +108,26 @@
           }
         ],
         "currentTab": 7
+      },
+      {
+        "id": "e80a946e536f9346",
+        "type": "tabs",
+        "dimension": 59.47653429602888,
+        "children": [
+          {
+            "id": "2c9c21e1368698d1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "personal/notes/Setup server infra.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -172,7 +193,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "personal/tasks.md",
+                "file": "personal/notes/Setup server infra.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -189,7 +210,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "personal/tasks.md"
+                "file": "personal/notes/Setup server infra.md"
               }
             }
           },
@@ -233,8 +254,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "db7bfc12b1a2fc54",
+  "active": "2c9c21e1368698d1",
   "lastOpenFiles": [
+    "personal/tasks.md",
+    "personal/notes/Setup server infra.md",
     "learning/computing/programming/python/python module search path.md",
     "learning/computing/programming/python/python os module.md",
     "learning/computing/programming/python/python classes.md",
@@ -254,7 +277,6 @@
     "learning/computing/cryptocurrency/trading",
     "learning/computing/software/sed.md",
     "learning/computing/software/containers/ubi/ubi images.md",
-    "personal/tasks.md",
     "personal/shows.md",
     "learning/computing/software/containers/podman/user selected graph driver.md",
     "learning/techniques/QEC note taking.md",
@@ -264,7 +286,6 @@
     "learning/computing/programming/react/component code organization.md",
     "learning/computing/programming/javascript/nodejs/module plugin pattern.md",
     "learning/mental/ADHD/ADHD and successful thinking.md",
-    "learning/computing/programming/javascript/nodejs/nodejs memory limits.md",
     "learning/financial/trading/real/attachments/Pasted image 20230421063606.png",
     "learning/financial/trading/real/attachments",
     "learning/financial/trading/real",

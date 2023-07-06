@@ -45,6 +45,7 @@ tags: null
 
 - [ ] [[Learning and documenting rust]]
 - [ ] Getting better at CSS by taking Josh C's course
+- [ ] [[Setup server infra]]
 
 
 ## Done
