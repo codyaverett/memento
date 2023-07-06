@@ -1,11 +1,11 @@
 ---
 name: Setup server infra
 created: 2023-07-06T03:33:02-05:00
-updated: 2023-07-06T03:33:04-05:00
+updated: 2023-07-06T03:36:07-05:00
 aliases: 
 tags: 
 ---
-# Setup server infra
+# Setup Server Infra
 
 ```
 sudo . /etc/os-release
@@ -19,4 +19,4 @@ sudo systemctl enable --now podman
 
 ## Reference
 
-
+- [install cockpit ubuntu better server](https://www.techrepublic.com/article/install-cockpit-ubuntu-better-server/)
