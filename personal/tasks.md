@@ -28,17 +28,16 @@ tags: null
 - [ ] Learn github actions and compare to concord
 - [ ] Scala with apache spark
 - [ ] Kafka with apache avro
+- [ ] CICD tooling research
 
 
 ## Todo
 
 - [ ] Move Couch out of Office
-- [ ] Find home for drumkit
 - [ ] Move fridge from this house to that house
 - [ ] Solution for killing plants growing in my easement
 - [ ] Crunch house numbers in your own spreadsheet
 - [ ] Remove garbage grill from back yard
-- [ ] Pick up candy for G's birthday
 - [ ] Setup database for personal stuff
 
 
@@ -46,7 +45,6 @@ tags: null
 
 - [ ] [[Learning and documenting rust]]
 - [ ] Getting better at CSS by taking Josh C's course
-- [ ] [[Plan out writing a music book and toolset]]
 
 
 ## Done
@@ -54,12 +52,15 @@ tags: null
 **Complete**
 - [x] Getting better at testing code
 - [x] [[Garden Upgrades]]
+- [x] Find home for drumkit
+- [x] Pick up candy for G's birthday
 
 
 ## Won't do
 
 **Complete**
 - [x] [[Demo webapp project Val and Riz]]
+- [x] [[Plan out writing a music book and toolset]]
 
 
 ***
