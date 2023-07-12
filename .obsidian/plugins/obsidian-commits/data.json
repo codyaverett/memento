@@ -2083,12 +2083,17 @@
       "size": 0,
       "tags": 0,
       "links": 0
+    },
+    "personal/school/saylor.org/saylor organization.md": {
+      "size": 0,
+      "tags": 0,
+      "links": 0
     }
   },
   "commitTypes": {
     "/": {
       "Refactor": 1456,
-      "Create": 449,
+      "Create": 450,
       "Link": 344,
       "Expand": 124
     }
@@ -2116,7 +2121,7 @@
       "18": 41,
       "19": 55,
       "20": 61,
-      "21": 134,
+      "21": 135,
       "22": 110,
       "23": 78
     }
@@ -2124,7 +2129,7 @@
   "weeklyCommits": {
     "/": {
       "Mon": 1499,
-      "Tue": 167,
+      "Tue": 168,
       "Wed": 260,
       "Thu": 164,
       "Fri": 157,
@@ -2188,6 +2193,7 @@
         "<a class=\"internal-link\" href=\"programming/python/python poetry.md\"> python poetry </a>"
       ],
       "Created": [
+        "<a class=\"internal-link\" href=\"personal/school/saylor.org/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"personal/notes/Setup server infra.md\"> Setup server infra </a>",
         "<a class=\"internal-link\" href=\"personal/daily/2022/23-06-26.md\"> 23-06-26 </a>",
         "<a class=\"internal-link\" href=\"learning/financial/career/job search/Untitled.md\"> Untitled </a>",
@@ -2237,8 +2243,7 @@
         "<a class=\"internal-link\" href=\"learning/computing/software/linux/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"learning/computing/programming/css/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"learning/computing/programming/css/Untitled.md\"> Untitled </a>",
-        "<a class=\"internal-link\" href=\"learning/music/ideas/Untitled.md\"> Untitled </a>",
-        "<a class=\"internal-link\" href=\"learning/computing/programming/javascript/typescript/Untitled.md\"> Untitled </a>"
+        "<a class=\"internal-link\" href=\"learning/music/ideas/Untitled.md\"> Untitled </a>"
       ],
       "Renamed": [
         "<a class=\"internal-link\" href=\"learning/computing/cryptocurrency/L1 networks/Cardano/dapps/axotrade.md\"> axotrade </a>",

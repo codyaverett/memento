@@ -6,7 +6,6 @@
       {
         "id": "12cdeb86a71fc4da",
         "type": "tabs",
-        "dimension": 40.52346570397112,
         "children": [
           {
             "id": "a4e6c4498ab9ac30",
@@ -76,7 +75,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "learning/financial/career/compensation ideas.md",
+                "file": "personal/school/saylor.org/saylor organization.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -107,27 +106,7 @@
             }
           }
         ],
-        "currentTab": 7
-      },
-      {
-        "id": "e80a946e536f9346",
-        "type": "tabs",
-        "dimension": 59.47653429602888,
-        "children": [
-          {
-            "id": "2c9c21e1368698d1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "personal/notes/Setup server infra.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          }
-        ]
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -193,7 +172,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "personal/notes/Setup server infra.md",
+                "file": "personal/school/saylor.org/saylor organization.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -210,7 +189,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "personal/notes/Setup server infra.md"
+                "file": "personal/school/saylor.org/saylor organization.md"
               }
             }
           },
@@ -254,8 +233,12 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "2c9c21e1368698d1",
+  "active": "14dbc5434b8f5883",
   "lastOpenFiles": [
+    "learning/financial/career/compensation ideas.md",
+    "personal/school/saylor.org/saylor organization.md",
+    "personal/school/saylor.org",
+    "learning/computing/cryptocurrency/L1 networks/Ethereum/Ethereum.md",
     "personal/tasks.md",
     "personal/notes/Setup server infra.md",
     "learning/computing/programming/python/python module search path.md",
@@ -263,7 +246,6 @@
     "learning/computing/programming/python/python classes.md",
     "personal/daily/2022/23-06-26.md",
     "learning/financial/career/job search/terms.md",
-    "learning/financial/career/compensation ideas.md",
     "learning/financial/career/job search",
     "learning/financial/career/code tests/tips on completing a timed code test.md",
     "learning/computing/cryptocurrency/L1 networks/Ergo/Ergo.md",
@@ -284,8 +266,6 @@
     "learning/computing/software/containers/podman",
     "learning/cooking/cooking resources.md",
     "learning/computing/programming/react/component code organization.md",
-    "learning/computing/programming/javascript/nodejs/module plugin pattern.md",
-    "learning/mental/ADHD/ADHD and successful thinking.md",
     "learning/financial/trading/real/attachments/Pasted image 20230421063606.png",
     "learning/financial/trading/real/attachments",
     "learning/financial/trading/real",
