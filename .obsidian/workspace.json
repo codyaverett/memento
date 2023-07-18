@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "learning/music/logic/create a polyrythmic.md",
+                "file": "learning/music/logic/Logic SDK.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "learning/music/logic/create a polyrythmic.md",
+                "file": "learning/music/logic/Logic SDK.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "learning/music/logic/create a polyrythmic.md"
+                "file": "learning/music/logic/Logic SDK.md"
               }
             }
           },
@@ -150,6 +150,7 @@
   "active": "ee11134d50dbf865",
   "lastOpenFiles": [
     "learning/music/logic/create a polyrythmic.md",
+    "learning/music/logic/Logic SDK.md",
     "learning/music/logic",
     "learning/computing/cryptocurrency/L1 networks/Ethereum/Ethereum.md",
     "learning/financial/career/code tests/tips on completing a timed code test.md",
@@ -180,7 +181,6 @@
     "learning/techniques/QEC note taking.md",
     "learning/computing/software/containers/ubi",
     "learning/computing/software/containers/podman",
-    "learning/cooking/cooking resources.md",
     "learning/financial/trading/real/attachments/Pasted image 20230421063606.png",
     "learning/financial/trading/real/attachments",
     "learning/financial/trading/real",
