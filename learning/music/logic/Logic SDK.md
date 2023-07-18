@@ -1,7 +1,7 @@
 ---
 name: Logic SDK
 created: 2023-07-17T20:14:52-05:00
-updated: 2023-07-17T20:15:25-05:00
+updated: 2023-07-17T20:16:15-05:00
 aliases: 
 tags: 
 ---
@@ -20,3 +20,7 @@ MIDI effect plug-ins: Can be inserted only in MIDI Effect slots on instrument ch
 
 Software instrument plug-ins: Can be inserted only in the Instrument slot on instrument channel strips.
 
+## Scripting
+
+- [Script Editor](https://support.apple.com/guide/logicpro/use-the-script-editor-lgcecc16550d/10.7.8/mac/12.3)
+- 
