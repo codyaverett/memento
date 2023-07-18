@@ -4,109 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "12cdeb86a71fc4da",
+        "id": "65649d7cc6380de8",
         "type": "tabs",
         "children": [
           {
-            "id": "a4e6c4498ab9ac30",
+            "id": "ee11134d50dbf865",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "learning/computing/software/sed.md",
+                "file": "learning/music/logic/create a polyrythmic.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
-              }
-            }
-          },
-          {
-            "id": "71d94ca9a50da333",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "learning/computing/hardware/mechanical design.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3b2f71359e08896c",
-            "type": "leaf",
-            "state": {
-              "type": "database-plugin",
-              "state": {
-                "file": "learning/computing/cryptocurrency/L1 networks/Cardano/dapps/_db.md"
-              }
-            }
-          },
-          {
-            "id": "2428b59c5cc7260f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "learning/computing/cryptocurrency/L1 networks/Cardano/dapps/axotrade.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "af95dd62b7aa147f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "learning/financial/career/code tests/tips on completing a timed code test.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "14dbc5434b8f5883",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "personal/school/saylor.org/saylor organization.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "507349a96a6e36f6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "learning/computing/cryptocurrency/L1 networks/Ethereum/Ethereum.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "db7bfc12b1a2fc54",
-            "type": "leaf",
-            "state": {
-              "type": "kanban",
-              "state": {
-                "file": "personal/tasks.md"
               }
             }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "vertical"
@@ -172,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "personal/school/saylor.org/saylor organization.md",
+                "file": "learning/music/logic/create a polyrythmic.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -189,7 +103,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "personal/school/saylor.org/saylor organization.md"
+                "file": "learning/music/logic/create a polyrythmic.md"
               }
             }
           },
@@ -233,12 +147,19 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "14dbc5434b8f5883",
+  "active": "ee11134d50dbf865",
   "lastOpenFiles": [
-    "learning/financial/career/compensation ideas.md",
-    "personal/school/saylor.org/saylor organization.md",
-    "personal/school/saylor.org",
+    "learning/music/logic/create a polyrythmic.md",
+    "learning/music/logic",
     "learning/computing/cryptocurrency/L1 networks/Ethereum/Ethereum.md",
+    "learning/financial/career/code tests/tips on completing a timed code test.md",
+    "learning/computing/software/sed.md",
+    "learning/computing/hardware/mechanical design.md",
+    "learning/computing/cryptocurrency/L1 networks/Cardano/dapps/_db.md",
+    "learning/computing/cryptocurrency/L1 networks/Cardano/dapps/axotrade.md",
+    "personal/school/saylor.org/saylor organization.md",
+    "learning/financial/career/compensation ideas.md",
+    "personal/school/saylor.org",
     "personal/tasks.md",
     "personal/notes/Setup server infra.md",
     "learning/computing/programming/python/python module search path.md",
@@ -247,17 +168,12 @@
     "personal/daily/2022/23-06-26.md",
     "learning/financial/career/job search/terms.md",
     "learning/financial/career/job search",
-    "learning/financial/career/code tests/tips on completing a timed code test.md",
     "learning/computing/cryptocurrency/L1 networks/Ergo/Ergo.md",
     "learning/computing/cryptocurrency/L1 networks/Ergo/grand gambit casino.md",
-    "learning/computing/cryptocurrency/L1 networks/Cardano/dapps/axotrade.md",
-    "learning/computing/cryptocurrency/L1 networks/Cardano/dapps/_db.md",
     "learning/computing/cryptocurrency/L1 networks/Cardano/dapps/AXO.md",
     "learning/computing/software/linux/linux sockets.md",
     "learning/computing/cryptocurrency/trading/meme coins.md",
-    "learning/computing/hardware/mechanical design.md",
     "learning/computing/cryptocurrency/trading",
-    "learning/computing/software/sed.md",
     "learning/computing/software/containers/ubi/ubi images.md",
     "personal/shows.md",
     "learning/computing/software/containers/podman/user selected graph driver.md",
@@ -265,12 +181,10 @@
     "learning/computing/software/containers/ubi",
     "learning/computing/software/containers/podman",
     "learning/cooking/cooking resources.md",
-    "learning/computing/programming/react/component code organization.md",
     "learning/financial/trading/real/attachments/Pasted image 20230421063606.png",
     "learning/financial/trading/real/attachments",
     "learning/financial/trading/real",
     "learning/computing/software/screencapture",
-    "learning/cooking/technique",
-    "learning/financial/business"
+    "learning/cooking/technique"
   ]
 }
