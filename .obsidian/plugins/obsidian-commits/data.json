@@ -2088,12 +2088,17 @@
       "size": 0,
       "tags": 0,
       "links": 0
+    },
+    "learning/music/logic/create a polyrythmic.md": {
+      "size": 0,
+      "tags": 0,
+      "links": 0
     }
   },
   "commitTypes": {
     "/": {
       "Refactor": 1456,
-      "Create": 450,
+      "Create": 451,
       "Link": 344,
       "Expand": 124
     }
@@ -2120,7 +2125,7 @@
       "17": 196,
       "18": 41,
       "19": 55,
-      "20": 61,
+      "20": 62,
       "21": 135,
       "22": 110,
       "23": 78
@@ -2128,7 +2133,7 @@
   },
   "weeklyCommits": {
     "/": {
-      "Mon": 1499,
+      "Mon": 1500,
       "Tue": 168,
       "Wed": 260,
       "Thu": 164,
@@ -2193,6 +2198,7 @@
         "<a class=\"internal-link\" href=\"programming/python/python poetry.md\"> python poetry </a>"
       ],
       "Created": [
+        "<a class=\"internal-link\" href=\"learning/music/logic/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"personal/school/saylor.org/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"personal/notes/Setup server infra.md\"> Setup server infra </a>",
         "<a class=\"internal-link\" href=\"personal/daily/2022/23-06-26.md\"> 23-06-26 </a>",
@@ -2242,8 +2248,7 @@
         "<a class=\"internal-link\" href=\"personal/daily/2022/23-03-08.md\"> 23-03-08 </a>",
         "<a class=\"internal-link\" href=\"learning/computing/software/linux/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"learning/computing/programming/css/Untitled.md\"> Untitled </a>",
-        "<a class=\"internal-link\" href=\"learning/computing/programming/css/Untitled.md\"> Untitled </a>",
-        "<a class=\"internal-link\" href=\"learning/music/ideas/Untitled.md\"> Untitled </a>"
+        "<a class=\"internal-link\" href=\"learning/computing/programming/css/Untitled.md\"> Untitled </a>"
       ],
       "Renamed": [
         "<a class=\"internal-link\" href=\"learning/computing/cryptocurrency/L1 networks/Cardano/dapps/axotrade.md\"> axotrade </a>",
