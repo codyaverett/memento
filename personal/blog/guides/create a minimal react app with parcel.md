@@ -7,6 +7,12 @@ tags:
 ---
 # create a minimal react app with parcel
 
+This is a minimal react project pattern I've pulled together.  It's quick and performant out of the box and you can add anything else you could need.
+
+After following these instructions, you will have created a react single page application that you can host from any standard web server.
+
+
+
 ## 1. Install nodejs and npm
 - Go to the [official Node.js website](https://nodejs.org/en/download/) and download the installer based on your operating system.
 - Install Node.js and npm from the installer (npm is included in the Node.js installation).
@@ -83,4 +89,9 @@ ReactDOM.render(<App />, document.getElementById('app'));
 - Parcel has Hot Module Replacement (HMR) enabled by default, so if you make changes to your code, those changes will automatically be reflected in your browser without you having to manually refresh the page.
 
 ## 9. Begin experimenting
+
+While 
+
 Let me know if you need further explanation or clarification on any of these steps.
+
+Happy Coding!
