@@ -82,7 +82,5 @@ ReactDOM.render(<App />, document.getElementById('app'));
 - You can access your app by going to `localhost:1234` in your web browser.
 - Parcel has Hot Module Replacement (HMR) enabled by default, so if you make changes to your code, those changes will automatically be reflected in your browser without you having to manually refresh the page.
 
-
-
 ## 9. Begin experimenting
 Let me know if you need further explanation or clarification on any of these steps.
