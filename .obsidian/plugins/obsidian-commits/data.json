@@ -2101,7 +2101,7 @@
     },
     "personal/blog/guides/create a minimal react app with parcel.md": {
       "size": 6800,
-      "tags": 0,
+      "tags": 1,
       "links": 0
     }
   },
@@ -2109,7 +2109,7 @@
     "/": {
       "Refactor": 1458,
       "Create": 453,
-      "Link": 344,
+      "Link": 345,
       "Expand": 128
     }
   },
@@ -2138,14 +2138,14 @@
       "20": 63,
       "21": 135,
       "22": 114,
-      "23": 81
+      "23": 82
     }
   },
   "weeklyCommits": {
     "/": {
       "Mon": 1501,
       "Tue": 168,
-      "Wed": 267,
+      "Wed": 268,
       "Thu": 164,
       "Fri": 157,
       "Sat": 0,
@@ -2314,6 +2314,7 @@
         "<a class=\"internal-link\" href=\"learning/computing/programming/languages/c++ programming language.md\"> c++ programming language </a>"
       ],
       "Tagged": [
+        "<a class=\"internal-link\" href=\"personal/blog/guides/create a minimal react app with parcel.md\"> create a minimal react app with parcel </a>",
         "<a class=\"internal-link\" href=\"learning/mental/productivity/Think things with me.md\"> Think things with me </a>",
         "<a class=\"internal-link\" href=\"learning/computing/programming/css/media-queries.md\"> media-queries </a>",
         "<a class=\"internal-link\" href=\"learning/computing/programming/css/Cool background patterns.md\"> Cool background patterns </a>",
@@ -2363,8 +2364,7 @@
         "<a class=\"internal-link\" href=\"learning/computing/programming/python/ansible/use ansible_runner from python module.md\"> use ansible_runner from python module </a>",
         "<a class=\"internal-link\" href=\"learning/computing/software/data ETL/apache airflow/apache airflow.md\"> apache airflow </a>",
         "<a class=\"internal-link\" href=\"learning/computing/cryptocurrency/Handshake.md\"> Handshake </a>",
-        "<a class=\"internal-link\" href=\"learning/computing/cryptocurrency/L1 networks/Avalanche.md\"> Avalanche </a>",
-        "<a class=\"internal-link\" href=\"learning/computing/programming/data ETL/ETL basics.md\"> ETL basics </a>"
+        "<a class=\"internal-link\" href=\"learning/computing/cryptocurrency/L1 networks/Avalanche.md\"> Avalanche </a>"
       ],
       "Refactored": [],
       "Deleted": [

@@ -1,7 +1,7 @@
 ---
 name: Create a Minimal React App with Parcel
 created: 2023-07-26T22:41:10-05:00
-updated: 2023-07-26T23:53:06-05:00
+updated: 2023-07-27T00:17:10-05:00
 aliases: 
 tags: minimalist
 ---
@@ -55,7 +55,7 @@ After following these instructions, you will have created a react single page ap
 </head>
 <body>
     <div id="app"></div>
-    <script src="./index.js"></script>
+    <script type="module" src="./index.js"></script>
 </body>
 </html>
 ```
