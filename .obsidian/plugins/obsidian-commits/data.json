@@ -2100,7 +2100,7 @@
       "links": 0
     },
     "personal/blog/guides/create a minimal react app with parcel.md": {
-      "size": 5839,
+      "size": 6800,
       "tags": 0,
       "links": 0
     }
@@ -2110,7 +2110,7 @@
       "Refactor": 1458,
       "Create": 453,
       "Link": 344,
-      "Expand": 127
+      "Expand": 128
     }
   },
   "dailyCommits": {
@@ -2138,14 +2138,14 @@
       "20": 63,
       "21": 135,
       "22": 114,
-      "23": 80
+      "23": 81
     }
   },
   "weeklyCommits": {
     "/": {
       "Mon": 1501,
       "Tue": 168,
-      "Wed": 266,
+      "Wed": 267,
       "Thu": 164,
       "Fri": 157,
       "Sat": 0,
@@ -2155,6 +2155,7 @@
   "recentCommits": {
     "/": {
       "Expanded": [
+        "<a class=\"internal-link\" href=\"personal/blog/guides/create a minimal react app with parcel.md\"> create a minimal react app with parcel </a>",
         "<a class=\"internal-link\" href=\"personal/blog/guides/create a minimal react app with parcel.md\"> create a minimal react app with parcel </a>",
         "<a class=\"internal-link\" href=\"personal/blog/guides/create a minimal react app with parcel.md\"> create a minimal react app with parcel </a>",
         "<a class=\"internal-link\" href=\"learning/computing/programming/javascript/guides/create a minimal react app with parcel.md\"> create a minimal react app with parcel </a>",
@@ -2204,8 +2205,7 @@
         "<a class=\"internal-link\" href=\"personal/job-hunting/Drawing 2022-11-07 15.59.02.excalidraw.md\"> Drawing 2022-11-07 15.59.02.excalidraw </a>",
         "<a class=\"internal-link\" href=\"personal/lifehacks/forgetting what you read after you read it.md\"> forgetting what you read after you read it </a>",
         "<a class=\"internal-link\" href=\"software/data ETL/apache airflow/airflow DAGs.md\"> airflow DAGs </a>",
-        "<a class=\"internal-link\" href=\"software/data ETL/apache airflow/airflow module management.md\"> airflow module management </a>",
-        "<a class=\"internal-link\" href=\"software/nginx/nginx reverse proxy.md\"> nginx reverse proxy </a>"
+        "<a class=\"internal-link\" href=\"software/data ETL/apache airflow/airflow module management.md\"> airflow module management </a>"
       ],
       "Created": [
         "<a class=\"internal-link\" href=\"learning/computing/programming/javascript/guides/Untitled.md\"> Untitled </a>",
