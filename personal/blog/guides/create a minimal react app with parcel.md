@@ -1,7 +1,7 @@
 ---
 name: Create a Minimal React App with Parcel
 created: 2023-07-26T22:41:10-05:00
-updated: 2023-07-27T00:27:47-05:00
+updated: 2023-07-27T00:32:12-05:00
 aliases: 
 tags: minimalist
 ---
@@ -146,7 +146,15 @@ It's important to have a backup and history of your source code.  Having this wi
 - It's often helpful to create a `.gitignore` file at the root of your project to specify files or directories that you don't want Git to track. This is especially useful for ignoring `node_modules`, which you typically don't want to include in your repository. 
 - PLEASE DO NOT EVER commit a `node_modules` directory to a git repo.
 - You can create a `.gitignore` file in your text editor and add entries like `node_modules/` to it.
-- Here is [an example nodejs oriented .gitignore](https://github.com/github/gitignore/blob/main/Node.gitignore)
+  
+  e.g.  The `.gitignore` file could look like this
+```
+# prevent dependencies and build artifacts from being added to the git repository
+node_modules/
+dist/
+```
+
+- Here is another [example nodejs oriented .gitignore](https://github.com/github/gitignore/blob/main/Node.gitignore)
 
 ### 9.6 First Commit
 
