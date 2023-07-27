@@ -1,7 +1,7 @@
 ---
 name: Create a Minimal React App with Parcel
 created: 2023-07-26T22:41:10-05:00
-updated: 2023-07-26T23:27:17-05:00
+updated: 2023-07-26T23:37:13-05:00
 aliases: 
 tags: 
 ---
@@ -108,14 +108,18 @@ It's important to have a backup and history of your source code.  Having this wi
 
 - Once you're in your project directory, initialize Git by typing `git init` in your Command Prompt. This creates a new Git repository in your current directory. You should see a message like `"Initialized empty Git repository in path/to/your/project/.git/"`.
 
-### 9.5 Create a .gitignore File (optional but recommended)
+### 9.5 Create a .gitignore File (optional but HIGHLY recommended)
 
-- It's often helpful to create a .gitignore file at the root of your project to specify files or directories that you don't want Git to track. This is especially useful for ignoring node_modules, which you typically don't want to include in your repository. You can create a .gitignore file in your text editor and add entries like node_modules/ to it.
+- It's often helpful to create a `.gitignore` file at the root of your project to specify files or directories that you don't want Git to track. This is especially useful for ignoring `node_modules`, which you typically don't want to include in your repository. 
+- PLEASE DO NOT EVER commit a `node_modules` directory to a git repo.
+- You can create a `.gitignore` file in your text editor and add entries like `node_modules/` to it.
+- Here is [an example nodejs oriented .gitignore](https://github.com/github/gitignore/blob/main/Node.gitignore)
 
 ### 9.6 First Commit
 
 - Now you can make your first commit. First, add all your files to the staging area with `git add .`.
 - Then, commit these changes with `git commit -m "Initial commit"`. The -m flag allows you to add a message describing the commit.  "Initial commit" in this case.  You should try to commit independent changes often with enough description so you can easily follow the commit history.
+- If you have a remote repository set up somewhere, like on github.com you can `git push` the branches and changes there for safe keeping.
 
 ## Thanks for Playing
 
