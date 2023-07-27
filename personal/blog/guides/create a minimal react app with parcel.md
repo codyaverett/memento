@@ -1,7 +1,7 @@
 ---
 name: Create a Minimal React App with Parcel
 created: 2023-07-26T22:41:10-05:00
-updated: 2023-07-26T23:37:13-05:00
+updated: 2023-07-26T23:39:57-05:00
 aliases: 
 tags: 
 ---
@@ -22,7 +22,7 @@ After following these instructions, you will have created a react single page ap
 
 - Open your terminal/command prompt.
 - Navigate to the location where you want to create your new directory (for example, if you want to create it in your desktop, type cd Desktop).
-- Create a new directory by typing mkdir minimal_react.
+- Create a new directory by typing `mkdir minimal_react`. Execute.
 
 ## 3. Open That Directory in Your terminal/command Prompt
 
@@ -71,7 +71,7 @@ ReactDOM.render(<App />, document.getElementById('app'));
 
 ## 7. Add a Npm Script to Start Parcel Against the index.html
 
-- Open your package.json file and locate the "scripts" section.
+- Open your `package.json` file and locate or add the "scripts" section.
 - Add a new entry for "start" with the value "parcel index.html". It should look something like this:
   
 ```json
