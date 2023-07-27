@@ -35,7 +35,7 @@ After following these instructions, you will have created a react single page ap
 
 ## 5. Install Npm Dependencies for the Minimal Setup: `parcel, React, react-dom`
 
-- Still in your terminal, type `npm install parcel-bundler react react-dom`. This will install these packages and add them as dependencies in your package.json file.
+- Still in your terminal, type `npm install parcel react react-dom`. This will install these packages and add them as dependencies in your package.json file.
 
 ## 6. Create an index.html with Boilerplate and index.js with Basic React Components
 
