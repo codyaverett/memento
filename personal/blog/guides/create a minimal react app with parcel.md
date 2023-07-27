@@ -1,9 +1,9 @@
 ---
 name: Create a Minimal React App with Parcel
 created: 2023-07-26T22:41:10-05:00
-updated: 2023-07-26T23:50:27-05:00
+updated: 2023-07-26T23:53:06-05:00
 aliases: 
-tags: 
+tags: minimalist
 ---
 # Create a Minimal React App with Parcel
 
@@ -18,7 +18,7 @@ After following these instructions, you will have created a react single page ap
 	- `node -v` This should display the version of Node.js installed on your system.
 	- `npm -v` This should display the version of npm installed on your system.
 
-> NOTE: I recommend using [`pnpm`](https://pnpm.io/) instead of npm usually, but It's good to be familiar with both.  
+> NOTE: I recommend using [`pnpm`](https://pnpm.io/) instead of npm usually, but It's good to be familiar with both. 
 - You can install pnpm with npm by running `npm -g install pnpm`
 - These instructions will continue to use npm in the inital setup, but if you want to try using pnpm instead, just try using `pnpm` instead of `npm` for any of the commands you run below.
 
