@@ -1,7 +1,7 @@
 ---
 name: Create a Minimal React App with Parcel
 created: 2023-07-26T22:41:10-05:00
-updated: 2023-07-27T00:20:50-05:00
+updated: 2023-07-27T00:23:24-05:00
 aliases: 
 tags: minimalist
 ---
@@ -75,10 +75,11 @@ ReactDOM.render(<App />, document.getElementById('app'));
 
 ## 7. Add a Npm Script to Start Parcel Against the index.html
 
-- Open your `package.json` file and locate or add the "scripts" section.
+- Open your `package.json` file and locate or add the "scripts" and "source" sections.
 - Add a new entry for "start" with the value "parcel index.html". It should look something like this:
   
 ```json
+"source": "index.html",
 "scripts": {
     "start": "parcel index.html"
 }
