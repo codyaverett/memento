@@ -1,7 +1,7 @@
 ---
 name: Create a Minimal React App with Parcel
 created: 2023-07-26T22:41:10-05:00
-updated: 2023-07-27T00:23:24-05:00
+updated: 2023-07-27T00:27:47-05:00
 aliases: 
 tags: minimalist
 ---
@@ -39,7 +39,7 @@ After following these instructions, you will have created a react single page ap
 
 ## 5. Install Npm Dependencies for the Minimal Setup: `parcel, React, react-dom`
 
-- Still in your terminal, type `npm install react react-dom; npm install -D parcel`.  Execute.  This will install these packages and add them as dependencies in your package.json file.
+- Still in your terminal, type `npm install react react-dom; npm install -D parcel process`.  Execute.  This will install these packages and add them as dependencies in your package.json file.
 
 ## 6. Create an index.html with Boilerplate and index.js with Basic React Components
 
@@ -81,7 +81,35 @@ ReactDOM.render(<App />, document.getElementById('app'));
 ```json
 "source": "index.html",
 "scripts": {
-    "start": "parcel index.html"
+    "start": "parcel",
+    "build": "parcel build"
+}
+```
+
+My entire `package.json` looks like this
+
+```json
+{
+  "name": "react-starter",
+  "version": "1.0.0",
+  "source": "index.html",
+  "description": "minimalistic react project using parcel",
+  "scripts": {
+    "start": "parcel",
+    "build": "parcel build",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  },
+  "devDependencies": {
+    "parcel": "^2.9.3",
+    "process": "^0.11.10"
+  }
 }
 ```
 
