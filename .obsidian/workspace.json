@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "learning/music/logic/Logic SDK.md",
+                "file": "personal/blog/guides/create a minimal react app with parcel.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "learning/music/logic/Logic SDK.md",
+                "file": "personal/blog/guides/create a minimal react app with parcel.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "learning/music/logic/Logic SDK.md"
+                "file": "personal/blog/guides/create a minimal react app with parcel.md"
               }
             }
           },
@@ -147,10 +147,12 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "ee11134d50dbf865",
+  "active": "33a2bab88d111215",
   "lastOpenFiles": [
-    "learning/music/logic/create a polyrythmic.md",
     "learning/music/logic/Logic SDK.md",
+    "personal/blog/guides/create a minimal react app with parcel.md",
+    "personal/blog/guides",
+    "learning/music/logic/create a polyrythmic.md",
     "learning/music/logic",
     "learning/computing/cryptocurrency/L1 networks/Ethereum/Ethereum.md",
     "learning/financial/career/code tests/tips on completing a timed code test.md",
@@ -178,13 +180,11 @@
     "learning/computing/software/containers/ubi/ubi images.md",
     "personal/shows.md",
     "learning/computing/software/containers/podman/user selected graph driver.md",
-    "learning/techniques/QEC note taking.md",
     "learning/computing/software/containers/ubi",
     "learning/computing/software/containers/podman",
     "learning/financial/trading/real/attachments/Pasted image 20230421063606.png",
     "learning/financial/trading/real/attachments",
     "learning/financial/trading/real",
-    "learning/computing/software/screencapture",
-    "learning/cooking/technique"
+    "learning/computing/software/screencapture"
   ]
 }
