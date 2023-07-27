@@ -1,7 +1,7 @@
 ---
 name: Create a Minimal React App with Parcel
 created: 2023-07-26T22:41:10-05:00
-updated: 2023-07-27T00:32:12-05:00
+updated: 2023-07-27T00:44:39-05:00
 aliases: 
 tags: minimalist
 ---
@@ -65,6 +65,12 @@ After following these instructions, you will have created a react single page ap
 ```jsx
 import React from 'react';
 import ReactDOM from 'react-dom';
+
+// Enable HMR for development
+// Reference https://parceljs.org/features/development/#hot-reloading
+if (module.hot) {
+    module.hot.accept();
+}
 
 function App() {
     return <h1>Hello, world!</h1>;
