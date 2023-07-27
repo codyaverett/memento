@@ -1,7 +1,7 @@
 ---
-name: create a minimal react app with parcel
+name: Create a Minimal React App with Parcel
 created: 2023-07-26T22:41:10-05:00
-updated: 2023-07-26T23:06:59-05:00
+updated: 2023-07-26T23:27:17-05:00
 aliases: 
 tags: 
 ---
@@ -87,7 +87,37 @@ ReactDOM.render(<App />, document.getElementById('app'));
 - Parcel has Hot Module Replacement (HMR) enabled by default, so if you make changes to your code, those changes will automatically be reflected in your browser without you having to manually refresh the page.
 - Any updates you make to your source files will automatically be reflected in the browser after you save changes.
 
-## 9. Bonus: Initialize a git repo
+## 9. Bonus: Initialize a Git Repo
+
+It's important to have a backup and history of your source code.  Having this will enable you to branch and experiment with different changes.  It's also the main tool we will use to collaborate and share changes with other software developers.  Software development in the real world is a team sport.
+
+### 9.1 Install Git
+
+- If you haven't installed Git on your machine yet, you can download it from the [official Git website](https://git-scm.com/downloads). Download the version suitable for your operating system and install it.
+  
+### 9.2 Check Git Version
+
+- Open Command Prompt and type `git --version`. This should display the version of Git installed on your system, which confirms that the installation was successful.
+
+### 9.3 Navigate to Your Project Directory
+
+- If you're not already in your project directory (minimal_react), navigate to it using Command Prompt. You can do this with a command similar to `cd path\to\your\project`.
+- note: `cd` is the `current directory` program.  It changes the current directory to the path you specify.
+
+### 9.4 Initialize Git
+
+- Once you're in your project directory, initialize Git by typing `git init` in your Command Prompt. This creates a new Git repository in your current directory. You should see a message like `"Initialized empty Git repository in path/to/your/project/.git/"`.
+
+### 9.5 Create a .gitignore File (optional but recommended)
+
+- It's often helpful to create a .gitignore file at the root of your project to specify files or directories that you don't want Git to track. This is especially useful for ignoring node_modules, which you typically don't want to include in your repository. You can create a .gitignore file in your text editor and add entries like node_modules/ to it.
+
+### 9.6 First Commit
+
+- Now you can make your first commit. First, add all your files to the staging area with `git add .`.
+- Then, commit these changes with `git commit -m "Initial commit"`. The -m flag allows you to add a message describing the commit.  "Initial commit" in this case.  You should try to commit independent changes often with enough description so you can easily follow the commit history.
+
+## Thanks for Playing
 
 Let me know if you need further explanation or clarification on any of these steps.
 

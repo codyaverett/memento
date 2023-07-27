@@ -2100,7 +2100,7 @@
       "links": 0
     },
     "personal/blog/guides/create a minimal react app with parcel.md": {
-      "size": 3809,
+      "size": 5839,
       "tags": 0,
       "links": 0
     }
@@ -2110,7 +2110,7 @@
       "Refactor": 1458,
       "Create": 453,
       "Link": 344,
-      "Expand": 126
+      "Expand": 127
     }
   },
   "dailyCommits": {
@@ -2138,14 +2138,14 @@
       "20": 63,
       "21": 135,
       "22": 114,
-      "23": 79
+      "23": 80
     }
   },
   "weeklyCommits": {
     "/": {
       "Mon": 1501,
       "Tue": 168,
-      "Wed": 265,
+      "Wed": 266,
       "Thu": 164,
       "Fri": 157,
       "Sat": 0,
@@ -2155,6 +2155,7 @@
   "recentCommits": {
     "/": {
       "Expanded": [
+        "<a class=\"internal-link\" href=\"personal/blog/guides/create a minimal react app with parcel.md\"> create a minimal react app with parcel </a>",
         "<a class=\"internal-link\" href=\"personal/blog/guides/create a minimal react app with parcel.md\"> create a minimal react app with parcel </a>",
         "<a class=\"internal-link\" href=\"learning/computing/programming/javascript/guides/create a minimal react app with parcel.md\"> create a minimal react app with parcel </a>",
         "<a class=\"internal-link\" href=\"learning/computing/cryptocurrency/L1 networks/Cardano/dapps/_db.md\"> _db </a>",
@@ -2204,7 +2205,6 @@
         "<a class=\"internal-link\" href=\"personal/lifehacks/forgetting what you read after you read it.md\"> forgetting what you read after you read it </a>",
         "<a class=\"internal-link\" href=\"software/data ETL/apache airflow/airflow DAGs.md\"> airflow DAGs </a>",
         "<a class=\"internal-link\" href=\"software/data ETL/apache airflow/airflow module management.md\"> airflow module management </a>",
-        "<a class=\"internal-link\" href=\"software/nginx/nginx reverse proxy.md\"> nginx reverse proxy </a>",
         "<a class=\"internal-link\" href=\"software/nginx/nginx reverse proxy.md\"> nginx reverse proxy </a>"
       ],
       "Created": [
