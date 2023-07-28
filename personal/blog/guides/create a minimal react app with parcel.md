@@ -158,6 +158,7 @@ It's important to have a backup and history of your source code.  Having this wi
 # prevent dependencies and build artifacts from being added to the git repository
 node_modules/
 dist/
+.parcel-cache/
 ```
 
 - Here is another [example nodejs oriented .gitignore](https://github.com/github/gitignore/blob/main/Node.gitignore)
