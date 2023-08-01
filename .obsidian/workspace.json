@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "learning/computing/programming/javascript/ThreeJS/ThreeJS intro.md",
+                "file": "learning/computing/programming/rust/basics/Option Type.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "learning/computing/programming/javascript/ThreeJS/ThreeJS intro.md",
+                "file": "learning/computing/programming/rust/basics/Option Type.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "learning/computing/programming/javascript/ThreeJS/ThreeJS intro.md"
+                "file": "learning/computing/programming/rust/basics/Option Type.md"
               }
             }
           },
@@ -149,8 +149,10 @@
   },
   "active": "ee11134d50dbf865",
   "lastOpenFiles": [
-    "learning/computing/programming/javascript/3d cube with js.md",
+    "learning/computing/programming/rust/basics/Result type.md",
+    "learning/computing/programming/rust/basics/Option Type.md",
     "learning/computing/programming/javascript/ThreeJS/ThreeJS intro.md",
+    "learning/computing/programming/javascript/3d cube with js.md",
     "learning/computing/programming/javascript/ThreeJS",
     "personal/blog/guides/create a minimal react app with parcel.md",
     "learning/music/logic/Logic SDK.md",
@@ -178,9 +180,7 @@
     "learning/computing/cryptocurrency/L1 networks/Ergo/grand gambit casino.md",
     "learning/computing/cryptocurrency/L1 networks/Cardano/dapps/AXO.md",
     "learning/computing/software/linux/linux sockets.md",
-    "learning/computing/cryptocurrency/trading/meme coins.md",
     "learning/computing/cryptocurrency/trading",
-    "learning/computing/software/containers/ubi/ubi images.md",
     "learning/computing/software/containers/ubi",
     "learning/computing/software/containers/podman",
     "learning/financial/trading/real/attachments/Pasted image 20230421063606.png",

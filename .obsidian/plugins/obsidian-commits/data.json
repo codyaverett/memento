@@ -2103,12 +2103,17 @@
       "size": 6800,
       "tags": 1,
       "links": 0
+    },
+    "learning/computing/programming/javascript/ThreeJS/ThreeJS intro.md": {
+      "size": 0,
+      "tags": 0,
+      "links": 0
     }
   },
   "commitTypes": {
     "/": {
       "Refactor": 1458,
-      "Create": 453,
+      "Create": 454,
       "Link": 345,
       "Expand": 128
     }
@@ -2133,7 +2138,7 @@
       "15": 64,
       "16": 1203,
       "17": 196,
-      "18": 41,
+      "18": 42,
       "19": 55,
       "20": 63,
       "21": 135,
@@ -2149,7 +2154,7 @@
       "Thu": 164,
       "Fri": 157,
       "Sat": 0,
-      "Sun": 126
+      "Sun": 127
     }
   },
   "recentCommits": {
@@ -2208,6 +2213,7 @@
         "<a class=\"internal-link\" href=\"software/data ETL/apache airflow/airflow module management.md\"> airflow module management </a>"
       ],
       "Created": [
+        "<a class=\"internal-link\" href=\"learning/computing/programming/javascript/ThreeJS/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"learning/computing/programming/javascript/guides/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"learning/music/logic/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"learning/music/logic/Untitled.md\"> Untitled </a>",
@@ -2257,8 +2263,7 @@
         "<a class=\"internal-link\" href=\"learning/mental/productivity/Think things with me.md\"> Think things with me </a>",
         "<a class=\"internal-link\" href=\"learning/computing/software/make/makefile with a setup and run in dirs.md\"> makefile with a setup and run in dirs </a>",
         "<a class=\"internal-link\" href=\"learning/computing/programming/rust/projects/learning rust by making cli applications.md\"> learning rust by making cli applications </a>",
-        "<a class=\"internal-link\" href=\"personal/daily/2022/23-03-08.md\"> 23-03-08 </a>",
-        "<a class=\"internal-link\" href=\"learning/computing/software/linux/Untitled.md\"> Untitled </a>"
+        "<a class=\"internal-link\" href=\"personal/daily/2022/23-03-08.md\"> 23-03-08 </a>"
       ],
       "Renamed": [
         "<a class=\"internal-link\" href=\"personal/blog/guides/create a minimal react app with parcel.md\"> create a minimal react app with parcel </a>",
