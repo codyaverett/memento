@@ -2118,12 +2118,17 @@
       "size": 0,
       "tags": 0,
       "links": 0
+    },
+    "learning/computing/programming/rust/build/BuildRelease and install.md": {
+      "size": 0,
+      "tags": 0,
+      "links": 0
     }
   },
   "commitTypes": {
     "/": {
       "Refactor": 1458,
-      "Create": 456,
+      "Create": 457,
       "Link": 345,
       "Expand": 128
     }
@@ -2132,7 +2137,7 @@
     "/": {
       "0": 82,
       "1": 36,
-      "2": 43,
+      "2": 44,
       "3": 60,
       "4": 27,
       "5": 19,
@@ -2159,7 +2164,7 @@
   "weeklyCommits": {
     "/": {
       "Mon": 1501,
-      "Tue": 170,
+      "Tue": 171,
       "Wed": 268,
       "Thu": 164,
       "Fri": 157,
@@ -2223,6 +2228,7 @@
         "<a class=\"internal-link\" href=\"software/data ETL/apache airflow/airflow module management.md\"> airflow module management </a>"
       ],
       "Created": [
+        "<a class=\"internal-link\" href=\"learning/computing/programming/rust/build/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"learning/computing/programming/rust/basics/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"learning/computing/programming/rust/basics/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"learning/computing/programming/javascript/ThreeJS/Untitled.md\"> Untitled </a>",
@@ -2272,8 +2278,7 @@
         "<a class=\"internal-link\" href=\"personal/daily/2022/23-03-21.md\"> 23-03-21 </a>",
         "<a class=\"internal-link\" href=\"personal/daily/2022/23-03-19.md\"> 23-03-19 </a>",
         "<a class=\"internal-link\" href=\"personal/daily/2022/23-03-18.md\"> 23-03-18 </a>",
-        "<a class=\"internal-link\" href=\"learning/mental/productivity/Think things with me.md\"> Think things with me </a>",
-        "<a class=\"internal-link\" href=\"learning/computing/software/make/makefile with a setup and run in dirs.md\"> makefile with a setup and run in dirs </a>"
+        "<a class=\"internal-link\" href=\"learning/mental/productivity/Think things with me.md\"> Think things with me </a>"
       ],
       "Renamed": [
         "<a class=\"internal-link\" href=\"personal/blog/guides/create a minimal react app with parcel.md\"> create a minimal react app with parcel </a>",
