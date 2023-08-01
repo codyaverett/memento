@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "learning/computing/programming/rust/basics/Option Type.md",
+                "file": "learning/computing/programming/rust/build/BuildRelease and install.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "learning/computing/programming/rust/basics/Option Type.md",
+                "file": "learning/computing/programming/rust/build/BuildRelease and install.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "learning/computing/programming/rust/basics/Option Type.md"
+                "file": "learning/computing/programming/rust/build/BuildRelease and install.md"
               }
             }
           },
@@ -149,8 +149,10 @@
   },
   "active": "ee11134d50dbf865",
   "lastOpenFiles": [
-    "learning/computing/programming/rust/basics/Result type.md",
     "learning/computing/programming/rust/basics/Option Type.md",
+    "learning/computing/programming/rust/build/BuildRelease and install.md",
+    "learning/computing/programming/rust/build",
+    "learning/computing/programming/rust/basics/Result type.md",
     "learning/computing/programming/javascript/ThreeJS/ThreeJS intro.md",
     "learning/computing/programming/javascript/3d cube with js.md",
     "learning/computing/programming/javascript/ThreeJS",
@@ -179,12 +181,10 @@
     "learning/computing/cryptocurrency/L1 networks/Ergo/Ergo.md",
     "learning/computing/cryptocurrency/L1 networks/Ergo/grand gambit casino.md",
     "learning/computing/cryptocurrency/L1 networks/Cardano/dapps/AXO.md",
-    "learning/computing/software/linux/linux sockets.md",
     "learning/computing/cryptocurrency/trading",
     "learning/computing/software/containers/ubi",
     "learning/computing/software/containers/podman",
     "learning/financial/trading/real/attachments/Pasted image 20230421063606.png",
-    "learning/financial/trading/real/attachments",
-    "learning/financial/trading/real"
+    "learning/financial/trading/real/attachments"
   ]
 }
