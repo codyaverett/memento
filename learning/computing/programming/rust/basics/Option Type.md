@@ -25,4 +25,3 @@ fn find_number(numbers: Vec<i32>, target: i32) -> Option<usize> {
 This function returns Some(index) if it finds the target number in the vector, or None if it doesn't.
 
 Similar to Result, you can use the ? operator with Option to propagate None values up.
-

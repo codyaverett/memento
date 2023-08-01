@@ -2108,12 +2108,22 @@
       "size": 0,
       "tags": 0,
       "links": 0
+    },
+    "learning/computing/programming/rust/basics/Result type.md": {
+      "size": 0,
+      "tags": 0,
+      "links": 0
+    },
+    "learning/computing/programming/rust/basics/Option Type.md": {
+      "size": 0,
+      "tags": 0,
+      "links": 0
     }
   },
   "commitTypes": {
     "/": {
       "Refactor": 1458,
-      "Create": 454,
+      "Create": 456,
       "Link": 345,
       "Expand": 128
     }
@@ -2121,7 +2131,7 @@
   "dailyCommits": {
     "/": {
       "0": 82,
-      "1": 34,
+      "1": 36,
       "2": 43,
       "3": 60,
       "4": 27,
@@ -2149,7 +2159,7 @@
   "weeklyCommits": {
     "/": {
       "Mon": 1501,
-      "Tue": 168,
+      "Tue": 170,
       "Wed": 268,
       "Thu": 164,
       "Fri": 157,
@@ -2213,6 +2223,8 @@
         "<a class=\"internal-link\" href=\"software/data ETL/apache airflow/airflow module management.md\"> airflow module management </a>"
       ],
       "Created": [
+        "<a class=\"internal-link\" href=\"learning/computing/programming/rust/basics/Untitled.md\"> Untitled </a>",
+        "<a class=\"internal-link\" href=\"learning/computing/programming/rust/basics/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"learning/computing/programming/javascript/ThreeJS/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"learning/computing/programming/javascript/guides/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"learning/music/logic/Untitled.md\"> Untitled </a>",
@@ -2261,9 +2273,7 @@
         "<a class=\"internal-link\" href=\"personal/daily/2022/23-03-19.md\"> 23-03-19 </a>",
         "<a class=\"internal-link\" href=\"personal/daily/2022/23-03-18.md\"> 23-03-18 </a>",
         "<a class=\"internal-link\" href=\"learning/mental/productivity/Think things with me.md\"> Think things with me </a>",
-        "<a class=\"internal-link\" href=\"learning/computing/software/make/makefile with a setup and run in dirs.md\"> makefile with a setup and run in dirs </a>",
-        "<a class=\"internal-link\" href=\"learning/computing/programming/rust/projects/learning rust by making cli applications.md\"> learning rust by making cli applications </a>",
-        "<a class=\"internal-link\" href=\"personal/daily/2022/23-03-08.md\"> 23-03-08 </a>"
+        "<a class=\"internal-link\" href=\"learning/computing/software/make/makefile with a setup and run in dirs.md\"> makefile with a setup and run in dirs </a>"
       ],
       "Renamed": [
         "<a class=\"internal-link\" href=\"personal/blog/guides/create a minimal react app with parcel.md\"> create a minimal react app with parcel </a>",
