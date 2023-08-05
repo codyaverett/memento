@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "learning/traveling/US Airline comparisons 2023.md",
+                "file": "learning/computing/programming/javascript/event loop analogies.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "learning/traveling/US Airline comparisons 2023.md",
+                "file": "learning/computing/programming/javascript/event loop analogies.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "learning/traveling/US Airline comparisons 2023.md"
+                "file": "learning/computing/programming/javascript/event loop analogies.md"
               }
             }
           },
@@ -149,8 +149,9 @@
   },
   "active": "ee11134d50dbf865",
   "lastOpenFiles": [
-    "learning/computing/programming/rust/build/BuildRelease and install.md",
     "learning/traveling/US Airline comparisons 2023.md",
+    "learning/computing/programming/javascript/event loop analogies.md",
+    "learning/computing/programming/rust/build/BuildRelease and install.md",
     "learning/traveling",
     "learning/Untitled.md",
     "learning/computing/programming/rust/basics/Option Type.md",
@@ -181,7 +182,6 @@
     "personal/daily/2022/23-06-26.md",
     "learning/financial/career/job search/terms.md",
     "learning/financial/career/job search",
-    "learning/computing/cryptocurrency/L1 networks/Ergo/Ergo.md",
     "learning/computing/cryptocurrency/trading",
     "learning/computing/software/containers/ubi",
     "learning/computing/software/containers/podman",
