@@ -2128,19 +2128,29 @@
       "size": 2238,
       "tags": 0,
       "links": 0
+    },
+    "learning/computing/programming/javascript/event loop analogies.md": {
+      "size": 0,
+      "tags": 0,
+      "links": 0
+    },
+    "learning/computing/programming/javascript/Untitled.md": {
+      "size": 0,
+      "tags": 0,
+      "links": 0
     }
   },
   "commitTypes": {
     "/": {
       "Refactor": 1459,
-      "Create": 459,
+      "Create": 461,
       "Link": 345,
       "Expand": 129
     }
   },
   "dailyCommits": {
     "/": {
-      "0": 82,
+      "0": 84,
       "1": 36,
       "2": 44,
       "3": 60,
@@ -2174,7 +2184,7 @@
       "Thu": 164,
       "Fri": 161,
       "Sat": 0,
-      "Sun": 127
+      "Sun": 129
     }
   },
   "recentCommits": {
@@ -2233,6 +2243,8 @@
         "<a class=\"internal-link\" href=\"software/data ETL/apache airflow/airflow DAGs.md\"> airflow DAGs </a>"
       ],
       "Created": [
+        "<a class=\"internal-link\" href=\"learning/computing/programming/javascript/Untitled.md\"> Untitled </a>",
+        "<a class=\"internal-link\" href=\"learning/computing/programming/javascript/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"learning/traveling/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"learning/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"learning/computing/programming/rust/build/Untitled.md\"> Untitled </a>",
@@ -2281,9 +2293,7 @@
         "<a class=\"internal-link\" href=\"learning/financial/business/Quoting contract work.md\"> Quoting contract work </a>",
         "<a class=\"internal-link\" href=\"personal/daily/2022/23-03-28.md\"> 23-03-28 </a>",
         "<a class=\"internal-link\" href=\"personal/daily/2022/23-03-27.md\"> 23-03-27 </a>",
-        "<a class=\"internal-link\" href=\"personal/daily/2022/23-03-22.md\"> 23-03-22 </a>",
-        "<a class=\"internal-link\" href=\"personal/daily/2022/23-03-21.md\"> 23-03-21 </a>",
-        "<a class=\"internal-link\" href=\"personal/daily/2022/23-03-19.md\"> 23-03-19 </a>"
+        "<a class=\"internal-link\" href=\"personal/daily/2022/23-03-22.md\"> 23-03-22 </a>"
       ],
       "Renamed": [
         "<a class=\"internal-link\" href=\"personal/blog/guides/create a minimal react app with parcel.md\"> create a minimal react app with parcel </a>",

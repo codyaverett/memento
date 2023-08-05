@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "learning/computing/programming/javascript/event loop analogies.md",
-                "mode": "source",
+                "file": "learning/computing/programming/javascript/Implicitly handled events.md",
+                "mode": "preview",
                 "backlinks": false,
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "learning/computing/programming/javascript/event loop analogies.md",
+                "file": "learning/computing/programming/javascript/Implicitly handled events.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "learning/computing/programming/javascript/event loop analogies.md"
+                "file": "learning/computing/programming/javascript/Implicitly handled events.md"
               }
             }
           },
@@ -149,8 +149,9 @@
   },
   "active": "ee11134d50dbf865",
   "lastOpenFiles": [
-    "learning/traveling/US Airline comparisons 2023.md",
     "learning/computing/programming/javascript/event loop analogies.md",
+    "learning/computing/programming/javascript/Implicitly handled events.md",
+    "learning/traveling/US Airline comparisons 2023.md",
     "learning/computing/programming/rust/build/BuildRelease and install.md",
     "learning/traveling",
     "learning/Untitled.md",
@@ -180,7 +181,6 @@
     "learning/computing/programming/python/python os module.md",
     "learning/computing/programming/python/python classes.md",
     "personal/daily/2022/23-06-26.md",
-    "learning/financial/career/job search/terms.md",
     "learning/financial/career/job search",
     "learning/computing/cryptocurrency/trading",
     "learning/computing/software/containers/ubi",
