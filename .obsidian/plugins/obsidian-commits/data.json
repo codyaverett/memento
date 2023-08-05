@@ -2127,8 +2127,8 @@
   },
   "commitTypes": {
     "/": {
-      "Refactor": 1458,
-      "Create": 457,
+      "Refactor": 1459,
+      "Create": 458,
       "Link": 345,
       "Expand": 128
     }
@@ -2156,7 +2156,7 @@
       "18": 42,
       "19": 55,
       "20": 63,
-      "21": 135,
+      "21": 137,
       "22": 114,
       "23": 82
     }
@@ -2167,7 +2167,7 @@
       "Tue": 171,
       "Wed": 268,
       "Thu": 164,
-      "Fri": 157,
+      "Fri": 159,
       "Sat": 0,
       "Sun": 127
     }
@@ -2228,6 +2228,7 @@
         "<a class=\"internal-link\" href=\"software/data ETL/apache airflow/airflow module management.md\"> airflow module management </a>"
       ],
       "Created": [
+        "<a class=\"internal-link\" href=\"learning/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"learning/computing/programming/rust/build/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"learning/computing/programming/rust/basics/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"learning/computing/programming/rust/basics/Untitled.md\"> Untitled </a>",
@@ -2277,8 +2278,7 @@
         "<a class=\"internal-link\" href=\"personal/daily/2022/23-03-22.md\"> 23-03-22 </a>",
         "<a class=\"internal-link\" href=\"personal/daily/2022/23-03-21.md\"> 23-03-21 </a>",
         "<a class=\"internal-link\" href=\"personal/daily/2022/23-03-19.md\"> 23-03-19 </a>",
-        "<a class=\"internal-link\" href=\"personal/daily/2022/23-03-18.md\"> 23-03-18 </a>",
-        "<a class=\"internal-link\" href=\"learning/mental/productivity/Think things with me.md\"> Think things with me </a>"
+        "<a class=\"internal-link\" href=\"personal/daily/2022/23-03-18.md\"> 23-03-18 </a>"
       ],
       "Renamed": [
         "<a class=\"internal-link\" href=\"personal/blog/guides/create a minimal react app with parcel.md\"> create a minimal react app with parcel </a>",
@@ -2388,6 +2388,7 @@
       ],
       "Refactored": [],
       "Deleted": [
+        "<a class=\"internal-link\" href=\"learning/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"learning/computing/cryptocurrency/L1 networks/Cardano/dapps/AXO.md\"> AXO </a>",
         "<a class=\"internal-link\" href=\"conflict-files-obsidian-git.md\"> conflict-files-obsidian-git </a>",
         "<a class=\"internal-link\" href=\"conflict-files-obsidian-git.md\"> conflict-files-obsidian-git </a>",
@@ -2437,8 +2438,7 @@
         "<a class=\"internal-link\" href=\"templates/new list.md\"> new list </a>",
         "<a class=\"internal-link\" href=\"crypto/Ethereum/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"templates/related list.md\"> related list </a>",
-        "<a class=\"internal-link\" href=\"templates/new topic.md\"> new topic </a>",
-        "<a class=\"internal-link\" href=\"daily/08-11-22.md\"> 08-11-22 </a>"
+        "<a class=\"internal-link\" href=\"templates/new topic.md\"> new topic </a>"
       ],
       "Linked": [
         "<a class=\"internal-link\" href=\"personal/tasks.md\"> tasks </a>",
