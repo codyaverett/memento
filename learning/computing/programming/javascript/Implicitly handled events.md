@@ -23,3 +23,5 @@ document.querySelector('form').addEventListener('submit', function(event) {
   // AJAX code to submit the form
 });
 ```
+
+In this example, the preventDefault method is used to prevent the form from being submitted when the submit button is clicked. Then, AJAX is used to submit the form data to the server without reloading the page.
