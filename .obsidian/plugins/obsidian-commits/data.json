@@ -2123,14 +2123,19 @@
       "size": 0,
       "tags": 0,
       "links": 0
+    },
+    "learning/traveling/US Airline comparisons 2023.md": {
+      "size": 2238,
+      "tags": 0,
+      "links": 0
     }
   },
   "commitTypes": {
     "/": {
       "Refactor": 1459,
-      "Create": 458,
+      "Create": 459,
       "Link": 345,
-      "Expand": 128
+      "Expand": 129
     }
   },
   "dailyCommits": {
@@ -2156,7 +2161,7 @@
       "18": 42,
       "19": 55,
       "20": 63,
-      "21": 137,
+      "21": 139,
       "22": 114,
       "23": 82
     }
@@ -2167,7 +2172,7 @@
       "Tue": 171,
       "Wed": 268,
       "Thu": 164,
-      "Fri": 159,
+      "Fri": 161,
       "Sat": 0,
       "Sun": 127
     }
@@ -2175,6 +2180,7 @@
   "recentCommits": {
     "/": {
       "Expanded": [
+        "<a class=\"internal-link\" href=\"learning/traveling/US Airline comparisons 2023.md\"> US Airline comparisons 2023 </a>",
         "<a class=\"internal-link\" href=\"personal/blog/guides/create a minimal react app with parcel.md\"> create a minimal react app with parcel </a>",
         "<a class=\"internal-link\" href=\"personal/blog/guides/create a minimal react app with parcel.md\"> create a minimal react app with parcel </a>",
         "<a class=\"internal-link\" href=\"personal/blog/guides/create a minimal react app with parcel.md\"> create a minimal react app with parcel </a>",
@@ -2224,10 +2230,10 @@
         "<a class=\"internal-link\" href=\"personal/books/Staff Engineer.md\"> Staff Engineer </a>",
         "<a class=\"internal-link\" href=\"personal/job-hunting/Drawing 2022-11-07 15.59.02.excalidraw.md\"> Drawing 2022-11-07 15.59.02.excalidraw </a>",
         "<a class=\"internal-link\" href=\"personal/lifehacks/forgetting what you read after you read it.md\"> forgetting what you read after you read it </a>",
-        "<a class=\"internal-link\" href=\"software/data ETL/apache airflow/airflow DAGs.md\"> airflow DAGs </a>",
-        "<a class=\"internal-link\" href=\"software/data ETL/apache airflow/airflow module management.md\"> airflow module management </a>"
+        "<a class=\"internal-link\" href=\"software/data ETL/apache airflow/airflow DAGs.md\"> airflow DAGs </a>"
       ],
       "Created": [
+        "<a class=\"internal-link\" href=\"learning/traveling/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"learning/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"learning/computing/programming/rust/build/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"learning/computing/programming/rust/basics/Untitled.md\"> Untitled </a>",
@@ -2277,8 +2283,7 @@
         "<a class=\"internal-link\" href=\"personal/daily/2022/23-03-27.md\"> 23-03-27 </a>",
         "<a class=\"internal-link\" href=\"personal/daily/2022/23-03-22.md\"> 23-03-22 </a>",
         "<a class=\"internal-link\" href=\"personal/daily/2022/23-03-21.md\"> 23-03-21 </a>",
-        "<a class=\"internal-link\" href=\"personal/daily/2022/23-03-19.md\"> 23-03-19 </a>",
-        "<a class=\"internal-link\" href=\"personal/daily/2022/23-03-18.md\"> 23-03-18 </a>"
+        "<a class=\"internal-link\" href=\"personal/daily/2022/23-03-19.md\"> 23-03-19 </a>"
       ],
       "Renamed": [
         "<a class=\"internal-link\" href=\"personal/blog/guides/create a minimal react app with parcel.md\"> create a minimal react app with parcel </a>",
