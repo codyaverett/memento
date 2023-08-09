@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "learning/computing/programming/javascript/Implicitly handled events.md",
+                "file": "learning/computing/software/git/worktree.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "learning/computing/programming/javascript/Implicitly handled events.md",
+                "file": "learning/computing/software/git/worktree.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "learning/computing/programming/javascript/Implicitly handled events.md"
+                "file": "learning/computing/software/git/worktree.md"
               }
             }
           },
@@ -149,8 +149,10 @@
   },
   "active": "ee11134d50dbf865",
   "lastOpenFiles": [
-    "learning/computing/programming/javascript/event loop analogies.md",
     "learning/computing/programming/javascript/Implicitly handled events.md",
+    "learning/computing/software/git/worktree.md",
+    "learning/computing/software/Untitled",
+    "learning/computing/programming/javascript/event loop analogies.md",
     "learning/traveling/US Airline comparisons 2023.md",
     "learning/computing/programming/rust/build/BuildRelease and install.md",
     "learning/traveling",
@@ -180,11 +182,9 @@
     "learning/computing/programming/python/python module search path.md",
     "learning/computing/programming/python/python os module.md",
     "learning/computing/programming/python/python classes.md",
-    "personal/daily/2022/23-06-26.md",
     "learning/financial/career/job search",
     "learning/computing/cryptocurrency/trading",
     "learning/computing/software/containers/ubi",
-    "learning/computing/software/containers/podman",
     "learning/financial/trading/real/attachments/Pasted image 20230421063606.png"
   ]
 }
