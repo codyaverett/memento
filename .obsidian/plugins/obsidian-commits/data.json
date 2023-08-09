@@ -2138,13 +2138,18 @@
       "size": 0,
       "tags": 0,
       "links": 0
+    },
+    "learning/computing/software/git/worktree.md": {
+      "size": 0,
+      "tags": 2,
+      "links": 0
     }
   },
   "commitTypes": {
     "/": {
       "Refactor": 1459,
-      "Create": 461,
-      "Link": 345,
+      "Create": 462,
+      "Link": 346,
       "Expand": 129
     }
   },
@@ -2165,7 +2170,7 @@
       "12": 10,
       "13": 68,
       "14": 50,
-      "15": 64,
+      "15": 66,
       "16": 1203,
       "17": 196,
       "18": 42,
@@ -2180,7 +2185,7 @@
     "/": {
       "Mon": 1501,
       "Tue": 171,
-      "Wed": 268,
+      "Wed": 270,
       "Thu": 164,
       "Fri": 161,
       "Sat": 0,
@@ -2243,6 +2248,7 @@
         "<a class=\"internal-link\" href=\"software/data ETL/apache airflow/airflow DAGs.md\"> airflow DAGs </a>"
       ],
       "Created": [
+        "<a class=\"internal-link\" href=\"learning/computing/software/git/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"learning/computing/programming/javascript/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"learning/computing/programming/javascript/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"learning/traveling/Untitled.md\"> Untitled </a>",
@@ -2292,8 +2298,7 @@
         "<a class=\"internal-link\" href=\"conflict-files-obsidian-git.md\"> conflict-files-obsidian-git </a>",
         "<a class=\"internal-link\" href=\"learning/financial/business/Quoting contract work.md\"> Quoting contract work </a>",
         "<a class=\"internal-link\" href=\"personal/daily/2022/23-03-28.md\"> 23-03-28 </a>",
-        "<a class=\"internal-link\" href=\"personal/daily/2022/23-03-27.md\"> 23-03-27 </a>",
-        "<a class=\"internal-link\" href=\"personal/daily/2022/23-03-22.md\"> 23-03-22 </a>"
+        "<a class=\"internal-link\" href=\"personal/daily/2022/23-03-27.md\"> 23-03-27 </a>"
       ],
       "Renamed": [
         "<a class=\"internal-link\" href=\"personal/blog/guides/create a minimal react app with parcel.md\"> create a minimal react app with parcel </a>",
@@ -2349,6 +2354,7 @@
         "<a class=\"internal-link\" href=\"learning/computing/programming/languages/c++ programming language.md\"> c++ programming language </a>"
       ],
       "Tagged": [
+        "<a class=\"internal-link\" href=\"learning/computing/software/git/worktree.md\"> worktree </a>",
         "<a class=\"internal-link\" href=\"personal/blog/guides/create a minimal react app with parcel.md\"> create a minimal react app with parcel </a>",
         "<a class=\"internal-link\" href=\"learning/mental/productivity/Think things with me.md\"> Think things with me </a>",
         "<a class=\"internal-link\" href=\"learning/computing/programming/css/media-queries.md\"> media-queries </a>",
@@ -2398,8 +2404,7 @@
         "<a class=\"internal-link\" href=\"learning/computing/programming/SQL/hacks/Integer Table.md\"> Integer Table </a>",
         "<a class=\"internal-link\" href=\"learning/computing/programming/python/ansible/use ansible_runner from python module.md\"> use ansible_runner from python module </a>",
         "<a class=\"internal-link\" href=\"learning/computing/software/data ETL/apache airflow/apache airflow.md\"> apache airflow </a>",
-        "<a class=\"internal-link\" href=\"learning/computing/cryptocurrency/Handshake.md\"> Handshake </a>",
-        "<a class=\"internal-link\" href=\"learning/computing/cryptocurrency/L1 networks/Avalanche.md\"> Avalanche </a>"
+        "<a class=\"internal-link\" href=\"learning/computing/cryptocurrency/Handshake.md\"> Handshake </a>"
       ],
       "Refactored": [],
       "Deleted": [
