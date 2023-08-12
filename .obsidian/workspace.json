@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "learning/computing/software/git/worktree.md",
+                "file": "learning/computing/programming/SQL/SQL Tricks.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "learning/computing/software/git/worktree.md",
+                "file": "learning/computing/programming/SQL/SQL Tricks.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "learning/computing/software/git/worktree.md"
+                "file": "learning/computing/programming/SQL/SQL Tricks.md"
               }
             }
           },
@@ -149,8 +149,9 @@
   },
   "active": "ee11134d50dbf865",
   "lastOpenFiles": [
-    "learning/computing/programming/javascript/Implicitly handled events.md",
     "learning/computing/software/git/worktree.md",
+    "learning/computing/programming/SQL/SQL Tricks.md",
+    "learning/computing/programming/javascript/Implicitly handled events.md",
     "learning/computing/software/Untitled",
     "learning/computing/programming/javascript/event loop analogies.md",
     "learning/traveling/US Airline comparisons 2023.md",
@@ -181,7 +182,6 @@
     "personal/notes/Setup server infra.md",
     "learning/computing/programming/python/python module search path.md",
     "learning/computing/programming/python/python os module.md",
-    "learning/computing/programming/python/python classes.md",
     "learning/financial/career/job search",
     "learning/computing/cryptocurrency/trading",
     "learning/computing/software/containers/ubi",
