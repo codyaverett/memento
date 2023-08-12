@@ -2143,20 +2143,25 @@
       "size": 0,
       "tags": 2,
       "links": 0
+    },
+    "learning/computing/programming/SQL/SQL Tricks.md": {
+      "size": 44689,
+      "tags": 0,
+      "links": 0
     }
   },
   "commitTypes": {
     "/": {
-      "Refactor": 1459,
-      "Create": 462,
+      "Refactor": 1460,
+      "Create": 463,
       "Link": 346,
-      "Expand": 129
+      "Expand": 130
     }
   },
   "dailyCommits": {
     "/": {
       "0": 84,
-      "1": 36,
+      "1": 39,
       "2": 44,
       "3": 60,
       "4": 27,
@@ -2189,12 +2194,13 @@
       "Thu": 164,
       "Fri": 161,
       "Sat": 0,
-      "Sun": 129
+      "Sun": 132
     }
   },
   "recentCommits": {
     "/": {
       "Expanded": [
+        "<a class=\"internal-link\" href=\"learning/computing/programming/SQL/SQL Tricks.md\"> SQL Tricks </a>",
         "<a class=\"internal-link\" href=\"learning/traveling/US Airline comparisons 2023.md\"> US Airline comparisons 2023 </a>",
         "<a class=\"internal-link\" href=\"personal/blog/guides/create a minimal react app with parcel.md\"> create a minimal react app with parcel </a>",
         "<a class=\"internal-link\" href=\"personal/blog/guides/create a minimal react app with parcel.md\"> create a minimal react app with parcel </a>",
@@ -2244,10 +2250,10 @@
         "<a class=\"internal-link\" href=\"personal/books/Staff Engineer.md\"> Staff Engineer </a>",
         "<a class=\"internal-link\" href=\"personal/books/Staff Engineer.md\"> Staff Engineer </a>",
         "<a class=\"internal-link\" href=\"personal/job-hunting/Drawing 2022-11-07 15.59.02.excalidraw.md\"> Drawing 2022-11-07 15.59.02.excalidraw </a>",
-        "<a class=\"internal-link\" href=\"personal/lifehacks/forgetting what you read after you read it.md\"> forgetting what you read after you read it </a>",
-        "<a class=\"internal-link\" href=\"software/data ETL/apache airflow/airflow DAGs.md\"> airflow DAGs </a>"
+        "<a class=\"internal-link\" href=\"personal/lifehacks/forgetting what you read after you read it.md\"> forgetting what you read after you read it </a>"
       ],
       "Created": [
+        "<a class=\"internal-link\" href=\"learning/computing/programming/SQL/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"learning/computing/software/git/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"learning/computing/programming/javascript/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"learning/computing/programming/javascript/Untitled.md\"> Untitled </a>",
@@ -2297,10 +2303,10 @@
         "<a class=\"internal-link\" href=\"learning/financial/business/Quoting contract work.md\"> Quoting contract work </a>",
         "<a class=\"internal-link\" href=\"conflict-files-obsidian-git.md\"> conflict-files-obsidian-git </a>",
         "<a class=\"internal-link\" href=\"learning/financial/business/Quoting contract work.md\"> Quoting contract work </a>",
-        "<a class=\"internal-link\" href=\"personal/daily/2022/23-03-28.md\"> 23-03-28 </a>",
-        "<a class=\"internal-link\" href=\"personal/daily/2022/23-03-27.md\"> 23-03-27 </a>"
+        "<a class=\"internal-link\" href=\"personal/daily/2022/23-03-28.md\"> 23-03-28 </a>"
       ],
       "Renamed": [
+        "<a class=\"internal-link\" href=\"learning/computing/programming/SQL/SQL Tricks.md\"> SQL Tricks </a>",
         "<a class=\"internal-link\" href=\"personal/blog/guides/create a minimal react app with parcel.md\"> create a minimal react app with parcel </a>",
         "<a class=\"internal-link\" href=\"personal/guides/create a minimal react app with parcel.md\"> create a minimal react app with parcel </a>",
         "<a class=\"internal-link\" href=\"learning/computing/cryptocurrency/L1 networks/Cardano/dapps/axotrade.md\"> axotrade </a>",
@@ -2350,8 +2356,7 @@
         "<a class=\"internal-link\" href=\"learning/computing/programming/python/python decorators.md\"> python decorators </a>",
         "<a class=\"internal-link\" href=\"learning/computing/programming/languages/javascript programming language.md\"> javascript programming language </a>",
         "<a class=\"internal-link\" href=\"learning/computing/programming/javascript/javascript programming language.md\"> javascript programming language </a>",
-        "<a class=\"internal-link\" href=\"learning/computing/programming/languages/python programming language.md\"> python programming language </a>",
-        "<a class=\"internal-link\" href=\"learning/computing/programming/languages/c++ programming language.md\"> c++ programming language </a>"
+        "<a class=\"internal-link\" href=\"learning/computing/programming/languages/python programming language.md\"> python programming language </a>"
       ],
       "Tagged": [
         "<a class=\"internal-link\" href=\"learning/computing/software/git/worktree.md\"> worktree </a>",
