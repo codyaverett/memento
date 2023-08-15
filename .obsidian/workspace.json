@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "learning/computing/programming/SQL/SQL Tricks.md",
+                "file": "learning/computing/programming/machine learning/Stable Diffusion Links.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "learning/computing/programming/SQL/SQL Tricks.md",
+                "file": "learning/computing/programming/machine learning/Stable Diffusion Links.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "learning/computing/programming/SQL/SQL Tricks.md"
+                "file": "learning/computing/programming/machine learning/Stable Diffusion Links.md"
               }
             }
           },
@@ -149,8 +149,10 @@
   },
   "active": "ee11134d50dbf865",
   "lastOpenFiles": [
-    "learning/computing/software/git/worktree.md",
+    "learning/mental/ADHD/Rejection Sensitive Dysphoria.md",
+    "learning/computing/programming/machine learning/Stable Diffusion Links.md",
     "learning/computing/programming/SQL/SQL Tricks.md",
+    "learning/computing/software/git/worktree.md",
     "learning/computing/programming/javascript/Implicitly handled events.md",
     "learning/computing/software/Untitled",
     "learning/computing/programming/javascript/event loop analogies.md",
@@ -180,8 +182,6 @@
     "personal/school/saylor.org",
     "personal/tasks.md",
     "personal/notes/Setup server infra.md",
-    "learning/computing/programming/python/python module search path.md",
-    "learning/computing/programming/python/python os module.md",
     "learning/financial/career/job search",
     "learning/computing/cryptocurrency/trading",
     "learning/computing/software/containers/ubi",
