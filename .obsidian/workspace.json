@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "generated/describe software development team.md",
+                "file": "generated/mermaid js - software development team.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "generated/describe software development team.md",
+                "file": "generated/mermaid js - software development team.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "generated/describe software development team.md"
+                "file": "generated/mermaid js - software development team.md"
               }
             }
           },
@@ -148,9 +148,9 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "daef628b927dda19",
+  "active": "33a2bab88d111215",
   "lastOpenFiles": [
-    "generated/describe software development team.md",
+    "generated/mermaid js - software development team.md",
     "learning/computing/programming/machine learning/Stable Diffusion Links.md",
     "generated",
     "learning/mental/ADHD/Rejection Sensitive Dysphoria.md",
