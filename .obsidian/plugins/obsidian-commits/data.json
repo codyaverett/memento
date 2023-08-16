@@ -2153,21 +2153,31 @@
       "size": 0,
       "tags": 0,
       "links": 0
+    },
+    "learning/computing/programming/machine learning/Stable Diffusion Links.md": {
+      "size": 0,
+      "tags": 0,
+      "links": 0
+    },
+    "generated/describe software development team.md": {
+      "size": 2220,
+      "tags": 0,
+      "links": 0
     }
   },
   "commitTypes": {
     "/": {
       "Refactor": 1461,
-      "Create": 464,
+      "Create": 466,
       "Link": 347,
-      "Expand": 130
+      "Expand": 131
     }
   },
   "dailyCommits": {
     "/": {
       "0": 84,
       "1": 41,
-      "2": 44,
+      "2": 45,
       "3": 60,
       "4": 27,
       "5": 19,
@@ -2176,7 +2186,7 @@
       "8": 1,
       "9": 4,
       "10": 12,
-      "11": 10,
+      "11": 12,
       "12": 10,
       "13": 68,
       "14": 50,
@@ -2194,8 +2204,8 @@
   "weeklyCommits": {
     "/": {
       "Mon": 1501,
-      "Tue": 173,
-      "Wed": 270,
+      "Tue": 174,
+      "Wed": 272,
       "Thu": 164,
       "Fri": 161,
       "Sat": 0,
@@ -2205,6 +2215,7 @@
   "recentCommits": {
     "/": {
       "Expanded": [
+        "<a class=\"internal-link\" href=\"generated/describe software development team.md\"> describe software development team </a>",
         "<a class=\"internal-link\" href=\"learning/computing/programming/SQL/SQL Tricks.md\"> SQL Tricks </a>",
         "<a class=\"internal-link\" href=\"learning/traveling/US Airline comparisons 2023.md\"> US Airline comparisons 2023 </a>",
         "<a class=\"internal-link\" href=\"personal/blog/guides/create a minimal react app with parcel.md\"> create a minimal react app with parcel </a>",
@@ -2254,10 +2265,11 @@
         "<a class=\"internal-link\" href=\"personal/books/Staff Engineer.md\"> Staff Engineer </a>",
         "<a class=\"internal-link\" href=\"personal/books/Staff Engineer.md\"> Staff Engineer </a>",
         "<a class=\"internal-link\" href=\"personal/books/Staff Engineer.md\"> Staff Engineer </a>",
-        "<a class=\"internal-link\" href=\"personal/job-hunting/Drawing 2022-11-07 15.59.02.excalidraw.md\"> Drawing 2022-11-07 15.59.02.excalidraw </a>",
-        "<a class=\"internal-link\" href=\"personal/lifehacks/forgetting what you read after you read it.md\"> forgetting what you read after you read it </a>"
+        "<a class=\"internal-link\" href=\"personal/job-hunting/Drawing 2022-11-07 15.59.02.excalidraw.md\"> Drawing 2022-11-07 15.59.02.excalidraw </a>"
       ],
       "Created": [
+        "<a class=\"internal-link\" href=\"generated/Untitled.md\"> Untitled </a>",
+        "<a class=\"internal-link\" href=\"learning/computing/programming/machine learning/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"learning/mental/ADHD/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"learning/computing/programming/SQL/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"learning/computing/software/git/Untitled.md\"> Untitled </a>",
@@ -2306,8 +2318,6 @@
         "<a class=\"internal-link\" href=\"conflict-files-obsidian-git.md\"> conflict-files-obsidian-git </a>",
         "<a class=\"internal-link\" href=\"conflict-files-obsidian-git.md\"> conflict-files-obsidian-git </a>",
         "<a class=\"internal-link\" href=\"personal/daily/2022/23-04-04.md\"> 23-04-04 </a>",
-        "<a class=\"internal-link\" href=\"learning/financial/business/Quoting contract work.md\"> Quoting contract work </a>",
-        "<a class=\"internal-link\" href=\"conflict-files-obsidian-git.md\"> conflict-files-obsidian-git </a>",
         "<a class=\"internal-link\" href=\"learning/financial/business/Quoting contract work.md\"> Quoting contract work </a>"
       ],
       "Renamed": [
