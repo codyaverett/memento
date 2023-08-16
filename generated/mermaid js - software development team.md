@@ -1,9 +1,9 @@
 ---
 name: Mermaid Js - Software Development Team
 created: 2023-08-16T11:03:14-05:00
-updated: 2023-08-16T11:07:25-05:00
+updated: 2023-08-16T11:07:39-05:00
 aliases: 
-tags: 
+tags: llama2
 ---
 # Mermaid Js - Software Development Team
 
