@@ -1,13 +1,13 @@
 ---
 name: Mermaid Js - Software Development Team
 created: 2023-08-16T11:03:14-05:00
-updated: 2023-08-16T11:07:39-05:00
+updated: 2023-08-16T11:08:00-05:00
 aliases: 
 tags: llama2
 ---
 # Mermaid Js - Software Development Team
 
-mermaidjs diagram describing the roles and responsibilities of a development team
+PROMPT: mermaidjs diagram describing the roles and responsibilities of a development team
 
 Here is an example of a Mermaid diagram that describes the roles and responsibilities of a development team:
  kwietniu 12, 2023
