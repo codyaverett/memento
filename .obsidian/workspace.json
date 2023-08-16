@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "65649d7cc6380de8",
+        "id": "535aff7a42583449",
         "type": "tabs",
         "children": [
           {
-            "id": "ee11134d50dbf865",
+            "id": "daef628b927dda19",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "learning/computing/programming/machine learning/Stable Diffusion Links.md",
+                "file": "generated/describe software development team.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "learning/computing/programming/machine learning/Stable Diffusion Links.md",
+                "file": "generated/describe software development team.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "learning/computing/programming/machine learning/Stable Diffusion Links.md"
+                "file": "generated/describe software development team.md"
               }
             }
           },
@@ -144,13 +144,16 @@
       "obsidian-file-cleaner:Clean files": false,
       "dbfolder:Create a new database table": false,
       "obsidian-metatable:Metatable": false,
-      "templater-obsidian:Templater": false
+      "templater-obsidian:Templater": false,
+      "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "ee11134d50dbf865",
+  "active": "daef628b927dda19",
   "lastOpenFiles": [
-    "learning/mental/ADHD/Rejection Sensitive Dysphoria.md",
+    "generated/describe software development team.md",
     "learning/computing/programming/machine learning/Stable Diffusion Links.md",
+    "generated",
+    "learning/mental/ADHD/Rejection Sensitive Dysphoria.md",
     "learning/computing/programming/SQL/SQL Tricks.md",
     "learning/computing/software/git/worktree.md",
     "learning/computing/programming/javascript/Implicitly handled events.md",
@@ -181,10 +184,8 @@
     "learning/financial/career/compensation ideas.md",
     "personal/school/saylor.org",
     "personal/tasks.md",
-    "personal/notes/Setup server infra.md",
     "learning/financial/career/job search",
     "learning/computing/cryptocurrency/trading",
-    "learning/computing/software/containers/ubi",
     "learning/financial/trading/real/attachments/Pasted image 20230421063606.png"
   ]
 }
