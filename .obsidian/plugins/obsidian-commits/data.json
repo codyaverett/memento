@@ -2159,7 +2159,7 @@
       "tags": 0,
       "links": 0
     },
-    "generated/describe software development team.md": {
+    "generated/mermaid js - software development team.md": {
       "size": 2220,
       "tags": 0,
       "links": 0
@@ -2167,7 +2167,7 @@
   },
   "commitTypes": {
     "/": {
-      "Refactor": 1461,
+      "Refactor": 1462,
       "Create": 466,
       "Link": 347,
       "Expand": 131
@@ -2186,7 +2186,7 @@
       "8": 1,
       "9": 4,
       "10": 12,
-      "11": 12,
+      "11": 13,
       "12": 10,
       "13": 68,
       "14": 50,
@@ -2205,7 +2205,7 @@
     "/": {
       "Mon": 1501,
       "Tue": 174,
-      "Wed": 272,
+      "Wed": 273,
       "Thu": 164,
       "Fri": 161,
       "Sat": 0,
@@ -2321,6 +2321,7 @@
         "<a class=\"internal-link\" href=\"learning/financial/business/Quoting contract work.md\"> Quoting contract work </a>"
       ],
       "Renamed": [
+        "<a class=\"internal-link\" href=\"generated/mermaid js - software development team.md\"> mermaid js - software development team </a>",
         "<a class=\"internal-link\" href=\"learning/mental/ADHD/Rejection Sensitive Dysphoria.md\"> Rejection Sensitive Dysphoria </a>",
         "<a class=\"internal-link\" href=\"learning/computing/programming/SQL/SQL Tricks.md\"> SQL Tricks </a>",
         "<a class=\"internal-link\" href=\"personal/blog/guides/create a minimal react app with parcel.md\"> create a minimal react app with parcel </a>",
@@ -2370,8 +2371,7 @@
         "<a class=\"internal-link\" href=\"learning/computing/programming/machine learning/ml examples.md\"> ml examples </a>",
         "<a class=\"internal-link\" href=\"learning/computing/software/obsidian/first impressions.md\"> first impressions </a>",
         "<a class=\"internal-link\" href=\"learning/computing/programming/python/python decorators.md\"> python decorators </a>",
-        "<a class=\"internal-link\" href=\"learning/computing/programming/languages/javascript programming language.md\"> javascript programming language </a>",
-        "<a class=\"internal-link\" href=\"learning/computing/programming/javascript/javascript programming language.md\"> javascript programming language </a>"
+        "<a class=\"internal-link\" href=\"learning/computing/programming/languages/javascript programming language.md\"> javascript programming language </a>"
       ],
       "Tagged": [
         "<a class=\"internal-link\" href=\"learning/computing/programming/SQL/SQL Tricks.md\"> SQL Tricks </a>",

@@ -1,7 +1,7 @@
 ---
-name: mermaid js - software development team
+name: Mermaid Js - Software Development Team
 created: 2023-08-16T11:03:14-05:00
-updated: 2023-08-16T11:07:06-05:00
+updated: 2023-08-16T11:07:25-05:00
 aliases: 
 tags: 
 ---
