@@ -2168,19 +2168,24 @@
       "size": 0,
       "tags": 0,
       "links": 0
+    },
+    "awesome/database.md": {
+      "size": 0,
+      "tags": 0,
+      "links": 0
     }
   },
   "commitTypes": {
     "/": {
-      "Refactor": 1465,
-      "Create": 467,
+      "Refactor": 1466,
+      "Create": 468,
       "Link": 348,
       "Expand": 131
     }
   },
   "dailyCommits": {
     "/": {
-      "0": 87,
+      "0": 89,
       "1": 41,
       "2": 45,
       "3": 60,
@@ -2211,7 +2216,7 @@
       "Mon": 1501,
       "Tue": 174,
       "Wed": 275,
-      "Thu": 167,
+      "Thu": 169,
       "Fri": 161,
       "Sat": 0,
       "Sun": 133
@@ -2273,6 +2278,7 @@
         "<a class=\"internal-link\" href=\"personal/job-hunting/Drawing 2022-11-07 15.59.02.excalidraw.md\"> Drawing 2022-11-07 15.59.02.excalidraw </a>"
       ],
       "Created": [
+        "<a class=\"internal-link\" href=\"awesome/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"learning/computing/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"generated/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"learning/computing/programming/machine learning/Untitled.md\"> Untitled </a>",
@@ -2322,10 +2328,10 @@
         "<a class=\"internal-link\" href=\"conflict-files-obsidian-git.md\"> conflict-files-obsidian-git </a>",
         "<a class=\"internal-link\" href=\"conflict-files-obsidian-git.md\"> conflict-files-obsidian-git </a>",
         "<a class=\"internal-link\" href=\"conflict-files-obsidian-git.md\"> conflict-files-obsidian-git </a>",
-        "<a class=\"internal-link\" href=\"conflict-files-obsidian-git.md\"> conflict-files-obsidian-git </a>",
-        "<a class=\"internal-link\" href=\"personal/daily/2022/23-04-04.md\"> 23-04-04 </a>"
+        "<a class=\"internal-link\" href=\"conflict-files-obsidian-git.md\"> conflict-files-obsidian-git </a>"
       ],
       "Renamed": [
+        "<a class=\"internal-link\" href=\"awesome/database.md\"> database </a>",
         "<a class=\"internal-link\" href=\"awesome/useful-websites.md\"> useful-websites </a>",
         "<a class=\"internal-link\" href=\"awesome/really useful websites.md\"> really useful websites </a>",
         "<a class=\"internal-link\" href=\"awesome/ai-tools.md\"> ai-tools </a>",
@@ -2375,8 +2381,7 @@
         "<a class=\"internal-link\" href=\"personal/blog/People Just Do Not Know What They Do Not Know.md\"> People Just Do Not Know What They Do Not Know </a>",
         "<a class=\"internal-link\" href=\"learning/computing/cryptocurrency/oracles/Chainlink/Fair Sequencing Services (FSS).md\"> Fair Sequencing Services (FSS) </a>",
         "<a class=\"internal-link\" href=\"learning/computing/software/obsidian/Graph and Local Graph View.md\"> Graph and Local Graph View </a>",
-        "<a class=\"internal-link\" href=\"personal/notes/Learn more about Cardano Blockchain.md\"> Learn more about Cardano Blockchain </a>",
-        "<a class=\"internal-link\" href=\"learning/computing/programming/machine learning/ml examples.md\"> ml examples </a>"
+        "<a class=\"internal-link\" href=\"personal/notes/Learn more about Cardano Blockchain.md\"> Learn more about Cardano Blockchain </a>"
       ],
       "Tagged": [
         "<a class=\"internal-link\" href=\"generated/mermaid js - software development team.md\"> mermaid js - software development team </a>",
