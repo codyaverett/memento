@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "awesome/database.md",
+                "file": "awesome/ai-tools.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "awesome/database.md",
+                "file": "awesome/ai-tools.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "awesome/database.md"
+                "file": "awesome/ai-tools.md"
               }
             }
           },
@@ -150,8 +150,8 @@
   },
   "active": "daef628b927dda19",
   "lastOpenFiles": [
-    "awesome/ai-tools.md",
     "awesome/database.md",
+    "awesome/ai-tools.md",
     "awesome/useful-websites.md",
     "awesome",
     "generated/mermaid js - software development team.md",
