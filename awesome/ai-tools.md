@@ -1,11 +1,11 @@
 ---
 name: ai-tools
 created: 2023-08-16T23:49:24-05:00
-updated: 2023-08-16T23:49:29-05:00
+updated: 2023-08-17T00:04:39-05:00
 aliases: 
-tags: 
+tags: awesome
 ---
-# ai-tools
+# Ai-tools
 
 ## GPT
 
