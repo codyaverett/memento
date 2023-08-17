@@ -2161,17 +2161,17 @@
     },
     "awesome/ai-tools.md": {
       "size": 0,
-      "tags": 0,
+      "tags": 1,
       "links": 0
     },
     "awesome/useful-websites.md": {
       "size": 0,
-      "tags": 0,
+      "tags": 1,
       "links": 0
     },
     "awesome/database.md": {
       "size": 0,
-      "tags": 0,
+      "tags": 1,
       "links": 0
     }
   },
@@ -2179,13 +2179,13 @@
     "/": {
       "Refactor": 1466,
       "Create": 468,
-      "Link": 348,
+      "Link": 351,
       "Expand": 131
     }
   },
   "dailyCommits": {
     "/": {
-      "0": 89,
+      "0": 92,
       "1": 41,
       "2": 45,
       "3": 60,
@@ -2216,7 +2216,7 @@
       "Mon": 1501,
       "Tue": 174,
       "Wed": 275,
-      "Thu": 169,
+      "Thu": 172,
       "Fri": 161,
       "Sat": 0,
       "Sun": 133
@@ -2384,6 +2384,9 @@
         "<a class=\"internal-link\" href=\"personal/notes/Learn more about Cardano Blockchain.md\"> Learn more about Cardano Blockchain </a>"
       ],
       "Tagged": [
+        "<a class=\"internal-link\" href=\"awesome/ai-tools.md\"> ai-tools </a>",
+        "<a class=\"internal-link\" href=\"awesome/useful-websites.md\"> useful-websites </a>",
+        "<a class=\"internal-link\" href=\"awesome/database.md\"> database </a>",
         "<a class=\"internal-link\" href=\"generated/mermaid js - software development team.md\"> mermaid js - software development team </a>",
         "<a class=\"internal-link\" href=\"learning/computing/programming/SQL/SQL Tricks.md\"> SQL Tricks </a>",
         "<a class=\"internal-link\" href=\"learning/computing/software/git/worktree.md\"> worktree </a>",
@@ -2431,10 +2434,7 @@
         "<a class=\"internal-link\" href=\"learning/financial/debt/calculating credit card interest.md\"> calculating credit card interest </a>",
         "<a class=\"internal-link\" href=\"learning/techniques/black boxing.md\"> black boxing </a>",
         "<a class=\"internal-link\" href=\"personal/notes/Chainsaw Man.md\"> Chainsaw Man </a>",
-        "<a class=\"internal-link\" href=\"learning/music/Common Chord Progressions.md\"> Common Chord Progressions </a>",
-        "<a class=\"internal-link\" href=\"learning/mental/productivity/remote work.md\"> remote work </a>",
-        "<a class=\"internal-link\" href=\"learning/computing/programming/SQL/hacks/Integer Table.md\"> Integer Table </a>",
-        "<a class=\"internal-link\" href=\"learning/computing/programming/python/ansible/use ansible_runner from python module.md\"> use ansible_runner from python module </a>"
+        "<a class=\"internal-link\" href=\"learning/music/Common Chord Progressions.md\"> Common Chord Progressions </a>"
       ],
       "Refactored": [],
       "Deleted": [
