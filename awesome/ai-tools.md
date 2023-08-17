@@ -1,7 +1,7 @@
 ---
 name: Ai-tools
 created: 2023-08-16T23:49:24-05:00
-updated: 2023-08-17T06:09:02-05:00
+updated: 2023-08-17T06:22:48-05:00
 aliases: 
 tags: awesome
 ---
@@ -10,6 +10,10 @@ tags: awesome
 ## GPT
 
 - [chatGPT](https://chat.openai.com/)
+
+## Writing
+
+- [novelai.net](https://novelai.net/)
 
 ## Image
 
