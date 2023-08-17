@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "awesome/ai-tools.md",
+                "file": "awesome/database.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "awesome/ai-tools.md",
+                "file": "awesome/database.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "awesome/ai-tools.md"
+                "file": "awesome/database.md"
               }
             }
           },
@@ -150,8 +150,9 @@
   },
   "active": "daef628b927dda19",
   "lastOpenFiles": [
-    "awesome/useful-websites.md",
     "awesome/ai-tools.md",
+    "awesome/database.md",
+    "awesome/useful-websites.md",
     "awesome",
     "generated/mermaid js - software development team.md",
     "learning/computing/programming/machine learning/Stable Diffusion Links.md",
@@ -183,7 +184,6 @@
     "learning/computing/hardware/mechanical design.md",
     "learning/computing/cryptocurrency/L1 networks/Cardano/dapps/_db.md",
     "learning/computing/cryptocurrency/L1 networks/Cardano/dapps/axotrade.md",
-    "personal/school/saylor.org/saylor organization.md",
     "personal/school/saylor.org",
     "learning/financial/career/job search",
     "learning/financial/trading/real/attachments/Pasted image 20230421063606.png"
