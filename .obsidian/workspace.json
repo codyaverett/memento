@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "generated/mermaid js - software development team.md",
+                "file": "learning/computing/ai-tools.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "generated/mermaid js - software development team.md",
+                "file": "learning/computing/ai-tools.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "generated/mermaid js - software development team.md"
+                "file": "learning/computing/ai-tools.md"
               }
             }
           },
@@ -148,9 +148,10 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "33a2bab88d111215",
+  "active": "daef628b927dda19",
   "lastOpenFiles": [
     "generated/mermaid js - software development team.md",
+    "learning/computing/ai-tools.md",
     "learning/computing/programming/machine learning/Stable Diffusion Links.md",
     "generated",
     "learning/mental/ADHD/Rejection Sensitive Dysphoria.md",
@@ -183,7 +184,6 @@
     "personal/school/saylor.org/saylor organization.md",
     "learning/financial/career/compensation ideas.md",
     "personal/school/saylor.org",
-    "personal/tasks.md",
     "learning/financial/career/job search",
     "learning/computing/cryptocurrency/trading",
     "learning/financial/trading/real/attachments/Pasted image 20230421063606.png"

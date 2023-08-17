@@ -2161,7 +2161,7 @@
     },
     "generated/mermaid js - software development team.md": {
       "size": 2220,
-      "tags": 0,
+      "tags": 1,
       "links": 0
     }
   },
@@ -2169,7 +2169,7 @@
     "/": {
       "Refactor": 1462,
       "Create": 466,
-      "Link": 347,
+      "Link": 348,
       "Expand": 131
     }
   },
@@ -2186,7 +2186,7 @@
       "8": 1,
       "9": 4,
       "10": 12,
-      "11": 13,
+      "11": 14,
       "12": 10,
       "13": 68,
       "14": 50,
@@ -2205,7 +2205,7 @@
     "/": {
       "Mon": 1501,
       "Tue": 174,
-      "Wed": 273,
+      "Wed": 274,
       "Thu": 164,
       "Fri": 161,
       "Sat": 0,
@@ -2374,6 +2374,7 @@
         "<a class=\"internal-link\" href=\"learning/computing/programming/languages/javascript programming language.md\"> javascript programming language </a>"
       ],
       "Tagged": [
+        "<a class=\"internal-link\" href=\"generated/mermaid js - software development team.md\"> mermaid js - software development team </a>",
         "<a class=\"internal-link\" href=\"learning/computing/programming/SQL/SQL Tricks.md\"> SQL Tricks </a>",
         "<a class=\"internal-link\" href=\"learning/computing/software/git/worktree.md\"> worktree </a>",
         "<a class=\"internal-link\" href=\"personal/blog/guides/create a minimal react app with parcel.md\"> create a minimal react app with parcel </a>",
@@ -2423,8 +2424,7 @@
         "<a class=\"internal-link\" href=\"learning/music/Common Chord Progressions.md\"> Common Chord Progressions </a>",
         "<a class=\"internal-link\" href=\"learning/mental/productivity/remote work.md\"> remote work </a>",
         "<a class=\"internal-link\" href=\"learning/computing/programming/SQL/hacks/Integer Table.md\"> Integer Table </a>",
-        "<a class=\"internal-link\" href=\"learning/computing/programming/python/ansible/use ansible_runner from python module.md\"> use ansible_runner from python module </a>",
-        "<a class=\"internal-link\" href=\"learning/computing/software/data ETL/apache airflow/apache airflow.md\"> apache airflow </a>"
+        "<a class=\"internal-link\" href=\"learning/computing/programming/python/ansible/use ansible_runner from python module.md\"> use ansible_runner from python module </a>"
       ],
       "Refactored": [],
       "Deleted": [
