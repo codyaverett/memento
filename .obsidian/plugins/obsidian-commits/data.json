@@ -2174,9 +2174,9 @@
       "tags": 1,
       "links": 0
     },
-    "awesome/Untitled.md": {
+    "awesome/prompts.md": {
       "size": 0,
-      "tags": 0,
+      "tags": 2,
       "links": 0
     }
   },
@@ -2184,7 +2184,7 @@
     "/": {
       "Refactor": 1466,
       "Create": 469,
-      "Link": 352,
+      "Link": 353,
       "Expand": 131
     }
   },
@@ -2213,7 +2213,7 @@
       "20": 63,
       "21": 139,
       "22": 115,
-      "23": 83
+      "23": 84
     }
   },
   "weeklyCommits": {
@@ -2222,7 +2222,7 @@
       "Tue": 174,
       "Wed": 275,
       "Thu": 173,
-      "Fri": 162,
+      "Fri": 163,
       "Sat": 0,
       "Sun": 133
     }
@@ -2389,6 +2389,7 @@
         "<a class=\"internal-link\" href=\"personal/notes/Learn more about Cardano Blockchain.md\"> Learn more about Cardano Blockchain </a>"
       ],
       "Tagged": [
+        "<a class=\"internal-link\" href=\"awesome/prompts.md\"> prompts </a>",
         "<a class=\"internal-link\" href=\"awesome/ai-tools.md\"> ai-tools </a>",
         "<a class=\"internal-link\" href=\"awesome/useful-websites.md\"> useful-websites </a>",
         "<a class=\"internal-link\" href=\"awesome/database.md\"> database </a>",
@@ -2438,8 +2439,7 @@
         "<a class=\"internal-link\" href=\"learning/financial/trading/Support and resistance.md\"> Support and resistance </a>",
         "<a class=\"internal-link\" href=\"learning/financial/debt/calculating credit card interest.md\"> calculating credit card interest </a>",
         "<a class=\"internal-link\" href=\"learning/techniques/black boxing.md\"> black boxing </a>",
-        "<a class=\"internal-link\" href=\"personal/notes/Chainsaw Man.md\"> Chainsaw Man </a>",
-        "<a class=\"internal-link\" href=\"learning/music/Common Chord Progressions.md\"> Common Chord Progressions </a>"
+        "<a class=\"internal-link\" href=\"personal/notes/Chainsaw Man.md\"> Chainsaw Man </a>"
       ],
       "Refactored": [],
       "Deleted": [

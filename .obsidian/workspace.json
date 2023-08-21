@@ -122,9 +122,17 @@
               "type": "metatable-sidebar-view",
               "state": {}
             }
+          },
+          {
+            "id": "e7ebdc80a56fbcff",
+            "type": "leaf",
+            "state": {
+              "type": "mermaid-toolbar-view",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -150,9 +158,9 @@
   },
   "active": "daef628b927dda19",
   "lastOpenFiles": [
-    "awesome/ai-tools.md",
-    "awesome/prompts.md",
     "awesome/database.md",
+    "awesome/prompts.md",
+    "awesome/ai-tools.md",
     "awesome/useful-websites.md",
     "awesome",
     "generated/mermaid js - software development team.md",
