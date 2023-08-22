@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "awesome/prompts.md",
+                "file": "learning/computing/programming/css/shiny css buttons.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "awesome/prompts.md",
+                "file": "learning/computing/programming/css/shiny css buttons.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "awesome/prompts.md"
+                "file": "learning/computing/programming/css/shiny css buttons.md"
               }
             }
           },
@@ -116,14 +116,6 @@
             }
           },
           {
-            "id": "3dfe48ada1fcde58",
-            "type": "leaf",
-            "state": {
-              "type": "metatable-sidebar-view",
-              "state": {}
-            }
-          },
-          {
             "id": "e7ebdc80a56fbcff",
             "type": "leaf",
             "state": {
@@ -132,7 +124,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -158,8 +150,9 @@
   },
   "active": "daef628b927dda19",
   "lastOpenFiles": [
-    "awesome/database.md",
     "awesome/prompts.md",
+    "learning/computing/programming/css/shiny css buttons.md",
+    "awesome/database.md",
     "awesome/ai-tools.md",
     "awesome/useful-websites.md",
     "awesome",
@@ -191,7 +184,6 @@
     "learning/financial/career/code tests/tips on completing a timed code test.md",
     "learning/computing/software/sed.md",
     "learning/computing/hardware/mechanical design.md",
-    "learning/computing/cryptocurrency/L1 networks/Cardano/dapps/_db.md",
     "personal/school/saylor.org",
     "learning/financial/career/job search",
     "learning/financial/trading/real/attachments/Pasted image 20230421063606.png"
