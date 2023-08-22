@@ -1,11 +1,11 @@
 ---
 name: shiny css buttons
 created: 2023-08-22T02:14:16-05:00
-updated: 2023-08-22T02:14:27-05:00
+updated: 2023-08-22T03:42:50-05:00
 aliases: 
 tags: 
 ---
-# shiny css buttons
+# Shiny Css Buttons
 
 
 ```css
@@ -51,6 +51,6 @@ tags:
 }
 ```
 
-## Reference 
+## Reference
 
-- 
+- https://codepen.io/yuhomyan/pen/OJMejWJ?editors=0100
