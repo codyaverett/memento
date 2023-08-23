@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "learning/computing/programming/css/shiny css buttons.md",
+                "file": "learning/computing/software/CICD/Jenkins.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "learning/computing/programming/css/shiny css buttons.md",
+                "file": "learning/computing/software/CICD/Jenkins.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "learning/computing/programming/css/shiny css buttons.md"
+                "file": "learning/computing/software/CICD/Jenkins.md"
               }
             }
           },
@@ -150,8 +150,9 @@
   },
   "active": "daef628b927dda19",
   "lastOpenFiles": [
-    "awesome/prompts.md",
     "learning/computing/programming/css/shiny css buttons.md",
+    "learning/computing/software/CICD/Jenkins.md",
+    "awesome/prompts.md",
     "awesome/database.md",
     "awesome/ai-tools.md",
     "awesome/useful-websites.md",
@@ -183,7 +184,6 @@
     "learning/computing/cryptocurrency/L1 networks/Ethereum/Ethereum.md",
     "learning/financial/career/code tests/tips on completing a timed code test.md",
     "learning/computing/software/sed.md",
-    "learning/computing/hardware/mechanical design.md",
     "personal/school/saylor.org",
     "learning/financial/career/job search",
     "learning/financial/trading/real/attachments/Pasted image 20230421063606.png"
