@@ -2183,12 +2183,17 @@
       "size": 0,
       "tags": 0,
       "links": 0
+    },
+    "learning/computing/software/CICD/Jenkins.md": {
+      "size": 0,
+      "tags": 0,
+      "links": 0
     }
   },
   "commitTypes": {
     "/": {
       "Refactor": 1466,
-      "Create": 470,
+      "Create": 471,
       "Link": 353,
       "Expand": 131
     }
@@ -2217,14 +2222,14 @@
       "19": 55,
       "20": 63,
       "21": 139,
-      "22": 115,
+      "22": 116,
       "23": 84
     }
   },
   "weeklyCommits": {
     "/": {
       "Mon": 1501,
-      "Tue": 175,
+      "Tue": 176,
       "Wed": 275,
       "Thu": 173,
       "Fri": 163,
@@ -2288,6 +2293,7 @@
         "<a class=\"internal-link\" href=\"personal/job-hunting/Drawing 2022-11-07 15.59.02.excalidraw.md\"> Drawing 2022-11-07 15.59.02.excalidraw </a>"
       ],
       "Created": [
+        "<a class=\"internal-link\" href=\"learning/computing/software/CICD/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"learning/computing/programming/css/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"awesome/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"awesome/Untitled.md\"> Untitled </a>",
@@ -2332,7 +2338,6 @@
         "<a class=\"internal-link\" href=\"personal/daily/2022/23-04-17.md\"> 23-04-17 </a>",
         "<a class=\"internal-link\" href=\"learning/reading/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"learning/cooking/technique/Untitled.md\"> Untitled </a>",
-        "<a class=\"internal-link\" href=\"conflict-files-obsidian-git.md\"> conflict-files-obsidian-git </a>",
         "<a class=\"internal-link\" href=\"conflict-files-obsidian-git.md\"> conflict-files-obsidian-git </a>",
         "<a class=\"internal-link\" href=\"conflict-files-obsidian-git.md\"> conflict-files-obsidian-git </a>",
         "<a class=\"internal-link\" href=\"conflict-files-obsidian-git.md\"> conflict-files-obsidian-git </a>",
