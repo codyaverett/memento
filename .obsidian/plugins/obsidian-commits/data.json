@@ -2187,14 +2187,14 @@
     "learning/computing/software/CICD/Jenkins.md": {
       "size": 0,
       "tags": 0,
-      "links": 0
+      "links": 1
     }
   },
   "commitTypes": {
     "/": {
       "Refactor": 1466,
       "Create": 471,
-      "Link": 353,
+      "Link": 354,
       "Expand": 131
     }
   },
@@ -2222,14 +2222,14 @@
       "19": 55,
       "20": 63,
       "21": 139,
-      "22": 116,
+      "22": 117,
       "23": 84
     }
   },
   "weeklyCommits": {
     "/": {
       "Mon": 1501,
-      "Tue": 176,
+      "Tue": 177,
       "Wed": 275,
       "Thu": 173,
       "Fri": 163,
@@ -2506,6 +2506,7 @@
         "<a class=\"internal-link\" href=\"templates/new topic.md\"> new topic </a>"
       ],
       "Linked": [
+        "<a class=\"internal-link\" href=\"learning/computing/software/CICD/Jenkins.md\"> Jenkins </a>",
         "<a class=\"internal-link\" href=\"awesome/ai-tools.md\"> ai-tools </a>",
         "<a class=\"internal-link\" href=\"personal/tasks.md\"> tasks </a>",
         "<a class=\"internal-link\" href=\"learning/financial/trading/real/Principles of success.md\"> Principles of success </a>",
@@ -2555,8 +2556,7 @@
         "<a class=\"internal-link\" href=\"personal/music/Sheet music.md\"> Sheet music </a>",
         "<a class=\"internal-link\" href=\"personal/music/Sheet music.md\"> Sheet music </a>",
         "<a class=\"internal-link\" href=\"software/containers/docker-compose/create compose from multiple dockerfiles.md\"> create compose from multiple dockerfiles </a>",
-        "<a class=\"internal-link\" href=\"software/data ETL/databend.md\"> databend </a>",
-        "<a class=\"internal-link\" href=\"programming/python/python poetry.md\"> python poetry </a>"
+        "<a class=\"internal-link\" href=\"software/data ETL/databend.md\"> databend </a>"
       ],
       "Removed Tags from": [
         "<a class=\"internal-link\" href=\"learning/computing/programming/python/python extensions.md\"> python extensions </a>",
