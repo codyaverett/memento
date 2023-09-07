@@ -138,12 +138,11 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -162,8 +161,9 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "c2df8123be83bc06",
+  "active": "248b535a1fe3476e",
   "lastOpenFiles": [
+    "learning/computing/programming/Untitled",
     "personal/daily/2022/23-09-06.md",
     "learning/computing/software/CICD/attachments/Pasted image 20230822223631.png",
     "learning/computing/software/CICD/attachments",
@@ -200,7 +200,6 @@
     "learning/music/logic/create a polyrythmic.md",
     "learning/music/logic",
     "learning/computing/cryptocurrency/L1 networks/Ethereum/Ethereum.md",
-    "learning/financial/career/code tests/tips on completing a timed code test.md",
     "personal/school/saylor.org",
     "learning/financial/trading/real/attachments/Pasted image 20230421063606.png"
   ]
