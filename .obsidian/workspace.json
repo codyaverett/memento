@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "personal/daily/2022/23-09-06.md",
+                "file": "personal/daily/2022/23-09-07.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -100,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "personal/daily/2022/23-09-06.md",
+                "file": "personal/daily/2022/23-09-07.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "personal/daily/2022/23-09-06.md"
+                "file": "personal/daily/2022/23-09-07.md"
               }
             }
           },
@@ -161,10 +161,11 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "248b535a1fe3476e",
+  "active": "c2df8123be83bc06",
   "lastOpenFiles": [
-    "learning/computing/programming/Untitled",
     "personal/daily/2022/23-09-06.md",
+    "personal/daily/2022/23-09-07.md",
+    "learning/computing/programming/Untitled",
     "learning/computing/software/CICD/attachments/Pasted image 20230822223631.png",
     "learning/computing/software/CICD/attachments",
     "learning/financial/trading/real/attachments/Pasted image 20230822223606.png",
@@ -200,7 +201,6 @@
     "learning/music/logic/create a polyrythmic.md",
     "learning/music/logic",
     "learning/computing/cryptocurrency/L1 networks/Ethereum/Ethereum.md",
-    "personal/school/saylor.org",
     "learning/financial/trading/real/attachments/Pasted image 20230421063606.png"
   ]
 }
