@@ -2200,17 +2200,22 @@
       "links": 0
     },
     "learning/computing/programming/javascript/oop/oop is not what you think it is.md": {
-      "size": 0,
+      "size": 2107,
       "tags": 0,
+      "links": 0
+    },
+    "learning/computing/programming/machine learning/local ollama llm api.md": {
+      "size": 0,
+      "tags": 2,
       "links": 0
     }
   },
   "commitTypes": {
     "/": {
       "Refactor": 1467,
-      "Create": 474,
-      "Link": 354,
-      "Expand": 131
+      "Create": 475,
+      "Link": 355,
+      "Expand": 132
     }
   },
   "dailyCommits": {
@@ -2238,7 +2243,7 @@
       "20": 63,
       "21": 141,
       "22": 117,
-      "23": 86
+      "23": 89
     }
   },
   "weeklyCommits": {
@@ -2246,7 +2251,7 @@
       "Mon": 1501,
       "Tue": 177,
       "Wed": 276,
-      "Thu": 176,
+      "Thu": 179,
       "Fri": 163,
       "Sat": 0,
       "Sun": 133
@@ -2255,6 +2260,7 @@
   "recentCommits": {
     "/": {
       "Expanded": [
+        "<a class=\"internal-link\" href=\"learning/computing/programming/javascript/oop/oop is not what you think it is.md\"> oop is not what you think it is </a>",
         "<a class=\"internal-link\" href=\"generated/describe software development team.md\"> describe software development team </a>",
         "<a class=\"internal-link\" href=\"learning/computing/programming/SQL/SQL Tricks.md\"> SQL Tricks </a>",
         "<a class=\"internal-link\" href=\"learning/traveling/US Airline comparisons 2023.md\"> US Airline comparisons 2023 </a>",
@@ -2304,10 +2310,10 @@
         "<a class=\"internal-link\" href=\"personal/books/Staff Engineer.md\"> Staff Engineer </a>",
         "<a class=\"internal-link\" href=\"personal/books/Staff Engineer.md\"> Staff Engineer </a>",
         "<a class=\"internal-link\" href=\"personal/books/Staff Engineer.md\"> Staff Engineer </a>",
-        "<a class=\"internal-link\" href=\"personal/books/Staff Engineer.md\"> Staff Engineer </a>",
-        "<a class=\"internal-link\" href=\"personal/job-hunting/Drawing 2022-11-07 15.59.02.excalidraw.md\"> Drawing 2022-11-07 15.59.02.excalidraw </a>"
+        "<a class=\"internal-link\" href=\"personal/books/Staff Engineer.md\"> Staff Engineer </a>"
       ],
       "Created": [
+        "<a class=\"internal-link\" href=\"learning/computing/programming/machine learning/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"learning/computing/programming/javascript/oop/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"personal/daily/2022/23-09-07.md\"> 23-09-07 </a>",
         "<a class=\"internal-link\" href=\"personal/daily/2022/23-09-06.md\"> 23-09-06 </a>",
@@ -2356,7 +2362,6 @@
         "<a class=\"internal-link\" href=\"personal/daily/2022/23-04-17.md\"> 23-04-17 </a>",
         "<a class=\"internal-link\" href=\"learning/reading/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"learning/cooking/technique/Untitled.md\"> Untitled </a>",
-        "<a class=\"internal-link\" href=\"conflict-files-obsidian-git.md\"> conflict-files-obsidian-git </a>",
         "<a class=\"internal-link\" href=\"conflict-files-obsidian-git.md\"> conflict-files-obsidian-git </a>",
         "<a class=\"internal-link\" href=\"conflict-files-obsidian-git.md\"> conflict-files-obsidian-git </a>"
       ],
@@ -2414,6 +2419,7 @@
         "<a class=\"internal-link\" href=\"learning/computing/software/obsidian/Graph and Local Graph View.md\"> Graph and Local Graph View </a>"
       ],
       "Tagged": [
+        "<a class=\"internal-link\" href=\"learning/computing/programming/machine learning/local ollama llm api.md\"> local ollama llm api </a>",
         "<a class=\"internal-link\" href=\"awesome/prompts.md\"> prompts </a>",
         "<a class=\"internal-link\" href=\"awesome/ai-tools.md\"> ai-tools </a>",
         "<a class=\"internal-link\" href=\"awesome/useful-websites.md\"> useful-websites </a>",
@@ -2463,8 +2469,7 @@
         "<a class=\"internal-link\" href=\"learning/mental/productivity/Take a brain break.md\"> Take a brain break </a>",
         "<a class=\"internal-link\" href=\"learning/financial/trading/Support and resistance.md\"> Support and resistance </a>",
         "<a class=\"internal-link\" href=\"learning/financial/debt/calculating credit card interest.md\"> calculating credit card interest </a>",
-        "<a class=\"internal-link\" href=\"learning/techniques/black boxing.md\"> black boxing </a>",
-        "<a class=\"internal-link\" href=\"personal/notes/Chainsaw Man.md\"> Chainsaw Man </a>"
+        "<a class=\"internal-link\" href=\"learning/techniques/black boxing.md\"> black boxing </a>"
       ],
       "Refactored": [],
       "Deleted": [

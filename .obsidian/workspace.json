@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "learning/computing/programming/javascript/oop/oop is not what you think it is.md",
+                "file": "learning/computing/programming/machine learning/local ollama llm api.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -100,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "learning/computing/programming/javascript/oop/oop is not what you think it is.md",
+                "file": "learning/computing/programming/machine learning/local ollama llm api.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "learning/computing/programming/javascript/oop/oop is not what you think it is.md"
+                "file": "learning/computing/programming/machine learning/local ollama llm api.md"
               }
             }
           },
@@ -163,8 +163,9 @@
   },
   "active": "c2df8123be83bc06",
   "lastOpenFiles": [
-    "personal/daily/2022/23-09-07.md",
     "learning/computing/programming/javascript/oop/oop is not what you think it is.md",
+    "learning/computing/programming/machine learning/local ollama llm api.md",
+    "personal/daily/2022/23-09-07.md",
     "learning/computing/programming/javascript/oop",
     "personal/daily/2022/23-09-06.md",
     "learning/computing/programming/Untitled",
@@ -200,7 +201,6 @@
     "personal/blog/guides/create a minimal react app with parcel.md",
     "learning/music/logic/Logic SDK.md",
     "personal/blog/guides",
-    "learning/music/logic/create a polyrythmic.md",
     "learning/financial/trading/real/attachments/Pasted image 20230421063606.png"
   ]
 }
