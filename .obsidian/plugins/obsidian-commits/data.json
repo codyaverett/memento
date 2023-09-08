@@ -2193,12 +2193,22 @@
       "size": 0,
       "tags": 0,
       "links": 0
+    },
+    "personal/daily/2022/23-09-07.md": {
+      "size": 0,
+      "tags": 0,
+      "links": 0
+    },
+    "learning/computing/programming/javascript/oop/oop is not what you think it is.md": {
+      "size": 0,
+      "tags": 0,
+      "links": 0
     }
   },
   "commitTypes": {
     "/": {
-      "Refactor": 1466,
-      "Create": 472,
+      "Refactor": 1467,
+      "Create": 474,
       "Link": 354,
       "Expand": 131
     }
@@ -2226,9 +2236,9 @@
       "18": 42,
       "19": 55,
       "20": 63,
-      "21": 140,
+      "21": 141,
       "22": 117,
-      "23": 84
+      "23": 86
     }
   },
   "weeklyCommits": {
@@ -2236,7 +2246,7 @@
       "Mon": 1501,
       "Tue": 177,
       "Wed": 276,
-      "Thu": 173,
+      "Thu": 176,
       "Fri": 163,
       "Sat": 0,
       "Sun": 133
@@ -2298,6 +2308,8 @@
         "<a class=\"internal-link\" href=\"personal/job-hunting/Drawing 2022-11-07 15.59.02.excalidraw.md\"> Drawing 2022-11-07 15.59.02.excalidraw </a>"
       ],
       "Created": [
+        "<a class=\"internal-link\" href=\"learning/computing/programming/javascript/oop/Untitled.md\"> Untitled </a>",
+        "<a class=\"internal-link\" href=\"personal/daily/2022/23-09-07.md\"> 23-09-07 </a>",
         "<a class=\"internal-link\" href=\"personal/daily/2022/23-09-06.md\"> 23-09-06 </a>",
         "<a class=\"internal-link\" href=\"learning/computing/software/CICD/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"learning/computing/programming/css/Untitled.md\"> Untitled </a>",
@@ -2346,11 +2358,10 @@
         "<a class=\"internal-link\" href=\"learning/cooking/technique/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"conflict-files-obsidian-git.md\"> conflict-files-obsidian-git </a>",
         "<a class=\"internal-link\" href=\"conflict-files-obsidian-git.md\"> conflict-files-obsidian-git </a>",
-        "<a class=\"internal-link\" href=\"conflict-files-obsidian-git.md\"> conflict-files-obsidian-git </a>",
-        "<a class=\"internal-link\" href=\"conflict-files-obsidian-git.md\"> conflict-files-obsidian-git </a>",
         "<a class=\"internal-link\" href=\"conflict-files-obsidian-git.md\"> conflict-files-obsidian-git </a>"
       ],
       "Renamed": [
+        "<a class=\"internal-link\" href=\"learning/computing/programming/javascript/oop/oop is not what you think it is.md\"> oop is not what you think it is </a>",
         "<a class=\"internal-link\" href=\"awesome/database.md\"> database </a>",
         "<a class=\"internal-link\" href=\"awesome/useful-websites.md\"> useful-websites </a>",
         "<a class=\"internal-link\" href=\"awesome/really useful websites.md\"> really useful websites </a>",
@@ -2400,8 +2411,7 @@
         "<a class=\"internal-link\" href=\"learning/computing/programming/SQL/reference/create DB and table.md\"> create DB and table </a>",
         "<a class=\"internal-link\" href=\"personal/blog/People Just Do Not Know What They Do Not Know.md\"> People Just Do Not Know What They Do Not Know </a>",
         "<a class=\"internal-link\" href=\"learning/computing/cryptocurrency/oracles/Chainlink/Fair Sequencing Services (FSS).md\"> Fair Sequencing Services (FSS) </a>",
-        "<a class=\"internal-link\" href=\"learning/computing/software/obsidian/Graph and Local Graph View.md\"> Graph and Local Graph View </a>",
-        "<a class=\"internal-link\" href=\"personal/notes/Learn more about Cardano Blockchain.md\"> Learn more about Cardano Blockchain </a>"
+        "<a class=\"internal-link\" href=\"learning/computing/software/obsidian/Graph and Local Graph View.md\"> Graph and Local Graph View </a>"
       ],
       "Tagged": [
         "<a class=\"internal-link\" href=\"awesome/prompts.md\"> prompts </a>",
