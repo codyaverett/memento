@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "personal/daily/2022/23-09-07.md",
+                "file": "learning/computing/programming/javascript/oop/oop is not what you think it is.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -100,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "personal/daily/2022/23-09-07.md",
+                "file": "learning/computing/programming/javascript/oop/oop is not what you think it is.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "personal/daily/2022/23-09-07.md"
+                "file": "learning/computing/programming/javascript/oop/oop is not what you think it is.md"
               }
             }
           },
@@ -163,8 +163,10 @@
   },
   "active": "c2df8123be83bc06",
   "lastOpenFiles": [
-    "personal/daily/2022/23-09-06.md",
     "personal/daily/2022/23-09-07.md",
+    "learning/computing/programming/javascript/oop/oop is not what you think it is.md",
+    "learning/computing/programming/javascript/oop",
+    "personal/daily/2022/23-09-06.md",
     "learning/computing/programming/Untitled",
     "learning/computing/software/CICD/attachments/Pasted image 20230822223631.png",
     "learning/computing/software/CICD/attachments",
@@ -199,8 +201,6 @@
     "learning/music/logic/Logic SDK.md",
     "personal/blog/guides",
     "learning/music/logic/create a polyrythmic.md",
-    "learning/music/logic",
-    "learning/computing/cryptocurrency/L1 networks/Ethereum/Ethereum.md",
     "learning/financial/trading/real/attachments/Pasted image 20230421063606.png"
   ]
 }
