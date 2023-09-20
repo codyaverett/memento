@@ -2208,12 +2208,17 @@
       "size": 0,
       "tags": 2,
       "links": 0
+    },
+    "personal/daily/2022/23-09-13.md": {
+      "size": 0,
+      "tags": 0,
+      "links": 0
     }
   },
   "commitTypes": {
     "/": {
       "Refactor": 1467,
-      "Create": 475,
+      "Create": 476,
       "Link": 355,
       "Expand": 132
     }
@@ -2224,7 +2229,7 @@
       "1": 41,
       "2": 46,
       "3": 60,
-      "4": 27,
+      "4": 28,
       "5": 19,
       "6": 10,
       "7": 3,
@@ -2250,7 +2255,7 @@
     "/": {
       "Mon": 1501,
       "Tue": 177,
-      "Wed": 276,
+      "Wed": 277,
       "Thu": 179,
       "Fri": 163,
       "Sat": 0,
@@ -2313,6 +2318,7 @@
         "<a class=\"internal-link\" href=\"personal/books/Staff Engineer.md\"> Staff Engineer </a>"
       ],
       "Created": [
+        "<a class=\"internal-link\" href=\"personal/daily/2022/23-09-13.md\"> 23-09-13 </a>",
         "<a class=\"internal-link\" href=\"learning/computing/programming/machine learning/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"learning/computing/programming/javascript/oop/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"personal/daily/2022/23-09-07.md\"> 23-09-07 </a>",
@@ -2362,7 +2368,6 @@
         "<a class=\"internal-link\" href=\"personal/daily/2022/23-04-17.md\"> 23-04-17 </a>",
         "<a class=\"internal-link\" href=\"learning/reading/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"learning/cooking/technique/Untitled.md\"> Untitled </a>",
-        "<a class=\"internal-link\" href=\"conflict-files-obsidian-git.md\"> conflict-files-obsidian-git </a>",
         "<a class=\"internal-link\" href=\"conflict-files-obsidian-git.md\"> conflict-files-obsidian-git </a>"
       ],
       "Renamed": [
