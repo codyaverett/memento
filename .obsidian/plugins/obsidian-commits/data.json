@@ -2213,12 +2213,17 @@
       "size": 0,
       "tags": 0,
       "links": 0
+    },
+    "learning/financial/career/Project Management.md": {
+      "size": 0,
+      "tags": 0,
+      "links": 0
     }
   },
   "commitTypes": {
     "/": {
       "Refactor": 1467,
-      "Create": 476,
+      "Create": 477,
       "Link": 355,
       "Expand": 132
     }
@@ -2238,7 +2243,7 @@
       "10": 12,
       "11": 14,
       "12": 10,
-      "13": 68,
+      "13": 69,
       "14": 50,
       "15": 66,
       "16": 1203,
@@ -2256,7 +2261,7 @@
       "Mon": 1501,
       "Tue": 177,
       "Wed": 277,
-      "Thu": 179,
+      "Thu": 180,
       "Fri": 163,
       "Sat": 0,
       "Sun": 133
@@ -2318,6 +2323,7 @@
         "<a class=\"internal-link\" href=\"personal/books/Staff Engineer.md\"> Staff Engineer </a>"
       ],
       "Created": [
+        "<a class=\"internal-link\" href=\"learning/financial/career/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"personal/daily/2022/23-09-13.md\"> 23-09-13 </a>",
         "<a class=\"internal-link\" href=\"learning/computing/programming/machine learning/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"learning/computing/programming/javascript/oop/Untitled.md\"> Untitled </a>",
@@ -2367,8 +2373,7 @@
         "<a class=\"internal-link\" href=\"learning/computing/software/screencapture/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"personal/daily/2022/23-04-17.md\"> 23-04-17 </a>",
         "<a class=\"internal-link\" href=\"learning/reading/Untitled.md\"> Untitled </a>",
-        "<a class=\"internal-link\" href=\"learning/cooking/technique/Untitled.md\"> Untitled </a>",
-        "<a class=\"internal-link\" href=\"conflict-files-obsidian-git.md\"> conflict-files-obsidian-git </a>"
+        "<a class=\"internal-link\" href=\"learning/cooking/technique/Untitled.md\"> Untitled </a>"
       ],
       "Renamed": [
         "<a class=\"internal-link\" href=\"learning/computing/programming/javascript/oop/oop is not what you think it is.md\"> oop is not what you think it is </a>",
