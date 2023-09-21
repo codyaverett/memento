@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "personal/daily/2022/23-09-13.md",
+                "file": "learning/financial/career/Project Management.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "personal/daily/2022/23-09-13.md",
+                "file": "learning/financial/career/Project Management.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +116,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "personal/daily/2022/23-09-13.md"
+                "file": "learning/financial/career/Project Management.md"
               }
             }
           },
@@ -162,8 +162,9 @@
   },
   "active": "daef628b927dda19",
   "lastOpenFiles": [
-    "learning/computing/software/CICD/Jenkins.md",
     "personal/daily/2022/23-09-13.md",
+    "learning/financial/career/Project Management.md",
+    "learning/computing/software/CICD/Jenkins.md",
     "learning/computing/programming/machine learning/local ollama llm api.md",
     "learning/computing/programming/javascript/oop/oop is not what you think it is.md",
     "personal/daily/2022/23-09-07.md",
@@ -198,7 +199,6 @@
     "learning/computing/programming/javascript/ThreeJS/ThreeJS intro.md",
     "learning/computing/programming/javascript/3d cube with js.md",
     "learning/computing/programming/javascript/ThreeJS",
-    "personal/blog/guides/create a minimal react app with parcel.md",
     "personal/blog/guides",
     "learning/financial/trading/real/attachments/Pasted image 20230421063606.png"
   ]
