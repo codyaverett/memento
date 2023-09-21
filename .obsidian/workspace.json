@@ -19,19 +19,6 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "c2df8123be83bc06",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "learning/computing/programming/machine learning/local ollama llm api.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
           }
         ]
       }
@@ -162,10 +149,10 @@
   },
   "active": "daef628b927dda19",
   "lastOpenFiles": [
-    "personal/daily/2022/23-09-13.md",
-    "learning/financial/career/Project Management.md",
-    "learning/computing/software/CICD/Jenkins.md",
     "learning/computing/programming/machine learning/local ollama llm api.md",
+    "learning/financial/career/Project Management.md",
+    "personal/daily/2022/23-09-13.md",
+    "learning/computing/software/CICD/Jenkins.md",
     "learning/computing/programming/javascript/oop/oop is not what you think it is.md",
     "personal/daily/2022/23-09-07.md",
     "learning/computing/programming/javascript/oop",
