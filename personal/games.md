@@ -6,31 +6,20 @@ kanban-plugin: basic
 
 ## Wish List
 
+
+## Play List
+
+- [X] Final Fantasy X
 - [ ] Final Fantasy XVI
-
-
-## Backlog
-
-- [ ] Horizon Forbidden West
-- [ ] God of War 4
+- [X] God of War 4
 - [ ] God of War 5 Ragnarok
-
-
-## Playing
-
-- [ ] Hogwarts Legacy
-- [ ] Lumines
-- [ ] Final Fantasy X
-- [ ] Mario Golf (switch)
-
-
-## Finished
-
-**Complete**
+- [X] Hogwarts Legacy
 - [x] Horizon Zero Dawn
-
-
-
+- [x] Horizon Forbidden West
+- [ ] Horizon Forbidden West: Burning Shores
+- [ ] Lumines
+- [X] Mario Golf (switch)
+- [ ] Mass Effect 1
 
 %% kanban:settings
 ```
