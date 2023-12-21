@@ -9,17 +9,19 @@ kanban-plugin: basic
 
 ## Play List
 
-- [X] Final Fantasy X
-- [ ] Final Fantasy XVI
-- [X] God of War 4
+- [x] Final Fantasy X
+- [x] Final Fantasy XVI
+- [x] God of War 4
 - [ ] God of War 5 Ragnarok
-- [X] Hogwarts Legacy
+- [x] Hogwarts Legacy
 - [x] Horizon Zero Dawn
 - [x] Horizon Forbidden West
 - [ ] Horizon Forbidden West: Burning Shores
 - [ ] Lumines
-- [X] Mario Golf (switch)
-- [ ] Mass Effect 1
+- [x] Mario Golf (switch)
+- [x] Mass Effect 1
+- [x] Mass Effect 2
+- [x] Mass Efffect 3
 
 %% kanban:settings
 ```
