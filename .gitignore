@@ -2,3 +2,6 @@
 .obsidian/plugins/obsidian-commits/data.json
 .obsidian/workspace.json
 
+/sandbox/jenkins-examples/
+/sandbox/python_examples/
+/sandbox/sql_examples/
