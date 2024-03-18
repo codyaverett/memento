@@ -1,0 +1,7 @@
+{
+  "projects": {
+    "sandbox/jenkins-examples": "git@github.com:codyaverett/jenkins-examples.git",
+    "sandbox/python_examples": "git@github.com:codyaverett/python_examples.git",
+    "sandbox/sql_examples": "git@github.com:codyaverett/sql_examples.git"
+  }
+}
