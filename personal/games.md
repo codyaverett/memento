@@ -9,6 +9,8 @@ kanban-plugin: basic
 
 ## Play List
 
+- [x] Dragon's Dogma 2
+- [x] Final Fantasy 7 Rebirth
 - [x] Final Fantasy X
 - [x] Final Fantasy XVI
 - [x] God of War 4
