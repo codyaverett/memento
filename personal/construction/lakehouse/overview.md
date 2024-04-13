@@ -29,3 +29,4 @@
 
 - Inspection
   - Not sure what is required as a home owner builder
+  - Permit required from city
