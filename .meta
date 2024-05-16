@@ -4,6 +4,8 @@
     "sandbox/python_examples": "git@github.com:codyaverett/python_examples.git",
     "sandbox/sql_examples": "git@github.com:codyaverett/sql_examples.git",
     "sandbox/rust_examples": "git@github.com:codyaverett/rust_examples.git",
-    "sandbox/ai/gpt4all": "git@github.com:codyaverett/gpt4all.git"
+    "sandbox/ai/gpt4all": "git@github.com:codyaverett/gpt4all.git",
+    "sandbox/make_examples": "git@github.com:codyaverett/make_examples.git",
+    "personal/resume": "git@github.com:codyaverett/resume.git"
   }
 }
