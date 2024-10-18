@@ -28,3 +28,5 @@ tags: awesome
 ## Local
 
 - llama2
+- ollama
+- gpt4all
