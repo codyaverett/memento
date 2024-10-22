@@ -17,8 +17,9 @@ kanban-plugin: basic
 - [ ] God of War 5 Ragnarok
 - [x] Hogwarts Legacy
 - [x] Horizon Zero Dawn
+- [ ] Horizon Zero Dawn Remake
 - [x] Horizon Forbidden West
-- [ ] Horizon Forbidden West: Burning Shores
+- [x] Horizon Forbidden West: Burning Shores
 - [ ] Lumines
 - [x] Mario Golf (switch)
 - [x] Mass Effect 1
