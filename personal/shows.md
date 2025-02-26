@@ -5,7 +5,6 @@ kanban-plugin: basic
 ---
 
 ## Backlog
-- [ ] Jujitsu Kaizen
 - [ ] Mushoku Tensei
 - [ ] Sailor Moon
 - [ ] Vox Machina
@@ -18,6 +17,7 @@ kanban-plugin: basic
 - [ ] Dragon Ball Daima
 
 ## Finished
+- [ ] Jujitsu Kaizen
 - [ ] Fullmetal Alchemist - Brotherhood
 - [ ] Extra Ordinary
 - [ ] Naruto
