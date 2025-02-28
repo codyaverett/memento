@@ -18,13 +18,14 @@ kanban-plugin: basic
 - [x] Hogwarts Legacy
 - [x] Horizon Zero Dawn
 - [ ] Horizon Zero Dawn Remake
-- [x] Horizon Forbidden West
-- [x] Horizon Forbidden West: Burning Shores
+- [x] Horizon Forbidden West (Replayed the remake too)
+- [x] Horizon Forbidden West: Burning Shores (Replayed)
 - [ ] Lumines
 - [x] Mario Golf (switch)
 - [x] Mass Effect 1
 - [x] Mass Effect 2
 - [x] Mass Efffect 3
+
 
 %% kanban:settings
 ```
