@@ -20,7 +20,8 @@ kanban-plugin: basic
 - [ ] Horizon Zero Dawn Remake
 - [x] Horizon Forbidden West (Replayed the remake too)
 - [x] Horizon Forbidden West: Burning Shores (Replayed)
-- [ ] Lumines
+- [ ] Stardew Valley
+- [x] Lumines
 - [x] Mario Golf (switch)
 - [x] Mass Effect 1
 - [x] Mass Effect 2
