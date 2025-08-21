@@ -5,27 +5,25 @@ kanban-plugin: basic
 ---
 
 ## Backlog
-
-- [ ] Jujitsu Kaizen
 - [ ] Mushoku Tensei
 - [ ] Sailor Moon
 - [ ] Vox Machina
 
 
 ## Watching
-
 - [ ] Boruto - Naruto the next generation
 - [ ] Demon Slayer
-
+- [ ] One Piece
+- [ ] Dragon Ball Daima
 
 ## Finished
-
+- [ ] Jujitsu Kaizen
 - [ ] Fullmetal Alchemist - Brotherhood
 - [ ] Extra Ordinary
 - [ ] Naruto
 - [ ] Physical 100
 - [ ] Naruto Shipuden
-- [ ] [[Chainsaw Man]]
+- [ ] Chainsaw Man
 
 
 ***
