@@ -1,0 +1,301 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>WebGL Desktop Environment</title>
+  <style>
+    body, html {
+      margin: 0;
+      padding: 0;
+      width: 100%;
+      height: 100%;
+      overflow: hidden;
+      font-family: sans-serif;
+      user-select: none;
+    }
+    canvas#bg {
+      position: fixed;
+      top: 0;
+      left: 0;
+      width: 100%;
+      height: 100%;
+      z-index: 0;
+    }
+    #desktop {
+      position: absolute;
+      top: 0; left: 0; right: 0; bottom: 0;
+      z-index: 1;
+    }
+    .icon {
+      width: 80px;
+      text-align: center;
+      margin: 10px;
+      cursor: pointer;
+      display: inline-block;
+    }
+    .icon.selected {
+      background: rgba(0,128,255,0.3);
+      border-radius: 6px;
+    }
+    .window {
+      position: absolute;
+      top: 100px;
+      left: 100px;
+      width: 400px;
+      height: 300px;
+      background: white;
+      border: 1px solid #666;
+      box-shadow: 2px 2px 8px rgba(0,0,0,0.4);
+      display: flex;
+      flex-direction: column;
+    }
+    .titlebar {
+      background: #333;
+      color: white;
+      padding: 5px;
+      cursor: move;
+      display: flex;
+      justify-content: space-between;
+    }
+    .titlebar .buttons button {
+      margin-left: 5px;
+    }
+    .content {
+      flex: 1;
+      overflow: auto;
+      padding: 5px;
+    }
+    #selectionBox {
+      position: absolute;
+      border: 1px dashed #08f;
+      background: rgba(0,128,255,0.2);
+      display: none;
+      z-index: 9999;
+    }
+    .context-menu {
+      position: absolute;
+      background: #fff;
+      border: 1px solid #666;
+      display: none;
+      z-index: 9999;
+    }
+    .context-menu ul {
+      list-style: none;
+      margin: 0;
+      padding: 0;
+    }
+    .context-menu ul li {
+      padding: 5px 10px;
+      cursor: pointer;
+    }
+    .context-menu ul li:hover {
+      background: #eee;
+    }
+  </style>
+</head>
+<body>
+  <canvas id="bg"></canvas>
+  <div id="desktop"></div>
+  <div id="selectionBox"></div>
+  <div class="context-menu" id="contextMenu">
+    <ul>
+      <li id="newFile">New File</li>
+      <li id="newFolder">New Folder</li>
+      <li id="importZip">Import Zip</li>
+      <li id="exportZip">Export Zip</li>
+    </ul>
+  </div>
+  <script src="https://cdn.jsdelivr.net/npm/three@0.156.1/build/three.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/jszip@3.10.1/dist/jszip.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/file-saver@2.0.5/dist/FileSaver.min.js"></script>
+  <script>
+    // Initialize Three.js background
+    const renderer = new THREE.WebGLRenderer({canvas: document.getElementById('bg')});
+    renderer.setSize(window.innerWidth, window.innerHeight);
+    const scene = new THREE.Scene();
+    const camera = new THREE.PerspectiveCamera(75, window.innerWidth/window.innerHeight, 0.1, 1000);
+    const geometry = new THREE.IcosahedronGeometry(5, 1);
+    const material = new THREE.MeshNormalMaterial({wireframe: true});
+    const mesh = new THREE.Mesh(geometry, material);
+    scene.add(mesh);
+    camera.position.z = 10;
+
+    function animate() {
+      requestAnimationFrame(animate);
+      mesh.rotation.x += 0.005;
+      mesh.rotation.y += 0.005;
+      renderer.render(scene, camera);
+    }
+    animate();
+    window.addEventListener('resize', () => {
+      camera.aspect = window.innerWidth / window.innerHeight;
+      camera.updateProjectionMatrix();
+      renderer.setSize(window.innerWidth, window.innerHeight);
+    });
+
+    // Virtual File System
+    const dbName = "desktopFS";
+    function openDB() {
+      return new Promise((resolve, reject) => {
+        const req = indexedDB.open(dbName, 1);
+        req.onupgradeneeded = e => {
+          e.target.result.createObjectStore('files', {keyPath: 'path'});
+        };
+        req.onsuccess = e => resolve(e.target.result);
+        req.onerror = e => reject(e);
+      });
+    }
+    async function saveFile(path, content) {
+      const db = await openDB();
+      const tx = db.transaction('files','readwrite');
+      tx.objectStore('files').put({path, content});
+    }
+    async function getFile(path) {
+      const db = await openDB();
+      return new Promise(res => {
+        db.transaction('files').objectStore('files').get(path).onsuccess = e => res(e.target.result);
+      });
+    }
+
+    // Desktop Icons and Drag-select
+    const desktop = document.getElementById('desktop');
+    const selectionBox = document.getElementById('selectionBox');
+    let startX, startY;
+    desktop.addEventListener('mousedown', e => {
+      if (e.button === 0) {
+        startX = e.clientX;
+        startY = e.clientY;
+        selectionBox.style.left = startX+'px';
+        selectionBox.style.top = startY+'px';
+        selectionBox.style.width = '0px';
+        selectionBox.style.height = '0px';
+        selectionBox.style.display = 'block';
+      }
+    });
+    desktop.addEventListener('mousemove', e => {
+      if (selectionBox.style.display === 'block') {
+        const x = Math.min(e.clientX, startX);
+        const y = Math.min(e.clientY, startY);
+        const w = Math.abs(e.clientX - startX);
+        const h = Math.abs(e.clientY - startY);
+        selectionBox.style.left = x+'px';
+        selectionBox.style.top = y+'px';
+        selectionBox.style.width = w+'px';
+        selectionBox.style.height = h+'px';
+        document.querySelectorAll('.icon').forEach(icon => {
+          const rect = icon.getBoundingClientRect();
+          const sel = selectionBox.getBoundingClientRect();
+          if (!(rect.right < sel.left || rect.left > sel.right || rect.bottom < sel.top || rect.top > sel.bottom)) {
+            icon.classList.add('selected');
+          } else {
+            icon.classList.remove('selected');
+          }
+        });
+      }
+    });
+    desktop.addEventListener('mouseup', e => {
+      selectionBox.style.display = 'none';
+    });
+
+    // Context Menu
+    const contextMenu = document.getElementById('contextMenu');
+    desktop.addEventListener('contextmenu', e => {
+      e.preventDefault();
+      contextMenu.style.display = 'block';
+      contextMenu.style.left = e.clientX+'px';
+      contextMenu.style.top = e.clientY+'px';
+    });
+    window.addEventListener('click', () => {
+      contextMenu.style.display = 'none';
+    });
+
+    // Zip Import/Export
+    document.getElementById('importZip').onclick = async () => {
+      const input = document.createElement('input');
+      input.type = 'file';
+      input.accept = '.zip';
+      input.onchange = async () => {
+        const file = input.files[0];
+        const zip = await JSZip.loadAsync(file);
+        for (let filename in zip.files) {
+          const data = await zip.files[filename].async('string');
+          saveFile('/'+filename, data);
+        }
+      };
+      input.click();
+    };
+    document.getElementById('exportZip').onclick = async () => {
+      const db = await openDB();
+      const tx = db.transaction('files','readonly');
+      const req = tx.objectStore('files').getAll();
+      req.onsuccess = async () => {
+        const zip = new JSZip();
+        req.result.forEach(f => zip.file(f.path, f.content));
+        const blob = await zip.generateAsync({type:'blob'});
+        saveAs(blob, 'desktop.zip');
+      };
+    };
+
+    // Terminal Emulator
+    function openTerminal() {
+      createWindow('Terminal', `<div id=\"terminal\" style=\"background:black;color:lime;padding:5px;height:100%;overflow:auto;font-family:monospace;\"></div><input id=\"termInput\" style=\"width:100%\"/>`, (win)=>{
+        const termDiv = win.querySelector('#terminal');
+        const input = win.querySelector('#termInput');
+        input.addEventListener('keydown', async e => {
+          if(e.key==='Enter'){
+            const cmd = input.value.trim();
+            termDiv.innerHTML += `<div>> ${cmd}</div>`;
+            if(cmd==='ls'){
+              const db=await openDB();
+              db.transaction('files').objectStore('files').getAll().onsuccess=e=>{
+                e.target.result.forEach(f=>termDiv.innerHTML+=`<div>${f.path}</div>`);
+              };
+            } else if(cmd.startsWith('cat ')) {
+              const path=cmd.slice(4);
+              const file=await getFile(path);
+              termDiv.innerHTML += `<div>${file?file.content:"No such file"}</div>`;
+            } else if(cmd.startsWith('echo ')) {
+              termDiv.innerHTML += `<div>${cmd.slice(5)}</div>`;
+            } else {
+              termDiv.innerHTML += `<div>Unknown command</div>`;
+            }
+            input.value='';
+          }
+        });
+      });
+    }
+
+    // Window Manager
+    function createWindow(title, contentHTML, onOpen){
+      const win=document.createElement('div');
+      win.className='window';
+      win.innerHTML=`<div class=\"titlebar\">${title}<div class=\"buttons\"><button class=\"close\">X</button></div></div><div class=\"content\">${contentHTML}</div>`;
+      desktop.appendChild(win);
+      const bar=win.querySelector('.titlebar');
+      let offsetX, offsetY, dragging=false;
+      bar.addEventListener('mousedown', e=>{dragging=true;offsetX=e.offsetX;offsetY=e.offsetY;});
+      document.addEventListener('mousemove', e=>{if(dragging){win.style.left=(e.clientX-offsetX)+'px';win.style.top=(e.clientY-offsetY)+'px';}});
+      document.addEventListener('mouseup', ()=>dragging=false);
+      win.querySelector('.close').onclick=()=>win.remove();
+      if(onOpen) onOpen(win);
+    }
+
+    // Keyboard Shortcuts for tiling
+    window.addEventListener('keydown', e=>{
+      if(e.ctrlKey && e.key==='t') openTerminal();
+      if(e.ctrlKey && e.key==='ArrowLeft') {
+        document.querySelectorAll('.window').forEach(win=>{
+          win.style.left='0';win.style.top='0';win.style.width='50%';win.style.height='100%';
+        });
+      }
+      if(e.ctrlKey && e.key==='ArrowRight') {
+        document.querySelectorAll('.window').forEach(win=>{
+          win.style.left='50%';win.style.top='0';win.style.width='50%';win.style.height='100%';
+        });
+      }
+    });
+  </script>
+</body>
+</html>
+

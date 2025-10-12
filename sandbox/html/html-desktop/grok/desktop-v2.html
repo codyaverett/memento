@@ -1,0 +1,401 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Web Desktop Environment</title>
+    <style>
+        body {
+            margin: 0;
+            overflow: hidden;
+        }
+        #desktop {
+            position: relative;
+            width: 100vw;
+            height: calc(100vh - 40px);
+            background: linear-gradient(to bottom, #87CEEB, #E0F6FF);
+            overflow: hidden;
+        }
+        #start-bar {
+            position: absolute;
+            bottom: 0;
+            width: 100%;
+            height: 40px;
+            background: #333;
+            color: white;
+            display: flex;
+            align-items: center;
+            padding: 0 10px;
+        }
+        #start-button {
+            background: #555;
+            border: none;
+            color: white;
+            padding: 5px 10px;
+            cursor: pointer;
+            margin-right: 10px;
+        }
+        #start-button:hover {
+            background: #666;
+        }
+        .icon {
+            position: absolute;
+            width: 80px;
+            height: 80px;
+            background: rgba(255, 255, 255, 0.5);
+            border: 1px solid #ccc;
+            border-radius: 8px;
+            text-align: center;
+            line-height: 80px;
+            cursor: pointer;
+            user-select: none;
+        }
+        .icon:hover {
+            background: rgba(255, 255, 255, 0.8);
+        }
+        #file-explorer-icon {
+            top: 20px;
+            left: 20px;
+        }
+        #webcam-icon {
+            top: 120px;
+            left: 20px;
+        }
+        #webgl-icon {
+            top: 220px;
+            left: 20px;
+        }
+        .window {
+            position: absolute;
+            border: 1px solid #000;
+            background: #fff;
+            box-shadow: 0 0 10px rgba(0,0,0,0.5);
+            resize: both;
+            overflow: auto;
+            min-width: 200px;
+            min-height: 100px;
+        }
+        .titlebar {
+            background: #ccc;
+            padding: 5px;
+            cursor: move;
+            user-select: none;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+        }
+        .close-btn {
+            background: red;
+            color: white;
+            border: none;
+            cursor: pointer;
+        }
+        video, canvas, textarea, iframe {
+            width: 100%;
+            height: calc(100% - 30px);
+            box-sizing: border-box;
+        }
+        ul {
+            list-style: none;
+            padding: 0;
+        }
+        li {
+            padding: 5px;
+            cursor: pointer;
+        }
+        li:hover {
+            background: #eee;
+        }
+        .browser-controls {
+            display: flex;
+            padding: 5px;
+            background: #eee;
+        }
+        .browser-controls input {
+            flex: 1;
+            margin-right: 5px;
+            padding: 3px;
+        }
+        .browser-controls button {
+            padding: 3px 10px;
+        }
+    </style>
+</head>
+<body>
+    <div id="desktop">
+        <div class="icon" id="file-explorer-icon" onclick="openFileExplorer()">Files</div>
+        <div class="icon" id="webcam-icon" onclick="openWebcamWindow()">Webcam</div>
+        <div class="icon" id="webgl-icon" onclick="openWebGLWindow()">WebGL</div>
+    </div>
+    <div id="start-bar">
+        <button id="start-button" onclick="openBrowser()">Start Browser</button>
+    </div>
+
+    <script>
+        // IndexedDB setup for filesystem and database
+        let db;
+        const dbRequest = indexedDB.open('DesktopDB', 1);
+        dbRequest.onerror = () => console.error('Failed to open DB');
+        dbRequest.onsuccess = () => {
+            db = dbRequest.result;
+            console.log('DB opened successfully');
+        };
+        dbRequest.onupgradeneeded = (event) => {
+            const db = event.target.result;
+            const store = db.createObjectStore('files', { keyPath: 'name' });
+            store.createIndex('content', 'content');
+        };
+
+        // Function to create a draggable window
+        let windowCounter = 0;
+        function createWindow(title, contentElement) {
+            const win = document.createElement('div');
+            win.classList.add('window');
+            win.style.left = `${100 + windowCounter * 20}px`;
+            win.style.top = `${100 + windowCounter * 20}px`;
+            win.style.width = '400px';
+            win.style.height = '300px';
+            windowCounter++;
+
+            const titlebar = document.createElement('div');
+            titlebar.classList.add('titlebar');
+            titlebar.textContent = title;
+
+            const closeBtn = document.createElement('button');
+            closeBtn.classList.add('close-btn');
+            closeBtn.textContent = 'X';
+            closeBtn.onclick = () => win.remove();
+            titlebar.appendChild(closeBtn);
+
+            win.appendChild(titlebar);
+            win.appendChild(contentElement);
+
+            document.getElementById('desktop').appendChild(win);
+
+            makeDraggable(titlebar, win);
+            return win;
+        }
+
+        // Make element draggable
+        function makeDraggable(titlebar, win) {
+            let posX = 0, posY = 0, mouseX = 0, mouseY = 0;
+            titlebar.onmousedown = (e) => {
+                e.preventDefault();
+                mouseX = e.clientX;
+                mouseY = e.clientY;
+                posX = win.offsetLeft;
+                posY = win.offsetTop;
+
+                document.onmouseup = () => {
+                    document.onmouseup = null;
+                    document.onmousemove = null;
+                };
+
+                document.onmousemove = (e) => {
+                    const dx = e.clientX - mouseX;
+                    const dy = e.clientY - mouseY;
+                    win.style.left = `${posX + dx}px`;
+                    win.style.top = `${posY + dy}px`;
+                };
+            };
+        }
+
+        // Open File Explorer window
+        function openFileExplorer() {
+            const content = document.createElement('div');
+            const list = document.createElement('ul');
+            content.appendChild(list);
+
+            const newFileBtn = document.createElement('button');
+            newFileBtn.textContent = 'New File';
+            newFileBtn.onclick = () => {
+                const name = prompt('Enter file name:');
+                if (name) {
+                    const tx = db.transaction('files', 'readwrite');
+                    const store = tx.objectStore('files');
+                    store.add({ name, content: '' });
+                    tx.oncomplete = refreshList;
+                }
+            };
+            content.appendChild(newFileBtn);
+
+            function refreshList() {
+                list.innerHTML = '';
+                const tx = db.transaction('files');
+                const store = tx.objectStore('files');
+                store.openCursor().onsuccess = (e) => {
+                    const cursor = e.target.result;
+                    if (cursor) {
+                        const li = document.createElement('li');
+                        li.textContent = cursor.value.name;
+                        li.onclick = () => openEditor(cursor.value.name, cursor.value.content);
+                        list.appendChild(li);
+                        cursor.continue();
+                    }
+                };
+            }
+
+            refreshList();
+            createWindow('File Explorer', content);
+        }
+
+        // Open file editor
+        function openEditor(name, contentText) {
+            const content = document.createElement('div');
+            const textarea = document.createElement('textarea');
+            textarea.value = contentText;
+            content.appendChild(textarea);
+
+            const saveBtn = document.createElement('button');
+            saveBtn.textContent = 'Save';
+            saveBtn.onclick = () => {
+                const tx = db.transaction('files', 'readwrite');
+                const store = tx.objectStore('files');
+                store.put({ name, content: textarea.value });
+            };
+            content.appendChild(saveBtn);
+
+            createWindow(`Editing: ${name}`, content);
+        }
+
+        // Open Webcam window
+        function openWebcamWindow() {
+            const video = document.createElement('video');
+            video.autoplay = true;
+            navigator.mediaDevices.getUserMedia({ video: true })
+                .then((stream) => {
+                    video.srcObject = stream;
+                })
+                .catch((err) => {
+                    console.error('Webcam access denied', err);
+                });
+            createWindow('Webcam View', video);
+        }
+
+        // Open Browser window
+        function openBrowser() {
+            const content = document.createElement('div');
+            const controls = document.createElement('div');
+            controls.classList.add('browser-controls');
+
+            const urlInput = document.createElement('input');
+            urlInput.type = 'text';
+            urlInput.placeholder = 'Enter URL (e.g., https://example.com)';
+            urlInput.value = 'https://example.com';
+
+            const goBtn = document.createElement('button');
+            goBtn.textContent = 'Go';
+            controls.appendChild(urlInput);
+            controls.appendChild(goBtn);
+
+            const iframe = document.createElement('iframe');
+            iframe.src = urlInput.value;
+            iframe.style.border = 'none';
+
+            goBtn.onclick = () => {
+                let url = urlInput.value;
+                if (!url.startsWith('http://') && !url.startsWith('https://')) {
+                    url = 'https://' + url;
+                }
+                iframe.src = url;
+            };
+
+            content.appendChild(controls);
+            content.appendChild(iframe);
+
+            createWindow('Web Browser', content);
+        }
+
+        // WebGL shaders
+        const vsSource = `
+            attribute vec2 aPosition;
+            void main() {
+                gl_Position = vec4(aPosition, 0.0, 1.0);
+            }
+        `;
+
+        const fsSource = `
+            void main() {
+                gl_FragColor = vec4(1.0, 0.0, 0.0, 1.0);
+            }
+        `;
+
+        // Initialize shader program
+        function initShaderProgram(gl, vsSource, fsSource) {
+            const vertexShader = loadShader(gl, gl.VERTEX_SHADER, vsSource);
+            const fragmentShader = loadShader(gl, gl.FRAGMENT_SHADER, fsSource);
+
+            const shaderProgram = gl.createProgram();
+            gl.attachShader(shaderProgram, vertexShader);
+            gl.attachShader(shaderProgram, fragmentShader);
+            gl.linkProgram(shaderProgram);
+
+            if (!gl.getProgramParameter(shaderProgram, gl.LINK_STATUS)) {
+                console.error('Unable to initialize the shader program: ' + gl.getProgramInfoLog(shaderProgram));
+                return null;
+            }
+
+            return shaderProgram;
+        }
+
+        function loadShader(gl, type, source) {
+            const shader = gl.createShader(type);
+            gl.shaderSource(shader, source);
+            gl.compileShader(shader);
+
+            if (!gl.getShaderParameter(shader, gl.COMPILE_STATUS)) {
+                console.error('An error occurred compiling the shaders: ' + gl.getShaderInfoLog(shader));
+                gl.deleteShader(shader);
+                return null;
+            }
+
+            return shader;
+        }
+
+        // Open WebGL window with a simple red triangle
+        function openWebGLWindow() {
+            const canvas = document.createElement('canvas');
+            canvas.width = 380;
+            canvas.height = 270;
+            const gl = canvas.getContext('webgl');
+            if (!gl) {
+                console.error('WebGL not supported');
+                return;
+            }
+
+            const shaderProgram = initShaderProgram(gl, vsSource, fsSource);
+            const programInfo = {
+                program: shaderProgram,
+                attribLocations: {
+                    position: gl.getAttribLocation(shaderProgram, 'aPosition'),
+                },
+            };
+
+            const positions = new Float32Array([
+                0.0,  0.5,
+               -0.5, -0.5,
+                0.5, -0.5,
+            ]);
+
+            const positionBuffer = gl.createBuffer();
+            gl.bindBuffer(gl.ARRAY_BUFFER, positionBuffer);
+            gl.bufferData(gl.ARRAY_BUFFER, positions, gl.STATIC_DRAW);
+
+            // Draw scene
+            gl.viewport(0, 0, gl.canvas.width, gl.canvas.height);
+            gl.clearColor(0.0, 0.0, 0.0, 1.0);
+            gl.clear(gl.COLOR_BUFFER_BIT);
+
+            gl.useProgram(programInfo.program);
+
+            gl.bindBuffer(gl.ARRAY_BUFFER, positionBuffer);
+            gl.vertexAttribPointer(programInfo.attribLocations.position, 2, gl.FLOAT, false, 0, 0);
+            gl.enableVertexAttribArray(programInfo.attribLocations.position);
+
+            gl.drawArrays(gl.TRIANGLES, 0, 3);
+
+            createWindow('WebGL Demo', canvas);
+        }
+    </script>
+</body>
+</html>
