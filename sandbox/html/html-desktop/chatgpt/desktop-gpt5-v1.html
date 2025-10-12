@@ -1,0 +1,389 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>WebGL Canvas Desktop</title>
+  <style>
+    :root{
+      --bg: #0b1020; --panel: #11182e; --panel-2:#0d1430; --text:#e6ecff;
+      --muted:#93a1c3; --accent:#7aa2ff; --accent-2:#19d2ff; --ok:#27c93f; --warn:#ffbd2e; --err:#ff5f56;
+      --shadow: 0 10px 30px rgba(0,0,0,.35);
+    }
+    html, body { margin: 0; height: 100%; background: var(--bg); color: var(--text); overflow: hidden; font-family: ui-sans-serif, system-ui, -apple-system, Segoe UI, Roboto, Helvetica, Arial; }
+    #glbg { position: fixed; inset: 0; z-index: 0; }
+    .desktop { position: fixed; inset: 0; z-index: 1; pointer-events: none; }
+    .dock { position: fixed; left: 0; right: 0; bottom: 0; height: 44px; z-index: 3; display: flex; align-items: center; gap: 8px; padding: 6px 10px; background: linear-gradient(180deg, rgba(15,20,38,.6), rgba(5,8,20,.8)); backdrop-filter: blur(8px); border-top: 1px solid rgba(255,255,255,.08); box-shadow: 0 -10px 30px rgba(0,0,0,.25); }
+    .btn { pointer-events: auto; user-select: none; display: inline-flex; align-items: center; gap: 8px; height: 32px; padding: 0 12px; border-radius: 10px; background: var(--panel); color: var(--text); border: 1px solid rgba(255,255,255,.06); box-shadow: var(--shadow); cursor: pointer; transition: .15s transform, .15s background; }
+    .btn:hover { transform: translateY(-1px); background: var(--panel-2); }
+    .spacer { flex: 1; }
+    .clock { font-variant-numeric: tabular-nums; color: var(--muted); }
+
+    .icon-grid { position: absolute; top: 18px; left: 18px; display: grid; grid-template-columns: repeat(5, 88px); gap: 14px; pointer-events: auto; }
+    .icon { width: 88px; height: 80px; border-radius: 12px; display: grid; place-items: center; background: rgba(255,255,255,.03); border: 1px solid rgba(255,255,255,.06); cursor: pointer; transition: .15s transform, .15s background; }
+    .icon:hover { transform: translateY(-2px); background: rgba(255,255,255,.06); }
+    .icon span { font-size: 12px; color: var(--muted); margin-top: 6px; display: block; text-align: center; }
+
+    .window { position: absolute; min-width: 360px; min-height: 220px; max-width: 90vw; max-height: 80vh; background: linear-gradient(180deg, rgba(22,28,56,.9), rgba(9,12,26,.95)); border: 1px solid rgba(255,255,255,.08); border-radius: 16px; box-shadow: var(--shadow); overflow: hidden; z-index: 2; pointer-events: auto; }
+    .titlebar { height: 40px; display: flex; align-items: center; gap: 10px; padding: 0 12px; background: linear-gradient(180deg, rgba(255,255,255,.06), rgba(255,255,255,.02)); cursor: move; user-select: none; }
+    .traffic { display: flex; gap: 8px; }
+    .dot { width: 12px; height: 12px; border-radius: 50%; border: 1px solid rgba(0,0,0,.35); }
+    .close { background: var(--err); }
+    .min { background: var(--warn); }
+    .max { background: var(--ok); }
+    .title { flex: 1; font-size: 14px; color: var(--muted); }
+    .content { padding: 10px; height: calc(100% - 40px); display: grid; grid-template-rows: auto 1fr; gap: 10px; }
+    .toolbar { display: flex; align-items: center; gap: 8px; }
+    .toolbar .btn { height: 28px; padding: 0 8px; border-radius: 8px; }
+    .pane { background: rgba(0,0,0,.25); border: 1px solid rgba(255,255,255,.06); border-radius: 12px; overflow: auto; }
+
+    .split { display: grid; grid-template-columns: 240px 1fr; gap: 10px; height: 100%; }
+    .tree, .list { padding: 8px; font-size: 14px; }
+    .tree .node { padding: 4px 6px; border-radius: 8px; cursor: pointer; }
+    .tree .node:hover { background: rgba(255,255,255,.06); }
+    .list .row { display: grid; grid-template-columns: 1fr 120px 160px; padding: 6px 8px; border-bottom: 1px dashed rgba(255,255,255,.06); cursor: default; }
+
+    .editor { width: 100%; height: 100%; background: transparent; color: var(--text); border: none; outline: none; font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace; font-size: 14px; padding: 12px; resize: none; }
+
+    video { max-width: 100%; border-radius: 12px; background: #000; }
+    canvas.snapshot { width: 100%; max-height: 260px; background: #000; border-radius: 12px; }
+
+    .status { font-size: 12px; color: var(--muted); }
+    .hidden { display: none !important; }
+    .resize-handle { position:absolute; right:0; bottom:0; width: 14px; height:14px; cursor: nwse-resize; }
+  </style>
+</head>
+<body>
+  <canvas id="glbg"></canvas>
+  <div class="desktop" id="desktop">
+    <div class="icon-grid">
+      <div class="icon" data-action="open-file-manager"><div>📁</div><span>Files</span></div>
+      <div class="icon" data-action="new-text"><div>📝</div><span>New Note</span></div>
+      <div class="icon" data-action="open-db"><div>🗄️</div><span>Database</span></div>
+      <div class="icon" data-action="webcam"><div>📷</div><span>Webcam</span></div>
+    </div>
+  </div>
+
+  <div class="dock">
+    <button class="btn" id="startBtn">✦ Start</button>
+    <button class="btn" onclick="openFileManager()">📁 Files</button>
+    <button class="btn" onclick="createTextEditor()">📝 New Note</button>
+    <button class="btn" onclick="openDBWindow()">🗄️ Database</button>
+    <button class="btn" onclick="openWebcamWindow()">📷 Webcam</button>
+    <div class="spacer"></div>
+    <div class="clock" id="clock"></div>
+  </div>
+
+  <!-- Three.js for WebGL background -->
+  <script src="https://unpkg.com/three@0.160.0/build/three.min.js"></script>
+
+  <script>
+  // ====== Simple Window Manager ======
+  let zTop = 10;
+  function bringToFront(el){ el.style.zIndex = ++zTop; }
+
+  function makeWindow({title="Window", w=520, h=360, x=80, y=80, content=null}){
+    const win = document.createElement('div');
+    win.className = 'window';
+    win.style.width = w+"px"; win.style.height = h+"px"; win.style.left=x+"px"; win.style.top=y+"px";
+    win.innerHTML = `
+      <div class="titlebar">
+        <div class="traffic">
+          <div class="dot close" title="Close"></div>
+          <div class="dot min" title="Minimize"></div>
+          <div class="dot max" title="Maximize"></div>
+        </div>
+        <div class="title">${title}</div>
+      </div>
+      <div class="content"></div>
+      <div class="resize-handle"></div>
+    `;
+    document.body.appendChild(win);
+    const contentEl = win.querySelector('.content');
+    if(content) contentEl.appendChild(content);
+
+    // Dragging
+    const bar = win.querySelector('.titlebar');
+    let isDrag=false, sx=0, sy=0, sl=0, st=0;
+    bar.addEventListener('mousedown', e=>{ if(e.target.closest('.dot')) return; isDrag=true; bringToFront(win); sx=e.clientX; sy=e.clientY; const r=win.getBoundingClientRect(); sl=r.left; st=r.top; });
+    window.addEventListener('mousemove', e=>{ if(!isDrag) return; const dx=e.clientX-sx, dy=e.clientY-sy; win.style.left = Math.max(0, Math.min(window.innerWidth-80, sl+dx))+"px"; win.style.top = Math.max(0, Math.min(window.innerHeight-80, st+dy))+"px"; });
+    window.addEventListener('mouseup', ()=> isDrag=false);
+    win.addEventListener('mousedown', ()=> bringToFront(win));
+
+    // Resize
+    const rh = win.querySelector('.resize-handle');
+    let isRes=false, sw=0, sh=0;
+    rh.addEventListener('mousedown', e=>{ isRes=true; e.stopPropagation(); bringToFront(win); const r=win.getBoundingClientRect(); sw=r.width; sh=r.height; sx=e.clientX; sy=e.clientY; });
+    window.addEventListener('mousemove', e=>{ if(!isRes) return; const dx=e.clientX-sx, dy=e.clientY-sy; win.style.width = Math.max(320, sw+dx)+"px"; win.style.height = Math.max(200, sh+dy)+"px"; });
+    window.addEventListener('mouseup', ()=> isRes=false);
+
+    // Window controls
+    win.querySelector('.close').addEventListener('click', ()=> win.remove());
+    win.querySelector('.min').addEventListener('click', ()=> win.classList.toggle('hidden'));
+    win.querySelector('.max').addEventListener('click', ()=>{
+      if(win.dataset.max==='1'){
+        win.style.left=win.dataset.l; win.style.top=win.dataset.t; win.style.width=win.dataset.w; win.style.height=win.dataset.h; win.dataset.max='0';
+      } else {
+        const r=win.getBoundingClientRect();
+        win.dataset.l=win.style.left; win.dataset.t=win.style.top; win.dataset.w=win.style.width; win.dataset.h=win.style.height;
+        win.style.left='10px'; win.style.top='10px'; win.style.width=(window.innerWidth-20)+'px'; win.style.height=(window.innerHeight-70)+'px';
+        win.dataset.max='1';
+      }
+    });
+    bringToFront(win);
+    return {win, contentEl};
+  }
+
+  // ====== IndexedDB: Virtual File System (VFS) ======
+  const VFS_DB = 'webgl-desktop-v1';
+  let vfsdb;
+  function idbOpen(){ return new Promise((res,rej)=>{
+    const req = indexedDB.open(VFS_DB, 1);
+    req.onupgradeneeded = e=>{
+      const db = e.target.result;
+      const store = db.createObjectStore('nodes', { keyPath:'path' });
+      store.createIndex('parent', 'parent', { unique:false });
+      store.createIndex('type', 'type', { unique:false });
+      store.put({ path:'/', parent:null, type:'dir', name:'/', created:Date.now(), updated:Date.now() });
+      db.createObjectStore('kv', { keyPath:'key' });
+    };
+    req.onsuccess = e=>{ vfsdb = e.target.result; res(vfsdb); };
+    req.onerror = ()=> rej(req.error);
+  }); }
+
+  function tx(store, mode='readonly'){ return vfsdb.transaction(store, mode).objectStore(store); }
+  async function ensureOpen(){ if(!vfsdb) await idbOpen(); }
+
+  function norm(path){
+    if(!path) return '/';
+    path = path.replace(/\\+/g,'/');
+    if(!path.startsWith('/')) path = '/'+path;
+    path = path.replace(/\/+/g,'/');
+    if(path.length>1 && path.endsWith('/')) path = path.slice(0,-1);
+    return path;
+  }
+  function parentOf(path){ path=norm(path); if(path==='/') return null; const i=path.lastIndexOf('/'); return i===0 ? '/' : path.slice(0,i); }
+  function nameOf(path){ path=norm(path); if(path==='/') return '/'; const i=path.lastIndexOf('/'); return path.slice(i+1); }
+
+  async function vfsGet(path){ await ensureOpen(); path=norm(path); return new Promise((res,rej)=>{ const r=tx('nodes').get(path); r.onsuccess=()=>res(r.result||null); r.onerror=()=>rej(r.error); }); }
+  async function vfsList(dir){ await ensureOpen(); dir=norm(dir); return new Promise((res,rej)=>{ const idx = tx('nodes').index('parent'); const req = idx.getAll(dir); req.onsuccess=()=>res(req.result||[]); req.onerror=()=>rej(req.error); }); }
+  async function vfsPutFile(path, content, mime='text/plain'){ await ensureOpen(); path=norm(path); const now=Date.now(); const parent=parentOf(path); if(parent && parent!=='/') { const p=await vfsGet(parent); if(!p) throw new Error('Parent not found: '+parent); if(p.type!=='dir') throw new Error('Parent not a directory'); }
+    return new Promise((res,rej)=>{ const r=tx('nodes','readwrite').put({ path, parent: parent||'/', type:'file', name:nameOf(path), content, mime, size: content?.length||0, created:now, updated:now }); r.onsuccess=()=>res(true); r.onerror=()=>rej(r.error); }); }
+  async function vfsMkdir(path){ await ensureOpen(); path=norm(path); const now=Date.now(); const parent=parentOf(path); if(parent && parent!=='/'){ const p=await vfsGet(parent); if(!p || p.type!=='dir') throw new Error('Invalid parent'); }
+    return new Promise((res,rej)=>{ const r=tx('nodes','readwrite').put({ path, parent: parent||'/', type:'dir', name:nameOf(path), created:now, updated:now }); r.onsuccess=()=>res(true); r.onerror=()=>rej(r.error); }); }
+  async function vfsDelete(path){ await ensureOpen(); path=norm(path); const node = await vfsGet(path); if(!node) return; if(node.type==='dir'){ const kids = await vfsList(path); for(const k of kids) await vfsDelete(k.path); }
+    return new Promise((res,rej)=>{ const r=tx('nodes','readwrite').delete(path); r.onsuccess=()=>res(true); r.onerror=()=>rej(r.error); }); }
+
+  // ====== Simple KV Database (same IndexedDB db, different store) ======
+  async function kvSet(key, value){ await ensureOpen(); return new Promise((res,rej)=>{ const r=tx('kv','readwrite').put({key, value, updated: Date.now()}); r.onsuccess=()=>res(true); r.onerror=()=>rej(r.error); }); }
+  async function kvGet(key){ await ensureOpen(); return new Promise((res,rej)=>{ const r=tx('kv').get(key); r.onsuccess=()=>res(r.result?.value); r.onerror=()=>rej(r.error); }); }
+  async function kvAll(){ await ensureOpen(); return new Promise((res,rej)=>{ const r=tx('kv').getAll(); r.onsuccess=()=>res(r.result||[]); r.onerror=()=>rej(r.error); }); }
+  async function kvDelete(key){ await ensureOpen(); return new Promise((res,rej)=>{ const r=tx('kv','readwrite').delete(key); r.onsuccess=()=>res(true); r.onerror=()=>rej(r.error); }); }
+
+  // ====== File Manager Window ======
+  async function openFileManager(){
+    const wrap = document.createElement('div');
+    wrap.className = 'split';
+    wrap.innerHTML = `
+      <div class="toolbar">
+        <button class="btn" id="mkDir">New Folder</button>
+        <button class="btn" id="mkFile">New File</button>
+        <button class="btn" id="del">Delete</button>
+        <span class="status" id="fmStatus"></span>
+      </div>
+      <div class="split">
+        <div class="pane tree" id="tree"></div>
+        <div class="pane list" id="list"></div>
+      </div>
+    `;
+    const {win} = makeWindow({ title:'Files', w:900, h:520, x:120, y:80, content: wrap});
+
+    let currentDir = '/'; let selectedPath = null;
+    async function refreshTree(){
+      const roots = await vfsList('/');
+      const el = win.querySelector('#tree');
+      el.innerHTML = `<div class="node" data-path="/">📁 /</div>` + roots.filter(n=>n.type==='dir').map(n=>`<div class="node" data-path="${n.path}">📁 ${n.name}</div>`).join('');
+      el.querySelectorAll('.node').forEach(n=> n.onclick = ()=> { currentDir = n.dataset.path; refreshList(); });
+    }
+    async function refreshList(){
+      const items = await vfsList(currentDir);
+      const el = win.querySelector('#list');
+      el.innerHTML = `<div class='row'><strong>Name</strong><strong>Type</strong><strong>Updated</strong></div>` + items.map(n=>`<div class='row' data-path='${n.path}'>${n.type==='dir'?'📁':'📄'} ${n.name}<span>${n.type}</span><span>${new Date(n.updated).toLocaleString()}</span></div>`).join('');
+      el.querySelectorAll('.row').forEach(r=> r.onclick = async ()=>{
+        selectedPath = r.dataset.path; const node = await vfsGet(selectedPath);
+        if(node.type==='dir'){ currentDir = node.path; refreshList(); }
+        else { openFile(node.path); }
+      });
+    }
+
+    async function openFile(path){
+      const node = await vfsGet(path); if(!node) return; if(node.mime?.startsWith('image/')){ const img = new Image(); img.src = node.content; const cont = document.createElement('div'); cont.appendChild(img); makeWindow({title: 'Image: '+node.name, w: 480, h: 360, x: 150, y: 120, content: cont}); return; }
+      const editor = createTextEditor({path: node.path, initial: node.content || ''});
+    }
+
+    win.querySelector('#mkDir').onclick = async ()=>{
+      const name = prompt('Folder name?'); if(!name) return; const p = norm(currentDir + (currentDir.endsWith('/')?'':'/') + name);
+      await vfsMkdir(p).catch(err=> alert(err.message)); await refreshTree(); await refreshList();
+    };
+    win.querySelector('#mkFile').onclick = async ()=>{
+      const name = prompt('File name?'); if(!name) return; const p = norm(currentDir + (currentDir.endsWith('/')?'':'/') + name);
+      await vfsPutFile(p, '', 'text/plain').catch(err=> alert(err.message)); await refreshList();
+    };
+    win.querySelector('#del').onclick = async ()=>{ if(!selectedPath) return alert('Select a file or folder by clicking it.'); if(!confirm('Delete '+selectedPath+' ?')) return; await vfsDelete(selectedPath); selectedPath=null; await refreshTree(); await refreshList(); };
+
+    await ensureOpen(); await refreshTree(); await refreshList();
+  }
+
+  // ====== Text Editor Window ======
+  function createTextEditor({path=null, initial=''}={}){
+    const wrap = document.createElement('div');
+    wrap.innerHTML = `
+      <div class="toolbar">
+        <button class="btn" id="save">Save</button>
+        <button class="btn" id="saveAs">Save As…</button>
+        <span class="status" id="st">${path?path:'(unsaved)'}</span>
+      </div>
+      <div class="pane" style="height:100%">
+        <textarea class="editor" id="ta" placeholder="Type here...">${initial.replace(/[&<>]/g, ch=>({"&":"&amp;","<":"&lt;",">":"&gt;"}[ch]))}</textarea>
+      </div>
+    `;
+    const {win} = makeWindow({ title: path?('Edit '+nameOf(path)):'Text Editor', w:720, h:460, x:140, y:100, content: wrap});
+    const st = win.querySelector('#st'); const ta = win.querySelector('#ta');
+
+    async function doSave(toPath){
+      if(!toPath){ if(!path){ toPath = prompt('Save as (e.g., /notes/today.txt):'); if(!toPath) return; } else { toPath = path; } }
+      await vfsPutFile(toPath, ta.value, 'text/plain'); path = toPath; st.textContent = path; win.querySelector('.title').textContent = 'Edit '+nameOf(path);
+    }
+    win.querySelector('#save').onclick = ()=> doSave();
+    win.querySelector('#saveAs').onclick = ()=>{ const p = prompt('Save as path:', path||'/untitled.txt'); if(p) doSave(p); };
+
+    return win;
+  }
+
+  // ====== Database Window (KV) ======
+  async function openDBWindow(){
+    const wrap = document.createElement('div');
+    wrap.innerHTML = `
+      <div class="toolbar">
+        <input id="k" class="btn" style="width: 240px" placeholder="key"/>
+        <input id="v" class="btn" style="width: 320px" placeholder="value (json ok)"/>
+        <button class="btn" id="set">Set</button>
+        <button class="btn" id="get">Get</button>
+        <button class="btn" id="del">Delete</button>
+        <span class="status" id="msg"></span>
+      </div>
+      <div class="pane" style="padding:10px">
+        <pre id="out" style="white-space: pre-wrap"></pre>
+      </div>
+    `;
+    const {win} = makeWindow({ title:'Database (KV)', w:800, h:400, x:200, y:140, content: wrap});
+    const $ = s=> win.querySelector(s);
+    async function refresh(){ const rows = await kvAll(); $('#out').textContent = JSON.stringify(rows, null, 2); }
+    $('#set').onclick = async ()=>{ try{ const key=$('#k').value; let val=$('#v').value; try{ val=JSON.parse(val); }catch{} await kvSet(key,val); $('#msg').textContent='saved'; refresh(); }catch(e){ alert(e.message);} };
+    $('#get').onclick = async ()=>{ const val = await kvGet($('#k').value); $('#out').textContent = JSON.stringify(val, null, 2); };
+    $('#del').onclick = async ()=>{ await kvDelete($('#k').value); refresh(); };
+    refresh();
+  }
+
+  // ====== Webcam Window ======
+  let mediaStream;
+  function openWebcamWindow(){
+    const wrap = document.createElement('div');
+    wrap.innerHTML = `
+      <div class="toolbar">
+        <button class="btn" id="start">Start</button>
+        <button class="btn" id="stop">Stop</button>
+        <button class="btn" id="snap">Snapshot → File</button>
+        <span class="status" id="wmsg"></span>
+      </div>
+      <div class="split" style="grid-template-columns: 1fr 1fr; height: 100%">
+        <div class="pane" style="display:grid;place-items:center;padding:10px"><video id="cam" autoplay playsinline></video></div>
+        <div class="pane" style="display:grid;place-items:center;padding:10px"><canvas id="cap" class="snapshot"></canvas></div>
+      </div>
+    `;
+    const {win} = makeWindow({ title:'Webcam', w:840, h:420, x:220, y:160, content: wrap});
+    const $ = s=> win.querySelector(s);
+    const video = $('#cam'); const canvas=$('#cap'); const ctx=canvas.getContext('2d');
+
+    async function start(){
+      try {
+        mediaStream = await navigator.mediaDevices.getUserMedia({ video:true, audio:false });
+        video.srcObject = mediaStream; $('#wmsg').textContent = 'camera on';
+      } catch(e){ alert('Camera error: '+e.message); }
+    }
+    function stop(){ if(mediaStream){ mediaStream.getTracks().forEach(t=>t.stop()); video.srcObject=null; mediaStream=null; $('#wmsg').textContent='stopped'; } }
+    async function snap(){ if(!video.videoWidth) return; canvas.width = video.videoWidth; canvas.height = video.videoHeight; ctx.drawImage(video,0,0); const data = canvas.toDataURL('image/png'); const p = '/photos/snap-'+Date.now()+'.png'; await vfsMkdir('/photos').catch(()=>{}); await vfsPutFile(p, data, 'image/png'); $('#wmsg').textContent = 'Saved to '+p; }
+
+    $('#start').onclick = start; $('#stop').onclick = stop; $('#snap').onclick = snap;
+    // Auto-start on open for convenience
+    start();
+  }
+
+  // ====== Desktop Icons Actions ======
+  document.querySelectorAll('.icon').forEach(ic=> ic.addEventListener('dblclick', ()=>{
+    const action = ic.dataset.action; if(action==='open-file-manager') openFileManager();
+    else if(action==='new-text') createTextEditor();
+    else if(action==='open-db') openDBWindow();
+    else if(action==='webcam') openWebcamWindow();
+  }));
+
+  // ====== Clock ======
+  function updateClock(){ const d=new Date(); document.getElementById('clock').textContent = d.toLocaleString(); }
+  setInterval(updateClock, 1000); updateClock();
+
+  // ====== Three.js Animated Background ======
+  (function(){
+    const canvas = document.getElementById('glbg');
+    const renderer = new THREE.WebGLRenderer({ canvas, antialias:true });
+    function onResize(){ const w=window.innerWidth, h=window.innerHeight; renderer.setSize(w,h,false); camera.aspect = w/h; camera.updateProjectionMatrix(); }
+    const scene = new THREE.Scene(); scene.fog = new THREE.Fog(0x0b1020, 20, 120);
+    const camera = new THREE.PerspectiveCamera(50, 1, 0.1, 1000); camera.position.set(0,2.2,8);
+    const amb = new THREE.AmbientLight(0x7aa2ff, .6); scene.add(amb);
+    const dir = new THREE.DirectionalLight(0xffffff, .9); dir.position.set(3,5,2); scene.add(dir);
+
+    const geo = new THREE.IcosahedronGeometry(3.6, 2);
+    const mat = new THREE.MeshStandardMaterial({ color: 0x1938a8, roughness: .35, metalness: .25, wireframe:false });
+    const mesh = new THREE.Mesh(geo, mat); scene.add(mesh);
+
+    const stars = new THREE.Points(new THREE.BufferGeometry(), new THREE.PointsMaterial({ size: 0.02 }));
+    const pts = new Float32Array(3000); for(let i=0;i<pts.length;i+=3){ pts[i]=(Math.random()-0.5)*80; pts[i+1]=(Math.random()-0.5)*80; pts[i+2]=(Math.random()-0.5)*80; }
+    stars.geometry.setAttribute('position', new THREE.BufferAttribute(pts, 3)); scene.add(stars);
+
+    function animate(){ requestAnimationFrame(animate); mesh.rotation.y += 0.0025; mesh.rotation.x += 0.001; renderer.render(scene, camera); }
+    window.addEventListener('resize', onResize); onResize(); animate();
+  })();
+
+  // ====== Boot: seed some demo files ======
+  (async function(){
+    await ensureOpen();
+    const hello = await vfsGet('/readme.txt');
+    if(!hello){
+      await vfsMkdir('/notes').catch(()=>{});
+      await vfsPutFile('/readme.txt', `Welcome to the WebGL Desktop!\n\n- Double-click icons to open apps.\n- Files are stored in IndexedDB (persistent).\n- Use the Webcam app to take snapshots saved to /photos.\n- Try the Database app for simple key-value storage.\n\nHave fun!`, 'text/plain');
+      await vfsPutFile('/notes/todo.txt', `- Build something awesome\n- Save this file\n- Come back later (it persists!)`, 'text/plain');
+    }
+  })();
+
+  // Start button quick menu
+  document.getElementById('startBtn').addEventListener('click', (e)=>{
+    const menu = document.createElement('div');
+    menu.style.position='fixed'; menu.style.bottom='52px'; menu.style.left='10px'; menu.style.background='var(--panel)'; menu.style.border='1px solid rgba(255,255,255,.08)'; menu.style.borderRadius='12px'; menu.style.boxShadow='var(--shadow)'; menu.style.padding='8px'; menu.style.zIndex=9999;
+    menu.innerHTML = `
+      <div class='btn' style='display:block;margin:4px 0'>📁 Files</div>
+      <div class='btn' style='display:block;margin:4px 0'>📝 New Note</div>
+      <div class='btn' style='display:block;margin:4px 0'>🗄️ Database</div>
+      <div class='btn' style='display:block;margin:4px 0'>📷 Webcam</div>
+    `;
+    document.body.appendChild(menu);
+    const [b1,b2,b3,b4] = menu.querySelectorAll('.btn');
+    b1.onclick=()=>{ openFileManager(); menu.remove(); };
+    b2.onclick=()=>{ createTextEditor(); menu.remove(); };
+    b3.onclick=()=>{ openDBWindow(); menu.remove(); };
+    b4.onclick=()=>{ openWebcamWindow(); menu.remove(); };
+    const close = (ev)=>{ if(!menu.contains(ev.target) && ev.target!==e.target) { menu.remove(); window.removeEventListener('mousedown', close);} };
+    window.addEventListener('mousedown', close);
+  });
+  </script>
+</body>
+</html>
+

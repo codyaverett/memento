@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>WebGL Desktop Environment</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div id="desktop">
+        <canvas id="webgl-background"></canvas>
+        
+        <div id="taskbar">
+            <div id="start-menu">
+                <button id="start-button">Start</button>
+                <div id="start-menu-content" class="hidden">
+                    <button onclick="openApp('file-manager')">File Manager</button>
+                    <button onclick="openApp('text-editor')">Text Editor</button>
+                    <button onclick="openApp('database')">Database</button>
+                    <button onclick="openApp('webcam')">Webcam</button>
+                    <button onclick="openApp('terminal')">Terminal</button>
+                </div>
+            </div>
+            <div id="open-windows"></div>
+            <div id="system-tray">
+                <span id="clock"></span>
+            </div>
+        </div>
+
+        <div id="desktop-icons">
+            <div class="desktop-icon" data-app="file-manager">
+                <div class="icon">📁</div>
+                <div class="label">File Manager</div>
+            </div>
+            <div class="desktop-icon" data-app="text-editor">
+                <div class="icon">📝</div>
+                <div class="label">Text Editor</div>
+            </div>
+            <div class="desktop-icon" data-app="database">
+                <div class="icon">🗄️</div>
+                <div class="label">Database</div>
+            </div>
+            <div class="desktop-icon" data-app="webcam">
+                <div class="icon">📷</div>
+                <div class="label">Webcam</div>
+            </div>
+            <div class="desktop-icon" data-app="terminal">
+                <div class="icon">💻</div>
+                <div class="label">Terminal</div>
+            </div>
+        </div>
+
+        <div id="context-menu" class="hidden">
+            <div class="context-item" onclick="createNewFolder()">New Folder</div>
+            <div class="context-item" onclick="createNewFile()">New File</div>
+            <div class="context-separator"></div>
+            <div class="context-item" onclick="refreshDesktop()">Refresh</div>
+        </div>
+
+        <div id="selection-box" class="hidden"></div>
+    </div>
+
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/three.js/r128/three.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jszip/3.10.1/jszip.min.js"></script>
+    <script src="js/filesystem.js"></script>
+    <script src="js/database.js"></script>
+    <script src="js/window-manager.js"></script>
+    <script src="js/webgl-background.js"></script>
+    <script src="js/desktop.js"></script>
+    <script src="js/apps/file-manager.js"></script>
+    <script src="js/apps/text-editor.js"></script>
+    <script src="js/apps/database-app.js"></script>
+    <script src="js/apps/webcam.js"></script>
+    <script src="js/apps/terminal.js"></script>
+    <script src="js/main.js"></script>
+</body>
+</html>
