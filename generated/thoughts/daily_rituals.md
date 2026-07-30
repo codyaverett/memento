@@ -1,3 +1,13 @@
+---
+title: daily rituals
+created: 2026-07-29
+updated: 2026-07-29
+tags: [generated]
+type: generated
+status: scratch
+review_by: 2026-10-29
+---
+
 # daily rituals
 
 >>> create a daily household ritual list.  Tasks required to maintain a highly efficient home life and

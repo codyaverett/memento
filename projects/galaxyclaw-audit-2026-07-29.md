@@ -1,3 +1,12 @@
+---
+title: Galaxy Claw / rustyclaw — Full Project Audit
+created: 2026-07-29
+updated: 2026-07-29
+tags: [project]
+type: project
+status: active
+---
+
 # Galaxy Claw / rustyclaw — Full Project Audit
 
 **Date:** 2026-07-29  

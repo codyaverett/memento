@@ -24,8 +24,9 @@ tags: [docs, maintenance, s++]
 
 ## Monthly
 
-- [ ] Orphan pass: notes with no inbound links (Wave 2 scripts)
-- [ ] Frontmatter spot-check on recent notes
+- [ ] Orphan pass: `./scripts/list-orphans.sh`
+- [ ] Frontmatter: `./scripts/check-frontmatter.sh --stats` (target ≥90%)
+- [ ] Backfill if needed: `python3 scripts/backfill-frontmatter.py`
 - [ ] Compress or remove oversized attachments if added
 
 ## Quarterly

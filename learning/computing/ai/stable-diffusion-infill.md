@@ -1,3 +1,12 @@
+---
+title: stable-diffusion-infill
+created: 2026-07-29
+updated: 2026-07-29
+tags: []
+type: evergreen
+status: seedling
+---
+
 # stable diffusion infilling getting started
 
 Getting Started Guide:

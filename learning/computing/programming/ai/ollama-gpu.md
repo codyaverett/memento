@@ -1,3 +1,12 @@
+---
+title: ollama-gpu
+created: 2026-07-29
+updated: 2026-07-29
+tags: []
+type: evergreen
+status: seedling
+---
+
 # Ollama gpu support
 
 Expose gpus to container

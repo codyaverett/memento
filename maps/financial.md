@@ -16,6 +16,7 @@ Map for career, money concepts, and trading learning. Parent: [[home]].
 ## Career
 
 - `learning/financial/career/` — interviews, onboarding, management, compensation ideas
+- [[testing-quality-interview-prep]] — testing & quality discussion prep (promoted from generated)
 - Job search terms, social / networking notes
 
 ## Business

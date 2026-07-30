@@ -1,3 +1,13 @@
+---
+title: Task reassurance
+created: 2026-07-29
+updated: 2026-07-29
+tags: [generated]
+type: generated
+status: scratch
+review_by: 2026-10-29
+---
+
 If you're unsure about how to proceed with a task, consider the following steps:
 
 1. Break down the task into smaller, more manageable parts. This will help you better understand what needs to be done and make it easier to find information on each part.

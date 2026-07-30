@@ -62,3 +62,12 @@ Agents may read either schema. When editing an old note, prefer upgrading to the
 ## Templates
 
 See `templates/evergreen.md`, `moc.md`, `project.md`, `generated.md`, `learning-log.md`.
+
+## Scripts
+
+```bash
+./scripts/check-frontmatter.sh --stats   # compliance %
+./scripts/check-frontmatter.sh           # exit 1 if any missing (optional CI)
+python3 scripts/backfill-frontmatter.py  # add minimal FM to notes that lack it
+./scripts/list-orphans.sh                # notes with no inbound wikilink/path
+```

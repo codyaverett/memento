@@ -1,3 +1,12 @@
+---
+title: Rusty
+created: 2026-07-29
+updated: 2026-07-29
+tags: []
+type: evergreen
+status: seedling
+---
+
 # Rusty
 
 Get information about the sandbox system

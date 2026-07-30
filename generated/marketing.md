@@ -1,3 +1,13 @@
+---
+title: Marketing
+created: 2026-07-29
+updated: 2026-07-29
+tags: [generated]
+type: generated
+status: scratch
+review_by: 2026-10-29
+---
+
 # Marketing 
 
 - A marketing plan for reaching out to new software developers that want to learn typescript, rust

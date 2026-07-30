@@ -1,3 +1,12 @@
+---
+title: Go Links
+created: 2026-07-29
+updated: 2026-07-29
+tags: [project]
+type: project
+status: active
+---
+
 # Go Links
 
 Project: Internal Go Links Service

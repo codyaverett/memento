@@ -1,3 +1,13 @@
+---
+title: Helping a loved one
+created: 2026-07-29
+updated: 2026-07-29
+tags: [generated]
+type: generated
+status: scratch
+review_by: 2026-10-29
+---
+
 To help a loved one feel wanted, consider these steps:
 
 1. Listen actively: Give your full attention when they speak and show empathy by acknowledging their feelings and experiences.

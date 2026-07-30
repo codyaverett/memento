@@ -1,3 +1,12 @@
+---
+title: Code Coach: What can I do for you?
+created: 2026-07-29
+updated: 2026-07-29
+tags: []
+type: evergreen
+status: seedling
+---
+
 # Code Coach: What can I do for you?
 
 Congratulations on Your New Software Programming Coaching and Consulting Business!

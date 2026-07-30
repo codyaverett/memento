@@ -1,3 +1,12 @@
+---
+title: AMD_support
+created: 2026-07-29
+updated: 2026-07-29
+tags: []
+type: evergreen
+status: seedling
+---
+
 # AMD Rocm support on ubuntu linux
 
 Install latest drivers from here https://rocm.docs.amd.com/projects/install-on-linux/en/latest/tutorial/quick-start.html

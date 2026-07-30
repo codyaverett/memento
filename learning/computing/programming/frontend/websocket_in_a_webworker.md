@@ -1,3 +1,12 @@
+---
+title: Websocket in a webworker
+created: 2026-07-29
+updated: 2026-07-29
+tags: []
+type: evergreen
+status: seedling
+---
+
 # Websocket in a webworker
 
 My website makes a connection to a stream of realtime data using web sockets. The stream of data is just a series of JSON messages. In the websocket handlers, when I receive a message, I parse the JSON and add some data points to a graph.

@@ -1,3 +1,12 @@
+---
+title: pitch
+created: 2026-07-29
+updated: 2026-07-29
+tags: []
+type: evergreen
+status: seedling
+---
+
 ## pitch
 
 >>> Brief sales pitch for technical computer programming coaching that will target folks with attention

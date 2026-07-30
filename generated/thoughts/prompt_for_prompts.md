@@ -1,3 +1,13 @@
+---
+title: Prompt for prompts
+created: 2026-07-29
+updated: 2026-07-29
+tags: [generated]
+type: generated
+status: scratch
+review_by: 2026-10-29
+---
+
 # Prompt for prompts
 
 Something like this is useful for quickly creating specialized LLM prompts to test out.

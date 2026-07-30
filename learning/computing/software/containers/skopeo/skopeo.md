@@ -1,3 +1,12 @@
+---
+title: Skopeo
+created: 2026-07-29
+updated: 2026-07-29
+tags: []
+type: evergreen
+status: seedling
+---
+
 # Skopeo
 
 ## Usage

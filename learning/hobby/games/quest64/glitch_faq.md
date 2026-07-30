@@ -1,3 +1,12 @@
+---
+title: Quest 64 Glitch FAQ:
+created: 2026-07-29
+updated: 2026-07-29
+tags: []
+type: evergreen
+status: seedling
+---
+
 # Quest 64 Glitch FAQ:
 
 ## Initiative Glitch

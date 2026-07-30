@@ -1,3 +1,12 @@
+---
+title: testing-quality-interview-prep
+created: 2026-07-29
+updated: 2026-07-29
+tags: [career, interview, testing]
+type: evergreen
+status: budding
+---
+
 # Testing & Quality Interview / Discussion Prep
 ​
 This standalone reference preserves each original question plus a simplified version and key term definitions.

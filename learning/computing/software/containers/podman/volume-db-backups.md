@@ -1,3 +1,12 @@
+---
+title: Volume and DB backups
+created: 2026-07-29
+updated: 2026-07-29
+tags: []
+type: evergreen
+status: seedling
+---
+
 # Volume and DB backups
 
 If your main objective is backing up containers, I would suggest to use podman tools to export the volumes and databases. You can then copy the .tar and .sql archives anywhere, using any tool.

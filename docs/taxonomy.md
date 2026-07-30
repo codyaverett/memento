@@ -48,7 +48,7 @@ Where notes live. Agents: place new notes using this map; do not invent new top-
 | Cloud quizzes / provider notes | `learning/computing/cloud/` |
 | Crypto networks / tools | `learning/computing/cryptocurrency/` |
 | ML / local LLMs | `learning/computing/programming/machine learning/` or `ai/` |
-| Data ETL / warehouses | **Canonical long-term:** `learning/computing/software/data ETL/` (legacy also under `programming/data_etl/` — merge in Wave 2) |
+| Data ETL / warehouses | **Canonical:** `learning/computing/software/data ETL/` (index `_index.md`). Legacy stub: `programming/data_etl/README.md` |
 
 ### Auth notes
 
