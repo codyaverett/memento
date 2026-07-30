@@ -1,13 +1,30 @@
+# OS
 .DS_Store
-.obsidian/plugins/obsidian-commits/data.json
-.obsidian/workspace.json
+**/.DS_Store
 
+# Secrets / local credentials (never commit)
+.secret/
+**/.env
+**/.env.*
+!**/.env.example
+**/vault_password.txt
+**/*.pem
+**/*_rsa
+**/*.key
+!**/package-lock.json
+
+# Obsidian local state
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/plugins/obsidian-commits/data.json
+.obsidian/cache
+
+# Nested example repos (see .meta and docs/meta-repos.md)
 /sandbox/jenkins-examples/
 /sandbox/python_examples/
 /sandbox/sql_examples/
 /sandbox/rust_examples/
 /sandbox/ai/gpt4all/
 /sandbox/make_examples/
-/personal/resume/
-/git@github.com:codyaverett/deno_examples.git/
 /sandbox/deno_examples/
+/personal/resume/
