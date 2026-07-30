@@ -1,35 +1,55 @@
 ---
-name: Memento
-created: 2022-06-09T20:31:52-05:00
-updated: 2022-11-16T18:33:28-06:00
+title: Memento
+created: 2022-06-09
+updated: 2026-07-29
 aliases: 
 dg-home: true
 dg-publish: false
-tags: readme
+tags: [readme]
+type: moc
+status: evergreen
 ---
 
 # Memento
 
-This repository is for capturing notes and ideas as I learn in public.
+Public digital garden — notes, maps, and experiments while learning in public. Optimized for humans **and** agents.
 
-## About Me
+**Start here:** [maps/home.md](maps/home.md)
 
-Welcome to my digital mind. 
+## About
 
-- My name is Cody Averett.
-- I've worked on software projects professionally over the past 15 years.
-- I'm very interested in crypto currency and decentralized technologies.
-- I enjoy learning, but mostly love topics related to:
-	- sciences 
-	- maths
-	- computer programming
-	- self-improvement
-	- and economics
+- **Cody Averett** — software engineer (~15 years)
+- Interests: computing, maths, music, self-improvement, economics, decentralized tech
+- This vault is **public**. See [docs/privacy-public.md](docs/privacy-public.md) for what does not belong here
 
-## Contact Me
+## Navigate
 
-I am open to business inquiries and consultation.
+| Path | What |
+|---|---|
+| [maps/](maps/) | Maps of content (spine) |
+| [learning/](learning/) | Evergreen topic notes |
+| [projects/](projects/) | Specs and audits |
+| [awesome/](awesome/) | Curated external lists |
+| [docs/](docs/) | Garden constitution and ops |
+| [templates/](templates/) | New-note skeletons |
+| [sandbox/](sandbox/) | Nested example repos + small demos |
+| [generated/](generated/) | Scratch (promote or expire) |
+| [personal/](personal/) | Public-safe personal surface only |
+
+## For agents
+
+Read [CLAUDE.md](CLAUDE.md) / [AGENTS.md](AGENTS.md), then `docs/garden-constitution.md` and `docs/taxonomy.md`.
+
+## Nested example repos
+
+Example code lives in separate git repos linked from [`.meta`](.meta). See [docs/meta-repos.md](docs/meta-repos.md) and `./scripts/clone-sandboxes.sh`.
+
+## Contact
 
 - codyaverett@gmail.com
 - [LinkedIn](https://www.linkedin.com/in/code-e-averett/)
-- [Github](https://github.com/codyaverett)
+- [GitHub](https://github.com/codyaverett)
+
+## License
+
+See [LICENSE](LICENSE).

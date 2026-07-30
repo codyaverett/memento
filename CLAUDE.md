@@ -1,70 +1,89 @@
 # CLAUDE.md
 
-This file provides guidance to Claude Code (claude.ai/code) when working with code in this repository.
+Guidance for AI assistants working in this repository.
 
-## Repository Structure
+## What this is
 
-This is a personal knowledge management repository built around Obsidian, containing:
-- **learning/**: Educational notes organized by topic (computing, mathematics, music, etc.)
-- **sandbox/**: Programming examples and experiments in various languages
-- **personal/**: Personal documents and daily notes
-- **generated/**: AI-generated content and ideas
-- **awesome/**: Curated lists and resources
+**Memento** is a public Obsidian-style digital garden (agent-native second brain). Markdown knowledge vault + nested sandbox repos. Not a single application monorepo.
 
-## Key Technologies
+**Start:** `maps/home.md` → domain MOCs → notes.  
+**Rules:** `docs/garden-constitution.md`, `docs/privacy-public.md`, `docs/taxonomy.md`.
 
-The repository contains example code in multiple languages:
-- **Rust**: Located in `sandbox/rust_examples/` with Cargo.toml projects
-- **Deno/TypeScript**: Located in `sandbox/deno_examples/`
-- **Python**: Located in `sandbox/python_examples/`
-- **C/Make**: Located in `sandbox/make_examples/`
+## Repository map
 
-## Common Commands
+| Path | Role |
+|---|---|
+| `maps/` | Navigation spine (MOCs) |
+| `learning/` | Evergreen notes by domain |
+| `projects/` | Specs, audits, work products |
+| `awesome/` | Curated lists |
+| `generated/` | AI scratch → promote or expire (~90 days) |
+| `personal/` | Public-safe only (blog, empty portfolio template) |
+| `docs/` | Operating manuals |
+| `templates/` | Note skeletons |
+| `sandbox/` | Nested git examples (mostly gitignored) + small HTML demos |
+| `.meta` | `local/path` → git remote for nested projects |
 
-### Deno Projects
+## Hard rules (public vault)
+
+1. **Never commit secrets** — no `.env`, keys, vault passwords, ops credential transcripts. `.secret/` is forbidden.
+2. **No life-admin or private financial positions** — see `docs/privacy-public.md`.
+3. **No new top-level folders** without updating `docs/taxonomy.md` and `maps/home.md`.
+4. **New paths: kebab-case.** Rename old spaced paths only when editing them (lazy migration).
+5. **Do not vendor** large nested sandbox trees into memento history.
+
+## Note placement
+
+- Concepts / how-tos → `learning/<domain>/...` per `docs/taxonomy.md`
+- Specs / audits → `projects/`
+- Curated links → `awesome/`
+- Scratch AI output → `generated/` with `type: generated`, `status: scratch`, `review_by`
+- Learning session logs → public-safe only; use `templates/learning-log.md`
+- JWT canonical note → `learning/computing/security/auth/JSON Web Token.md`
+- Data ETL canonical (long-term) → `learning/computing/software/data ETL/`
+
+## Frontmatter
+
+New notes use the schema in `docs/frontmatter.md` and `templates/`. Minimum: `title`, `created`, `updated`, `type`, `status`, `tags`.
+
+## Linking
+
+- Attach evergreen notes to a domain MOC under `maps/`
+- Prefer wikilinks; fix breaks when renaming
+- See `docs/linking.md`
+
+## Sandbox / nested repos
+
+- Paths and remotes: `.meta`
+- Clone helper: `./scripts/clone-sandboxes.sh`
+- Docs: `docs/meta-repos.md`
+- Languages present when cloned: Rust, Deno/TS, Python, C/Make, etc.
+
+### When a nested project is present
+
 ```bash
-# Run a Deno project
+# Deno
 deno run main.ts
-
-# Run with file watching
 deno task dev
-
-# Run tests
 deno test
+
+# Rust
+cargo build && cargo run && cargo test
+
+# Make
+make && make clean
 ```
 
-### Rust Projects
-```bash
-# Build a Rust project
-cargo build
+## Git workflow
 
-# Run a Rust project
-cargo run
+- Commitizen-style messages; shell-safe (no backticks, `!`, `<>`, em-dashes in messages)
+- After work: recommend commits; include issue closes as separate `Closes #N` lines when closing multiple
+- History rewrite / force-push only with explicit user approval (e.g. secret purge)
 
-# Run tests
-cargo test
-```
+## S++ program
 
-### Make Projects
-```bash
-# Build C projects
-make
+GitHub issues labeled `s++` track foundation waves. Prefer completing Wave 1 foundation before Wave 2 mass renames.
 
-# Clean build artifacts
-make clean
-```
+## Obsidian
 
-## Working with Obsidian Notes
-
-- The repository uses Obsidian for note-taking with metadata frontmatter
-- Notes often include YAML frontmatter with fields like `name`, `created`, `updated`, `tags`
-- The `.obsidian/` directory contains Obsidian configuration and plugins
-
-## Git Workflow
-
-After completing work:
-1. Recommend commits in commitizen format
-2. Update package version numbers appropriately (when applicable)
-3. Create and push git tags
-
-Include package version numbers in commit messages when relevant.
+Optional local `.obsidian/` config is not required in git. Workspace/plugin state is gitignored.
