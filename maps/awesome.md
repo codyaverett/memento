@@ -13,13 +13,14 @@ Curated external lists in `awesome/`. Parent: [[home]].
 
 ## Lists
 
-- [[ai-tools]]
-- [[database]]
-- [[prompts]]
-- [[useful-websites]]
+- [[ai-tools]] — chat, image, local models
+- [[database]] — external awesome lists + vault cross-links
+- [[prompts]] — reusable LLM prompt patterns
+- [[useful-websites]] — small bookmark set
 
 ## Convention
 
 - `type: curated`
-- Prefer last-reviewed date in the note body (Wave 3 polish)
+- Set `last_reviewed: YYYY-MM-DD` in frontmatter (and body banner)
 - Keep links alive; remove dead ones when noticed
+- Prefer deep tools in `learning/` over bloating these lists

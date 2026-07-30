@@ -34,6 +34,8 @@ Memento is a **public, agent-native digital garden**: a linkable knowledge syste
 
 ## Quality bar (S++)
 
+Full definition: [[evergreen-quality]].
+
 A note is garden-grade when it has:
 
 - Clear title and frontmatter (`type`, `status`, `updated`)
@@ -42,7 +44,8 @@ A note is garden-grade when it has:
 - Sources when stating non-obvious facts
 - Related links when siblings exist
 
-Templates live in `templates/`. Schema: [[frontmatter]]. Linking: [[linking]].
+Templates live in `templates/`. Schema: [[frontmatter]]. Linking: [[linking]].  
+Program metrics: [[s-plus-scoreboard]]. Agent checks: [[agent-evals]].
 
 ## Promote / expire
 

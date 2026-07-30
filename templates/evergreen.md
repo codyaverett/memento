@@ -11,14 +11,20 @@ related: []
 
 # Title
 
-One-sentence summary.
+One-sentence summary (what it is and why it matters).
 
 ## When to use
+
+## When not to use
 
 ## Notes
 
 ## Examples
 
+## Pitfalls
+
 ## Sources
 
 ## Related
+
+<!-- Quality bar: docs/evergreen-quality.md — promote status to evergreen when met; link from a maps/ MOC. -->

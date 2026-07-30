@@ -1,30 +1,54 @@
 ---
-name: ETL Basics
-created: 2022-10-18T17:56:28-05:00
-updated: 2022-11-28T17:53:57-06:00
-aliases: 
-tags: elt, list, concept, architecture
+title: ETL basics
+created: 2022-10-18
+updated: 2026-07-29
+aliases: [ETL Basics, ETL]
+tags: [etl, architecture, concept]
+type: evergreen
+status: evergreen
 ---
-# ETL Basics
 
-## Load the Data
-Get data from various sources
+# ETL basics
 
-## Types of Transformations
-* Aggregation
-* Normalization
+**Extract, Transform, Load** — move data from sources into a warehouse or analytics store with cleaning and shaping in between.
 
-## Tools for ETL Processes
-- Apache Nifi (seen this before, we almost used at walmart)
-- Informatica
-- Talend
-- Microsoft SSIS
-- Apache Airflow (job runner/orchestrator, but people use it in ETL processes)
+## When to use
 
-## Data Warehouse Software
-A simple database can typically be used, but there are enterprise focused Data warehouse softwares that can be used instead.
+- Batch or scheduled pipelines into a warehouse or lakehouse
+- Consolidating operational systems for reporting and ML features
 
-- Teradata (used this at walmart before we transitioned to hadoop and datalake)
-- Amazon Redshift
-- Snowflake
-- Greenplum
+## When not to use
+
+- Ultra low-latency request/response paths (consider streaming or CQRS instead)
+- One-off spreadsheet work that does not need orchestration
+
+## Load the data (Extract)
+
+Get data from various sources (DBs, APIs, files, event logs).
+
+## Types of transformations
+
+- Aggregation
+- Normalization
+- Cleansing, type coercion, SCD handling (deeper notes under this folder)
+
+## Tools (examples)
+
+- Apache NiFi
+- Informatica, Talend, Microsoft SSIS
+- Apache Airflow (orchestrator often used around ETL)
+- Modern ELT: load first, transform in warehouse (dbt + Snowflake/BigQuery/etc.)
+
+## Data warehouse software
+
+A general RDBMS can work; warehouses optimize analytics:
+
+- Snowflake, Amazon Redshift, Greenplum, Teradata (historical enterprise)
+- Lakehouse engines (see [[databricks]], [[trino]], [[databend]] notes)
+
+## Related
+
+- Index: [[Data ETL]]
+- [[OLTP vs OLAP]], [[data warehouse]], [[data modeling]]
+- Parent map: [[computing]]
+- Quality bar: [[evergreen-quality]]

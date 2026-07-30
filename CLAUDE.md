@@ -82,7 +82,8 @@ make && make clean
 
 ## S++ program
 
-GitHub issues labeled `s++` track foundation waves. Prefer completing Wave 1 foundation before Wave 2 mass renames.
+See `docs/s-plus-scoreboard.md`. Quality bar: `docs/evergreen-quality.md`.  
+Verify: `./scripts/check-frontmatter.sh --stats` and `./scripts/run-agent-evals.sh`.
 
 ## Obsidian
 

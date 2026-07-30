@@ -21,6 +21,11 @@ Entry map for the Memento digital garden. Humans and agents start here.
 - [[awesome]] — curated external lists
 - [[sandbox]] — nested example repos and demos
 
+## Writing & personal (public-safe)
+
+- Blog drafts: `personal/blog/` (see `personal/blog/README.md`)
+- Learning logs only for dailies: `personal/daily/README.md`
+
 ## Operating manuals
 
 - [[garden-constitution]] — principles and note types
@@ -28,6 +33,10 @@ Entry map for the Memento digital garden. Humans and agents start here.
 - [[taxonomy]] — where notes go
 - [[frontmatter]] — YAML schema
 - [[linking]] — MOC and link rules
+- [[evergreen-quality]] — definition of done for reference notes
+- [[agent-evals]] — ten questions agents must answer
+- [[s-plus-scoreboard]] — program metrics
+- [[optional-publish]] — deferred static site guidance
 - [[meta-repos]] — sandbox nested git repos
 - [[maintenance]] — hygiene cadence
 

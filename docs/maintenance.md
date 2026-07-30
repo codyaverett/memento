@@ -26,15 +26,18 @@ tags: [docs, maintenance, s++]
 
 - [ ] Orphan pass: `./scripts/list-orphans.sh`
 - [ ] Frontmatter: `./scripts/check-frontmatter.sh --stats` (target ≥90%)
+- [ ] Agent anchors: `./scripts/run-agent-evals.sh`
 - [ ] Backfill if needed: `python3 scripts/backfill-frontmatter.py`
 - [ ] Compress or remove oversized attachments if added
+- [ ] Skim `generated/` for promote vs expire
 
 ## Quarterly
 
 - [ ] Review [[taxonomy]] for drift
-- [ ] Refresh README / CLAUDE “updated” accuracy
-- [ ] Awesome lists: `last-reviewed` dates
-- [ ] S++ issue board: close done, open next wave tasks
+- [ ] Refresh README / CLAUDE accuracy
+- [ ] Awesome lists: bump `last_reviewed`
+- [ ] Update [[s-plus-scoreboard]]
+- [ ] Revisit [[optional-publish]] only if content density warrants a site
 
 ## Security checklist
 
