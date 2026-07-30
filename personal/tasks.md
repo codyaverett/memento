@@ -1,18 +1,20 @@
 ---
-
-name: Task Board
-created: 2022-11-16T16:10:37-06:00
-updated: 2022-11-16T16:52:03-06:00
-aliases: null
-kanban-plugin: basic
-tags: null
-
+title: Task Board
+created: 2022-11-16
+updated: 2026-07-29
+tags: [tasks, public]
+type: project
+status: active
 ---
+
+# Task Board
+
+Public learning and project backlog only.  
+Life-admin and household tasks do **not** belong in this public vault — see `docs/privacy-public.md`.
 
 ## Ideas
 
-- [ ] Music Learning course - Learn guitar by perfect 4ths, patterns, triads, and sounds
-
+- [ ] Music learning course — guitar by perfect 4ths, patterns, triads, and sounds
 
 ## Backlog
 
@@ -29,57 +31,24 @@ tags: null
 - [ ] Scala with apache spark
 - [ ] Kafka with apache avro
 - [ ] CICD tooling research
-
-
-## Todo
-
-- [ ] Move Couch out of Office
-- [ ] Move fridge from this house to that house
-- [ ] Solution for killing plants growing in my easement
-- [ ] Crunch house numbers in your own spreadsheet
-- [ ] Remove garbage grill from back yard
-- [ ] Setup database for personal stuff
-
+- [ ] S++ digital garden Waves 2–3 (see GitHub issues labeled `s++`)
 
 ## WIP
 
 - [ ] [[Learning and documenting rust]]
 - [ ] Getting better at CSS by taking Josh C's course
 - [ ] [[Setup server infra]]
-
+- [ ] S++ Wave 1 foundation (docs, maps, public scrub)
 
 ## Done
 
-**Complete**
 - [x] Getting better at testing code
-- [x] [[Garden Upgrades]]
-- [x] Find home for drumkit
-- [x] Pick up candy for G's birthday
-
-
-## Won't do
-
-**Complete**
-- [x] [[Demo webapp project Val and Riz]]
-- [x] [[Plan out writing a music book and toolset]]
-
-
-***
+- [x] [[Create a meta-repo cli tool replacement with rust]]
+- [x] Read the Sed / Awk / expect / Grep / Make manuals
+- [x] Learn about Snowflake DWH and document the basics
+- [x] S++ program issues filed; Wave 0 tree secret removed
 
 ## Archive
 
-- [x] [[Create a meta-repo cli tool replacement with rust]]
-- [x] Read the Sed manual
-- [x] Read the Awk manual
-- [x] Read the expect manual
-- [x] Read the Grep manual
-- [x] Read the Make manual
-- [x] Learn about Snowflake DWH and document the basics
-- [x] Financial Planning
-- [x] File Benton County Taxes
-
-%% kanban:settings
-```
-{"kanban-plugin":"basic"}
-```
-%%
+- [x] [[Demo webapp project Val and Riz]]
+- [x] [[Plan out writing a music book and toolset]]
